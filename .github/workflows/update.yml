@@ -42,7 +42,17 @@ jobs:
           git add docs/catalog
           if git diff --cached --quiet; then
             echo "Žádné změny v katalogu."
-          else
-            git commit -m "Automatická aktualizace katalogu ($(date -u +%Y-%m-%d))"
-            git push
+            exit 0
           fi
+          git commit -m "Automatická aktualizace katalogu ($(date -u +%Y-%m-%d))"
+          # Odolnost proti souběhu: kdyby mezitím na main přibyl commit (jiný běh),
+          # naber ho přes rebase a push zkus znovu.
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push odmítnut, zkouším rebase (pokus $attempt)…"
+            git pull --rebase origin main
+          done
+          echo "Push se nezdařil ani po opakování." >&2
+          exit 1
