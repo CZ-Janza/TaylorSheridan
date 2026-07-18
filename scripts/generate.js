@@ -29,21 +29,42 @@ if (!API_KEY) {
 const TMDB = "https://api.themoviedb.org/3";
 const IMG = "https://image.tmdb.org/t/p";
 
+// TMDB nabízí dva typy klíčů a snadno se zamění:
+//  – API Key (v3 auth): krátký, posílá se jako ?api_key=...
+//  – API Read Access Token (v4): dlouhý JWT ("eyJ..."), posílá se v hlavičce
+//    Authorization: Bearer ...
+// Rozpoznáme, který klíč jsme dostali, a použijeme správnou metodu — takže
+// funguje bez ohledu na to, který z nich uživatel do secretu vložil.
+const USE_BEARER = API_KEY.startsWith("eyJ") || API_KEY.length > 40;
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function tmdb(endpoint, params = {}) {
   const url = new URL(TMDB + endpoint);
-  url.searchParams.set("api_key", API_KEY);
   for (const [k, v] of Object.entries(params)) url.searchParams.set(k, v);
 
+  const options = {};
+  if (USE_BEARER) {
+    options.headers = { Authorization: `Bearer ${API_KEY}` };
+  } else {
+    url.searchParams.set("api_key", API_KEY);
+  }
+
   for (let attempt = 1; attempt <= 3; attempt++) {
-    const res = await fetch(url);
+    const res = await fetch(url, options);
     if (res.status === 429) {
       // rate limit – počkej a zkus znovu
       await sleep(1500 * attempt);
       continue;
     }
-    if (!res.ok) throw new Error(`TMDB ${endpoint} → HTTP ${res.status}`);
+    if (!res.ok) {
+      const hint =
+        res.status === 401
+          ? " (401 = neplatný TMDB_API_KEY; zkontrolujte, že secret obsahuje" +
+            " API Key v3 nebo Read Access Token v4)"
+          : "";
+      throw new Error(`TMDB ${endpoint} → HTTP ${res.status}${hint}`);
+    }
     return res.json();
   }
   throw new Error(`TMDB ${endpoint} → opakovaný rate limit`);
