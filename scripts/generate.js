@@ -1,15 +1,15 @@
 #!/usr/bin/env node
 /**
- * Generátor katalogu pro Stremio doplněk "Taylor Sheridan".
+ * Catalog generator for the "Taylor Sheridan" Stremio add-on.
  *
- * 1. Najde osobu na TMDB (podle jména, nebo config.person.tmdbId).
- * 2. Stáhne kompletní filmografii (combined_credits).
- * 3. Vyfiltruje tituly podle rolí v config.includeJobs.
- * 4. Pro každý titul zjistí IMDb ID (Stremio pracuje s "tt..." identifikátory).
- * 5. Zapíše docs/catalog/movie/*.json a docs/catalog/series/*.json.
+ * 1. Find the person on TMDB (by name, or config.person.tmdbId).
+ * 2. Download the complete filmography (combined_credits).
+ * 3. Filter titles by the roles in config.includeJobs.
+ * 4. Resolve the IMDb ID for each title (Stremio uses "tt..." identifiers).
+ * 5. Write docs/catalog/movie/*.json and docs/catalog/series/*.json.
  *
- * Spuštění:  TMDB_API_KEY=xxx node scripts/generate.js
- * Vyžaduje Node.js 18+ (nativní fetch), žádné závislosti.
+ * Run:  TMDB_API_KEY=xxx node scripts/generate.js
+ * Requires Node.js 18+ (native fetch), no dependencies.
  */
 
 const fs = require("fs");
@@ -20,21 +20,21 @@ const CONFIG = JSON.parse(fs.readFileSync(path.join(ROOT, "config.json"), "utf8"
 
 const API_KEY = process.env.TMDB_API_KEY;
 if (!API_KEY) {
-  console.error("Chybí proměnná prostředí TMDB_API_KEY.");
-  console.error("Lokálně:  TMDB_API_KEY=xxx node scripts/generate.js");
-  console.error("Na GitHubu: Settings → Secrets and variables → Actions → New repository secret");
+  console.error("Missing TMDB_API_KEY environment variable.");
+  console.error("Locally:  TMDB_API_KEY=xxx node scripts/generate.js");
+  console.error("On GitHub: Settings → Secrets and variables → Actions → New repository secret");
   process.exit(1);
 }
 
 const TMDB = "https://api.themoviedb.org/3";
 const IMG = "https://image.tmdb.org/t/p";
 
-// TMDB nabízí dva typy klíčů a snadno se zamění:
-//  – API Key (v3 auth): krátký, posílá se jako ?api_key=...
-//  – API Read Access Token (v4): dlouhý JWT ("eyJ..."), posílá se v hlavičce
-//    Authorization: Bearer ...
-// Rozpoznáme, který klíč jsme dostali, a použijeme správnou metodu — takže
-// funguje bez ohledu na to, který z nich uživatel do secretu vložil.
+// TMDB offers two key types that are easy to mix up:
+//  – API Key (v3 auth): short, sent as ?api_key=...
+//  – API Read Access Token (v4): long JWT ("eyJ..."), sent in the
+//    Authorization: Bearer ... header
+// Detect which one we got and use the right method — so it works regardless
+// of which key the user put into the secret.
 const USE_BEARER = API_KEY.startsWith("eyJ") || API_KEY.length > 40;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -53,21 +53,21 @@ async function tmdb(endpoint, params = {}) {
   for (let attempt = 1; attempt <= 3; attempt++) {
     const res = await fetch(url, options);
     if (res.status === 429) {
-      // rate limit – počkej a zkus znovu
+      // rate limit – wait and retry
       await sleep(1500 * attempt);
       continue;
     }
     if (!res.ok) {
       const hint =
         res.status === 401
-          ? " (401 = neplatný TMDB_API_KEY; zkontrolujte, že secret obsahuje" +
-            " API Key v3 nebo Read Access Token v4)"
+          ? " (401 = invalid TMDB_API_KEY; make sure the secret contains" +
+            " a v3 API Key or a v4 Read Access Token)"
           : "";
       throw new Error(`TMDB ${endpoint} → HTTP ${res.status}${hint}`);
     }
     return res.json();
   }
-  throw new Error(`TMDB ${endpoint} → opakovaný rate limit`);
+  throw new Error(`TMDB ${endpoint} → repeated rate limit`);
 }
 
 async function findPerson() {
@@ -81,9 +81,9 @@ async function findPerson() {
     (p) => p.name.trim().toLowerCase() === wanted
   );
   if (candidates.length === 0) {
-    throw new Error(`Osoba "${CONFIG.person.name}" na TMDB nenalezena.`);
+    throw new Error(`Person "${CONFIG.person.name}" not found on TMDB.`);
   }
-  // Při shodě jmen vyber nejpopulárnější (typicky ten správný Sheridan)
+  // On name collisions pick the most popular (typically the right Sheridan)
   candidates.sort((a, b) => (b.popularity || 0) - (a.popularity || 0));
   return { id: candidates[0].id, name: candidates[0].name };
 }
@@ -96,13 +96,13 @@ function jobMatches(job) {
 
 async function main() {
   const person = await findPerson();
-  console.log(`Osoba: ${person.name} (TMDB id ${person.id})`);
+  console.log(`Person: ${person.name} (TMDB id ${person.id})`);
 
   const credits = await tmdb(`/person/${person.id}/combined_credits`, {
     language: CONFIG.language || "en-US",
   });
 
-  // klíč = media_type + tmdb id → { entry, jobs:Set }
+  // key = media_type + tmdb id → { entry, jobs:Set }
   const picked = new Map();
 
   const addEntry = (c, role) => {
@@ -114,10 +114,10 @@ async function main() {
 
   for (const c of credits.crew || []) {
     if (c.media_type !== "movie" && c.media_type !== "tv") continue;
-    // includeAllCrewJobs = zahrnout ÚPLNĚ každou roli ve štábu (produkce, cokoliv)
+    // includeAllCrewJobs = include absolutely every crew role (producing, anything)
     if (CONFIG.includeAllCrewJobs) addEntry(c, c.job || "Crew");
     else if (jobMatches(c.job)) addEntry(c, c.job);
-    // Tvůrci seriálů mívají na TMDB department "Creating"
+    // Series creators are usually in the "Creating" department on TMDB
     if (CONFIG.includeCreating && (c.department || "").toLowerCase() === "creating") {
       addEntry(c, "Creator");
     }
@@ -130,7 +130,7 @@ async function main() {
     }
   }
 
-  console.log(`Nalezeno ${picked.size} unikátních titulů, zjišťuji IMDb ID…`);
+  console.log(`Found ${picked.size} unique titles, resolving IMDb IDs…`);
 
   const movies = [];
   const series = [];
@@ -142,15 +142,15 @@ async function main() {
     if (!CONFIG.includeUnreleased && !date) continue;
 
     const ext = await tmdb(`/${isMovie ? "movie" : "tv"}/${entry.id}/external_ids`);
-    await sleep(120); // šetrnost k API
+    await sleep(120); // be gentle to the API
 
     const imdbId = ext.imdb_id;
     if (!imdbId || !imdbId.startsWith("tt")) {
-      console.log(`  – přeskočeno (bez IMDb ID): ${entry.title || entry.name}`);
+      console.log(`  – skipped (no IMDb ID): ${entry.title || entry.name}`);
       continue;
     }
 
-    // Popis: preferuj jazyk z configu, když chybí, vezmi fallback
+    // Description: prefer the config language, fall back if missing
     let overview = entry.overview;
     if (!overview && CONFIG.fallbackLanguage) {
       const detail = await tmdb(`/${isMovie ? "movie" : "tv"}/${entry.id}`, {
@@ -168,17 +168,17 @@ async function main() {
       background: entry.backdrop_path ? `${IMG}/w780${entry.backdrop_path}` : undefined,
       description: overview || undefined,
       releaseInfo: date ? String(date).slice(0, 4) : undefined,
-      _date: date || "9999-12-31", // pomocné pole pro řazení (neuvidí Stremio)
+      _date: date || "9999-12-31", // sort helper (Stremio never sees it)
       _jobs: [...jobs].sort(),
     };
 
     (isMovie ? movies : series).push(meta);
     console.log(
-      `  + ${meta.type === "movie" ? "film   " : "seriál "} ${meta.name} (${imdbId}) [${meta._jobs.join(", ")}]`
+      `  + ${meta.type === "movie" ? "movie " : "series"} ${meta.name} (${imdbId}) [${meta._jobs.join(", ")}]`
     );
   }
 
-  // Ručně přidané tituly z configu (jen IMDb ID – metadata dodá Cinemeta)
+  // Manually added titles from config (IMDb ID only – Cinemeta supplies metadata)
   for (const id of CONFIG.extraImdbIds.movies || []) {
     if (!movies.some((m) => m.id === id)) {
       movies.push({ id, type: "movie", name: id, _date: "9999-12-31", _jobs: ["Manual"] });
@@ -190,7 +190,7 @@ async function main() {
     }
   }
 
-  // Nejnovější nahoře
+  // Newest first
   const byDateDesc = (a, b) => String(b._date).localeCompare(String(a._date));
   movies.sort(byDateDesc);
   series.sort(byDateDesc);
@@ -204,16 +204,16 @@ async function main() {
     const file = path.join(ROOT, "docs", relPath);
     fs.mkdirSync(path.dirname(file), { recursive: true });
     fs.writeFileSync(file, JSON.stringify({ metas }, null, 2) + "\n");
-    console.log(`Zapsáno ${relPath} (${metas.length} položek)`);
+    console.log(`Wrote ${relPath} (${metas.length} items)`);
   };
 
   write("catalog/movie/taylor-sheridan-movies.json", clean(movies));
   write("catalog/series/taylor-sheridan-series.json", clean(series));
 
-  console.log("Hotovo.");
+  console.log("Done.");
 }
 
 main().catch((err) => {
-  console.error("CHYBA:", err.message);
+  console.error("ERROR:", err.message);
   process.exit(1);
 });

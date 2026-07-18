@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Taylor Sheridan — katalog pro Stremio</title>
-<meta name="description" content="Stremio doplněk: všechny filmy a seriály, které Taylor Sheridan napsal, režíroval nebo vytvořil. Aktualizuje se automaticky.">
+<title>Taylor Sheridan — Stremio catalog</title>
+<meta name="description" content="Stremio add-on: every movie and show Taylor Sheridan wrote, directed or created. Updates automatically.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Inter:wght@400;600&display=swap" rel="stylesheet">
@@ -127,27 +127,27 @@
 <body>
 <main>
   <div class="sign">
-    <p class="eyebrow">Katalog pro Stremio</p>
+    <p class="eyebrow">Stremio catalog</p>
     <h1>Taylor Sheridan</h1>
-    <p class="sub">Všechny filmy a seriály, které Taylor Sheridan napsal, režíroval
-    nebo vytvořil — Yellowstone, 1883, 1923, Sicario, Wind River a další.
-    Katalog se sám aktualizuje každý týden.</p>
+    <p class="sub">Every movie and show Taylor Sheridan wrote, directed or
+    created — Yellowstone, 1883, 1923, Sicario, Wind River and more.
+    The catalog updates itself every week.</p>
 
     <div class="actions">
       <a class="install" href="stremio://cz-janza.github.io/TaylorSheridan/manifest.json">
-        Nainstalovat do Stremia
+        Install in Stremio
       </a>
     </div>
 
     <div class="urlbox">
       <code class="url" id="manifestUrl">https://cz-janza.github.io/TaylorSheridan/manifest.json</code>
-      <button class="copy" id="copyBtn" type="button">Kopírovat adresu</button>
+      <button class="copy" id="copyBtn" type="button">Copy URL</button>
     </div>
   </div>
 
   <p class="note">
-    Pokud se instalace neotevře, zkopírujte adresu výše a vložte ji ve Stremiu
-    do vyhledávání doplňků. Zdrojový kód:
+    If the install link doesn't open, copy the URL above and paste it into the
+    add-on search in Stremio. Source code:
     <a href="https://github.com/CZ-Janza/TaylorSheridan">github.com/CZ-Janza/TaylorSheridan</a>
   </p>
 </main>
@@ -156,10 +156,10 @@
   btn.addEventListener("click", async () => {
     try {
       await navigator.clipboard.writeText(document.getElementById("manifestUrl").textContent.trim());
-      btn.textContent = "Zkopírováno";
-      setTimeout(() => (btn.textContent = "Kopírovat adresu"), 2000);
+      btn.textContent = "Copied";
+      setTimeout(() => (btn.textContent = "Copy URL"), 2000);
     } catch {
-      btn.textContent = "Zkopírujte ručně";
+      btn.textContent = "Copy manually";
     }
   });
 </script>

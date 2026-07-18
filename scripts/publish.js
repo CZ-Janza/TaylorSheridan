@@ -1,23 +1,23 @@
 #!/usr/bin/env node
 /**
- * Jednorázová publikace doplňku do centrálního katalogu Stremia.
+ * One-time publish of the add-on to Stremio's central catalog.
  *
- * Spusťte AŽ POTOM, co:
- *   1. běží GitHub Pages a manifest je dostupný na veřejné HTTPS adrese,
- *   2. proběhl první úspěšný běh workflow a katalogy nejsou prázdné,
- *   3. jste si doplněk sami nainstalovali a ověřili, že funguje.
+ * Run this ONLY AFTER:
+ *   1. GitHub Pages is live and the manifest is reachable at a public HTTPS URL,
+ *   2. the first workflow run succeeded and the catalogs are not empty,
+ *   3. you installed the add-on yourself and verified it works.
  *
- * Spuštění:  node scripts/publish.js
+ * Run:  node scripts/publish.js
  */
 
 const TRANSPORT_URL = "https://cz-janza.github.io/TaylorSheridan/manifest.json";
 
 async function main() {
-  // Kontrola, že manifest je opravdu veřejně dostupný
+  // Verify the manifest really is publicly reachable
   const check = await fetch(TRANSPORT_URL);
   if (!check.ok) {
     throw new Error(
-      `Manifest není dostupný (HTTP ${check.status}). Máte zapnuté GitHub Pages?`
+      `Manifest is not reachable (HTTP ${check.status}). Is GitHub Pages enabled?`
     );
   }
   const manifest = await check.json();
@@ -31,13 +31,13 @@ async function main() {
   const data = await res.json();
 
   if (data.error) {
-    throw new Error(`Stremio API odmítlo publikaci: ${JSON.stringify(data.error)}`);
+    throw new Error(`Stremio API rejected the publish: ${JSON.stringify(data.error)}`);
   }
-  console.log("Publikováno do centrálního katalogu Stremia!");
+  console.log("Published to Stremio's central catalog!");
   console.log(JSON.stringify(data, null, 2));
 }
 
 main().catch((err) => {
-  console.error("CHYBA:", err.message);
+  console.error("ERROR:", err.message);
   process.exit(1);
 });

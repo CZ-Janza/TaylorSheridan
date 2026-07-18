@@ -1,144 +1,148 @@
-# Taylor Sheridan — katalog pro Stremio
+# Taylor Sheridan — Stremio catalog
 
-Stremio doplněk, který v sekci **Discover → Movies / Series** přidá kategorii
-**Taylor Sheridan** se všemi filmy a seriály, které napsal, režíroval nebo
-vytvořil (Yellowstone, 1883, 1923, Sicario, Wind River, Hell or High Water…).
+A Stremio add-on that adds a **Taylor Sheridan** category to
+**Discover → Movies / Series**, listing every movie and show he wrote,
+directed or created (Yellowstone, 1883, 1923, Sicario, Wind River,
+Hell or High Water…).
 
-Katalog se **aktualizuje automaticky každý týden** z databáze
-[TMDB](https://www.themoviedb.org) přes GitHub Actions — bez ruční práce
-a s nulovými náklady (statické soubory na GitHub Pages).
+The catalog **updates automatically every week** from the
+[TMDB](https://www.themoviedb.org) database via GitHub Actions — no manual
+work and zero cost (static files served from GitHub Pages).
 
-Adresa doplňku: `https://cz-janza.github.io/TaylorSheridan/manifest.json`
+Add-on URL: `https://cz-janza.github.io/TaylorSheridan/manifest.json`
 
 ---
 
-## Jak to funguje
+## How it works
 
 ```
 config.json ──► scripts/generate.js ──► docs/catalog/*.json ──► GitHub Pages ──► Stremio
                      ▲
-              TMDB API (filmografie osoby)
+              TMDB API (person filmography)
                      ▲
-        GitHub Action (cron: každé pondělí)
+        GitHub Action (cron: every Monday)
 ```
 
-- Skript najde Taylora Sheridana na TMDB, stáhne kompletní filmografii,
-  vyfiltruje role podle `config.json` a ke každému titulu zjistí IMDb ID.
-- Výsledek zapíše jako statické JSON soubory do `docs/`, které GitHub Pages
-  servíruje jako hotový Stremio doplněk (HTTPS + CORS zdarma).
-- GitHub Action to celé spouští každé pondělí; když přibyde nový titul,
-  sama ho commitne a katalog se aktualizuje všem uživatelům.
+- The script finds Taylor Sheridan on TMDB, downloads his complete
+  filmography, filters roles according to `config.json`, and resolves the
+  IMDb ID for each title.
+- The result is written as static JSON files into `docs/`, which GitHub Pages
+  serves as a ready-made Stremio add-on (HTTPS + CORS for free).
+- A GitHub Action runs the whole thing every Monday; when a new title appears
+  it commits it automatically and the catalog updates for all users.
 
-## Zprovoznění (jednorázově, cca 10 minut)
+## Setup (one-time, ~10 minutes)
 
-### 1. Nahrajte soubory do repozitáře
+### 1. Upload the files to the repository
 
 ```bash
 git clone https://github.com/CZ-Janza/TaylorSheridan.git
-# zkopírujte sem obsah tohoto balíčku
+# copy the contents of this package here
 cd TaylorSheridan
 git add -A
-git commit -m "Stremio doplněk Taylor Sheridan"
+git commit -m "Taylor Sheridan Stremio add-on"
 git push
 ```
 
-### 2. Získejte TMDB API klíč (zdarma)
+### 2. Get a TMDB API key (free)
 
-1. Registrace na [themoviedb.org](https://www.themoviedb.org/signup).
-2. Profil → **Settings → API** → požádejte o klíč (Developer, stačí vyplnit
-   základní údaje — použití: nekomerční Stremio addon).
-3. Zkopírujte **API Key** (v3).
+1. Sign up at [themoviedb.org](https://www.themoviedb.org/signup).
+2. Profile → **Settings → API** → request a key (Developer, just fill in the
+   basics — usage: non-commercial Stremio add-on).
+3. Copy the **API Key**. Either the v3 API key or the v4 Read Access Token
+   works — the script detects which one you provided.
 
-### 3. Uložte klíč jako secret
+### 3. Store the key as a secret
 
-V repozitáři: **Settings → Secrets and variables → Actions →
+In the repository: **Settings → Secrets and variables → Actions →
 New repository secret**
 
 - Name: `TMDB_API_KEY`
-- Secret: váš klíč
+- Secret: your key
 
-### 4. Zapněte GitHub Pages
+### 4. Enable GitHub Pages
 
 **Settings → Pages → Build and deployment:**
 
 - Source: *Deploy from a branch*
-- Branch: `main`, složka `/docs`
+- Branch: `main`, folder `/docs`
 
-Za chvíli poběží web na `https://cz-janza.github.io/TaylorSheridan/`.
+The site will shortly be live at `https://cz-janza.github.io/TaylorSheridan/`.
 
-### 5. Spusťte první generování
+### 5. Run the first generation
 
-**Actions → Aktualizace katalogu → Run workflow.**
+**Actions → Update catalog → Run workflow.**
 
-Po doběhnutí zkontrolujte, že
+Once it finishes, check that
 `https://cz-janza.github.io/TaylorSheridan/catalog/movie/taylor-sheridan-movies.json`
-obsahuje filmy (ne prázdné `metas`).
+contains movies (a non-empty `metas`).
 
-### 6. Nainstalujte a otestujte
+### 6. Install and test
 
-Otevřete `https://cz-janza.github.io/TaylorSheridan/` a klikněte na
-**Nainstalovat do Stremia**, nebo vložte adresu manifestu do vyhledávání
-doplňků ve Stremiu. Kategorie „Taylor Sheridan" se objeví v Discover.
+Open `https://cz-janza.github.io/TaylorSheridan/` and click
+**Install in Stremio**, or paste the manifest URL into the add-on search in
+Stremio. The "Taylor Sheridan" category will appear in Discover.
 
-### 7. Publikace do oficiálního katalogu Stremia
+### 7. Publish to the official Stremio catalog
 
-Až vše funguje:
+Once everything works:
 
 ```bash
 node scripts/publish.js
 ```
 
-Skript ověří dostupnost manifestu a zaregistruje doplněk v centrálním
-katalogu Stremia (`api.strem.io`). Poté se doplněk zobrazuje všem uživatelům
-v komunitní sekci doplňků. Stačí jednou; další aktualizace katalogu už se
-propisují automaticky (Stremio si katalog stahuje z vaší adresy).
+The script verifies the manifest is reachable and registers the add-on in
+Stremio's central catalog (`api.strem.io`). After that the add-on shows up for
+all users in the community add-ons section. You only do this once; further
+catalog updates propagate automatically (Stremio pulls the catalog from your
+URL).
 
-## Úpravy chování (`config.json`)
+## Tuning behavior (`config.json`)
 
-| Klíč | Význam |
+| Key | Meaning |
 |---|---|
-| `person.tmdbId` | Napevno TMDB ID osoby (jinak se hledá podle jména) |
-| `includeAllCrewJobs` | `true` = zahrnout každou roli ve štábu bez ohledu na `includeJobs` (výchozí — „všechno s jeho stopou") |
-| `includeJobs` | Které role zahrnout, když je `includeAllCrewJobs: false` |
-| `includeActing` | Zahrnout i herecké role (výchozí `true`) |
-| `includeUnreleased` | Zahrnout i oznámené/nedokončené projekty |
-| `excludeTmdbIds` | TMDB ID titulů, které nechcete (černá listina) |
-| `extraImdbIds` | Ručně přidané tituly podle IMDb ID (bílá listina) |
-| `language` / `fallbackLanguage` | Jazyk popisů (výchozí čeština s anglickým fallbackem) |
+| `person.tmdbId` | Hard-code the TMDB person ID (otherwise looked up by name) |
+| `includeAllCrewJobs` | `true` = include every crew role regardless of `includeJobs` (default — "anything with his fingerprint") |
+| `includeJobs` | Which roles to include when `includeAllCrewJobs: false` |
+| `includeActing` | Include acting roles too (default `true`) |
+| `includeUnreleased` | Include announced/unfinished projects |
+| `excludeTmdbIds` | TMDB IDs of titles you don't want (blacklist) |
+| `extraImdbIds` | Manually added titles by IMDb ID (whitelist) |
+| `language` / `fallbackLanguage` | Description language (default English) |
 
-Po změně `config.json` a pushnutí se workflow spustí automaticky.
+After changing `config.json` and pushing, the workflow runs automatically.
 
-**Tip:** výchozí nastavení je maximálně široké — každý titul, kde má Sheridan
-jakoukoliv stopu (scénář, režie, tvorba, produkce i herectví). Pokud byste
-chtěl katalog zúžit, nastavte `includeAllCrewJobs: false` (pak platí jen role
-z `includeJobs`), případně `includeActing: false`, nebo přidejte konkrétní
-TMDB ID do `excludeTmdbIds`.
+**Tip:** the default is maximally broad — every title where Sheridan has any
+fingerprint (writing, directing, creating, producing, and acting). To narrow
+the catalog, set `includeAllCrewJobs: false` (then only roles from
+`includeJobs` count), or `includeActing: false`, or add specific TMDB IDs to
+`excludeTmdbIds`.
 
-## Ruční spuštění lokálně
+## Running manually, locally
 
 ```bash
-TMDB_API_KEY=vas_klic node scripts/generate.js
+TMDB_API_KEY=your_key node scripts/generate.js
 ```
 
-Vyžaduje Node.js 18+, žádné závislosti se neinstalují.
+Requires Node.js 18+, no dependencies to install.
 
-## Struktura repozitáře
+## Repository structure
 
 ```
-├── config.json                  # co se má do katalogu zahrnout
+├── config.json                  # what goes into the catalog
 ├── scripts/
-│   ├── generate.js              # generátor katalogu z TMDB
-│   └── publish.js               # jednorázová publikace do Stremia
-├── .github/workflows/update.yml # týdenní automatická aktualizace
-└── docs/                        # ← GitHub Pages = hotový doplněk
+│   ├── generate.js              # catalog generator from TMDB
+│   └── publish.js               # one-time publish to Stremio
+├── .github/workflows/update.yml # weekly automatic update
+└── docs/                        # ← GitHub Pages = the finished add-on
     ├── manifest.json
-    ├── index.html               # instalační stránka
+    ├── index.html               # install page
     └── catalog/
         ├── movie/taylor-sheridan-movies.json
         └── series/taylor-sheridan-series.json
 ```
 
-## Licence
+## License
 
-MIT. Data o filmech poskytuje [TMDB](https://www.themoviedb.org) — tento
-produkt používá TMDB API, ale není TMDB schválen ani certifikován.
+MIT. Movie data provided by [TMDB](https://www.themoviedb.org) — this product
+uses the TMDB API but is not endorsed or certified by TMDB.

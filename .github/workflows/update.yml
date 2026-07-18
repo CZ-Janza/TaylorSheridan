@@ -1,8 +1,8 @@
-name: Aktualizace katalogu
+name: Update catalog
 
 on:
   schedule:
-    # Každé pondělí v 6:00 UTC (7:00/8:00 českého času)
+    # Every Monday at 06:00 UTC
     - cron: "0 6 * * 1"
   workflow_dispatch: {}
   push:
@@ -30,29 +30,29 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Vygenerovat katalog z TMDB
+      - name: Generate catalog from TMDB
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: node scripts/generate.js
 
-      - name: Commit změn (pokud nějaké jsou)
+      - name: Commit changes (if any)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/catalog
           if git diff --cached --quiet; then
-            echo "Žádné změny v katalogu."
+            echo "No catalog changes."
             exit 0
           fi
-          git commit -m "Automatická aktualizace katalogu ($(date -u +%Y-%m-%d))"
-          # Odolnost proti souběhu: kdyby mezitím na main přibyl commit (jiný běh),
-          # naber ho přes rebase a push zkus znovu.
+          git commit -m "Automatic catalog update ($(date -u +%Y-%m-%d))"
+          # Concurrency safety: if another run pushed to main in the meantime,
+          # pick it up via rebase and retry the push.
           for attempt in 1 2 3; do
             if git push; then
               exit 0
             fi
-            echo "Push odmítnut, zkouším rebase (pokus $attempt)…"
+            echo "Push rejected, trying rebase (attempt $attempt)…"
             git pull --rebase origin main
           done
-          echo "Push se nezdařil ani po opakování." >&2
+          echo "Push failed even after retries." >&2
           exit 1
