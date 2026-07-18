@@ -135,9 +135,35 @@ async function main() {
   const movies = [];
   const series = [];
 
+  const TODAY = new Date().toISOString().slice(0, 10);
+
   for (const { entry, jobs } of picked.values()) {
     const isMovie = entry.media_type === "movie";
-    const date = isMovie ? entry.release_date : entry.first_air_date;
+    let date = isMovie ? entry.release_date : entry.first_air_date;
+    let overview = entry.overview;
+    let status = null;
+
+    // The filmography summary often lacks a date/overview for upcoming titles.
+    // Fetch the detail record to recover the expected date, TMDB status and
+    // (if needed) a fallback description in the configured language.
+    const needDetail = !date || !overview;
+    if (needDetail) {
+      const detail = await tmdb(`/${isMovie ? "movie" : "tv"}/${entry.id}`, {
+        language: CONFIG.language || "en-US",
+      });
+      await sleep(120);
+      date = date || (isMovie ? detail.release_date : detail.first_air_date);
+      overview = overview || detail.overview || "";
+      status = detail.status || null;
+      // Last-resort description in the fallback language
+      if (!overview && CONFIG.fallbackLanguage) {
+        const fb = await tmdb(`/${isMovie ? "movie" : "tv"}/${entry.id}`, {
+          language: CONFIG.fallbackLanguage,
+        });
+        overview = fb.overview || "";
+        await sleep(120);
+      }
+    }
 
     if (!CONFIG.includeUnreleased && !date) continue;
 
@@ -150,23 +176,29 @@ async function main() {
       continue;
     }
 
-    // Description: prefer the config language, fall back if missing
-    let overview = entry.overview;
-    if (!overview && CONFIG.fallbackLanguage) {
-      const detail = await tmdb(`/${isMovie ? "movie" : "tv"}/${entry.id}`, {
-        language: CONFIG.fallbackLanguage,
-      });
-      overview = detail.overview || "";
-      await sleep(120);
+    // "Upcoming" = no release date yet, or a date still in the future.
+    const released = !!date && date <= TODAY;
+    let name = entry.title || entry.name;
+    let description = overview || undefined;
+    if (!released) {
+      name += " (upcoming)";
+      // Put the expected date / production status in front of the description
+      // so it's visible on the title's detail page even before Cinemeta has it.
+      const when = date
+        ? `Expected release: ${date}`
+        : status
+        ? `Not yet released — status: ${status}`
+        : "Not yet released";
+      description = `⏳ ${when}.` + (overview ? ` ${overview}` : "");
     }
 
     const meta = {
       id: imdbId,
       type: isMovie ? "movie" : "series",
-      name: entry.title || entry.name,
+      name,
       poster: entry.poster_path ? `${IMG}/w342${entry.poster_path}` : undefined,
       background: entry.backdrop_path ? `${IMG}/w780${entry.backdrop_path}` : undefined,
-      description: overview || undefined,
+      description,
       releaseInfo: date ? String(date).slice(0, 4) : undefined,
       _date: date || "9999-12-31", // sort helper (Stremio never sees it)
       _jobs: [...jobs].sort(),
