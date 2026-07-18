@@ -1,0 +1,27 @@
+{
+  "person": {
+    "name": "Taylor Sheridan",
+    "tmdbId": null
+  },
+  "includeAllCrewJobs": true,
+  "includeJobs": [
+    "Writer",
+    "Screenplay",
+    "Story",
+    "Teleplay",
+    "Director",
+    "Creator",
+    "Executive Producer",
+    "Producer"
+  ],
+  "includeCreating": true,
+  "includeActing": true,
+  "includeUnreleased": true,
+  "excludeTmdbIds": [],
+  "extraImdbIds": {
+    "movies": [],
+    "series": []
+  },
+  "language": "cs-CZ",
+  "fallbackLanguage": "en-US"
+}

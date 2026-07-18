@@ -1,0 +1,26 @@
+{
+  "id": "cz.janza.taylorsheridan",
+  "version": "1.0.0",
+  "name": "Taylor Sheridan",
+  "description": "Katalog všech filmů a seriálů, které Taylor Sheridan napsal, režíroval nebo vytvořil (Yellowstone, 1883, 1923, Sicario, Wind River, Hell or High Water a další). Katalog se aktualizuje automaticky každý týden z TMDB.",
+  "logo": "https://cz-janza.github.io/TaylorSheridan/logo.png",
+  "resources": ["catalog"],
+  "types": ["movie", "series"],
+  "idPrefixes": ["tt"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "taylor-sheridan-movies",
+      "name": "Taylor Sheridan"
+    },
+    {
+      "type": "series",
+      "id": "taylor-sheridan-series",
+      "name": "Taylor Sheridan"
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}

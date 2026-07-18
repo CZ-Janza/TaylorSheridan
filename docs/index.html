@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Taylor Sheridan — katalog pro Stremio</title>
+<meta name="description" content="Stremio doplněk: všechny filmy a seriály, které Taylor Sheridan napsal, režíroval nebo vytvořil. Aktualizuje se automaticky.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --leather: #1c1611;
+    --leather-2: #261e17;
+    --bone: #ede4d3;
+    --bone-dim: #b7ab95;
+    --rope: #c9a46a;
+    --ember: #b4552d;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  html, body { height: 100%; }
+  body {
+    background: var(--leather);
+    color: var(--bone);
+    font-family: "Inter", system-ui, sans-serif;
+    line-height: 1.6;
+    display: grid;
+    place-items: center;
+    padding: 2rem 1.25rem;
+  }
+  main { max-width: 40rem; width: 100%; }
+
+  .sign {
+    border-top: 3px double var(--rope);
+    border-bottom: 3px double var(--rope);
+    padding: 2.5rem 0 2.25rem;
+    text-align: center;
+  }
+  .eyebrow {
+    font-size: .75rem;
+    letter-spacing: .35em;
+    text-transform: uppercase;
+    color: var(--rope);
+    margin-bottom: 1rem;
+  }
+  h1 {
+    font-family: "Alfa Slab One", "Georgia", serif;
+    font-weight: 400;
+    font-size: clamp(2.1rem, 7vw, 3.4rem);
+    line-height: 1.1;
+    letter-spacing: .01em;
+    text-transform: uppercase;
+  }
+  .sub {
+    margin-top: 1.1rem;
+    color: var(--bone-dim);
+    font-size: .98rem;
+    max-width: 34rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .actions {
+    margin-top: 2.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: .9rem;
+    align-items: center;
+  }
+  .install {
+    display: inline-block;
+    background: var(--ember);
+    color: var(--bone);
+    text-decoration: none;
+    font-weight: 600;
+    padding: .85rem 2.2rem;
+    border-radius: 4px;
+    letter-spacing: .02em;
+  }
+  .install:hover { filter: brightness(1.12); }
+  .install:focus-visible,
+  .copy:focus-visible {
+    outline: 2px solid var(--rope);
+    outline-offset: 3px;
+  }
+
+  .urlbox {
+    margin-top: 1.6rem;
+    display: flex;
+    gap: .5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .url {
+    font-family: ui-monospace, "SF Mono", Consolas, monospace;
+    font-size: .8rem;
+    background: var(--leather-2);
+    border: 1px solid #3a2f24;
+    color: var(--bone-dim);
+    padding: .6rem .8rem;
+    border-radius: 4px;
+    max-width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  .copy {
+    font: inherit;
+    font-size: .8rem;
+    background: none;
+    border: 1px solid var(--rope);
+    color: var(--rope);
+    padding: .6rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .copy:hover { background: rgba(201, 164, 106, .1); }
+
+  .note {
+    margin-top: 2rem;
+    text-align: center;
+    color: var(--bone-dim);
+    font-size: .85rem;
+  }
+  .note a { color: var(--rope); }
+</style>
+</head>
+<body>
+<main>
+  <div class="sign">
+    <p class="eyebrow">Katalog pro Stremio</p>
+    <h1>Taylor Sheridan</h1>
+    <p class="sub">Všechny filmy a seriály, které Taylor Sheridan napsal, režíroval
+    nebo vytvořil — Yellowstone, 1883, 1923, Sicario, Wind River a další.
+    Katalog se sám aktualizuje každý týden.</p>
+
+    <div class="actions">
+      <a class="install" href="stremio://cz-janza.github.io/TaylorSheridan/manifest.json">
+        Nainstalovat do Stremia
+      </a>
+    </div>
+
+    <div class="urlbox">
+      <code class="url" id="manifestUrl">https://cz-janza.github.io/TaylorSheridan/manifest.json</code>
+      <button class="copy" id="copyBtn" type="button">Kopírovat adresu</button>
+    </div>
+  </div>
+
+  <p class="note">
+    Pokud se instalace neotevře, zkopírujte adresu výše a vložte ji ve Stremiu
+    do vyhledávání doplňků. Zdrojový kód:
+    <a href="https://github.com/CZ-Janza/TaylorSheridan">github.com/CZ-Janza/TaylorSheridan</a>
+  </p>
+</main>
+<script>
+  const btn = document.getElementById("copyBtn");
+  btn.addEventListener("click", async () => {
+    try {
+      await navigator.clipboard.writeText(document.getElementById("manifestUrl").textContent.trim());
+      btn.textContent = "Zkopírováno";
+      setTimeout(() => (btn.textContent = "Kopírovat adresu"), 2000);
+    } catch {
+      btn.textContent = "Zkopírujte ručně";
+    }
+  });
+</script>
+</body>
+</html>

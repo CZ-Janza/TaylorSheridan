@@ -1,0 +1,48 @@
+name: Aktualizace katalogu
+
+on:
+  schedule:
+    # Každé pondělí v 6:00 UTC (7:00/8:00 českého času)
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "config.json"
+      - "scripts/generate.js"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-catalog
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Vygenerovat katalog z TMDB
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node scripts/generate.js
+
+      - name: Commit změn (pokud nějaké jsou)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/catalog
+          if git diff --cached --quiet; then
+            echo "Žádné změny v katalogu."
+          else
+            git commit -m "Automatická aktualizace katalogu ($(date -u +%Y-%m-%d))"
+            git push
+          fi
