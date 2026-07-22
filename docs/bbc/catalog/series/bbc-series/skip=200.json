@@ -1,0 +1,886 @@
+{
+  "metas": [
+    {
+      "id": "tt11942952",
+      "type": "series",
+      "name": "Money for Nothing",
+      "poster": "https://image.tmdb.org/t/p/w342/lmV8WTvcDHEuvC99WmzkcUETwfv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/b4tvEBkEzUeGAQOxrFDhX5h54tC.jpg",
+      "description": "Entrepreneur Sarah Moore saves things from being dumped and transforms them into valuable pieces, making money for people who had no idea there was cash to be made from their trash.",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt0260640",
+      "type": "series",
+      "name": "Open Air",
+      "background": "https://image.tmdb.org/t/p/w780/2A3MUYeDwW9QK8Q7q1KWRje6EB.jpg",
+      "description": "Open Air was BBC1's flagship programme for their new daytime service which began on 27 October 1986. It discussed all aspects of television and also tried to answer any questions which viewers had.",
+      "releaseInfo": "1986"
+    },
+    {
+      "id": "tt2401256",
+      "type": "series",
+      "name": "The Night Of",
+      "poster": "https://image.tmdb.org/t/p/w342/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pXxaORRHxvdfdpZ5kux619UsBL4.jpg",
+      "description": "After a night of partying with a female stranger, a man wakes up to find her stabbed to death and is charged with her murder.",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt0118363",
+      "type": "series",
+      "name": "Jonathan Creek",
+      "poster": "https://image.tmdb.org/t/p/w342/yvBej2dWaOBTVVJkdnPxoMX75aD.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1SCpDtSS1m0l7XVfeRuQETnqIQn.jpg",
+      "description": "Working from his home in a converted windmill, Jonathan Creek is a magician with a natural ability for solving puzzles. He soon puts this ability to the use of solving impossible crimes and mysterious murders.",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt6354184",
+      "type": "series",
+      "name": "Garden Rescue",
+      "poster": "https://image.tmdb.org/t/p/w342/3StSnUgH0xA81LR1g2Gux8hc6XU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cGqr5nAzV7S8Dm2k6VqZlHBYrxy.jpg",
+      "description": "Charlie Dimmock and the Rich brothers compete to design gardens for home owners around the country. Each comes up with a design to suit the space and the budget and the garden owner chooses which gets built.",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt0989125",
+      "type": "series",
+      "name": "Sunday Night Theatre",
+      "poster": "https://image.tmdb.org/t/p/w342/55UGSQ167w5MQJnYaekz7cRZxzl.jpg",
+      "description": "Sunday Night Theatre was a long-running series of televised live television plays screened by BBC Television from early 1950 until 1959.\n\nThe productions for the first five years or so of the run were re-staged live the following Thursday, partly because of technical limitations in this era, and the theatrical basis of early television drama. Some of the earliest collaborations between Rudolph Cartier and Nigel Neale were produced for this series, including Arrow to the Heart and Nineteen Eighty-Four. The Sunday night drama slot was subsequently renamed The Sunday-Night Play which ran for four seasons between 1960 and 1963. ITV transmitted its own unrelated run of Sunday Night Theatre between 1971 and 1974.",
+      "releaseInfo": "1950"
+    },
+    {
+      "id": "tt0075557",
+      "type": "series",
+      "name": "The Pallisers",
+      "poster": "https://image.tmdb.org/t/p/w342/A3CSYg9fOpBU02P3HZpo8WV4t1x.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9Vr28BCPvIjz8ppcEOl8nI1fQnY.jpg",
+      "description": "This sprawling BBC saga follows an aristocratic family through three generations of power, wealth, intrigue, and scandal in Victorian England. Based on Anthony Trollope’s “political” novels .",
+      "releaseInfo": "1974"
+    },
+    {
+      "id": "tt1436544",
+      "type": "series",
+      "name": "Ben & Holly's Little Kingdom",
+      "poster": "https://image.tmdb.org/t/p/w342/iJfBAzPNojxE3LTcUhrev7TR0eH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dtwKMr3wu0C8G81ZLyCk98DUskq.jpg",
+      "description": "The friendship between fairy princess Holly and Ben Elf in an enchanted magical kingdom of elves and fairies.",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt35787348",
+      "type": "series",
+      "name": "Stan Can",
+      "poster": "https://image.tmdb.org/t/p/w342/ee1eQC68NXqKgTJ5bG3M5JLOD97.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jJoSX8LTm8WxwWLWPgV6GSg9YEd.jpg",
+      "description": "Meet Stanley, the can-do hamster who’s always happy to help whenever a job needs doing.",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt0288380",
+      "type": "series",
+      "name": "Murder in Mind",
+      "poster": "https://image.tmdb.org/t/p/w342/gAMxQOL5qyRvNuIPa1Tamwd2cbX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kgsQDdl1lUeqcpkokczVEMx0wbt.jpg",
+      "description": "A series of self-contained stories, each recounting a murder scene as seen from the chilling viewpoint of the killer. Explore the inner workings of a criminal's brain, revealing humanity at its darkest.",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt2274009",
+      "type": "series",
+      "name": "Daytime Live",
+      "releaseInfo": "1987"
+    },
+    {
+      "id": "tt0090477",
+      "type": "series",
+      "name": "Lovejoy",
+      "poster": "https://image.tmdb.org/t/p/w342/d433J9jLaOI3T99mPIudkW6b9RO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qLarafHjS9IPRgqVGU97prD9x3d.jpg",
+      "description": "The adventures of the eponymous Lovejoy, a likeable but roguish antiques dealer based in East Anglia. Within the trade, he has a reputation as a “divvie”, a person with an almost supernatural powers for recognising exceptional items as well as distinguishing genuine antique from clever fakes or forgeries.",
+      "releaseInfo": "1986"
+    },
+    {
+      "id": "tt0098837",
+      "type": "series",
+      "name": "Keeping Up Appearances",
+      "poster": "https://image.tmdb.org/t/p/w342/5dwn4Lfav9mXfJmYhHNeMLWhuZj.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7PVrAFtg3eAkRhfXzCE00j6XtKn.jpg",
+      "description": "Hyacinth Bucket (whose name, she insists, is pronounced \"Bouquet\") is a suburban housewife in the West Midlands. She would be the first to tell you that she is a gracious hostess, a respected citizen, and a well-connected member of high society. If you don't believe that, just ask her best friend Elizabeth, held captive in Hyacinth's kitchen; or the postmen and neighbours who bristle at the sound of her voice; or Richard, her weary and compliant husband.\n\nIn fact, Hyacinth's reputation could be as perfect as her new lounge set, if not for her senile father's love of running wild in the nip. Oh, and she would prefer it if her brother-in-law was a sharper dresser. And that her husband was more ambitious. And that her sisters were more presentable. And do take your shoes off before you come in the house, dear. Mind that you don't brush against the wallpaper.",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt0796171",
+      "type": "series",
+      "name": "Timeshift",
+      "poster": "https://image.tmdb.org/t/p/w342/u3YthvdTOWgyG3bIHlUKVsuFSm9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9eODg2edqQ7XE4exnQO9fveMB9G.jpg",
+      "description": "Documentary series which ranges widely over Britain's social and cultural history, its narrative-led storytelling offering a richly immersive and varied window onto the past.",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt11846996",
+      "type": "series",
+      "name": "Vigil",
+      "poster": "https://image.tmdb.org/t/p/w342/5zAheY0Upi2MwU3edGtEgb7Ldh3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mSo8k4n4btwDbINqIMJ1q38ZbpP.jpg",
+      "description": "The mysterious disappearance of a Scottish fishing trawler and a death on-board the submarine HMS Vigil bring the police into conflict with the Navy and British security services. DCI Amy Silva and DS Kirsten Longacre lead an investigation on land and at sea into a conspiracy that goes to the very heart of Britain’s national security.",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt0168358",
+      "type": "series",
+      "name": "Parkinson",
+      "poster": "https://image.tmdb.org/t/p/w342/phA5ekvjXbMezLw9xZmrwfLwruc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iLsaFoKl246oBSvW69Y9Paer1QX.jpg",
+      "description": "Parkinson (1971) is a British television Interview show that was presented by Michael Parkinson.",
+      "releaseInfo": "1971"
+    },
+    {
+      "id": "tt1971245",
+      "type": "series",
+      "name": "The Voice UK",
+      "poster": "https://image.tmdb.org/t/p/w342/yKD4UgvZwn0MIAAwp5fEx5Z68J2.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wpjPWl3t6H4M9gmSxNz91tichkU.jpg",
+      "description": "A vocal contest reality series featuring people with real talent and great voices. Only the very best singers make it through the the blind auditions, the decisions from the four celebrity coaches are based solely on the voices they hear - and nothing else.",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt9059760",
+      "type": "series",
+      "name": "Normal People",
+      "poster": "https://image.tmdb.org/t/p/w342/c4mk4EQVIM11yd3W43DDdqDazDU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/w8rTBScgj2MON7eGN7raoU5qChJ.jpg",
+      "description": "Marianne and Connell weave in and out of each other's lives in this exploration of sex, power and the desire to love and be loved.",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt0111904",
+      "type": "series",
+      "name": "Bugs",
+      "poster": "https://image.tmdb.org/t/p/w342/Ae1vRALxdMwxvtCR9YgvpKSHkbS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/41f6mmiCK1CQomZtwgDbaFNHisT.jpg",
+      "description": "Bugs was a British television drama series which ran for four series from April 1995 to August 1999. The programme, a mixture of action/adventure and science-fiction, involved a team of specialist independent crime-fighting technology experts, who faced a variety of threats based around computers and other modern technology. It was originally broadcast on Saturday evenings on BBC One, and was produced for the BBC by the independent production company Carnival Films.",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0149509",
+      "type": "series",
+      "name": "Postman Pat",
+      "poster": "https://image.tmdb.org/t/p/w342/zMlG1lGI2hZjGYU7pFTgEiJgTAn.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ini5OKs2Y5pwfyarKgkDBgB3sW9.jpg",
+      "description": "Pat and his black-and-white cat Jess deliver the mail in Greendale.",
+      "releaseInfo": "1981"
+    },
+    {
+      "id": "tt0393009",
+      "type": "series",
+      "name": "What Not to Wear",
+      "poster": "https://image.tmdb.org/t/p/w342/7LRJOQjPROikFNQeIo8bPdZJShc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/31hT0245iaElUdnsgrwrxTRsqjh.jpg",
+      "description": "Friends and family members nominate a candidate that they consider poorly dressed and ask the show to make over the \"fashion victim.\" Fashion Police Stacy London and her partner ambush the candidate and make them an offer-- they are given a $5000.00 budget for a new wardrobe, which they must purchase in New York City boutiques over the course of two days, but only on the condition that they allow Stacy & her partner to critique, and in most cases throw out, their existing wardrobe.",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt0159163",
+      "type": "series",
+      "name": "The Expert",
+      "poster": "https://image.tmdb.org/t/p/w342/wJFIV2POOUvbMk5zvkf094tlWHn.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x8C6sNOJX9Dz64eqb43A6Ks83Bt.jpg",
+      "description": "The Expert is a British television series produced by the BBC between 1968 and 1976.\n\nThe series starred Marius Goring as Dr. John Hardy, a pathologist working for the Home Office and was essentially a police procedural drama, with Hardy bringing his forensic knowledge to solve various cases.\n\nThe Expert was created and produced by Gerard Glaister. The series was also one of the first BBC dramas to be made in colour, and throughout its four series had numerous high quality guest appearances by actors such as John Carson, Peter Copley, Rachel Kempson, Peter Vaughan, Clive Swift, Geoffrey Palmer, Peter Barkworth, Jean Marsh, Ray Brooks, George Sewell, Anthony Valentine, Bernard Lee, Lee Montague, Geoffrey Bayldon, Mike Pratt, Edward Fox, André Morell, Brian Blessed, Nigel Stock, Philip Madoc and Warren Clarke.",
+      "releaseInfo": "1968"
+    },
+    {
+      "id": "tt0238793",
+      "type": "series",
+      "name": "Monarch of the Glen",
+      "poster": "https://image.tmdb.org/t/p/w342/jeMhROvJWKTQuwSip5z5RsNPyfU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ecxni5kM5664x1cy4Hdi2WB1Zdy.jpg",
+      "description": "Archie MacDonald, a young restaurateur is called back to his childhood home of Glenbogle where he is told he is the new Laird of Glenbogle.",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt2222352",
+      "type": "series",
+      "name": "Cuckoo",
+      "poster": "https://image.tmdb.org/t/p/w342/eFBfQIouobewXiw5g1fWwwNt7t0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fx3ee9lS4LbHOBu8Vk0I7BKH3Bx.jpg",
+      "description": "Cuckoo is every parent's worst nightmare - a slacker full of outlandish, New Age ideas. Ken is the over-protective father of a girl who's impulsively married an American hippie on her gap year.",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt0450897",
+      "type": "series",
+      "name": "The Apprentice",
+      "poster": "https://image.tmdb.org/t/p/w342/cUflI3B1Bmzxba8xgplyEnozaLt.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fRpAoUzw8PMdOYfXeabEBUY7fFF.jpg",
+      "description": "British version of the reality competitions series that sees young entrepreneurs compete in several business tasks, attempting to survive the weekly firings in order to become the business partner of one of the most successful businessmen.",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt0426342",
+      "type": "series",
+      "name": "Cash in the Attic",
+      "poster": "https://image.tmdb.org/t/p/w342/oatzIyF7MG04EPiiNNyUFvMIa8M.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tFkJ3PRsqoJfaULGxY7yFk6eygi.jpg",
+      "description": "Cash in the Attic, also Cash in the Celebrity Attic, is a United Kingdom television show on the BBC. The show, made by Leopard Films, premièred in 2002 and has run for sixteen series; as of February 2010, the seventeenth series is currently in production, along with the fifth celebrity series. The programme's tagline is The show that helps you find hidden treasures in your home, and then sells them for you at auction.\n\nNow Cash in the Attic has also launched an online version of the TV show. This is an innovative site which allows the general public to upload items for online valuations by a team of experts from the show, and then people can proceed to sell their item through the site.",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt10539140",
+      "type": "series",
+      "name": "Our Lives",
+      "poster": "https://image.tmdb.org/t/p/w342/wxzLlPixr5k2m9whINfBqfpElaK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/zHHJ7QGuuoGTmkFHegsQjk8MQvv.jpg",
+      "description": "Celebrating life in the UK in all its diversity – as seen through the eyes of remarkable people doing extraordinary things.",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt0445114",
+      "type": "series",
+      "name": "Extras",
+      "poster": "https://image.tmdb.org/t/p/w342/oxiA2O4wRBCOzvfxYjNKZQuitQc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bWShstEC6UN1EuHpqGUGOnLmjqH.jpg",
+      "description": "Andy Millman gave up his day job five years ago in the hope of achieving the big time, but he’s yet to land a speaking part, let alone saunter down the red carpet to pick up an Oscar. He remains optimistic however, as rubbing shoulders with the A-list on-set only serves to reinforce his belief that the big time is just a job or two away.",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt5172468",
+      "type": "series",
+      "name": "Go Jetters",
+      "poster": "https://image.tmdb.org/t/p/w342/kvSAVAqbXagMmUUSPlmJbS9RXxo.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/scoCpSJrCwPMlt71e0yD6soy7Fr.jpg",
+      "description": "Go Jetters follows the adventures of four plucky international heroes, Xuli, Kyan, Lars and Foz, as they travel the globe with their friend and mentor Ubercorn, a disco-dancing unicorn. Together they save the world's most famous landmarks from the mischievous meddlings of their nemesis, Grandmaster Glitch.",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt0083505",
+      "type": "series",
+      "name": "The Young Ones",
+      "poster": "https://image.tmdb.org/t/p/w342/9BQCGkKkVUxw6zF1P2BF1gHSMXB.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nCGsDvCvDaY2IU2Qf7TgUO2UNNp.jpg",
+      "description": "The misadventures of four lunatic students who live in a shared student house. There's Rick, the overblown political one addicted to Cliff Richard, Vyvyan the experimental scientific one/part-time anarchist, Neil the worried hippy, and Mike the ladies' man (at least he is in his mind).",
+      "releaseInfo": "1982"
+    },
+    {
+      "id": "tt37788031",
+      "type": "series",
+      "name": "Ann Droid",
+      "poster": "https://image.tmdb.org/t/p/w342/3q6CMTeOCLlAVnDDRuCjBjYAKIT.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/deUtNgB5zf7uyAzH7BbkRHF2S80.jpg",
+      "description": "It’s Sue’s worst nightmare - an overly attentive, socially inept, second-hand robot carer. But maybe this droid has its uses... Starring Diane Morgan and Sue Johnston.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0840144",
+      "type": "series",
+      "name": "Moviedrome",
+      "poster": "https://image.tmdb.org/t/p/w342/vhWzTfVKnlUsOaLN1GXaCW965ql.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gAXUIC416IGS6kzg0zieEc79FNc.jpg",
+      "description": "Cult films receive interesting introductions from an expert, before the entire film is screened.",
+      "releaseInfo": "1988"
+    },
+    {
+      "id": "tt0105943",
+      "type": "series",
+      "name": "As Time Goes By",
+      "poster": "https://image.tmdb.org/t/p/w342/hgpSfLu6uzGRB4SLz6Jtai5T3Xq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dyZThM0dYT4s0MXp2KK3Zj2D0v8.jpg",
+      "description": "Two lovers are reunited after decades apart following a mutual misunderstanding.",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0808096",
+      "type": "series",
+      "name": "Primeval",
+      "poster": "https://image.tmdb.org/t/p/w342/pjRhnncEnTT8T5YsLbTb0A4msuQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yRGZD3qdK49COaBFo0mxxJoLDzR.jpg",
+      "description": "When strange anomalies start to appear all over England, Professor Cutter and his team must track down and capture all sorts of dangerous prehistoric creatures from Earth's distant past and near future.",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt0453422",
+      "type": "series",
+      "name": "Doctor Who Confidential",
+      "poster": "https://image.tmdb.org/t/p/w342/3TAO5VgSyICVTL5Hvv6L4V12nig.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sYmwgUz4MpvH3h28hoLlSI3oeYH.jpg",
+      "description": "Doctor Who Confidential is a documentary to complement the revival of the long-running British science fiction television series Doctor Who. Each episode was broadcast on BBC Three on Saturdays, immediately after the broadcast of the weekly television episode on BBC One. The running time of the first two series was 30 minutes, being extended to 45 minutes in the third. BBC Three also broadcast a cut-down edition of the programme, lasting 15 minutes, shown after the repeats on Sundays and Fridays and after the weekday evening repeats of earlier seasons.",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt14321914",
+      "type": "series",
+      "name": "The Chelsea Detective",
+      "poster": "https://image.tmdb.org/t/p/w342/5wkzja9xjIPMc46cAGuei172lnu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/izA8dORQJsva6AwFsOBxoOmawnp.jpg",
+      "description": "Detective Inspector Max Arnold lives on a battered houseboat at the end of Cheyne Walk after separating from his art dealer wife Astrid. The son of a local bookshop owner, Max is a far cry from the affluent elite whose crimes he'll help solve along with D.C. Priya Shamsie.",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt4196822",
+      "type": "series",
+      "name": "Danger Mouse",
+      "poster": "https://image.tmdb.org/t/p/w342/cnWr5XFOPaiIwJfx2MCj3MEQtsL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/liZQKrvwpufe1F9HREK7awIjyMN.jpg",
+      "description": "Danger Mouse is back saving London, saving the World and, most importantly, saving Penfold in brand new and fantastically absurd, energetic adventures.",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt7526498",
+      "type": "series",
+      "name": "Shakespeare & Hathaway - Private Investigators",
+      "poster": "https://image.tmdb.org/t/p/w342/s3NOaMERvhLD88SLKYRUs7HmM1i.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/anx7BeEtPjH38EoNKTXyx0B67WX.jpg",
+      "description": "Frank Hathaway, a hardboiled private investigator, and his rookie sidekick Lu Shakespeare form the unlikeliest of partnerships as they investigate the secrets of rural Warwickshire's residents.",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt0103362",
+      "type": "series",
+      "name": "Between the Lines",
+      "poster": "https://image.tmdb.org/t/p/w342/hGWVJMXV6T7lMDfPG8K7TX793uQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/56lTtHPd7GTgYjsheAcdGFUyx1s.jpg",
+      "description": "Detective Superintendent Tony Clark is an ambitious member of the Complaints Investigation Bureau, an internal organisation that investigates claims of corruption inside the police in England and Wales. Along the way Clark overcomes strong influence from his superiors and problems in his private life, most notably the break-up of his marriage following an affair with WPC Jenny Dean.",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0127376",
+      "type": "series",
+      "name": "Hetty Wainthropp Investigates",
+      "poster": "https://image.tmdb.org/t/p/w342/tsdtYwBORsbk37ne5AE34ipZYKG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/c7PjcjhOZTdUGyFmeBcL1ZfAKL0.jpg",
+      "description": "Instead of spending her golden years lying down, the indomitable Hetty Wainthropp found her calling late in life. Combining common sense, her husband, and her pocketbook, this senior sleuth takes on all the cases the police deem too minor.",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0358856",
+      "type": "series",
+      "name": "Little Britain",
+      "poster": "https://image.tmdb.org/t/p/w342/d8ss1109kLq2Z4K1eO9575CCKBe.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2mKBNYVTUVm9b8Kvqe20pOP7st7.jpg",
+      "description": "A zany comedy show with Matt Lucas and David Walliams, featuring characters from all over Little Britain.",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt0416394",
+      "type": "series",
+      "name": "The Mighty Boosh",
+      "poster": "https://image.tmdb.org/t/p/w342/dKlYEo7mc1XLN2PutYlRuTLUXlC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/91cTQeEKxpV6ysdPO3VWn66pehc.jpg",
+      "description": "A British comic fantasy containing humour and pop-culture references.  Episodes often featured elaborate musical numbers in different genres, such as electro, heavy metal, funk, and rap. The show has been known for popularising a style called \"crimping\"; short acappella songs which are present throughout all three series.",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt4401960",
+      "type": "series",
+      "name": "Operation Ouch!",
+      "poster": "https://image.tmdb.org/t/p/w342/3BZdOE7zeYX1DGscvIyUTEkUMbi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5QllU1d5EQjF2mniTW5vP16cHWu.jpg",
+      "description": "Operation Ouch! is a British children's educational television series about the human body. It shows what happens in A&E, what doctors sometimes have problems with and great experiments. The show is hosted by twin brothers Dr Chris and Dr Xand van Tulleken. Series 5 was named \"Operation Ouch! Hospital Takeover\".",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt9780442",
+      "type": "series",
+      "name": "RuPaul's Drag Race UK",
+      "poster": "https://image.tmdb.org/t/p/w342/rffFiZHh5gWOefFZnJkuCr83qq5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/AaJVYiHTFNeehKde1H4o57m4Gw8.jpg",
+      "description": "RuPaul has made the trip across the pond in search of a queen with the most charisma, uniqueness, nerve and talent in all the land.",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt1049304",
+      "type": "series",
+      "name": "ScreenPlay",
+      "poster": "https://image.tmdb.org/t/p/w342/bcegph0ViAJWlI4zau3UBYq650C.jpg",
+      "description": "Screenplay was a drama anthology television series, broadcast on BBC between 1986 and 1993.\n\nNumerous episodes were produced including one named \"Boswell and Johnson's Tour of the Western Islands\" starring Robbie Coltrane as English writer Samuel Johnson who in the autumn of 1773, visits the Hebrides off the north-west coast of Scotland. That episode was directed by John Byrne and co-starred John Sessions and Celia Imrie.",
+      "releaseInfo": "1986"
+    },
+    {
+      "id": "tt0164301",
+      "type": "series",
+      "name": "United!",
+      "description": "United! was a British television series which was produced by the BBC between 1965 and 1967, and was broadcast twice-weekly on BBC1.\n\nThe series followed the fortunes of a fictional second division football team, Brentwich United. The football scenes were filmed on the grounds of Stoke City with Jimmy Hill acting as a technical advisor, and the efforts to achieve authenticity saw the show being criticised by the then management of Wolverhampton Wanderers, who complained that the series was based on their team.",
+      "releaseInfo": "1965"
+    },
+    {
+      "id": "tt1049986",
+      "type": "series",
+      "name": "Centre Play",
+      "poster": "https://image.tmdb.org/t/p/w342/ex4paXq5jCU7HzO1BxrMICnZO3p.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nnViOFkjI19SZcTpNCPZUrOzvF8.jpg",
+      "description": "Anthology series of half hour plays produced in BBC's Television Centre's studios.",
+      "releaseInfo": "1973"
+    },
+    {
+      "id": "tt5103758",
+      "type": "series",
+      "name": "Troy: Fall of a City",
+      "poster": "https://image.tmdb.org/t/p/w342/wPLiUBrVav1ssvRwcr0M3Xq92Vi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3zzAYFF57wqNbwDqtByMHi85HkH.jpg",
+      "description": "A rich story of love, intrigue, betrayal and belonging told from the perspective of the Trojan royal family at the heart of the siege of Troy.",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt4320944",
+      "type": "series",
+      "name": "Red Rock",
+      "poster": "https://image.tmdb.org/t/p/w342/1aEZ11BETPDwv0MBKj9Mrv9wyNV.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3h9K7ms8UN1XDfLjqXj5ajLrQuO.jpg",
+      "description": "Starting on the day a long, dormant feud between two local families is brutally reignited, this continuing drama is based around a busy Dublin Garda station. On one side, the Hennessys, a local dynasty, whose name is above half the businesses in town. On the other side, the Kielys, who have turned petty crime into a cottage industry. Charting the life and dramas of a community about to be enveloped by a feud, through the eyes of those who police it, each episode will be a mix of 'crime of the week' stories and on-going serial arcs, following principle characters in both their professional and personal lives. A powerful and moving drama, Red Rock is a contemporary western, set in the shadow of Ireland's 'gold rush'.",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt0129717",
+      "type": "series",
+      "name": "Softly, Softly",
+      "poster": "https://image.tmdb.org/t/p/w342/oTkdPnZMjaAFLo8NcasiBEadlTE.jpg",
+      "description": "Softly, Softly is a British television drama series, produced by the BBC and screened on BBC 1 from January 1966. It centred around the work of regional crime squads, plain-clothes CID officers based in the fictional region of Wyvern, supposedly in the Bristol area of England.",
+      "releaseInfo": "1966"
+    },
+    {
+      "id": "tt0435950",
+      "type": "series",
+      "name": "The Culture Show",
+      "poster": "https://image.tmdb.org/t/p/w342/hK9eOWb64rHforMWHaYFVd64ubg.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xJXG9XbRBKUfbPNehaW7Vnu2w5g.jpg",
+      "description": "A weekly BBC Two magazine programme focusing on the best of the week's arts and culture news, covering books, art, film, architecture and more.",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt0221300",
+      "type": "series",
+      "name": "Jazz",
+      "poster": "https://image.tmdb.org/t/p/w342/40S5JFf0pH9Ojk47B0nvy3eUrP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/83NcBu7VvxbbbtxtPPazlAa5H4o.jpg",
+      "description": "Jazz is a ten part series that explores the evolution – and the genius – of America’s greatest original art form, focusing on the extraordinary men and women who could do something remarkable – create art on the spot. Jazz celebrates their profoundly enduring, endlessly varied, and infinitely alluring music in the context of the complicated country that gave birth to and influenced it, and was in turn transformed by it.",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt12740874",
+      "type": "series",
+      "name": "Michael McIntyre's The Wheel",
+      "poster": "https://image.tmdb.org/t/p/w342/ezMw1VmX5GJmoBpryecToqk0qm.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xoeryDmniAgvLNpAeOn0odRBMQ1.jpg",
+      "description": "Michael McIntyre hosts a gameshow packed with huge stars, big laughs and a giant spinning wheel. Can the contestants, guided by celebrity experts, answer their way to a fortune?",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt1179658",
+      "type": "series",
+      "name": "Out of the Blue",
+      "poster": "https://image.tmdb.org/t/p/w342/cKRbUskzOdxQF6BthefwLYsmedu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5n1YbbRu9FdOPsG4F72gvDjjwYa.jpg",
+      "description": "Set in Sydney beach suburb of Manly, New South Wales, Out of the Blue is a drama about a group of thirty-year-old friends returning home for a high school reunion, which is brought to an end when someone is murdered. An investigation follows as the group attempts to discover which one of them was the killer.",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt2262456",
+      "type": "series",
+      "name": "The Hollow Crown",
+      "poster": "https://image.tmdb.org/t/p/w342/1Q8m6nI5m66DjnQ5V661anWqpVu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6EqzzM5UW0MqNmYaJVCWc9fAIJR.jpg",
+      "description": "A series of British television films featuring William Shakespeare's History Plays.",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt0429290",
+      "type": "series",
+      "name": "40 Minutes",
+      "poster": "https://image.tmdb.org/t/p/w342/sZMkkYukkdwTfs7unrWzaioGPr5.jpg",
+      "description": "40 Minutes was a BBC TV documentary strand broadcast on BBC Two between 1981 and 1994. The documentaries could be on any possible subject, the only connection being that they last forty minutes.\n\nSome documentaries in the original series were revisited and updated in a 2006 version, Forty Minutes On.",
+      "releaseInfo": "1981"
+    },
+    {
+      "id": "tt0139781",
+      "type": "series",
+      "name": "Live & Kicking",
+      "poster": "https://image.tmdb.org/t/p/w342/s7W5b3kBgcWBiNbU36NnxQWSwyO.jpg",
+      "description": "Live & Kicking was a BBC Saturday morning children's magazine programme, running from 1993 to 2001. The fourth in a succession of Saturday morning shows, it was the replacement for Going Live!, and took many of its features from it, such as phone-ins, games, comedy, competitions and the showing of cartoons. Once Live & Kicking had become established in series two, it reached its height in popularity during series four, when it was presented by Zoë Ball and Jamie Theakston; their final episode won a BAFTA award. After this the series ratings dropped with the launch of SMTV Live on ITV and was eventually cancelled in 2001.",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0163488",
+      "type": "series",
+      "name": "Robot Wars",
+      "poster": "https://image.tmdb.org/t/p/w342/hgEMphZflf0IQcpYSqAbx65GJXB.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7mvqFxGARotkJ6daVjrPEGIL5Nk.jpg",
+      "description": "Teams of amateur robot fighting enthusiasts battle it out over a series of rounds in a huge purpose-built arena aiming to become the Robot Wars Champion.",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt1349938",
+      "type": "series",
+      "name": "Being Human",
+      "poster": "https://image.tmdb.org/t/p/w342/rlDefnxVHcXwwm2bxPHknNRl4l.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yEooPSWqMM72xHh7HGwSAM8GpUc.jpg",
+      "description": "Deciding to turn over a new leaf, a group of friends who also happen to be vampires and werewolves move into a house together, only to find that it is haunted by ghosts of people who have been killed under mysterious circumstances. As they deal with the challenges of being supernatural creatures, their desire to be human bonds them.",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt1178618",
+      "type": "series",
+      "name": "Wallander",
+      "poster": "https://image.tmdb.org/t/p/w342/xK5jgSqoOfKwNG0WwrFObmIq0YJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iw1nqLAcPbsrcYYEgrkNKezWQDj.jpg",
+      "description": "This drama follows Inspector Kurt Wallander – a middle-aged everyman – as he struggles against a rising tide of violence in the apparently sleepy backwaters in and around Ystad in Skane, southern Sweden. Based on the international best-selling books by Henning Mankell.",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt0115105",
+      "type": "series",
+      "name": "Ballykissangel",
+      "poster": "https://image.tmdb.org/t/p/w342/dZUfIrlXUXcptaTGNqy2jc5DGyA.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/z8U5TieGteOtukxxAvruqdeQNjh.jpg",
+      "description": "A young British priest adjusts to life in a rural Irish community where life revolves around the church and the local pub. Everyone knows everyone else's business, and everyone usually has an opinion on it. While characters come and go, the small-town qualities remain.",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0115178",
+      "type": "series",
+      "name": "The Frank Skinner Show",
+      "poster": "https://image.tmdb.org/t/p/w342/7nzwjitaz8C4BgB3YBHabLF60FY.jpg",
+      "description": "The Frank Skinner Show was a television chat show hosted by comedian Frank Skinner, which lasted nine series on British television between 1995 and 2005.\n\nAs well as celebrity interviews, the shows included an initial stand-up routine, various sketches throughout the episode and usually concluded with a comedic song featuring Frank and the guest stars. The Frank Skinner Show became notorious over the years for the unconventional nature of the interviews, including some shocking revelations from the guests. The programme ended in 2005 after nine series.\n\nIt was screened on BBC One from its first episode on 10 September 1995 until 3 June 1999.\n\nIn 2000, the show moved to ITV. The programme was nominated for a Royal Television Society Award in 2001.",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0071060",
+      "type": "series",
+      "name": "Sykes",
+      "poster": "https://image.tmdb.org/t/p/w342/rqLVxWWTd3fBs4XJybGluG943Kv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/19nH7CNSzZMGbCfp6DAUPTTaJ8F.jpg",
+      "description": "Classic sitcom starring Eric Sykes and Hattie Jacques as brother and sister twins who have to tackle the trials and tribulations of suburban life.",
+      "releaseInfo": "1972"
+    },
+    {
+      "id": "tt30744080",
+      "type": "series",
+      "name": "Postman Pat: Special Delivery Service",
+      "poster": "https://image.tmdb.org/t/p/w342/93UesuYH1SLOLinvg29a8ruiebg.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rWQbCTjXKwWJaZcEwHmHo76GI3N.jpg",
+      "description": "The world’s favourite Postman is back and delivering more than ever. Postman Pat has been promoted to the post of Head of Special Delivery Service. Equipped with his pilots license and a host of new transport options, Pat delivers in hard to reach places, from the top of a mountain to the middle of the sea anything from a giant ice block to a runaway cow!",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt3556920",
+      "type": "series",
+      "name": "Wolf Hall",
+      "poster": "https://image.tmdb.org/t/p/w342/dGuiMtUQBGxM3ZWosphO2MdYw8o.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7NVEoLneY7Ems0GRh30Aj2R3Ynm.jpg",
+      "description": "England in the 1520s is a heartbeat from disaster. If the King dies without a male heir, the country could be destroyed by civil war. Henry VIII wants to annul his marriage of twenty years and marry Anne Boleyn. The Pope and most of Europe oppose him. Into this impasse steps Thomas Cromwell: a wholly original man, a charmer, and a bully, both idealist and opportunist, astute in reading people, and implacable in his ambition. But Henry is volatile: one day tender, one day murderous. Cromwell helps him break the opposition, but what will be the price of his triumph?",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt0063869",
+      "type": "series",
+      "name": "The Benny Hill Show",
+      "poster": "https://image.tmdb.org/t/p/w342/y3mGj6YAy7CRWMq06gjsXf3rIJ1.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bp30imMTFKAcxrZMi4hjBwY91A6.jpg",
+      "description": "The Benny Hill Show is a British comedy television show that starred Benny Hill and aired in various incarnations between 15 January 1955 and 30 May 1991 in over 140 countries. The show focused on sketches that were full of slapstick, mime, parody, and double-entendre. Thames Television cancelled production of the show in 1989 due to declining ratings and large production costs at £450,000 per show.",
+      "releaseInfo": "1969"
+    },
+    {
+      "id": "tt14466446",
+      "type": "series",
+      "name": "Domino Day",
+      "poster": "https://image.tmdb.org/t/p/w342/qPDxgmngzLqqwMz9xNl9hrZCwg5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/zexWsJ5BsRzNlUJxg4FKHJH4Pvm.jpg",
+      "description": "A young witch with extraordinary powers, Domino desperately seeks a community to help her understand who she is. Still, she doesn’t need to look far, as a coven of witches is already tracking her every move, convinced they must stop her before her powers destroy everyone and everything around her.",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt5900600",
+      "type": "series",
+      "name": "Les Misérables",
+      "poster": "https://image.tmdb.org/t/p/w342/vD5gUfFYEuYXwfOVJQjLIQTGs0s.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/uyN1hL0T7bda47EpAtvCsCZfYX2.jpg",
+      "description": "France, 1815. Jean Valjean, a common thief, is released from prison after having lived a hell in life for 19 years, but a small mistake puts the law again on his trail. Ruthless Inspector Javert pursues him thorough years, driven by a twisted sense of justice, while Valjean reforms himself, thrives and dedicates his life to good deeds. In 1832, while the revolution ravages the streets of Paris, Valjean and Javert cross their paths for the last time.",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt1533435",
+      "type": "series",
+      "name": "Miranda",
+      "poster": "https://image.tmdb.org/t/p/w342/uaqKf7WehmY40HgomvWUpEzrj1s.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9W3Unw6mXX5gSuAt0xCZVAGUW0m.jpg",
+      "description": "Socially inept Miranda always gets into awkward situations; working in her joke shop with best friend Stevie, being hounded by her pushy mother, and especially when she's around her crush Gary.",
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt22794216",
+      "type": "series",
+      "name": "Supertato",
+      "poster": "https://image.tmdb.org/t/p/w342/8zmrZBM5QF32HgSetS2i1wm2npT.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/oacUz2irG3GfdQMBPynT17bD1nO.jpg",
+      "description": "Follow the adventures of Supertato, the world’s first potato superhero, as he tackles the mischievous Evil Pea in the supermarket aisles.",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt0071325",
+      "type": "series",
+      "name": "Churchill's People",
+      "poster": "https://image.tmdb.org/t/p/w342/cPEqAOyP6VCRkAAEUCfqTmmJhj0.jpg",
+      "description": "Churchill's People is a British anthology series based on A History of the English-Speaking Peoples, Winston Churchill's four-volume history of Britain and its former colonies. 26 episodes were produced by the BBC and initially broadcast from 30 December 1974 to 23 June 1975.",
+      "releaseInfo": "1974"
+    },
+    {
+      "id": "tt36590516",
+      "type": "series",
+      "name": "Crookhaven",
+      "poster": "https://image.tmdb.org/t/p/w342/9mmJrXEBlLKtR7ccTl4Qnw99fci.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/c9vY4SsztkaIdy18RYNoC6sde4f.jpg",
+      "description": "Set at mysterious Crookhaven School, high achieving young crooks from across the world are secretly selected to hone their skills in disciplines such as Deception, Crimnastics, Forgery and Infiltration, learning how to use their skills for good and to do what is right in their own way.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0363378",
+      "type": "series",
+      "name": "The Story of Tracy Beaker",
+      "poster": "https://image.tmdb.org/t/p/w342/iggQkR7r6hfbaJwheZQIixHx9dK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dIL6DoQIxtDZN5FlSkFoSSKmlSm.jpg",
+      "description": "Tracy Beaker is a 10-year-old girl who has been placed in a children's home. Tracy makes new friends along the way and causes mischief wherever she goes.",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt1601983",
+      "type": "series",
+      "name": "The Play on One",
+      "poster": "https://image.tmdb.org/t/p/w342/nW1BRPm1rNSpy0W4c9jIzha5hgl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/87sI2NzBBSU0CSBfSol9JcrgKez.jpg",
+      "description": "A series of television plays, some original, some based on pre-existing plays or novels.",
+      "releaseInfo": "1988"
+    },
+    {
+      "id": "tt2271773",
+      "type": "series",
+      "name": "Winterwatch",
+      "poster": "https://image.tmdb.org/t/p/w342/2M5KfS1vgUx93MRF086WcKK5QP1.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4AX1hpEjDtziKuufyElCB7hUZOi.jpg",
+      "description": "Live coverage as our wildlife faces up to the most challenging time of year.",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt0065296",
+      "type": "series",
+      "name": "The Goodies",
+      "poster": "https://image.tmdb.org/t/p/w342/gNpIKitxIioFlHU0JxOuEMLW4A9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dIZTnaK3341UJav7jDRDBwmSDOS.jpg",
+      "description": "A British television comedy series of the 1970s and early 1980s, combining surreal sketches and situation comedy.",
+      "releaseInfo": "1970"
+    },
+    {
+      "id": "tt1102520",
+      "type": "series",
+      "name": "The Big Questions",
+      "poster": "https://image.tmdb.org/t/p/w342/zVaxHUQ4uHMyn4FDWdmrj5Sp22G.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hmxB1meDdUe3e6x81OOjp5NU2Bz.jpg",
+      "description": "Nicky Campbell hosts a series of moral, ethical and religious debates.",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt0074035",
+      "type": "series",
+      "name": "The Onedin Line",
+      "poster": "https://image.tmdb.org/t/p/w342/wdMppd359jiZMz4tO5qPVLG1IF6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hC7FyjPrGv7kas0q4t6nrmxSm81.jpg",
+      "description": "The Onedin Line is a BBC television drama series which ran from 1971 to 1980. The series was created by Cyril Abraham.\n\nThe series is set in Liverpool from 1860 to 1886 and deals with the rise of a shipping line, the Onedin Line, named after its owner James Onedin. Around this central theme are the lives of his family, most notably his brother and partner, shop owner Robert, and his sister Elizabeth, giving insight into the lifestyle and customs at the time, not only at sea, but also ashore. The series also illustrates some of the changes in business and shipping, such as from wooden to steel ships and from sailing ships to steam ships. It shows the role that ships played in affairs like international politics, uprisings and the slave trade.",
+      "releaseInfo": "1971"
+    },
+    {
+      "id": "tt35933375",
+      "type": "series",
+      "name": "Remembers…",
+      "poster": "https://image.tmdb.org/t/p/w342/p06kETQjtLt7wAmhAY4VessRpIk.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5CDbKOsxW5lb7z2CF3a1MM482YL.jpg",
+      "description": "What are the secrets of our favourite TV shows? Famous names from both sides of the camera reflect on making some of the most popular and influential programs of all time.",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt10985096",
+      "type": "series",
+      "name": "Call Me Kat",
+      "poster": "https://image.tmdb.org/t/p/w342/eEwTV4Z397UgMlbJN3FQDdTOMpO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/uC6wpAogj9I7Rm73RPqIC9ZPFVq.jpg",
+      "description": "Kat is a woman who struggles every day against society and her mother to prove that she can still live a happy and fulfilling life despite still being single at 39. Which is why she recently spent her entire savings to open a cat café in Louisville, Kentucky.",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt0302128",
+      "type": "series",
+      "name": "Judge John Deed",
+      "poster": "https://image.tmdb.org/t/p/w342/ltAeTRyVxmWeU4G0vTZZtulNFSJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hDZYGMlf01vEYJvDacoI8enxFCx.jpg",
+      "description": "Judge John Deed is a British legal drama television series produced by the BBC in association with One-Eyed Dog for BBC One. It was created by G.F. Newman and stars Martin Shaw as Sir John Deed, a High Court judge who tries to seek real justice in the cases before him. It also stars Jenny Seagrove as the barrister Jo Mills, frequently the object of Deed's desire. A pilot episode was broadcast on 9 January 2001, followed by the first full series on 26 November 2001. The sixth and last series concluded on 18 January 2007. The programme then went on an indefinite break after Shaw became involved in another television programme, and he and Seagrove expressed a wish for the format of the series to change before they filmed new episodes. By 2009, the series had officially been cancelled. The six series produced make it the longest-running BBC legal drama.\n\nThe factual accuracy of the series is often criticised by legal professionals and journalists; many of the decisions taken by Deed are unlikely to happen in a real court. The romanticised vision of the court system created by Newman caused a judge to issue a warning to a jury not to let the series influence their view of trials—referring to an episode where Deed flouts rules when called up for jury duty. Another episode led to complaints about biased and incorrect information about the MMR vaccine, leading the BBC to ban repeats of it in its original form. All six series have been released on DVD in the UK.",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt0478942",
+      "type": "series",
+      "name": "Life on Mars",
+      "poster": "https://image.tmdb.org/t/p/w342/eoZzXx2DW8XeaIS8iYs0ePxH3DG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tlN8MGKlGZmJqYpwoqCB5YwLqBx.jpg",
+      "description": "A detective chief inspector from 2006 is investigating a serial killer when he is knocked over by a speeding car. Waking up, he finds himself mysteriously transported back in time to 1973. Initially struggling to come to terms with his situation, he has to come to terms with the old-fashioned technology and attitude of the day, while figuring out how he came to be trapped in the past.",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt0101155",
+      "type": "series",
+      "name": "Noel's House Party",
+      "poster": "https://image.tmdb.org/t/p/w342/aQ0KDd3xRtGEuEDOU9Kv1CuOnyu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wae28Z8cBE8ic62YzBQBgHMw0Po.jpg",
+      "description": "Noel's House Party is a BBC television light entertainment show hosted by Noel Edmonds that was broadcast live on Saturday evenings throughout the 1990s. It was set in a large house in the fictional village of Crinkley Bottom, leading to much innuendo. The show was broadcast during the autumn-spring season. It was the successor show to Noel's Saturday Roadshow, and carried over some of its regular features such as the Gunge Tank, the Gotcha Oscar and Wait 'Till I Get You Home. In 2010, Noel's House Party was voted the best Saturday night TV show of all time.\n\nThe show had many regular guests posing as fictional villagers, including Frank Thornton and Vicki Michelle. The show gave birth to Mr. Blobby in the Gotcha segment. The character became well known, ruining the premise of the segment, but Blobby still made appearances. There was also a contrived rivalry between Noel and Tony Blackburn. In addition, many episodes featured one-off guest stars, including Michael Crawford as Frank Spencer, who came in to find the whole audience dressed as Frank after Fantastic Stuart Henderson from Troon had performed as Frank singing The Beatles song \"I Saw Her Standing There\", and Ken Dodd in a highwayman's outfit - 'Going cheap at the Maxwell sale' - as Noel's long lost 'twin', Berasent.",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt4735850",
+      "type": "series",
+      "name": "So Awkward",
+      "poster": "https://image.tmdb.org/t/p/w342/3FHNrPPTCaRFerdKb1FTrUpvIYx.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aporTiF9w3sC89bATWr50zY89D5.jpg",
+      "description": "A sitcom about three very academically bright, but socially awkward teenage girls, trying to make sense of life, boys and fitting in. While other girls their age are going to parties, netball practice and sleepovers, Lily, Martha and Jas are busy with chess club, homework and Friday nights in watching documentaries.",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt0876219",
+      "type": "series",
+      "name": "Young Dracula",
+      "poster": "https://image.tmdb.org/t/p/w342/nKNtYVK2vhJudSOCDjhCtqAAZpa.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2ZTPDS1BNTgWggSlLLCKBMiqqWz.jpg",
+      "description": "The misadventures of Vlad and Ingrid, who have moved to Britain from Transylvania with their father Count Dracula.",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt37022512",
+      "type": "series",
+      "name": "The Other Bennet Sister",
+      "poster": "https://image.tmdb.org/t/p/w342/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ff6y85mMOnsLPcgUS0q3zX1N7WO.jpg",
+      "description": "Mary isn't your typical period drama heroine. She is awkward, anxious, preachy, full of facts, a terrible singer, overlooked by her mother and seemingly destined to an empty dance card for the rest of her life… until Mary takes matters into her own hands.",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt0072500",
+      "type": "series",
+      "name": "Fawlty Towers",
+      "poster": "https://image.tmdb.org/t/p/w342/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3G1uNDOGJWLNTOzjkdVphVlRmli.jpg",
+      "description": "Owner Basil Fawlty, his wife Sybil, a chambermaid Polly, and Spanish waiter Manuel attempt to run their hotel amidst farcical situations and an array of demanding guests.",
+      "releaseInfo": "1975"
+    },
+    {
+      "id": "tt0196297",
+      "type": "series",
+      "name": "Treasure Hunt",
+      "poster": "https://image.tmdb.org/t/p/w342/w8ewFUiFNC5pfDk8cBeCgk9Lwzx.jpg",
+      "description": "Helicopter skyrunner Anneka Rice races against the clock to find directions to treasure at locations worked out by studio guests from cryptic clues.",
+      "releaseInfo": "1982"
+    },
+    {
+      "id": "tt0237123",
+      "type": "series",
+      "name": "Coupling",
+      "poster": "https://image.tmdb.org/t/p/w342/cfHQwmPUrCbm6XAPnuuBAVZpC94.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/uYwXRytQ99XQKq31JFGqrnlIyhh.jpg",
+      "description": "Six friends in their thirties navigate dating, sexual adventures,  and mishaps on their quest to find love.",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0052515",
+      "type": "series",
+      "name": "The Third Man",
+      "poster": "https://image.tmdb.org/t/p/w342/i4YhNRkvZ34wj3hIiwkt4K3Bmbk.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/zHftr1XNpE4aaltbUvhzzdEwWbv.jpg",
+      "releaseInfo": "1959"
+    },
+    {
+      "id": "tt0159187",
+      "type": "series",
+      "name": "The Troubleshooters",
+      "poster": "https://image.tmdb.org/t/p/w342/xqQ1MabAQ2Df8mC88bR35wThGen.jpg",
+      "description": "The Troubleshooters is a British television series made by the BBC between 1965 and 1972, created by John Elliot. During its run, the series made the transition from black and white to colour transmissions.\n\nThe series was based around an international oil company – the \"Mogul\" of the title. The first series was mostly concerned with the internal politics within the Mogul organisation, with episodes revolving around industrial espionage, internal fraud and negligence almost leading to an accident on a North Sea oil rig.",
+      "releaseInfo": "1965"
+    },
+    {
+      "id": "tt3070014",
+      "type": "series",
+      "name": "Sarah & Duck",
+      "poster": "https://image.tmdb.org/t/p/w342/u4SwnXjUFDiyRPPBc4st9TGQefm.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/shsQmS8hqf3Z2lyPIbsYHV5iUaJ.jpg",
+      "description": "Sarah is a 7-year-old girl with big eyes and a green hat. She lives with her best friend, a quacky, slightly manic fowl appropriately named Duck. Each episode features the pair setting out on simple but exciting adventures as they explore the world in their own imaginative way.",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt5194792",
+      "type": "series",
+      "name": "NOS4A2",
+      "poster": "https://image.tmdb.org/t/p/w342/gnosVTTRTCqooJuipwU6C0bgOGf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/enRS7bE43q7VmurYqlyroOeZLGa.jpg",
+      "description": "A young Victoria \"Vic\" McQueen discovers she has the power to unlock portals that help her find lost objects. As she delves further into this hidden universe, she encounters many other \"inscape travelers\" - some benevolent, and some who have been corrupted by their power. When Vic encounters Charlie Manx, an immortal who stays that way by feeding off of the souls of children, she makes a sworn enemy of Manx.",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt0080234",
+      "type": "series",
+      "name": "Juliet Bravo",
+      "poster": "https://image.tmdb.org/t/p/w342/ifs860YxxWnJHFMeLTlbeSXGN8B.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dDNs8fUAiWTcSY5OgLKoYCG1hJT.jpg",
+      "description": "Juliet Bravo was a drama that focused on two female police inspectors, neither of whom were called Juliet Bravo!  These two inspectors worked in the small fictional town of Hartley, Lancashire. Jean Darblay was on the scene first and had trouble with her sexist colleagues. However she soon managed to gain their trust and prove a woman could be a successful police officer and housewife.  Jean's call sign was Juliet Bravo. When she was promoted and moved on she was replaced by Kate Longton who not only took over the patch but also the headaches that went with it.",
+      "releaseInfo": "1980"
+    },
+    {
+      "id": "tt2705602",
+      "type": "series",
+      "name": "Atlantis",
+      "poster": "https://image.tmdb.org/t/p/w342/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nMdyDnHiRpJ2sfqk3JfUb3CvME4.jpg",
+      "description": "A fantasy drama set in a world of legendary heroes and mythical creatures. Far from home and desperate for answers, Jason washes up on the shores of an ancient land. A mysterious place; a world of bull leaping, of snake haired goddesses and of palaces so vast it was said they were built by giants - this is the city of Atlantis. Aided by his two new friends, Pythagoras and Hercules, Jason embarks on a voyage of discovery, and salvation, which sees him brush shoulders with Medusa, come face to face with the Minotaur and even do battle with the dead.",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt0075579",
+      "type": "series",
+      "name": "Secret Army",
+      "poster": "https://image.tmdb.org/t/p/w342/xf1eqEBfXDH7a8b7jmi0cucCiOD.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9LAyILDyuMlJtb4wmz4uttWd8qN.jpg",
+      "description": "World War II drama about covert organisation Lifeline helping allied airmen escape after being shot down in occupied Europe, working with the Resistance and hiding from the Gestapo.",
+      "releaseInfo": "1977"
+    },
+    {
+      "id": "tt3581932",
+      "type": "series",
+      "name": "And Then There Were None",
+      "poster": "https://image.tmdb.org/t/p/w342/xbcGTnlxszacXztaOdY2hu5TI7K.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iM6t3rNQNmUJgIzNCF1aPiD6A5j.jpg",
+      "description": "Ten strangers, drawn away from their normal lives to an isolated rock off the Devon coast. But as the mismatched group waits for the arrival of the hosts -- the improbably named Mr. and Mrs. U.N. Owen -- the weather sours and they find themselves cut off from civilization. Very soon, the guests, each struggling with their conscience, will start to die -- one by one, according to the rules of the nursery rhyme 'Ten Little Soldier Boys' -- a rhyme that hangs in every room of the house and ends with the most terrifying words of all: '... and then there were none.",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt1314953",
+      "type": "series",
+      "name": "Festival",
+      "description": "An anthology of single plays offering up adaptations of either of prominent stage plays or novels.",
+      "releaseInfo": "1963"
+    },
+    {
+      "id": "tt7573024",
+      "type": "series",
+      "name": "Creeped Out",
+      "poster": "https://image.tmdb.org/t/p/w342/5TFYkGC8eSUlIz2TMqL4IKPUbBK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9YrrHB7LIiuMElYpgeLbXi0uZj9.jpg",
+      "description": "A masked figure known as \"The Curious\" collects tales of dark magic, otherworldly encounters and twisted technology in this kids anthology series.",
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt0459159",
+      "type": "series",
+      "name": "The Thick of It",
+      "poster": "https://image.tmdb.org/t/p/w342/xuOz95tUuXclfnlOID7ejtREYqf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rReAn187hBmmk5YoWA7I3amfaUK.jpg",
+      "description": "Set in the corridors of power and spin, the Minister for Social Affairs is continually harassed by Number 10's policy enforcer and dependent on his not-so-reliable team of civil servants.",
+      "releaseInfo": "2005"
+    }
+  ]
+}
