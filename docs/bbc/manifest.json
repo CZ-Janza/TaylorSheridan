@@ -1,0 +1,27 @@
+{
+  "id": "cz.janza.bbc",
+  "version": "1.0.0",
+  "name": "BBC",
+  "description": "A catalog of movies and series produced by the BBC and its subsidiaries (BBC Films, BBC Studios, BBC Worldwide, BBC One, BBC Two, CBBC and more). Updated automatically every week from TMDB.",
+  "resources": ["catalog"],
+  "types": ["movie", "series"],
+  "idPrefixes": ["tt"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "bbc-movies",
+      "name": "BBC",
+      "extra": [{ "name": "skip", "isRequired": false }]
+    },
+    {
+      "type": "series",
+      "id": "bbc-series",
+      "name": "BBC",
+      "extra": [{ "name": "skip", "isRequired": false }]
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}

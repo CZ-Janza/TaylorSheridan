@@ -1,0 +1,21 @@
+{
+  "companyQueries": ["BBC", "CBBC", "CBeebies"],
+  "companyNamePattern": "^(BBC|CBBC|CBeebies)\\b",
+  "extraCompanyIds": [],
+  "excludeCompanyIds": [],
+  "candidateNetworkIds": [
+    2, 3, 4, 6, 12, 15, 22, 26, 33, 44, 51, 65, 93, 99, 100, 116, 168, 214,
+    332, 493, 1080, 3324, 4084
+  ],
+  "networkNamePattern": "^(BBC|CBBC|CBeebies)\\b",
+  "maxItemsPerType": 500,
+  "pageSize": 100,
+  "sortBy": "popularity",
+  "minVoteCount": 0,
+  "excludeTmdbIds": {
+    "movies": [],
+    "series": []
+  },
+  "language": "en-US",
+  "fallbackLanguage": "en-US"
+}

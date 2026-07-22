@@ -1,35 +1,47 @@
-# Taylor Sheridan — Stremio catalog
+# Stremio catalogs — Taylor Sheridan & BBC
 
-A Stremio add-on that adds a **Taylor Sheridan** category to
-**Discover → Movies / Series**, listing every movie and show he wrote,
-directed or created (Yellowstone, 1883, 1923, Sicario, Wind River,
-Hell or High Water…).
+Two Stremio add-ons served from one repository. Both add a category to
+**Discover → Movies / Series** and both **update automatically every week**
+from the [TMDB](https://www.themoviedb.org) database via GitHub Actions — no
+manual work and zero cost (static files served from GitHub Pages).
 
-The catalog **updates automatically every week** from the
-[TMDB](https://www.themoviedb.org) database via GitHub Actions — no manual
-work and zero cost (static files served from GitHub Pages).
+| Add-on | What's in it | Manifest URL |
+|---|---|---|
+| **Taylor Sheridan** | Every movie and show he wrote, directed or created (Yellowstone, 1883, 1923, Sicario, Wind River, Hell or High Water…) | `https://cz-janza.github.io/TaylorSheridan/manifest.json` |
+| **BBC** | Movies and series produced by the BBC and its subsidiaries (BBC Films, BBC Studios, BBC Worldwide, BBC One, BBC Two, CBBC…) | `https://cz-janza.github.io/TaylorSheridan/bbc/manifest.json` |
 
-Add-on URL: `https://cz-janza.github.io/TaylorSheridan/manifest.json`
+Install pages: [Taylor Sheridan](https://cz-janza.github.io/TaylorSheridan/) ·
+[BBC](https://cz-janza.github.io/TaylorSheridan/bbc/)
 
 ---
 
 ## How it works
 
 ```
-config.json ──► scripts/generate.js ──► docs/catalog/*.json ──► GitHub Pages ──► Stremio
-                     ▲
-              TMDB API (person filmography)
-                     ▲
-        GitHub Action (cron: every Monday)
+config.json     ──► scripts/generate.js     ──► docs/catalog/*.json      ──┐
+config.bbc.json ──► scripts/generate-bbc.js ──► docs/bbc/catalog/*.json ──┤
+                            ▲                                             │
+                     TMDB API                          GitHub Pages ──► Stremio
+                            ▲
+             GitHub Action (cron: every Monday)
 ```
 
-- The script finds Taylor Sheridan on TMDB, downloads his complete
-  filmography, filters roles according to `config.json`, and resolves the
-  IMDb ID for each title.
-- The result is written as static JSON files into `docs/`, which GitHub Pages
-  serves as a ready-made Stremio add-on (HTTPS + CORS for free).
-- A GitHub Action runs the whole thing every Monday; when a new title appears
-  it commits it automatically and the catalog updates for all users.
+- **Taylor Sheridan** follows one *person's* filmography: the script finds him
+  on TMDB, downloads his complete credits, filters roles according to
+  `config.json`, and resolves the IMDb ID for each title.
+- **BBC** follows *production companies and TV networks*: it discovers every
+  BBC company on TMDB by name (so subsidiaries are picked up automatically
+  rather than hard-coded), verifies the BBC channels, then queries
+  `/discover` for everything they produced or aired.
+- Both write static JSON into `docs/`, which GitHub Pages serves as ready-made
+  Stremio add-ons (HTTPS + CORS for free).
+- A GitHub Action runs both every Monday; when a new title appears it commits
+  it automatically and the catalogs update for all users.
+
+Titles that have not been released yet are marked **"(upcoming)"** in the name,
+with the expected date or production status in the description — Stremio's
+metadata add-on has no data for unreleased titles, so this keeps otherwise
+blank tiles readable.
 
 ## Setup (one-time, ~10 minutes)
 
@@ -112,16 +124,35 @@ URL).
 
 After changing `config.json` and pushing, the workflow runs automatically.
 
-**Tip:** the default is maximally broad — every title where Sheridan has any
-fingerprint (writing, directing, creating, producing, and acting). To narrow
-the catalog, set `includeAllCrewJobs: false` (then only roles from
-`includeJobs` count), or `includeActing: false`, or add specific TMDB IDs to
-`excludeTmdbIds`.
+**Tip:** the default is broad — every title where Sheridan has a crew
+fingerprint (writing, directing, creating, producing). Acting-only cameos from
+early in his career are excluded via `includeActing: false`; set it back to
+`true` if you want them.
+
+## Tuning the BBC catalog (`config.bbc.json`)
+
+| Key | Meaning |
+|---|---|
+| `companyQueries` | Names searched on TMDB to find BBC companies |
+| `companyNamePattern` | Regex a company name must match to count as BBC |
+| `extraCompanyIds` / `excludeCompanyIds` | Manually add or drop a TMDB company |
+| `candidateNetworkIds` | Network IDs to test (TMDB has no network search) |
+| `networkNamePattern` | Regex a network name must match to count as BBC |
+| `maxItemsPerType` | How many movies / series to keep (most popular first) |
+| `pageSize` | Items per Stremio "skip" page (0 = one big file) |
+| `minVoteCount` | Drop titles with fewer TMDB votes than this |
+| `sortBy` | `popularity` (default) or `date` |
+| `excludeTmdbIds` | TMDB IDs to leave out, per type |
+
+Because the BBC has produced far too much to list in one file, the catalog is
+capped at the most popular `maxItemsPerType` titles and split into pages that
+Stremio requests as you scroll.
 
 ## Running manually, locally
 
 ```bash
-TMDB_API_KEY=your_key node scripts/generate.js
+TMDB_API_KEY=your_key node scripts/generate.js       # Taylor Sheridan
+TMDB_API_KEY=your_key node scripts/generate-bbc.js   # BBC
 ```
 
 Requires Node.js 18+, no dependencies to install.
@@ -129,17 +160,28 @@ Requires Node.js 18+, no dependencies to install.
 ## Repository structure
 
 ```
-├── config.json                  # what goes into the catalog
+├── config.json                  # Taylor Sheridan catalog settings
+├── config.bbc.json              # BBC catalog settings
 ├── scripts/
-│   ├── generate.js              # catalog generator from TMDB
+│   ├── lib/
+│   │   ├── tmdb.js              # shared TMDB client (auth, retries, concurrency)
+│   │   └── catalog.js           # shared meta building + catalog writing
+│   ├── generate.js              # Taylor Sheridan generator
+│   ├── generate-bbc.js          # BBC generator
 │   └── publish.js               # one-time publish to Stremio
-├── .github/workflows/update.yml # weekly automatic update
-└── docs/                        # ← GitHub Pages = the finished add-on
-    ├── manifest.json
+├── .github/workflows/update.yml # weekly automatic update (runs both)
+└── docs/                        # ← GitHub Pages = the finished add-ons
+    ├── manifest.json            # Taylor Sheridan add-on
     ├── index.html               # install page
-    └── catalog/
-        ├── movie/taylor-sheridan-movies.json
-        └── series/taylor-sheridan-series.json
+    ├── catalog/
+    │   ├── movie/taylor-sheridan-movies.json
+    │   └── series/taylor-sheridan-series.json
+    └── bbc/                     # BBC add-on
+        ├── manifest.json
+        ├── index.html
+        └── catalog/
+            ├── movie/bbc-movies.json
+            └── series/bbc-series.json
 ```
 
 ## License
