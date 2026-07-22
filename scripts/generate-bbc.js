@@ -33,13 +33,20 @@ const CONCURRENCY = 8;
 /** Find all BBC production companies by searching TMDB company names. */
 async function findCompanies() {
   const re = new RegExp(CONFIG.companyNamePattern, "i");
+  // Some unrelated companies happen to start with "BBC" (e.g. the Italian
+  // "BBC di Renato Barbieri") – drop them by name so no TMDB ID is needed.
+  const excludeRe = CONFIG.companyNameExcludePattern
+    ? new RegExp(CONFIG.companyNameExcludePattern, "i")
+    : null;
   const found = new Map();
 
   for (const query of CONFIG.companyQueries || []) {
     for (let page = 1; page <= 20; page++) {
       const data = await tmdb("/search/company", { query, page });
       for (const c of data.results || []) {
-        if (re.test(c.name)) found.set(c.id, c.name);
+        if (re.test(c.name) && !(excludeRe && excludeRe.test(c.name))) {
+          found.set(c.id, c.name);
+        }
       }
       if (page >= (data.total_pages || 1)) break;
     }

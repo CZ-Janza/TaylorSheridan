@@ -1,6 +1,7 @@
 {
   "companyQueries": ["BBC", "CBBC", "CBeebies"],
   "companyNamePattern": "^(BBC|CBBC|CBeebies)\\b",
+  "companyNameExcludePattern": "Renato Barbieri",
   "extraCompanyIds": [],
   "excludeCompanyIds": [],
   "candidateNetworkIds": [
