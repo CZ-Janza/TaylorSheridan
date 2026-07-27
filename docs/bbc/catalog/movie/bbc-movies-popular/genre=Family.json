@@ -45,20 +45,6 @@
       ]
     },
     {
-      "id": "tt0482546",
-      "type": "movie",
-      "name": "Miss Potter",
-      "poster": "https://image.tmdb.org/t/p/w342/fecGKwGABfZdMbiH1WQN9zMcOkS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/heXvhrTFCF8j84iFQtpXEKCFwGL.jpg",
-      "description": "Beatrix Potter, the author of the beloved children's book \"The Tale of Peter Rabbit\", struggles for love, happiness and success.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Drama",
-        "Family",
-        "Romance"
-      ]
-    },
-    {
       "id": "tt0108598",
       "type": "movie",
       "name": "The Wrong Trousers",
@@ -70,6 +56,20 @@
         "Animation",
         "Comedy",
         "Family"
+      ]
+    },
+    {
+      "id": "tt0482546",
+      "type": "movie",
+      "name": "Miss Potter",
+      "poster": "https://image.tmdb.org/t/p/w342/fecGKwGABfZdMbiH1WQN9zMcOkS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/heXvhrTFCF8j84iFQtpXEKCFwGL.jpg",
+      "description": "Beatrix Potter, the author of the beloved children's book \"The Tale of Peter Rabbit\", struggles for love, happiness and success.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
+        "Family",
+        "Romance"
       ]
     },
     {
@@ -184,20 +184,6 @@
       ]
     },
     {
-      "id": "tt0363908",
-      "type": "movie",
-      "name": "Pride",
-      "poster": "https://image.tmdb.org/t/p/w342/smwTDsE33wGV8PFi3kz9h3kOUcr.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pbeG7KNVUDTNvvM7ucPzAkIPFDd.jpg",
-      "description": "The story of Suki, a lioness cub, who rebels against her mother and her Pride to mate with an unsuitable lion from the other side of the river.",
-      "releaseInfo": "2004",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Family"
-      ]
-    },
-    {
       "id": "tt1658851",
       "type": "movie",
       "name": "Toast",
@@ -222,6 +208,20 @@
       "releaseInfo": "2009",
       "genres": [
         "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0363908",
+      "type": "movie",
+      "name": "Pride",
+      "poster": "https://image.tmdb.org/t/p/w342/smwTDsE33wGV8PFi3kz9h3kOUcr.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pbeG7KNVUDTNvvM7ucPzAkIPFDd.jpg",
+      "description": "The story of Suki, a lioness cub, who rebels against her mother and her Pride to mate with an unsuitable lion from the other side of the river.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Adventure",
+        "Drama",
         "Family"
       ]
     },
