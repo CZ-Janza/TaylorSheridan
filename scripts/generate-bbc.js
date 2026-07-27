@@ -10,9 +10,12 @@
  *    automatically instead of being hard-coded).
  * 2. Verify the configured candidate network IDs and keep the BBC channels
  *    (BBC One, BBC Two, CBBC, …).
- * 3. Query /discover for movies and TV produced by those companies/networks.
+ * 3. Query /discover for movies and TV produced by those companies/networks,
+ *    letting TMDB drop the show types and genres we do not want.
  * 4. Resolve the IMDb ID for each title (Stremio uses "tt..." identifiers).
- * 5. Write docs/bbc/catalog/{movie,series}/*.json, split into "skip" pages.
+ * 5. Write docs/bbc/catalog/{movie,series}/*.json — one catalog per configured
+ *    variant (newest / popular / top rated), each split into "skip" pages and
+ *    into a view per genre, and rewrite the manifest to match.
  *
  * Run:  TMDB_API_KEY=xxx node scripts/generate-bbc.js
  * Requires Node.js 18+ (native fetch), no dependencies.
@@ -21,14 +24,70 @@
 const fs = require("fs");
 const path = require("path");
 const { tmdb, mapLimit } = require("./lib/tmdb");
-const { buildMeta, clean, byDateDesc, writeCatalog } = require("./lib/catalog");
+const {
+  TODAY,
+  buildMeta,
+  byDateDesc,
+  resetCatalog,
+  writeCatalog,
+} = require("./lib/catalog");
+const { ALL_GENRE_LABELS, genreLabels } = require("./lib/genres");
 
 const ROOT = path.join(__dirname, "..");
 const OUT_DIR = path.join(ROOT, "docs", "bbc");
+const MANIFEST = path.join(OUT_DIR, "manifest.json");
 const CONFIG = JSON.parse(fs.readFileSync(path.join(ROOT, "config.bbc.json"), "utf8"));
 
 const LANG = CONFIG.language || "en-US";
 const CONCURRENCY = 8;
+const INCLUDE_UNRELEASED = CONFIG.includeUnreleased === true;
+
+/** TMDB uses "movie"/"tv"; the config keys read better as "movies"/"series". */
+const configKey = (kind) => (kind === "movie" ? "movies" : "series");
+
+/** The catalog id and Stremio type for a TMDB kind. */
+const catalogBase = (kind) => (kind === "movie" ? "bbc-movies" : "bbc-series");
+const stremioType = (kind) => (kind === "movie" ? "movie" : "series");
+
+/** The date field /discover sorts and filters on differs per type. */
+const dateField = (kind) => (kind === "movie" ? "primary_release_date" : "first_air_date");
+
+/** The date of a raw /discover result. */
+const entryDate = (kind, r) => (kind === "movie" ? r.release_date : r.first_air_date) || "";
+
+/**
+ * The orderings a catalog variant can use. Each needs a TMDB sort (so the
+ * right titles are discovered in the first place), a comparator for raw
+ * /discover results (used to trim the pool before spending a request per
+ * title) and one for finished metas.
+ */
+const SORTS = {
+  date: {
+    tmdb: (kind) => `${dateField(kind)}.desc`,
+    raw: (kind) => (a, b) => entryDate(kind, b).localeCompare(entryDate(kind, a)),
+    meta: byDateDesc,
+  },
+  popularity: {
+    tmdb: () => "popularity.desc",
+    raw: () => (a, b) => (b.popularity || 0) - (a.popularity || 0),
+    meta: (a, b) => (b._pop || 0) - (a._pop || 0),
+  },
+  rating: {
+    tmdb: () => "vote_average.desc",
+    raw: () => (a, b) => (b.vote_average || 0) - (a.vote_average || 0),
+    meta: (a, b) => (b._rating || 0) - (a._rating || 0),
+  },
+};
+
+const VARIANTS = (CONFIG.catalogVariants || []).map((v) => {
+  if (!SORTS[v.sortBy]) {
+    throw new Error(
+      `Unknown sortBy "${v.sortBy}" in catalogVariants — use ${Object.keys(SORTS).join(", ")}.`
+    );
+  }
+  return v;
+});
+if (VARIANTS.length === 0) throw new Error("config.bbc.json: catalogVariants is empty.");
 
 /** Find all BBC production companies by searching TMDB company names. */
 async function findCompanies() {
@@ -92,22 +151,46 @@ function chunk(ids, size = 20) {
 }
 
 /**
- * Page through /discover for every id chunk and collect unique results.
- * Results come back sorted by popularity, so the first pages hold the titles
- * people actually browse for.
+ * The /discover filters that decide what may enter the catalog at all.
+ *
+ * Doing this at the TMDB end rather than after the fact matters: anything
+ * rejected here never eats into the `maxItemsPerType` budget, so the cap fills
+ * up with titles we actually want.
  */
-async function discover(kind, paramName, ids, maxItems) {
+function discoverFilters(kind) {
+  const key = configKey(kind);
+  const base = {};
+
+  if (kind === "movie") base.include_adult = false;
+  if (CONFIG.minVoteCount > 0) base["vote_count.gte"] = CONFIG.minVoteCount;
+  if (CONFIG.minRating > 0) base["vote_average.gte"] = CONFIG.minRating;
+  if (!INCLUDE_UNRELEASED) base[`${dateField(kind)}.lte`] = TODAY;
+
+  const genres = (CONFIG.excludeGenreIds || {})[key] || [];
+  if (genres.length) base.without_genres = genres.join(",");
+
+  // TV only: TMDB classifies every show as documentary / news / miniseries /
+  // reality / scripted / talk show / video, independently of its genres. That
+  // catches the programmes no genre describes — sport, music, magazine shows.
+  const types = (CONFIG.withTypes || {})[key] || [];
+  if (kind === "tv" && types.length) base.with_type = types.join("|");
+
+  return base;
+}
+
+/** Page through /discover for every id chunk and collect unique results. */
+async function discover(kind, paramName, ids, sortBy, maxItems) {
   const found = new Map();
   const maxPages = Math.ceil(maxItems / 20) + 2;
+  const filters = discoverFilters(kind);
 
   for (const ids20 of chunk(ids)) {
     const base = {
-      sort_by: "popularity.desc",
+      ...filters,
+      sort_by: SORTS[sortBy].tmdb(kind),
       language: LANG,
       [paramName]: ids20.join("|"),
     };
-    if (kind === "movie") base.include_adult = false;
-    if (CONFIG.minVoteCount > 0) base["vote_count.gte"] = CONFIG.minVoteCount;
 
     for (let page = 1; page <= Math.min(maxPages, 500); page++) {
       const data = await tmdb(`/discover/${kind}`, { ...base, page });
@@ -120,8 +203,57 @@ async function discover(kind, paramName, ids, maxItems) {
 }
 
 /**
+ * Collect the candidate pool for one type: every variant's ordering is fetched
+ * separately, because "the 500 newest" and "the 500 most popular" are largely
+ * different sets and each catalog should be complete in its own right.
+ */
+async function discoverPool(kind, companyIds, networkIds, maxItems) {
+  const pool = new Map();
+  const sortModes = [...new Set(VARIANTS.map((v) => v.sortBy))];
+
+  for (const sortBy of sortModes) {
+    const hits = await discover(kind, "with_companies", companyIds, sortBy, maxItems);
+    // Networks are a TV concept; movies only have production companies.
+    if (kind === "tv" && networkIds.length) {
+      const byNetwork = await discover(kind, "with_networks", networkIds, sortBy, maxItems);
+      for (const [id, r] of byNetwork) if (!hits.has(id)) hits.set(id, r);
+    }
+    for (const [id, r] of hits) if (!pool.has(id)) pool.set(id, r);
+  }
+
+  return pool;
+}
+
+/**
+ * Trim the pool to the titles that make the cut for at least one variant, so we
+ * spend one TMDB request per title we are actually going to publish.
+ */
+function shortlist(kind, pool, maxItems) {
+  const key = configKey(kind);
+  const excluded = (CONFIG.excludeTmdbIds || {})[key] || [];
+  const namePattern = (CONFIG.excludeNamePattern || {})[key];
+  // Genres and show types do not cover everything – umbrella strands like
+  // "Play for Today" are perfectly ordinary scripted drama as far as TMDB is
+  // concerned. This is the escape hatch for the rest.
+  const nameRe = namePattern ? new RegExp(namePattern, "i") : null;
+
+  const eligible = [...pool.values()]
+    .filter((r) => !excluded.includes(r.id))
+    .filter((r) => !(nameRe && nameRe.test(r.name || r.title || "")))
+    .filter((r) => INCLUDE_UNRELEASED || (entryDate(kind, r) && entryDate(kind, r) <= TODAY));
+
+  const keep = new Map();
+  for (const sortBy of new Set(VARIANTS.map((v) => v.sortBy))) {
+    for (const r of [...eligible].sort(SORTS[sortBy].raw(kind)).slice(0, maxItems)) {
+      keep.set(r.id, r);
+    }
+  }
+  return [...keep.values()];
+}
+
+/**
  * Fetch full details + external IDs in a single request per title, so we get
- * the IMDb ID, production status and dates without a second round-trip.
+ * the IMDb ID, genres, ratings and dates without a second round-trip.
  */
 async function resolveTitles(kind, entries) {
   const isMovie = kind === "movie";
@@ -150,6 +282,7 @@ async function resolveTitles(kind, entries) {
     }
 
     const date = isMovie ? detail.release_date : detail.first_air_date;
+    const genres = genreLabels(detail.genres);
 
     const meta = buildMeta({
       tmdbEntry: detail.poster_path ? detail : entry,
@@ -160,11 +293,26 @@ async function resolveTitles(kind, entries) {
       date,
       status: detail.status || null,
     });
+    meta.genres = genres.length ? genres : undefined;
+    meta._genres = genres;
     meta._pop = detail.popularity || entry.popularity || 0;
+    meta._rating = detail.vote_average || entry.vote_average || 0;
     return meta;
   });
 
   return results.filter(Boolean);
+}
+
+/**
+ * Rewrite the manifest's catalog list so the variants and the genre dropdown
+ * always match what was actually written. Everything else in the manifest is
+ * hand-maintained and left alone.
+ */
+function writeManifest(catalogs) {
+  const manifest = JSON.parse(fs.readFileSync(MANIFEST, "utf8"));
+  manifest.catalogs = catalogs;
+  fs.writeFileSync(MANIFEST, JSON.stringify(manifest, null, 2) + "\n");
+  console.log(`Wrote manifest.json (${catalogs.length} catalogs)`);
 }
 
 async function main() {
@@ -182,55 +330,46 @@ async function main() {
   const networkIds = [...networks.keys()];
   const max = CONFIG.maxItemsPerType || 500;
 
-  // Movies: production companies only (networks are a TV concept)
-  const movieHits = await discover("movie", "with_companies", companyIds, max);
-
-  // Series: union of company-produced and network-aired titles
-  const seriesHits = await discover("tv", "with_companies", companyIds, max);
-  if (networkIds.length) {
-    const byNetwork = await discover("tv", "with_networks", networkIds, max);
-    for (const [id, r] of byNetwork) if (!seriesHits.has(id)) seriesHits.set(id, r);
+  const resolved = {};
+  for (const kind of ["movie", "tv"]) {
+    const pool = await discoverPool(kind, companyIds, networkIds, max);
+    const picked = shortlist(kind, pool, max);
+    console.log(`${kind}: ${pool.size} discovered, ${picked.length} shortlisted, resolving…`);
+    resolved[kind] = await resolveTitles(kind, picked);
   }
 
-  console.log(
-    `Discovered ${movieHits.size} movies and ${seriesHits.size} series, resolving IMDb IDs…`
-  );
+  // Only rebuild the catalog tree once every title has been resolved, so a
+  // failure halfway through leaves the published add-on untouched.
+  resetCatalog(OUT_DIR);
 
-  const excl = CONFIG.excludeTmdbIds || {};
-  const pick = (hits, excluded = []) =>
-    [...hits.values()]
-      .filter((r) => !excluded.includes(r.id))
-      .sort((a, b) => (b.popularity || 0) - (a.popularity || 0))
-      .slice(0, max);
-
-  const movies = await resolveTitles("movie", pick(movieHits, excl.movies));
-  const series = await resolveTitles("tv", pick(seriesHits, excl.series));
-
-  // Most popular first – that is what people browse a broad catalog for.
-  const sorter =
-    CONFIG.sortBy === "date" ? byDateDesc : (a, b) => (b._pop || 0) - (a._pop || 0);
-  movies.sort(sorter);
-  series.sort(sorter);
-
-  const stripPop = (arr) => arr.map(({ _pop, ...m }) => m);
   const pageSize = CONFIG.pageSize || 0;
+  const minGenreItems = CONFIG.minGenreItems || 1;
+  const catalogs = [];
 
-  writeCatalog({
-    baseDir: OUT_DIR,
-    type: "movie",
-    id: "bbc-movies",
-    metas: clean(stripPop(movies)),
-    pageSize,
-  });
-  writeCatalog({
-    baseDir: OUT_DIR,
-    type: "series",
-    id: "bbc-series",
-    metas: clean(stripPop(series)),
-    pageSize,
-  });
+  for (const kind of ["movie", "tv"]) {
+    for (const variant of VARIANTS) {
+      const metas = [...resolved[kind]].sort(SORTS[variant.sortBy].meta).slice(0, max);
+      const id = catalogBase(kind) + (variant.idSuffix || "");
+      const type = stremioType(kind);
 
-  console.log(`Done. ${movies.length} movies, ${series.length} series.`);
+      const genres = writeCatalog({
+        baseDir: OUT_DIR,
+        type,
+        id,
+        metas,
+        pageSize,
+        genres: CONFIG.genreFilter === false ? [] : ALL_GENRE_LABELS,
+        minGenreItems,
+      });
+
+      const extra = [{ name: "skip", isRequired: false }];
+      if (genres.length) extra.unshift({ name: "genre", options: genres, isRequired: false });
+      catalogs.push({ type, id, name: variant.name, extra });
+    }
+  }
+
+  writeManifest(catalogs);
+  console.log(`Done. ${resolved.movie.length} movies, ${resolved.tv.length} series.`);
 }
 
 main().catch((err) => {

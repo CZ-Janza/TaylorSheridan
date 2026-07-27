@@ -138,15 +138,88 @@ early in his career are excluded via `includeActing: false`; set it back to
 | `extraCompanyIds` / `excludeCompanyIds` | Manually add or drop a TMDB company |
 | `candidateNetworkIds` | Network IDs to test (TMDB has no network search) |
 | `networkNamePattern` | Regex a network name must match to count as BBC |
-| `maxItemsPerType` | How many movies / series to keep (most popular first) |
+| `maxItemsPerType` | How many movies / series to keep per catalog |
 | `pageSize` | Items per Stremio "skip" page (0 = one big file) |
+| `catalogVariants` | The catalogs to publish — see *Subfilters* below |
+| `genreFilter` | `false` turns the genre dropdown off |
+| `minGenreItems` | A genre needs this many titles to be offered |
 | `minVoteCount` | Drop titles with fewer TMDB votes than this |
-| `sortBy` | `popularity` (default) or `date` |
+| `minRating` | Drop titles rated below this on TMDB (0 = off) |
+| `includeUnreleased` | Include titles that have not aired yet (default `false`) |
+| `withTypes` | TMDB show types to keep (series only) |
+| `excludeGenreIds` | TMDB genre IDs to drop, per type |
+| `excludeNamePattern` | Regex on the title — for what genres don't catch |
 | `excludeTmdbIds` | TMDB IDs to leave out, per type |
 
-Because the BBC has produced far too much to list in one file, the catalog is
-capped at the most popular `maxItemsPerType` titles and split into pages that
-Stremio requests as you scroll.
+Because the BBC has produced far too much to list in one file, each catalog is
+capped at `maxItemsPerType` titles and split into pages that Stremio requests
+as you scroll.
+
+### Subfilters
+
+The add-on publishes the same titles as several catalogs, which Stremio offers
+in the second dropdown of **Discover**:
+
+| Catalog | Order |
+|---|---|
+| BBC Newest | Newest premiere first |
+| BBC Popular | Most popular on TMDB first |
+| BBC Top Rated | Highest rated first (meaningful thanks to `minVoteCount`) |
+
+Each is discovered separately — "the 500 newest" and "the 500 most popular" are
+largely different sets, so every catalog is complete in its own right rather
+than a re-shuffle of the same list.
+
+On top of that, every catalog gets a **Genre** dropdown. Since these are static
+files, filtering happens at generation time: one file per genre per catalog,
+at `catalog/series/bbc-series/genre=Drama.json`. The options in the manifest are
+derived from what was actually written, so a genre is only offered when it has
+at least `minGenreItems` titles behind it.
+
+Genre labels are deliberately single plain words — TMDB's combined TV genres are
+split ("Sci-Fi & Fantasy" becomes both *Sci-Fi* and *Fantasy*), so movie and
+series catalogs offer the same list and no label needs URL-encoding in a file
+name. The mapping lives in [`scripts/lib/genres.js`](scripts/lib/genres.js).
+
+Stremio's `search` extra is deliberately *not* offered: it would need a file per
+possible query, which a static host cannot do.
+
+### Keeping news, sport and game shows out
+
+Most of what the BBC has ever broadcast is not scripted drama, so the catalog is
+filtered at the TMDB end — anything rejected there never eats into the
+`maxItemsPerType` budget.
+
+**`withTypes` is the main lever.** TMDB classifies every show by type,
+independently of its genres:
+
+| | | | |
+|---|---|---|---|
+| `0` Documentary | `1` News | `2` **Miniseries** ✓ | `3` Reality |
+| `4` **Scripted** ✓ | `5` Talk Show | `6` Video | |
+
+`[2, 4]` keeps scripted series and miniseries and drops the rest — including the
+programmes no genre describes, such as sport and music shows.
+
+**`excludeGenreIds`** cleans up what the type filter leaves behind. Currently
+excluded for series: `10763` News, `10764` Reality/game shows, `10767` Talk,
+`99` Documentary, `10762` Kids, `16` Animation. Worth knowing about:
+
+- `10766` **Soap** — EastEnders, Doctors, Holby City, Casualty, Waterloo Road.
+  Not excluded; add it if you want them gone.
+- `10751` Family and `10768` War & Politics — leave these alone, they would take
+  good drama with them.
+
+**`excludeNamePattern`** is the escape hatch for the rest. Umbrella strands like
+*Play for Today*, *Screen Two* or *Comedy Playhouse* are perfectly ordinary
+scripted drama as far as TMDB is concerned, but nothing watchable sits behind
+them; the same goes for companion shows (*Doctor Who Confidential*, *Strictly
+Come Dancing: It Takes Two*).
+
+**Tip:** `minVoteCount` is the quietest quality filter — obscure archive
+programmes never collect TMDB votes, so raising it thins them out on its own.
+Lower it if genuinely new shows are missing: a drama that aired last week may not
+have 20 votes yet.
 
 ## Running manually, locally
 
@@ -165,7 +238,8 @@ Requires Node.js 18+, no dependencies to install.
 ├── scripts/
 │   ├── lib/
 │   │   ├── tmdb.js              # shared TMDB client (auth, retries, concurrency)
-│   │   └── catalog.js           # shared meta building + catalog writing
+│   │   ├── catalog.js           # shared meta building + catalog writing
+│   │   └── genres.js            # TMDB genre ids → Stremio dropdown labels
 │   ├── generate.js              # Taylor Sheridan generator
 │   ├── generate-bbc.js          # BBC generator
 │   └── publish.js               # one-time publish to Stremio

@@ -9,14 +9,36 @@
     332, 493, 1080, 3324, 4084
   ],
   "networkNamePattern": "^(BBC|CBBC|CBeebies)\\b",
+
   "maxItemsPerType": 500,
   "pageSize": 100,
-  "sortBy": "popularity",
-  "minVoteCount": 0,
+  "catalogVariants": [
+    { "idSuffix": "", "name": "BBC Newest", "sortBy": "date" },
+    { "idSuffix": "-popular", "name": "BBC Popular", "sortBy": "popularity" },
+    { "idSuffix": "-top", "name": "BBC Top Rated", "sortBy": "rating" }
+  ],
+  "genreFilter": true,
+  "minGenreItems": 5,
+
+  "includeUnreleased": false,
+  "minVoteCount": 20,
+  "minRating": 0,
+  "withTypes": {
+    "series": [2, 4]
+  },
+  "excludeGenreIds": {
+    "movies": [99],
+    "series": [10763, 10764, 10767, 99, 10762, 16]
+  },
+  "excludeNamePattern": {
+    "movies": "",
+    "series": "\\b(Match of the Day|Football Focus|A Question of Sport|Grandstand|Final Score|Sports Personality|Wimbledon|Six Nations|One Man and His Dog|Top of the Pops|TOTP2|BBC Proms|The Old Grey Whistle Test|Six-Five Special|Newsround|Question Time|Songs of Praise)\\b|^(Play for Today|The Wednesday Play|Screen One|Screen Two|ScreenPlay|Playhouse|Theatre 625|Thirty-Minute Theatre|BBC Play of the Month|BBC2 Play of the Week|Sunday Night Theatre|Thursday Theatre|Centre Play|Story Parade|Studio 4|Performance|The Play on One|The Afternoon Play|Comedy Playhouse|Out of the Unknown|Moviedrome|Omnibus|Arena|Festival)$|(Confidential|Declassified|It Takes Two)$"
+  },
   "excludeTmdbIds": {
     "movies": [],
     "series": []
   },
+
   "language": "en-US",
   "fallbackLanguage": "en-US"
 }
