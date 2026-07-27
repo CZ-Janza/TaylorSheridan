@@ -44,20 +44,6 @@
       ]
     },
     {
-      "id": "tt2396135",
-      "type": "series",
-      "name": "Shetland",
-      "poster": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
-      "description": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt1475582",
       "type": "series",
       "name": "Sherlock",
@@ -65,6 +51,20 @@
       "background": "https://image.tmdb.org/t/p/w780/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
       "description": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
       "releaseInfo": "2010",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt2396135",
+      "type": "series",
+      "name": "Shetland",
+      "poster": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
+      "description": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
+      "releaseInfo": "2013",
       "genres": [
         "Crime",
         "Drama",
@@ -814,6 +814,18 @@
       ]
     },
     {
+      "id": "tt10485750",
+      "type": "series",
+      "name": "The Pale Horse",
+      "poster": "https://image.tmdb.org/t/p/w342/pFCzhg4W89ZuIJCKwVqoLueOjHy.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8gYgZeVddiiAvDzanZudU0D5OPv.jpg",
+      "description": "After a list of names is found in the shoe of a dead woman, one of the named people begins investigating and is drawn to the The Pale Horse, the home of a trio of rumored witches living in a small village. Word has it that the witches can do away with wealthy relatives using dark arts.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt6712390",
       "type": "series",
       "name": "Requiem",
@@ -905,18 +917,6 @@
       "genres": [
         "Crime",
         "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt10485750",
-      "type": "series",
-      "name": "The Pale Horse",
-      "poster": "https://image.tmdb.org/t/p/w342/pFCzhg4W89ZuIJCKwVqoLueOjHy.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8gYgZeVddiiAvDzanZudU0D5OPv.jpg",
-      "description": "After a list of names is found in the shoe of a dead woman, one of the named people begins investigating and is drawn to the The Pale Horse, the home of a trio of rumored witches living in a small village. Word has it that the witches can do away with wealthy relatives using dark arts.",
-      "releaseInfo": "2020",
-      "genres": [
         "Mystery"
       ]
     },

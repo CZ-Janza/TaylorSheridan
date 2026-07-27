@@ -4,19 +4,191 @@
   "name": "Taylor Sheridan",
   "description": "A catalog of every movie and show Taylor Sheridan wrote, directed or created (Yellowstone, 1883, 1923, Sicario, Wind River, Hell or High Water and more). Updated automatically every week from TMDB.",
   "logo": "https://cz-janza.github.io/TaylorSheridan/logo.png",
-  "resources": ["catalog"],
-  "types": ["movie", "series"],
-  "idPrefixes": ["tt"],
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
   "catalogs": [
     {
       "type": "movie",
       "id": "taylor-sheridan-movies",
-      "name": "Taylor Sheridan"
+      "name": "Taylor Sheridan Newest",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller",
+            "Western"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "taylor-sheridan-movies-popular",
+      "name": "Taylor Sheridan Popular",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller",
+            "Western"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "taylor-sheridan-movies-top",
+      "name": "Taylor Sheridan Top Rated",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller",
+            "Western"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "taylor-sheridan-movies-core",
+      "name": "Taylor Sheridan Written & Directed",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller",
+            "Western"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
     },
     {
       "type": "series",
       "id": "taylor-sheridan-series",
-      "name": "Taylor Sheridan"
+      "name": "Taylor Sheridan Newest",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Reality",
+            "Western"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "taylor-sheridan-series-popular",
+      "name": "Taylor Sheridan Popular",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Reality",
+            "Western"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "taylor-sheridan-series-top",
+      "name": "Taylor Sheridan Top Rated",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Crime",
+            "Documentary",
+            "Drama",
+            "Reality",
+            "Western"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "taylor-sheridan-series-core",
+      "name": "Taylor Sheridan Written & Directed",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Crime",
+            "Drama",
+            "Reality",
+            "Western"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
     }
   ],
   "behaviorHints": {
