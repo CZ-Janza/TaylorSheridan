@@ -1,0 +1,587 @@
+{
+  "metas": [
+    {
+      "id": "tt1888075",
+      "type": "series",
+      "name": "Death in Paradise",
+      "poster": "https://image.tmdb.org/t/p/w342/u7t6vCyqAdD5hE4eEfTrZmVljDi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",
+      "description": "A brilliant but idiosyncratic British detective and his resourceful local team solve baffling murder mysteries on the fictional Caribbean island of Saint Marie.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1967685",
+      "type": "series",
+      "name": "Hidden",
+      "poster": "https://image.tmdb.org/t/p/w342/r8BIIQ0DzyoYXGW3IuZbnXYtV3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/acKSRp5nuUn3CgJkIFm2NUyH158.jpg",
+      "description": "When lawyer Gina Hawkes hires Harry to find a witness, he unexpectedly revisits his brother's decades-old death, embroiling him in a political conspiracy at the highest levels of British government.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1778108",
+      "type": "series",
+      "name": "The Hour",
+      "poster": "https://image.tmdb.org/t/p/w342/72JWVRK6VvqNx1gYumVxhtoXc03.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jINW7XYCw3tHDdvtHj2nmhfOzPc.jpg",
+      "description": "A behind-the-scenes drama and espionage thriller in Cold War-era England that centers on a journalist, a producer, and an anchorman for an investigative news programme.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "War",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt1748888",
+      "type": "series",
+      "name": "Case Histories",
+      "poster": "https://image.tmdb.org/t/p/w342/xghENqyHjSZgsO8ZVKFfeG6ioYu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/29avaBXpQWFASrkibUteOxL4J0L.jpg",
+      "description": "Case Histories is a British drama television series based on the Jackson Brodie detective novels by Kate Atkinson. It stars Jason Isaacs as Jackson Brodie.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt1701920",
+      "type": "series",
+      "name": "The Shadow Line",
+      "poster": "https://image.tmdb.org/t/p/w342/dxpOOl38VgzCtC8tlKkgLsug52T.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gQGoRtnb6NSd31e5yIhnYUSdRuM.jpg",
+      "description": "A murder is investigated by both sides of the line, cops and criminals, using opposing methods. But the real line is the morality within each person and how far they will go before they cross it.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1618371",
+      "type": "series",
+      "name": "Zen",
+      "poster": "https://image.tmdb.org/t/p/w342/7F6RieTb4Z6MrArT0pZiokYyCw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/k4rM2guvCZCk29rKRscf64Mg1xW.jpg",
+      "description": "Zen is a British television mini series produced by Left Bank Pictures for the BBC, co-produced with WGBH Boston for its Masterpiece anthology series, Mediaset and ZDF. It stars Rufus Sewell and Caterina Murino and is based on the Aurelio Zen detective novels by Michael Dibdin. The series was filmed on location in Italy, but the dialogue is in English. The series, which comprises three 90-minute films, was broadcast in the United Kingdom on Sunday evenings from 2 January 2011 on BBC One. The three films were based on the books Vendetta, Cabal and Ratking.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1769411",
+      "type": "series",
+      "name": "Accused",
+      "poster": "https://image.tmdb.org/t/p/w342/cNTmeTD26zh3IGmWbiByHdsk8Ky.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/oY2gPpKUhfUOK2i4Jr7xs0LXLhH.jpg",
+      "description": "How certain people end up being accused of a crime.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt1497609",
+      "type": "series",
+      "name": "Vexed",
+      "poster": "https://image.tmdb.org/t/p/w342/59o2pR35cC5zyUeH3xzmj5ZjIRO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/v6lnzmTlB8fZloMFl5qt0BcGKV2.jpg",
+      "description": "Comedy drama following a mismatched pair of police officers who disagree on everything with their partner, from policing to their personal life.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt1475582",
+      "type": "series",
+      "name": "Sherlock",
+      "poster": "https://image.tmdb.org/t/p/w342/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+      "description": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1568202",
+      "type": "series",
+      "name": "The Silence",
+      "poster": "https://image.tmdb.org/t/p/w342/rKnPW5MAYYS4IM4patSQ66LIlI7.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/r7BYyEP2SsemfkusEPFb1OvqvQC.jpg",
+      "description": "A deaf girl witnesses the audacious murder of a policewoman.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1474684",
+      "type": "series",
+      "name": "Luther",
+      "poster": "https://image.tmdb.org/t/p/w342/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
+      "description": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1356380",
+      "type": "series",
+      "name": "The No. 1 Ladies' Detective Agency",
+      "poster": "https://image.tmdb.org/t/p/w342/uVPAP1fS5k8nFRtIE8TgSgdL9bb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wPIShAP8fzePqHkYSbQLwPa9px1.jpg",
+      "description": "The adventures of Mma Ramotswe, a Motswana woman who starts Botswana's first female-owned detective agency.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1178618",
+      "type": "series",
+      "name": "Wallander",
+      "poster": "https://image.tmdb.org/t/p/w342/xK5jgSqoOfKwNG0WwrFObmIq0YJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iw1nqLAcPbsrcYYEgrkNKezWQDj.jpg",
+      "description": "This drama follows Inspector Kurt Wallander – a middle-aged everyman – as he struggles against a rising tide of violence in the apparently sleepy backwaters in and around Ystad in Skane, southern Sweden. Based on the international best-selling books by Henning Mankell.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1188927",
+      "type": "series",
+      "name": "Criminal Justice",
+      "poster": "https://image.tmdb.org/t/p/w342/b9eHNNoUGju7P5Q2Ez5Kxu4fzst.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/oeTTGsDwxmvUpE3dia5GBvwdTx1.jpg",
+      "description": "Thriller by Peter Moffat about the challenges and politics of the criminal justice system seen through the eyes of the accused.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1430509",
+      "type": "series",
+      "name": "Inspector George Gently",
+      "poster": "https://image.tmdb.org/t/p/w342/3xfuZKWVxNnXhL8C6wVSnfM9Uj9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1P6x7gNgnFvlZTcRIak0HQadZbx.jpg",
+      "description": "Crime drama set in the 1960s about an old-school detective trying to come to terms with a time when the lines between the police and criminals have become blurred.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Mystery",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt1008108",
+      "type": "series",
+      "name": "Ashes to Ashes",
+      "poster": "https://image.tmdb.org/t/p/w342/sHqcJx4rFybqm9ARztLKCPpaA7g.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hwc6yz1XyYviF1T91GrtGsIaUyD.jpg",
+      "description": "Crime drama series featuring Life On Mars' DCI Gene Hunt. After being shot in 2008, DI Alex Drake lands in 1981, where she finds herself in familiar company.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Crime",
+        "Sci-Fi",
+        "Fantasy",
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0497298",
+      "type": "series",
+      "name": "Jekyll",
+      "poster": "https://image.tmdb.org/t/p/w342/7ZFjQbziDY9zyt03mIcE0Ydz8xq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qk3ppV3UCxLKfKkkKPoLFqbch9c.jpg",
+      "description": "Tom Jackman is learning to cope with his alter ego, the dark and mysterious Hyde, who threatens his life and family. They also have to live in the same body while on the run from a mysterious organization that is hunting them.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0840094",
+      "type": "series",
+      "name": "Five Days",
+      "poster": "https://image.tmdb.org/t/p/w342/mnRh1Jcn6KAhgVyfVPDLJwgaOSu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/d3anTCH5bU5rddJfK0S1GpxTDff.jpg",
+      "description": "Thriller series which tracks five 24-hour periods in a police investigation.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0943690",
+      "type": "series",
+      "name": "M.I. High",
+      "poster": "https://image.tmdb.org/t/p/w342/yOqLG4MMaIIh7e4hH5ani1jgKlG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/k1B7v41OLtHCAfb2jKRlLkmEBAM.jpg",
+      "description": "A team of undercover teenage spies working for the fictional British secret intelligence agency MI9 who have to balance their school life with their jobs as secret agents.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime",
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0478942",
+      "type": "series",
+      "name": "Life on Mars",
+      "poster": "https://image.tmdb.org/t/p/w342/eoZzXx2DW8XeaIS8iYs0ePxH3DG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tlN8MGKlGZmJqYpwoqCB5YwLqBx.jpg",
+      "description": "A detective chief inspector from 2006 is investigating a serial killer when he is knocked over by a speeding car. Waking up, he finds himself mysteriously transported back in time to 1973. Initially struggling to come to terms with his situation, he has to come to terms with the old-fashioned technology and attitude of the day, while figuring out how he came to be trapped in the past.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0423651",
+      "type": "series",
+      "name": "Fingersmith",
+      "poster": "https://image.tmdb.org/t/p/w342/jrPoKY5xDOeUyZ9NrswP37PWAAM.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jT8IYK7rvMRgk1bMJZvJMo0g88I.jpg",
+      "description": "A young woman is hired as a maid to an heiress who lives a secluded life on a large countryside estate with her domineering uncle. But, the maid has a secret: she is a pickpocket recruited by a swindler posing as a gentleman to help him seduce the heiress to elope with him, rob her of her fortune, and lock her up in a madhouse. The plan seems to proceed according to plan until the women discover some unexpected emotions.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0379632",
+      "type": "series",
+      "name": "Hustle",
+      "poster": "https://image.tmdb.org/t/p/w342/xty7kinvhVH3RzMdjNQSpJj2pEm.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/q7iwBG89RLMdkXoYGdVxC9rRg8Y.jpg",
+      "description": "A motley group of London con artists pull of a series of daring and intricate stings.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0362192",
+      "type": "series",
+      "name": "State of Play",
+      "poster": "https://image.tmdb.org/t/p/w342/qjgtpbPdj0sfhiCa79M5pS1pydT.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iRHtu9gEyYhyJW6VoIBvK0oqxu5.jpg",
+      "description": "The murder of Sonia Baker, a young political researcher, leads journalist Cal McCaffrey to uncover complex links between government and big business.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0160904",
+      "type": "series",
+      "name": "Spooks",
+      "poster": "https://image.tmdb.org/t/p/w342/5kODxCYihuM49oQWke6GfHdsRT6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/w0PRJ5uOsfSGVrwxUhPmc6qIO8t.jpg",
+      "description": "Tense drama series about the different challenges faced by the British Security Service as they work against the clock to safeguard the nation. The title is a popular colloquialism for spies, and the series follows the work of a group of MI5 officers based at the service's Thames House headquarters, in a highly secure suite of offices known as The Grid.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0988820",
+      "type": "series",
+      "name": "The Inspector Lynley Mysteries",
+      "poster": "https://image.tmdb.org/t/p/w342/d68bISjO6e6cOtgeygJO471FUIh.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bWTk5MoSYmtr34EQWXsEAFBeNiS.jpg",
+      "description": "DS Barbara Havers is assigned to work with the upper-crust DI Thomas Lynley to solve murders.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0259733",
+      "type": "series",
+      "name": "Waking the Dead",
+      "poster": "https://image.tmdb.org/t/p/w342/pthoQb9tOrM0gi43ZER4cOKgm8D.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/q5pHoCGndSOcedKDY5nSDIrtBBH.jpg",
+      "description": "A detective team apply new techniques to old crimes as they solve cold cases.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0249301",
+      "type": "series",
+      "name": "Messiah",
+      "poster": "https://image.tmdb.org/t/p/w342/iPUUeDTrCj2RF0z5prSPjKkBLi6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ctoGOA3Nd0fNpDMqr61kAtebw7U.jpg",
+      "description": "Crime drama series following the investigations of DCI Red Metcalfe.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0118401",
+      "type": "series",
+      "name": "Midsomer Murders",
+      "poster": "https://image.tmdb.org/t/p/w342/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+      "description": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+      "releaseInfo": "1997",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0147760",
+      "type": "series",
+      "name": "Dalziel and Pascoe",
+      "poster": "https://image.tmdb.org/t/p/w342/xZT5YjP5ELKQu2ONZYKL8dAZmoF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nMJiIufYXzOvqg3WuLu8z6Tmuvw.jpg",
+      "description": "In the fictional Yorkshire town of Wetherton, the unlikely duo of politically incorrect elephant-in-a-China-shop-copper DS Andrew Dalziel (pronounced Dee-ell) and his more sensitive and university educated sidekick DS, later DI, Peter Pascoe is always on hand to solve the classic murder mystery, while maintaining down-to-Earth wit and humour.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0115355",
+      "type": "series",
+      "name": "Silent Witness",
+      "poster": "https://image.tmdb.org/t/p/w342/yRwf0yAZvYMfFLMonPusv6F256s.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tT78TvxoSFEMQEqoqHJIw472yrF.jpg",
+      "description": "A team of exceptional forensic pathologists and scientists investigate heinous crimes and use their skills to catch the people responsible.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0127376",
+      "type": "series",
+      "name": "Hetty Wainthropp Investigates",
+      "poster": "https://image.tmdb.org/t/p/w342/tsdtYwBORsbk37ne5AE34ipZYKG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/c7PjcjhOZTdUGyFmeBcL1ZfAKL0.jpg",
+      "description": "Instead of spending her golden years lying down, the indomitable Hetty Wainthropp found her calling late in life. Combining common sense, her husband, and her pocketbook, this senior sleuth takes on all the cases the police deem too minor.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0112194",
+      "type": "series",
+      "name": "The Thin Blue Line",
+      "poster": "https://image.tmdb.org/t/p/w342/vsxilQmtIRP7bWTKQrmxLhNp4Rz.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/o5aZkYCvZ4DQQmTHGCkDf43Xv7G.jpg",
+      "description": "The Thin Blue Line is a British sitcom starring Rowan Atkinson set in a police station that ran for two series on the BBC from 1995 to 1996. It was written by Ben Elton.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0108756",
+      "type": "series",
+      "name": "Due South",
+      "poster": "https://image.tmdb.org/t/p/w342/5j0mNks65Py4fW1GeYpGHe7BN3V.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cfpEjMTT3BZxa7ohtK4fY7ETL81.jpg",
+      "description": "Constable Benton Fraser, an officer of the Royal Canadian Mounted Police, is attached to the Canadian consulate but works with Chicago Police Department to solve crimes.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0091618",
+      "type": "series",
+      "name": "Miss Marple: Nemesis",
+      "poster": "https://image.tmdb.org/t/p/w342/jV9kbTaxO9tLVORhT37Qnb1D39I.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3Tqihc1KXmYKDPQ4Mf2lwbDdx6C.jpg",
+      "description": "Mr Jason Rafiel seeks Miss Marple's help to solve a crime but he does gives her any details. In fact, he can't be sure that a crime was committed at all.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0090669",
+      "type": "series",
+      "name": "Miss Marple: At Bertram's Hotel",
+      "poster": "https://image.tmdb.org/t/p/w342/tJfM3M0D5BO7cRoTEe5uWpHU08q.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pmssGs7ab5ccmi4zQ5i0rWuXZFL.jpg",
+      "description": "There's a murder at the elegant hotel where Miss Marple is staying and international adventurer Bess Sedgwick is the prime suspect.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0091970",
+      "type": "series",
+      "name": "Miss Marple: Sleeping Murder",
+      "poster": "https://image.tmdb.org/t/p/w342/zikO7vlK3r4AGLjtYt6E40QlG7S.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pVb9yUxLoUvUZjqOIy4WmL9dK8A.jpg",
+      "description": "When a young bride moves into a country manor, long repressed childhood memories of witnessing a murder come to the surface.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0090424",
+      "type": "series",
+      "name": "Edge of Darkness",
+      "poster": "https://image.tmdb.org/t/p/w342/2etMft3bSdXC6xqhEWSXVb0IjLv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2VhhbaXuzbOAaurZNEyBNknkgdK.jpg",
+      "description": "Environmental activist Emma Craven is murdered in front of her father, local police inspector Ronald Craven. Investigating the death leads him through a haunting revelation of the murkiness of British nuclear policy of the 1980s.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0087924",
+      "type": "series",
+      "name": "Miss Marple: A Pocketful of Rye",
+      "poster": "https://image.tmdb.org/t/p/w342/y4o4QI5cBMNlhZFIOhPpbK9fFaF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nGiNHReDNOcuJdxYGCPQ8TZ1qk4.jpg",
+      "description": "When a handful of grain is found in the pocket of a murdered businessman, Miss Marple seeks a murderer with a penchant for nursery rhymes.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0087756",
+      "type": "series",
+      "name": "Miss Marple: A Murder Is Announced",
+      "poster": "https://image.tmdb.org/t/p/w342/3MzWUqYabOX6hj9Z9tXElhnF6Gc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yOSInIsiFzuie6p3Jyn2Nsdq5hs.jpg",
+      "description": "An advertisement announcing the time and place of a forthcoming murder appears among the ads of the paper in the small village of Chipping Cleghorn.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0087749",
+      "type": "series",
+      "name": "Miss Marple: The Moving Finger",
+      "poster": "https://image.tmdb.org/t/p/w342/2MCHLBAuswB8uB8w6qBmnGgqQfE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qAiNK2htNWeWXQPY5OlV2vCpuMb.jpg",
+      "description": "The residents of a quiet English village begin to receive nasty, threatening letters. The wife of the local vicar calls in her friend Miss Marple to investigate.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0088512",
+      "type": "series",
+      "name": "EastEnders",
+      "poster": "https://image.tmdb.org/t/p/w342/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
+      "description": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Soap",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0088833",
+      "type": "series",
+      "name": "Miss Marple: The Body in the Library",
+      "poster": "https://image.tmdb.org/t/p/w342/4Dno08EMEqEOV2BxLp3oBKjp1fp.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/80MO31EkV2TZecRiVlBht1Qp9Sm.jpg",
+      "description": "Amateur detective Miss Jane Marple investigates the murder of a young woman whose body is found in the library at Gossington Hall, home of Colonel and Mrs. Arthur Bantry.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    }
+  ]
+}

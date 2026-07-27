@@ -3,21 +3,196 @@
   "version": "1.1.0",
   "name": "BBC",
   "description": "A catalog of movies and series produced by the BBC and its subsidiaries (BBC Films, BBC Studios, BBC Worldwide, BBC One, BBC Two, CBBC and more). Updated automatically every week from TMDB.",
-  "resources": ["catalog"],
-  "types": ["movie", "series"],
-  "idPrefixes": ["tt"],
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
   "catalogs": [
     {
       "type": "movie",
       "id": "bbc-movies",
-      "name": "BBC",
-      "extra": [{ "name": "skip", "isRequired": false }]
+      "name": "BBC Newest",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "History",
+            "Horror",
+            "Music",
+            "Mystery",
+            "Romance",
+            "Sci-Fi",
+            "Thriller",
+            "War"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "bbc-movies-popular",
+      "name": "BBC Popular",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "History",
+            "Horror",
+            "Music",
+            "Mystery",
+            "Romance",
+            "Sci-Fi",
+            "Thriller",
+            "War"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "bbc-movies-top",
+      "name": "BBC Top Rated",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "History",
+            "Horror",
+            "Music",
+            "Mystery",
+            "Romance",
+            "Sci-Fi",
+            "Thriller",
+            "War"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
     },
     {
       "type": "series",
       "id": "bbc-series",
-      "name": "BBC",
-      "extra": [{ "name": "skip", "isRequired": false }]
+      "name": "BBC Newest",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Mystery",
+            "Sci-Fi",
+            "War"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "bbc-series-popular",
+      "name": "BBC Popular",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Mystery",
+            "Sci-Fi",
+            "War"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "bbc-series-top",
+      "name": "BBC Top Rated",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Mystery",
+            "Sci-Fi",
+            "War"
+          ],
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
     }
   ],
   "behaviorHints": {
