@@ -17,6 +17,22 @@
   "includeCreating": true,
   "includeActing": false,
   "includeUnreleased": true,
+
+  "pageSize": 0,
+  "catalogVariants": [
+    { "idSuffix": "", "name": "Taylor Sheridan Newest", "sortBy": "date" },
+    { "idSuffix": "-popular", "name": "Taylor Sheridan Popular", "sortBy": "popularity" },
+    { "idSuffix": "-top", "name": "Taylor Sheridan Top Rated", "sortBy": "rating" },
+    {
+      "idSuffix": "-core",
+      "name": "Taylor Sheridan Written & Directed",
+      "sortBy": "date",
+      "jobs": ["Writer", "Screenplay", "Story", "Teleplay", "Director", "Creator"]
+    }
+  ],
+  "genreFilter": true,
+  "minGenreItems": 2,
+
   "excludeTmdbIds": [],
   "extraImdbIds": {
     "movies": [],

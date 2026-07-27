@@ -120,7 +120,29 @@ URL).
 | `includeUnreleased` | Include announced/unfinished projects |
 | `excludeTmdbIds` | TMDB IDs of titles you don't want (blacklist) |
 | `extraImdbIds` | Manually added titles by IMDb ID (whitelist) |
+| `catalogVariants` | The catalogs to publish — see below |
+| `genreFilter` / `minGenreItems` | Genre dropdown, and how many titles a genre needs |
+| `pageSize` | Items per Stremio "skip" page (0 = one file; the list is short) |
 | `language` / `fallbackLanguage` | Description language (default English) |
+
+Like the BBC add-on, this one publishes several catalogs — Stremio offers them
+in the second dropdown of **Discover**, with a **Genre** dropdown next to it:
+
+| Catalog | What it is |
+|---|---|
+| Taylor Sheridan Newest | Newest first; announced projects with no date yet come first of all |
+| Taylor Sheridan Popular | Most popular on TMDB first |
+| Taylor Sheridan Top Rated | Highest rated first |
+| Taylor Sheridan Written & Directed | Only titles he wrote, created or directed — no producer-only credits |
+
+The last one shows what a variant's optional `jobs` key does: it narrows the
+catalog to titles carrying one of those roles. Since `includeAllCrewJobs` is on
+by default, the plain catalogs include everything he produced too, and this is
+the way to see just his own writing and directing. Add more the same way, or
+delete the ones you don't want — it is only a config entry either way.
+
+Genres come from the filmography records TMDB already returns, so the dropdown
+costs no extra API requests.
 
 After changing `config.json` and pushing, the workflow runs automatically.
 
@@ -236,9 +258,9 @@ Requires Node.js 18+, no dependencies to install.
 ├── config.json                  # Taylor Sheridan catalog settings
 ├── config.bbc.json              # BBC catalog settings
 ├── scripts/
-│   ├── lib/
-│   │   ├── tmdb.js              # shared TMDB client (auth, retries, concurrency)
-│   │   ├── catalog.js           # shared meta building + catalog writing
+│   ├── lib/                     # shared by both generators
+│   │   ├── tmdb.js              # TMDB client (auth, retries, concurrency)
+│   │   ├── catalog.js           # meta building, sorting, catalog + manifest writing
 │   │   └── genres.js            # TMDB genre ids → Stremio dropdown labels
 │   ├── generate.js              # Taylor Sheridan generator
 │   ├── generate-bbc.js          # BBC generator

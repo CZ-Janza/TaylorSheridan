@@ -16,7 +16,20 @@ const TODAY = new Date().toISOString().slice(0, 10);
  * Stremio's metadata add-on (Cinemeta) has no data for unreleased titles, so
  * without this they show up as blank tiles.
  */
-function buildMeta({ tmdbEntry, imdbId, isMovie, name, overview, date, status, jobs }) {
+function buildMeta({
+  tmdbEntry,
+  imdbId,
+  isMovie,
+  name,
+  overview,
+  date,
+  status,
+  jobs,
+  // Where a title with no date at all sorts. A broad catalog wants those last
+  // (they are almost always noise); a filmography wants them first, since an
+  // announced-but-unscheduled project is the interesting part.
+  undatedSortsAs = "",
+}) {
   const released = !!date && date <= TODAY;
 
   let displayName = name;
@@ -40,9 +53,7 @@ function buildMeta({ tmdbEntry, imdbId, isMovie, name, overview, date, status, j
     background: tmdbEntry.backdrop_path ? `${IMG}/w780${tmdbEntry.backdrop_path}` : undefined,
     description,
     releaseInfo: date ? String(date).slice(0, 4) : undefined,
-    // Sort helper (Stremio never sees it). Undated titles get an empty string
-    // so "newest first" puts them at the end rather than at the top.
-    _date: date || "",
+    _date: date || undatedSortsAs, // sort helper (Stremio never sees it)
     _jobs: jobs ? [...jobs].sort() : undefined,
   };
 }
@@ -58,6 +69,16 @@ function clean(metas) {
 
 /** Newest first. */
 const byDateDesc = (a, b) => String(b._date).localeCompare(String(a._date));
+
+/**
+ * The orderings a catalog variant can be published in. Both generators offer
+ * the same three, so Discover behaves identically across the two add-ons.
+ */
+const META_SORTS = {
+  date: byDateDesc,
+  popularity: (a, b) => (b._pop || 0) - (a._pop || 0),
+  rating: (a, b) => (b._rating || 0) - (a._rating || 0),
+};
 
 /**
  * Delete a catalog directory so a run cannot leave stale files behind — a genre
@@ -132,4 +153,33 @@ function writeCatalog({ baseDir, type, id, metas, pageSize = 0, genres = [], min
   return offered;
 }
 
-module.exports = { TODAY, buildMeta, clean, byDateDesc, resetCatalog, writeCatalog };
+/**
+ * Rewrite a manifest's catalog list so the variants and genre dropdowns always
+ * match what was actually written. Everything else in the manifest is
+ * hand-maintained and left alone.
+ */
+function writeManifest(manifestPath, catalogs) {
+  const manifest = JSON.parse(fs.readFileSync(manifestPath, "utf8"));
+  manifest.catalogs = catalogs;
+  fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + "\n");
+  console.log(`Wrote ${path.basename(manifestPath)} (${catalogs.length} catalogs)`);
+}
+
+/** The Stremio catalog entry for one written variant. */
+function catalogEntry({ type, id, name, genres }) {
+  const extra = [{ name: "skip", isRequired: false }];
+  if (genres.length) extra.unshift({ name: "genre", options: genres, isRequired: false });
+  return { type, id, name, extra };
+}
+
+module.exports = {
+  TODAY,
+  buildMeta,
+  clean,
+  byDateDesc,
+  META_SORTS,
+  resetCatalog,
+  writeCatalog,
+  writeManifest,
+  catalogEntry,
+};

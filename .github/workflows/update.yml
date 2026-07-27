@@ -45,9 +45,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # The BBC generator rewrites its manifest's catalog list (variants +
-          # genre options) to match what it just produced, so it ships too.
-          git add docs/catalog docs/bbc/catalog docs/bbc/manifest.json
+          # Both generators rewrite their manifest's catalog list (variants +
+          # genre options) to match what they just produced, so those ship too.
+          git add docs/catalog docs/manifest.json docs/bbc/catalog docs/bbc/manifest.json
           if git diff --cached --quiet; then
             echo "No catalog changes."
             exit 0

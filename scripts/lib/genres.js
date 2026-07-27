@@ -47,16 +47,25 @@ const GENRE_LABELS = {
   10752: ["War"],
 };
 
-/** Display labels for a TMDB detail response's `genres` array. */
-function genreLabels(genres) {
+/** Display labels for a list of TMDB genre ids. */
+function genreLabelsFromIds(ids) {
   const out = new Set();
-  for (const g of genres || []) {
-    for (const label of GENRE_LABELS[g.id] || []) out.add(label);
+  for (const id of ids || []) {
+    for (const label of GENRE_LABELS[id] || []) out.add(label);
   }
   return [...out];
+}
+
+/**
+ * Display labels for a TMDB detail response's `genres` array. Summary records
+ * (search results, credits) carry plain `genre_ids` instead — use
+ * `genreLabelsFromIds` for those and save the extra request.
+ */
+function genreLabels(genres) {
+  return genreLabelsFromIds((genres || []).map((g) => g.id));
 }
 
 /** Every label that could ever be produced, alphabetically. */
 const ALL_GENRE_LABELS = [...new Set(Object.values(GENRE_LABELS).flat())].sort();
 
-module.exports = { GENRE_LABELS, ALL_GENRE_LABELS, genreLabels };
+module.exports = { GENRE_LABELS, ALL_GENRE_LABELS, genreLabels, genreLabelsFromIds };

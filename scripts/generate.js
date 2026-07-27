@@ -6,7 +6,9 @@
  * 2. Download the complete filmography (combined_credits).
  * 3. Filter titles by the roles in config.includeJobs.
  * 4. Resolve the IMDb ID for each title (Stremio uses "tt..." identifiers).
- * 5. Write docs/catalog/movie/*.json and docs/catalog/series/*.json.
+ * 5. Write docs/catalog/{movie,series}/*.json — one catalog per configured
+ *    variant (newest / popular / top rated, optionally narrowed to a role),
+ *    each with a view per genre, and rewrite the manifest to match.
  *
  * Run:  TMDB_API_KEY=xxx node scripts/generate.js
  * Requires Node.js 18+ (native fetch), no dependencies.
@@ -16,9 +18,35 @@ const fs = require("fs");
 const path = require("path");
 
 const ROOT = path.join(__dirname, "..");
+const OUT_DIR = path.join(ROOT, "docs");
+const MANIFEST = path.join(OUT_DIR, "manifest.json");
 const CONFIG = JSON.parse(fs.readFileSync(path.join(ROOT, "config.json"), "utf8"));
 
-const { tmdb, sleep, IMG } = require("./lib/tmdb");
+const { tmdb, sleep } = require("./lib/tmdb");
+const {
+  buildMeta,
+  META_SORTS,
+  resetCatalog,
+  writeCatalog,
+  writeManifest,
+  catalogEntry,
+} = require("./lib/catalog");
+const { ALL_GENRE_LABELS, genreLabelsFromIds } = require("./lib/genres");
+
+// A filmography is short and every title is wanted, so unlike the BBC catalog
+// nothing is capped — but an announced project with no date yet is the most
+// interesting entry there is, so those sort to the very top.
+const UNDATED_SORTS_AS = "9999-12-31";
+
+const VARIANTS = (CONFIG.catalogVariants || []).map((v) => {
+  if (!META_SORTS[v.sortBy]) {
+    throw new Error(
+      `Unknown sortBy "${v.sortBy}" in catalogVariants — use ${Object.keys(META_SORTS).join(", ")}.`
+    );
+  }
+  return v;
+});
+if (VARIANTS.length === 0) throw new Error("config.json: catalogVariants is empty.");
 
 async function findPerson() {
   if (CONFIG.person.tmdbId) {
@@ -85,8 +113,6 @@ async function main() {
   const movies = [];
   const series = [];
 
-  const TODAY = new Date().toISOString().slice(0, 10);
-
   for (const { entry, jobs } of picked.values()) {
     const isMovie = entry.media_type === "movie";
     let date = isMovie ? entry.release_date : entry.first_air_date;
@@ -126,33 +152,25 @@ async function main() {
       continue;
     }
 
-    // "Upcoming" = no release date yet, or a date still in the future.
-    const released = !!date && date <= TODAY;
-    let name = entry.title || entry.name;
-    let description = overview || undefined;
-    if (!released) {
-      name += " (upcoming)";
-      // Put the expected date / production status in front of the description
-      // so it's visible on the title's detail page even before Cinemeta has it.
-      const when = date
-        ? `Expected release: ${date}`
-        : status
-        ? `Not yet released — status: ${status}`
-        : "Not yet released";
-      description = `⏳ ${when}.` + (overview ? ` ${overview}` : "");
-    }
+    // Credits records already carry genre ids, ratings and popularity, so the
+    // genre views and the ordering variants cost no extra requests.
+    const genres = genreLabelsFromIds(entry.genre_ids);
 
-    const meta = {
-      id: imdbId,
-      type: isMovie ? "movie" : "series",
-      name,
-      poster: entry.poster_path ? `${IMG}/w342${entry.poster_path}` : undefined,
-      background: entry.backdrop_path ? `${IMG}/w780${entry.backdrop_path}` : undefined,
-      description,
-      releaseInfo: date ? String(date).slice(0, 4) : undefined,
-      _date: date || "9999-12-31", // sort helper (Stremio never sees it)
-      _jobs: [...jobs].sort(),
-    };
+    const meta = buildMeta({
+      tmdbEntry: entry,
+      imdbId,
+      isMovie,
+      name: entry.title || entry.name,
+      overview,
+      date,
+      status,
+      jobs,
+      undatedSortsAs: UNDATED_SORTS_AS,
+    });
+    meta.genres = genres.length ? genres : undefined;
+    meta._genres = genres;
+    meta._pop = entry.popularity || 0;
+    meta._rating = entry.vote_average || 0;
 
     (isMovie ? movies : series).push(meta);
     console.log(
@@ -160,39 +178,64 @@ async function main() {
     );
   }
 
-  // Manually added titles from config (IMDb ID only – Cinemeta supplies metadata)
+  // Manually added titles from config (IMDb ID only – Cinemeta supplies
+  // metadata). Nothing is known about them here, so they carry no genres and
+  // sit with the unscheduled projects at the top.
+  const manual = (id, type) => ({
+    id,
+    type,
+    name: id,
+    _date: UNDATED_SORTS_AS,
+    _jobs: ["Manual"],
+    _genres: [],
+    _pop: 0,
+    _rating: 0,
+  });
   for (const id of CONFIG.extraImdbIds.movies || []) {
-    if (!movies.some((m) => m.id === id)) {
-      movies.push({ id, type: "movie", name: id, _date: "9999-12-31", _jobs: ["Manual"] });
-    }
+    if (!movies.some((m) => m.id === id)) movies.push(manual(id, "movie"));
   }
   for (const id of CONFIG.extraImdbIds.series || []) {
-    if (!series.some((m) => m.id === id)) {
-      series.push({ id, type: "series", name: id, _date: "9999-12-31", _jobs: ["Manual"] });
+    if (!series.some((m) => m.id === id)) series.push(manual(id, "series"));
+  }
+
+  // Only rebuild the catalog tree once everything resolved, so a failure
+  // halfway through leaves the published add-on untouched.
+  resetCatalog(OUT_DIR);
+
+  const pageSize = CONFIG.pageSize || 0;
+  const minGenreItems = CONFIG.minGenreItems || 1;
+  const catalogs = [];
+
+  for (const [type, all] of [
+    ["movie", movies],
+    ["series", series],
+  ]) {
+    for (const variant of VARIANTS) {
+      // A variant may narrow the catalog to titles Sheridan held a given role
+      // on — "everything he directed", say — which is what a filmography can
+      // filter by that a broad catalog cannot.
+      const metas = all
+        .filter((m) => !variant.jobs || (m._jobs || []).some((j) => variant.jobs.includes(j)))
+        .sort(META_SORTS[variant.sortBy]);
+      if (metas.length === 0) continue;
+
+      const id = `taylor-sheridan-${type === "movie" ? "movies" : "series"}${variant.idSuffix || ""}`;
+      const genres = writeCatalog({
+        baseDir: OUT_DIR,
+        type,
+        id,
+        metas,
+        pageSize,
+        genres: CONFIG.genreFilter === false ? [] : ALL_GENRE_LABELS,
+        minGenreItems,
+      });
+
+      catalogs.push(catalogEntry({ type, id, name: variant.name, genres }));
     }
   }
 
-  // Newest first
-  const byDateDesc = (a, b) => String(b._date).localeCompare(String(a._date));
-  movies.sort(byDateDesc);
-  series.sort(byDateDesc);
-
-  const clean = (arr) =>
-    arr.map(({ _date, _jobs, ...meta }) =>
-      Object.fromEntries(Object.entries(meta).filter(([, v]) => v !== undefined))
-    );
-
-  const write = (relPath, metas) => {
-    const file = path.join(ROOT, "docs", relPath);
-    fs.mkdirSync(path.dirname(file), { recursive: true });
-    fs.writeFileSync(file, JSON.stringify({ metas }, null, 2) + "\n");
-    console.log(`Wrote ${relPath} (${metas.length} items)`);
-  };
-
-  write("catalog/movie/taylor-sheridan-movies.json", clean(movies));
-  write("catalog/series/taylor-sheridan-series.json", clean(series));
-
-  console.log("Done.");
+  writeManifest(MANIFEST, catalogs);
+  console.log(`Done. ${movies.length} movies, ${series.length} series.`);
 }
 
 main().catch((err) => {

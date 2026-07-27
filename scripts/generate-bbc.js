@@ -27,9 +27,11 @@ const { tmdb, mapLimit } = require("./lib/tmdb");
 const {
   TODAY,
   buildMeta,
-  byDateDesc,
+  META_SORTS,
   resetCatalog,
   writeCatalog,
+  writeManifest,
+  catalogEntry,
 } = require("./lib/catalog");
 const { ALL_GENRE_LABELS, genreLabels } = require("./lib/genres");
 
@@ -56,26 +58,23 @@ const dateField = (kind) => (kind === "movie" ? "primary_release_date" : "first_
 const entryDate = (kind, r) => (kind === "movie" ? r.release_date : r.first_air_date) || "";
 
 /**
- * The orderings a catalog variant can use. Each needs a TMDB sort (so the
- * right titles are discovered in the first place), a comparator for raw
- * /discover results (used to trim the pool before spending a request per
- * title) and one for finished metas.
+ * On top of the shared meta orderings, this generator needs a matching TMDB
+ * sort (so the right titles are discovered in the first place) and a
+ * comparator for raw /discover results, used to trim the pool before spending
+ * a request per title.
  */
 const SORTS = {
   date: {
     tmdb: (kind) => `${dateField(kind)}.desc`,
     raw: (kind) => (a, b) => entryDate(kind, b).localeCompare(entryDate(kind, a)),
-    meta: byDateDesc,
   },
   popularity: {
     tmdb: () => "popularity.desc",
     raw: () => (a, b) => (b.popularity || 0) - (a.popularity || 0),
-    meta: (a, b) => (b._pop || 0) - (a._pop || 0),
   },
   rating: {
     tmdb: () => "vote_average.desc",
     raw: () => (a, b) => (b.vote_average || 0) - (a.vote_average || 0),
-    meta: (a, b) => (b._rating || 0) - (a._rating || 0),
   },
 };
 
@@ -303,18 +302,6 @@ async function resolveTitles(kind, entries) {
   return results.filter(Boolean);
 }
 
-/**
- * Rewrite the manifest's catalog list so the variants and the genre dropdown
- * always match what was actually written. Everything else in the manifest is
- * hand-maintained and left alone.
- */
-function writeManifest(catalogs) {
-  const manifest = JSON.parse(fs.readFileSync(MANIFEST, "utf8"));
-  manifest.catalogs = catalogs;
-  fs.writeFileSync(MANIFEST, JSON.stringify(manifest, null, 2) + "\n");
-  console.log(`Wrote manifest.json (${catalogs.length} catalogs)`);
-}
-
 async function main() {
   const companies = await findCompanies();
   console.log(`BBC companies (${companies.size}): ${[...companies.values()].join(", ")}`);
@@ -348,7 +335,7 @@ async function main() {
 
   for (const kind of ["movie", "tv"]) {
     for (const variant of VARIANTS) {
-      const metas = [...resolved[kind]].sort(SORTS[variant.sortBy].meta).slice(0, max);
+      const metas = [...resolved[kind]].sort(META_SORTS[variant.sortBy]).slice(0, max);
       const id = catalogBase(kind) + (variant.idSuffix || "");
       const type = stremioType(kind);
 
@@ -362,13 +349,11 @@ async function main() {
         minGenreItems,
       });
 
-      const extra = [{ name: "skip", isRequired: false }];
-      if (genres.length) extra.unshift({ name: "genre", options: genres, isRequired: false });
-      catalogs.push({ type, id, name: variant.name, extra });
+      catalogs.push(catalogEntry({ type, id, name: variant.name, genres }));
     }
   }
 
-  writeManifest(catalogs);
+  writeManifest(MANIFEST, catalogs);
   console.log(`Done. ${resolved.movie.length} movies, ${resolved.tv.length} series.`);
 }
 
