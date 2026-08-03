@@ -32,6 +32,20 @@
       ]
     },
     {
+      "id": "tt0081874",
+      "type": "series",
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "poster": "https://image.tmdb.org/t/p/w342/yKiH7IIbo23uA72MmY318mXorjw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
+      "description": "Don't Panic! The story of Arthur Dent, an average Englishman whose life was spared by his friend, who turned out to be an alien, while the planet Earth is destroyed. His friend tells him about the Hitchhiker's Guide to the Galaxy, a guide with anything you ever needed, and wanted to know. They travel across the galaxy, meeting friendly, and not so friendly characters in order to find the great question (the answer being 42).",
+      "releaseInfo": "1981",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt11379026",
       "type": "series",
       "name": "Ghosts",
@@ -41,21 +55,6 @@
       "releaseInfo": "2021",
       "genres": [
         "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt1869454",
-      "type": "series",
-      "name": "Good Omens",
-      "poster": "https://image.tmdb.org/t/p/w342/nO68XVx5of8hlBwEOGOkPC8Mveu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dQCKc5NKeKOGAQusk2FdctGB9k5.jpg",
-      "description": "Aziraphale and Crowley, of Heaven and Hell respectively, have grown rather fond of the Earth. So it's terrible news that it's about to end. The armies of Good and Evil are amassing. The Four Horsemen are ready to ride. Everything is going according to the Divine Plan...except that someone seems to have misplaced the Antichrist. Can our heroes find him and stop Armageddon before it's too late?",
-      "releaseInfo": "2019",
-      "genres": [
-        "Comedy",
-        "Drama",
         "Sci-Fi",
         "Fantasy"
       ]
@@ -77,15 +76,16 @@
       ]
     },
     {
-      "id": "tt0081874",
+      "id": "tt1869454",
       "type": "series",
-      "name": "The Hitchhiker's Guide to the Galaxy",
-      "poster": "https://image.tmdb.org/t/p/w342/yKiH7IIbo23uA72MmY318mXorjw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
-      "description": "Don't Panic! The story of Arthur Dent, an average Englishman whose life was spared by his friend, who turned out to be an alien, while the planet Earth is destroyed. His friend tells him about the Hitchhiker's Guide to the Galaxy, a guide with anything you ever needed, and wanted to know. They travel across the galaxy, meeting friendly, and not so friendly characters in order to find the great question (the answer being 42).",
-      "releaseInfo": "1981",
+      "name": "Good Omens",
+      "poster": "https://image.tmdb.org/t/p/w342/nO68XVx5of8hlBwEOGOkPC8Mveu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dQCKc5NKeKOGAQusk2FdctGB9k5.jpg",
+      "description": "Aziraphale and Crowley, of Heaven and Hell respectively, have grown rather fond of the Earth. So it's terrible news that it's about to end. The armies of Good and Evil are amassing. The Four Horsemen are ready to ride. Everything is going according to the Divine Plan...except that someone seems to have misplaced the Antichrist. Can our heroes find him and stop Armageddon before it's too late?",
+      "releaseInfo": "2019",
       "genres": [
         "Comedy",
+        "Drama",
         "Sci-Fi",
         "Fantasy"
       ]
@@ -215,7 +215,7 @@
       "id": "tt1008108",
       "type": "series",
       "name": "Ashes to Ashes",
-      "poster": "https://image.tmdb.org/t/p/w342/sHqcJx4rFybqm9ARztLKCPpaA7g.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/ky35fNxJQkO9bCwB010pB4brTL3.jpg",
       "background": "https://image.tmdb.org/t/p/w780/hwc6yz1XyYviF1T91GrtGsIaUyD.jpg",
       "description": "Crime drama series featuring Life On Mars' DCI Gene Hunt. After being shot in 2008, DI Alex Drake lands in 1981, where she finds herself in familiar company.",
       "releaseInfo": "2008",
@@ -732,6 +732,20 @@
       ]
     },
     {
+      "id": "tt5079788",
+      "type": "series",
+      "name": "Class",
+      "poster": "https://image.tmdb.org/t/p/w342/qC6c8Bx5LiWuZ5t9v3Iyn0818FL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4XcOdRYPTdNyu5C1iDnFHDqI9QN.jpg",
+      "description": "Coal Hill School has been a feature of Doctor Who since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt31433814",
       "type": "series",
       "name": "Doctor Who",
@@ -742,20 +756,6 @@
       "genres": [
         "Action",
         "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt5079788",
-      "type": "series",
-      "name": "Class",
-      "poster": "https://image.tmdb.org/t/p/w342/qC6c8Bx5LiWuZ5t9v3Iyn0818FL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4XcOdRYPTdNyu5C1iDnFHDqI9QN.jpg",
-      "description": "Coal Hill School has been a feature of Doctor Who since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.",
-      "releaseInfo": "2016",
-      "genres": [
         "Drama",
         "Sci-Fi",
         "Fantasy"

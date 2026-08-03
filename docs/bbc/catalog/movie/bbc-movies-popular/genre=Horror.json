@@ -29,20 +29,6 @@
       ]
     },
     {
-      "id": "tt1687901",
-      "type": "movie",
-      "name": "The Awakening",
-      "poster": "https://image.tmdb.org/t/p/w342/txmiJkl8su0jkEABLIHZBqVHrTj.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1Rw3KOjmKY4QrJ9MKugIo3F5FjO.jpg",
-      "description": "In post–War England, a writer and sometime-ghost hunter investigates a reported haunting at a boys boarding school.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt0120458",
       "type": "movie",
       "name": "Virus",
@@ -54,6 +40,20 @@
         "Horror",
         "Action",
         "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt1687901",
+      "type": "movie",
+      "name": "The Awakening",
+      "poster": "https://image.tmdb.org/t/p/w342/txmiJkl8su0jkEABLIHZBqVHrTj.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1Rw3KOjmKY4QrJ9MKugIo3F5FjO.jpg",
+      "description": "In post–War England, a writer and sometime-ghost hunter investigates a reported haunting at a boys boarding school.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
       ]
     },
     {
@@ -84,16 +84,32 @@
       ]
     },
     {
-      "id": "tt1100053",
+      "id": "tt1172571",
       "type": "movie",
-      "name": "Tormented",
-      "poster": "https://image.tmdb.org/t/p/w342/jPaZJjxfJM4cIHeDS9Isfqyat6l.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6n2rXlZavOgZAOCmY6GSA0w2Kpj.jpg",
-      "description": "Darren Mullet, a bullied asthmatic, is driven to suicide by his tormented life - ignored by his parents, ridiculed by his teachers and bullied at school. He returns from the dead to pay his teenage tormentors a final visit.",
-      "releaseInfo": "2009",
+      "name": "The Children",
+      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
+      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
+      "releaseInfo": "2008",
       "genres": [
         "Horror",
-        "Comedy"
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt7464188",
+      "type": "movie",
+      "name": "In Fabric",
+      "poster": "https://image.tmdb.org/t/p/w342/puGJX5Ko9KUMWM5cGqPZ5nyxa8c.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/97NFoAp9JdgXqBQG6aoUprF6zbS.jpg",
+      "description": "A haunting ghost story set against the backdrop of a busy winter sales period in a department store, following the life of a cursed dress as it passes from person to person, with devastating consequences.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Comedy",
+        "Mystery"
       ]
     },
     {
@@ -127,60 +143,31 @@
       ]
     },
     {
-      "id": "tt7464188",
+      "id": "tt1100053",
       "type": "movie",
-      "name": "In Fabric",
-      "poster": "https://image.tmdb.org/t/p/w342/puGJX5Ko9KUMWM5cGqPZ5nyxa8c.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/97NFoAp9JdgXqBQG6aoUprF6zbS.jpg",
-      "description": "A haunting ghost story set against the backdrop of a busy winter sales period in a department store, following the life of a cursed dress as it passes from person to person, with devastating consequences.",
-      "releaseInfo": "2018",
+      "name": "Tormented",
+      "poster": "https://image.tmdb.org/t/p/w342/jPaZJjxfJM4cIHeDS9Isfqyat6l.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6n2rXlZavOgZAOCmY6GSA0w2Kpj.jpg",
+      "description": "Darren Mullet, a bullied asthmatic, is driven to suicide by his tormented life - ignored by his parents, ridiculed by his teachers and bullied at school. He returns from the dead to pay his teenage tormentors a final visit.",
+      "releaseInfo": "2009",
       "genres": [
         "Horror",
-        "Fantasy",
-        "Comedy",
-        "Mystery"
+        "Comedy"
       ]
     },
     {
-      "id": "tt4788734",
+      "id": "tt0286594",
       "type": "movie",
-      "name": "Homebound",
-      "poster": "https://image.tmdb.org/t/p/w342/8ceAveKWI7PoYGGOFz2WW7xjtYF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pCyGiGkf960FIzfgXRyxz47htVl.jpg",
-      "description": "A young woman arrives at the home of her new husband's estranged family to find the children behaving in increasingly unnerving ways.",
-      "releaseInfo": "2022",
+      "name": "Doctor Sleep",
+      "poster": "https://image.tmdb.org/t/p/w342/eBRcmhQakzeYPU6AWLP1DtAoLtC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ahrY6isV4vfPUzpIF0CO96pjuMw.jpg",
+      "description": "While treating a policewoman for smoking, hypnotherapist Michael Strother has a telepathic vision of a young girl floating beneath the surface of a stream. The escaped victim of a ritualistic serial killer, the girl has become mute, and Michael is called upon by Scotland Yard to unlock the secrets she holds in order to catch a man who believes he has discovered the key to immortality.",
+      "releaseInfo": "2002",
       "genres": [
-        "Mystery",
+        "Crime",
+        "Horror",
         "Thriller",
-        "Drama",
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt0200659",
-      "type": "movie",
-      "name": "Ghostwatch",
-      "poster": "https://image.tmdb.org/t/p/w342/h5nOIZbO3J7STIOZumW00BxU6DC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/eIX4mfDkd0KHFFE7ouYTKuIBJbK.jpg",
-      "description": "For Halloween 1992, the BBC decides to broadcast an investigation into the supernatural, hosted by TV chat-show legend Michael Parkinson. Parky (assisted by Mike Smith, Sarah Greene & Craig Charles) and a camera crew attempt to discover the truth behind the most haunted house in Britain. This ground-breaking live television experiment does not go as planned, however.",
-      "releaseInfo": "1992",
-      "genres": [
-        "Horror",
         "Mystery"
-      ]
-    },
-    {
-      "id": "tt1172571",
-      "type": "movie",
-      "name": "The Children",
-      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
-      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
       ]
     },
     {
@@ -195,6 +182,19 @@
         "Thriller",
         "Mystery",
         "Horror"
+      ]
+    },
+    {
+      "id": "tt0200659",
+      "type": "movie",
+      "name": "Ghostwatch",
+      "poster": "https://image.tmdb.org/t/p/w342/h5nOIZbO3J7STIOZumW00BxU6DC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/eIX4mfDkd0KHFFE7ouYTKuIBJbK.jpg",
+      "description": "For Halloween 1992, the BBC decides to broadcast an investigation into the supernatural, hosted by TV chat-show legend Michael Parkinson. Parky (assisted by Mike Smith, Sarah Greene & Craig Charles) and a camera crew attempt to discover the truth behind the most haunted house in Britain. This ground-breaking live television experiment does not go as planned, however.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Horror",
+        "Mystery"
       ]
     },
     {
@@ -213,20 +213,6 @@
       ]
     },
     {
-      "id": "tt0075882",
-      "type": "movie",
-      "name": "Count Dracula",
-      "poster": "https://image.tmdb.org/t/p/w342/pZqlsK4A5vAH7kKwsWZ9Fjh9Aeq.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2LLMJoUdgkorU0Cz99ObEyPm5Jp.jpg",
-      "description": "Jonathan Harker visits the Count in Transylvania to help him with preparations to move to England. Harker becomes Dracula's prisoner and discovers Dracula's true nature. After Dracula makes his way to England, Harker becomes involved in an effort to track down and destroy the Count, eventually chasing the vampire back to his castle.",
-      "releaseInfo": "1977",
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0479760",
       "type": "movie",
       "name": "Sweeney Todd",
@@ -242,16 +228,43 @@
       ]
     },
     {
-      "id": "tt0810892",
+      "id": "tt4788734",
       "type": "movie",
-      "name": "The Haunted Airman",
-      "poster": "https://image.tmdb.org/t/p/w342/71PbHyrUdowV9HhW7fixWAPwH2l.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mUZfZf8Doaxka3hsQDOqDUUWL0g.jpg",
-      "description": "An injured RAF pilot, confined to a wheelchair is committed to an eerie hospital where he starts to lose his mind.",
-      "releaseInfo": "2006",
+      "name": "Homebound",
+      "poster": "https://image.tmdb.org/t/p/w342/8ceAveKWI7PoYGGOFz2WW7xjtYF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pCyGiGkf960FIzfgXRyxz47htVl.jpg",
+      "description": "A young woman arrives at the home of her new husband's estranged family to find the children behaving in increasingly unnerving ways.",
+      "releaseInfo": "2022",
       "genres": [
-        "Drama",
+        "Mystery",
         "Thriller",
+        "Drama",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0075882",
+      "type": "movie",
+      "name": "Count Dracula",
+      "poster": "https://image.tmdb.org/t/p/w342/pZqlsK4A5vAH7kKwsWZ9Fjh9Aeq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2LLMJoUdgkorU0Cz99ObEyPm5Jp.jpg",
+      "description": "Jonathan Harker visits the Count in Transylvania to help him with preparations to move to England. Harker becomes Dracula's prisoner and discovers Dracula's true nature. After Dracula makes his way to England, Harker becomes involved in an effort to track down and destroy the Count, eventually chasing the vampire back to his castle.",
+      "releaseInfo": "1977",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1795050",
+      "type": "movie",
+      "name": "Whistle and I'll Come to You",
+      "poster": "https://image.tmdb.org/t/p/w342/jiG5CejIwIperTQCZd12z2Thz0R.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wRN9UXef3Bm81ONS9WClUQPpIpl.jpg",
+      "description": "After placing his ailing wife Alice in a care home, elderly academic James Parkin goes to stay at a wintry out-of-season hotel which they used to visit together. But at night he seemingly becomes the victim of a ghostly revenge - but who is the avenger?",
+      "releaseInfo": "2010",
+      "genres": [
         "Horror"
       ]
     },
@@ -271,43 +284,17 @@
       ]
     },
     {
-      "id": "tt0286594",
+      "id": "tt0108069",
       "type": "movie",
-      "name": "Doctor Sleep",
-      "poster": "https://image.tmdb.org/t/p/w342/eBRcmhQakzeYPU6AWLP1DtAoLtC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ahrY6isV4vfPUzpIF0CO96pjuMw.jpg",
-      "description": "While treating a policewoman for smoking, hypnotherapist Michael Strother has a telepathic vision of a young girl floating beneath the surface of a stream. The escaped victim of a ritualistic serial killer, the girl has become mute, and Michael is called upon by Scotland Yard to unlock the secrets she holds in order to catch a man who believes he has discovered the key to immortality.",
-      "releaseInfo": "2002",
+      "name": "The Secret Adventures of Tom Thumb",
+      "poster": "https://image.tmdb.org/t/p/w342/98yogK8pBvjqpQ7mtohuaBMLUJv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yJ4PMGCOSIi69GqIYXa4Ll7X7DP.jpg",
+      "description": "A boy born the size of a small doll is kidnapped by a genetic lab and must find a way back to his father in this inventive adventure filmed using stop motion animation techniques.",
+      "releaseInfo": "1993",
       "genres": [
-        "Crime",
-        "Horror",
-        "Thriller",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0217821",
-      "type": "movie",
-      "name": "Stigma",
-      "poster": "https://image.tmdb.org/t/p/w342/ztCjyRwwKiJsZ5IOu4YgYBGyU29.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1OckvCZbTXLDJVhwhlbZxMisBQF.jpg",
-      "description": "A young couple move into a remote country house in the middle of a stone circle. They employ workmen who disturb an ancient menhir, unleashing a supernatural force.",
-      "releaseInfo": "1977",
-      "genres": [
-        "Horror",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt1795050",
-      "type": "movie",
-      "name": "Whistle and I'll Come to You",
-      "poster": "https://image.tmdb.org/t/p/w342/jiG5CejIwIperTQCZd12z2Thz0R.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wRN9UXef3Bm81ONS9WClUQPpIpl.jpg",
-      "description": "After placing his ailing wife Alice in a care home, elderly academic James Parkin goes to stay at a wintry out-of-season hotel which they used to visit together. But at night he seemingly becomes the victim of a ghostly revenge - but who is the avenger?",
-      "releaseInfo": "2010",
-      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Adventure",
         "Horror"
       ]
     },
@@ -325,16 +312,17 @@
       ]
     },
     {
-      "id": "tt0217142",
+      "id": "tt0217821",
       "type": "movie",
-      "name": "A Warning to the Curious",
-      "poster": "https://image.tmdb.org/t/p/w342/k3le6NswckzmGYAa7vl3XiCLNSC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7dLvII34af471uCYsI39se4WLjd.jpg",
-      "description": "Paxton, an amateur archeologist, travels to the town of Seaburgh and inadvertently stumbles across one of the lost crowns of Anglia, which, according to legend, protect the county from invasion. On digging the crown up, Paxton is stalked by its supernatural guardian.",
-      "releaseInfo": "1972",
+      "name": "Stigma",
+      "poster": "https://image.tmdb.org/t/p/w342/ztCjyRwwKiJsZ5IOu4YgYBGyU29.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1OckvCZbTXLDJVhwhlbZxMisBQF.jpg",
+      "description": "A young couple move into a remote country house in the middle of a stone circle. They employ workmen who disturb an ancient menhir, unleashing a supernatural force.",
+      "releaseInfo": "1977",
       "genres": [
         "Horror",
-        "Drama"
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -350,40 +338,41 @@
       ]
     },
     {
-      "id": "tt0108069",
+      "id": "tt0810892",
       "type": "movie",
-      "name": "The Secret Adventures of Tom Thumb",
-      "poster": "https://image.tmdb.org/t/p/w342/98yogK8pBvjqpQ7mtohuaBMLUJv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yJ4PMGCOSIi69GqIYXa4Ll7X7DP.jpg",
-      "description": "A boy born the size of a small doll is kidnapped by a genetic lab and must find a way back to his father in this inventive adventure filmed using stop motion animation techniques.",
-      "releaseInfo": "1993",
+      "name": "The Haunted Airman",
+      "poster": "https://image.tmdb.org/t/p/w342/71PbHyrUdowV9HhW7fixWAPwH2l.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mUZfZf8Doaxka3hsQDOqDUUWL0g.jpg",
+      "description": "An injured RAF pilot, confined to a wheelchair is committed to an eerie hospital where he starts to lose his mind.",
+      "releaseInfo": "2006",
       "genres": [
-        "Animation",
-        "Sci-Fi",
-        "Adventure",
+        "Drama",
+        "Thriller",
         "Horror"
       ]
     },
     {
-      "id": "tt0063381",
+      "id": "tt0069316",
       "type": "movie",
-      "name": "Whistle and I'll Come to You",
-      "poster": "https://image.tmdb.org/t/p/w342/4xEEqlG2vLQvd9s8ljUBHD1OPaK.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rdv5d9n5lluVWHcfpeyGCejWCF2.jpg",
-      "description": "A university professor, confident that everything which occurs in life has a rational explanation, finds his beliefs severely challenged when, during a vacation to a remote coastal village in Norfolk, he blows through an ancient whistle discovered on a beach, awakening horrors beyond human understanding.",
-      "releaseInfo": "1968",
+      "name": "The Stone Tape",
+      "poster": "https://image.tmdb.org/t/p/w342/oNa0LrdaOCZUFmSJZviBHBoXepZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2b7lkEJ38ZHzYUaF6RIvN4L76XT.jpg",
+      "description": "A research team from an electronics company move into an old Victorian house to start work on finding a new recording medium. When team member Jill Greeley witnesses a ghost, team director Peter Brock decides not only to analyse the apparition, which he believes is a psychic impression trapped in a stone wall (dubbed a \"stone tape\"), but to exorcise it too - with terrifying results...",
+      "releaseInfo": "1972",
       "genres": [
-        "Horror"
+        "Horror",
+        "Mystery",
+        "Drama"
       ]
     },
     {
-      "id": "tt0075220",
+      "id": "tt11197444",
       "type": "movie",
-      "name": "The Signalman",
-      "poster": "https://image.tmdb.org/t/p/w342/8WHG1G1jbHVbwXc7KHQyShz4RdD.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nmnzMEEiBv0vD05xtlYpWlrpIdP.jpg",
-      "description": "A traveller comes across a signalman stationed by the exit of a railway tunnel in a deep cutting. The traveller becomes familiar with the signalman, and finds that he is troubled by an apparition which appears by the tunnel.",
-      "releaseInfo": "1976",
+      "name": "The Fall",
+      "poster": "https://image.tmdb.org/t/p/w342/ltZj6zkzsTjKOA6XK1mlW0bxGrs.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/i8WHMVgsF6FRnoXVA3l3ryjgHMZ.jpg",
+      "description": "A mob's punishment of a lone man proves cruel and unusual.",
+      "releaseInfo": "2019",
       "genres": [
         "Horror"
       ]
@@ -403,6 +392,31 @@
       ]
     },
     {
+      "id": "tt0217142",
+      "type": "movie",
+      "name": "A Warning to the Curious",
+      "poster": "https://image.tmdb.org/t/p/w342/k3le6NswckzmGYAa7vl3XiCLNSC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7dLvII34af471uCYsI39se4WLjd.jpg",
+      "description": "Paxton, an amateur archeologist, travels to the town of Seaburgh and inadvertently stumbles across one of the lost crowns of Anglia, which, according to legend, protect the county from invasion. On digging the crown up, Paxton is stalked by its supernatural guardian.",
+      "releaseInfo": "1972",
+      "genres": [
+        "Horror",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0063381",
+      "type": "movie",
+      "name": "Whistle and I'll Come to You",
+      "poster": "https://image.tmdb.org/t/p/w342/4xEEqlG2vLQvd9s8ljUBHD1OPaK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rdv5d9n5lluVWHcfpeyGCejWCF2.jpg",
+      "description": "A university professor, confident that everything which occurs in life has a rational explanation, finds his beliefs severely challenged when, during a vacation to a remote coastal village in Norfolk, he blows through an ancient whistle discovered on a beach, awakening horrors beyond human understanding.",
+      "releaseInfo": "1968",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
       "id": "tt0217060",
       "type": "movie",
       "name": "The Stalls of Barchester",
@@ -415,17 +429,15 @@
       ]
     },
     {
-      "id": "tt0069316",
+      "id": "tt0075220",
       "type": "movie",
-      "name": "The Stone Tape",
-      "poster": "https://image.tmdb.org/t/p/w342/oNa0LrdaOCZUFmSJZviBHBoXepZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2b7lkEJ38ZHzYUaF6RIvN4L76XT.jpg",
-      "description": "A research team from an electronics company move into an old Victorian house to start work on finding a new recording medium. When team member Jill Greeley witnesses a ghost, team director Peter Brock decides not only to analyse the apparition, which he believes is a psychic impression trapped in a stone wall (dubbed a \"stone tape\"), but to exorcise it too - with terrifying results...",
-      "releaseInfo": "1972",
+      "name": "The Signalman",
+      "poster": "https://image.tmdb.org/t/p/w342/8WHG1G1jbHVbwXc7KHQyShz4RdD.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nmnzMEEiBv0vD05xtlYpWlrpIdP.jpg",
+      "description": "A traveller comes across a signalman stationed by the exit of a railway tunnel in a deep cutting. The traveller becomes familiar with the signalman, and finds that he is troubled by an apparition which appears by the tunnel.",
+      "releaseInfo": "1976",
       "genres": [
-        "Horror",
-        "Mystery",
-        "Drama"
+        "Horror"
       ]
     },
     {
@@ -452,18 +464,6 @@
       "genres": [
         "Horror",
         "Mystery"
-      ]
-    },
-    {
-      "id": "tt11197444",
-      "type": "movie",
-      "name": "The Fall",
-      "poster": "https://image.tmdb.org/t/p/w342/ltZj6zkzsTjKOA6XK1mlW0bxGrs.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/i8WHMVgsF6FRnoXVA3l3ryjgHMZ.jpg",
-      "description": "A mob's punishment of a lone man proves cruel and unusual.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Horror"
       ]
     }
   ]

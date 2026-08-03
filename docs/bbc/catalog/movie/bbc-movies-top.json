@@ -204,6 +204,18 @@
       ]
     },
     {
+      "id": "tt0827573",
+      "type": "movie",
+      "name": "Doctor Who: The Runaway Bride",
+      "poster": "https://image.tmdb.org/t/p/w342/8LQlTuvlDR44RMO09aZ1ejhdLET.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/13qDzilftzRZMUEHcpi57VLqNPw.jpg",
+      "description": "A young bride in the midst of her wedding finds herself mysteriously transported to the TARDIS. The Doctor must discover what her connection is with the Empress of the Racnoss's plan to destroy the world.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Sci-Fi"
+      ]
+    },
+    {
       "id": "tt29271622",
       "type": "movie",
       "name": "Palestine 36",
@@ -215,18 +227,6 @@
         "Drama",
         "History",
         "War"
-      ]
-    },
-    {
-      "id": "tt0827573",
-      "type": "movie",
-      "name": "Doctor Who: The Runaway Bride",
-      "poster": "https://image.tmdb.org/t/p/w342/8LQlTuvlDR44RMO09aZ1ejhdLET.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/13qDzilftzRZMUEHcpi57VLqNPw.jpg",
-      "description": "A young bride in the midst of her wedding finds herself mysteriously transported to the TARDIS. The Doctor must discover what her connection is with the Empress of the Racnoss's plan to destroy the world.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Sci-Fi"
       ]
     },
     {
@@ -253,31 +253,6 @@
       "releaseInfo": "2023",
       "genres": [
         "History",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt12289900",
-      "type": "movie",
-      "name": "Good Omens: Lockdown",
-      "poster": "https://image.tmdb.org/t/p/w342/5hawLdQq2OIzteShCg4dwOw13Tu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/p32OyIAsAWoIHUoBeQjBfhaJmqF.jpg",
-      "description": "Aziraphale and Crowley talk over the phone about how they're dealing with the lockdown during the COVID-19 pandemic.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt5168192",
-      "type": "movie",
-      "name": "I, Daniel Blake",
-      "poster": "https://image.tmdb.org/t/p/w342/nu3WVABXz2W85N6JXTZOT1aWS3b.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mNLonkdD4MtaZnHTifp8be8nJrm.jpg",
-      "description": "A middle aged carpenter, who requires state welfare after injuring himself, is joined by a single mother in a similar scenario.",
-      "releaseInfo": "2016",
-      "genres": [
         "Drama"
       ]
     },
@@ -311,16 +286,28 @@
       ]
     },
     {
-      "id": "tt3169706",
+      "id": "tt12289900",
       "type": "movie",
-      "name": "Pride",
-      "poster": "https://image.tmdb.org/t/p/w342/Kc3vbqO0X4VRnjACGNoWLNQvHo.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tqLjEqOELHek2zfZ1d3vknG7Dfu.jpg",
-      "description": "In 1984, a group of LGBT activists decide to raise money to support the National Union of Mineworkers during their lengthy strike. There is only one problem: the Union seems embarrassed to receive their support.",
-      "releaseInfo": "2014",
+      "name": "Good Omens: Lockdown",
+      "poster": "https://image.tmdb.org/t/p/w342/5hawLdQq2OIzteShCg4dwOw13Tu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/p32OyIAsAWoIHUoBeQjBfhaJmqF.jpg",
+      "description": "Aziraphale and Crowley talk over the phone about how they're dealing with the lockdown during the COVID-19 pandemic.",
+      "releaseInfo": "2020",
       "genres": [
-        "Drama",
-        "Comedy"
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt5168192",
+      "type": "movie",
+      "name": "I, Daniel Blake",
+      "poster": "https://image.tmdb.org/t/p/w342/nu3WVABXz2W85N6JXTZOT1aWS3b.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mNLonkdD4MtaZnHTifp8be8nJrm.jpg",
+      "description": "A 59-year-old carpenter recovering from a heart attack befriends a single mother and her two kids as they navigate the impersonal, Kafkaesque benefits system. With equal amounts of humour, warmth and despair, the journey is heartfelt and emotional until the end.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -357,6 +344,19 @@
       "releaseInfo": "2013",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt3169706",
+      "type": "movie",
+      "name": "Pride",
+      "poster": "https://image.tmdb.org/t/p/w342/Kc3vbqO0X4VRnjACGNoWLNQvHo.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tqLjEqOELHek2zfZ1d3vknG7Dfu.jpg",
+      "description": "In 1984, a group of LGBT activists decide to raise money to support the National Union of Mineworkers during their lengthy strike. There is only one problem: the Union seems embarrassed to receive their support.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama",
+        "Comedy"
       ]
     },
     {
@@ -403,7 +403,7 @@
       "poster": "https://image.tmdb.org/t/p/w342/1LZXTlcgDIdVFtPUvF7Q2XV6D2r.jpg",
       "background": "https://image.tmdb.org/t/p/w780/k2flNjj017S5QkDmWC7i8IsRbyF.jpg",
       "description": "Documentary style account of a nuclear holocaust and its effect on the working class city of Sheffield, England; and the eventual long run effects of nuclear war on civilization.",
-      "releaseInfo": "1985",
+      "releaseInfo": "1984",
       "genres": [
         "War",
         "Drama",
@@ -481,19 +481,6 @@
       ]
     },
     {
-      "id": "tt21064584",
-      "type": "movie",
-      "name": "The Iron Claw",
-      "poster": "https://image.tmdb.org/t/p/w342/s2VLjcykJfwplJNGT5iEeCA0mRx.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
-      "description": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama",
-        "History"
-      ]
-    },
-    {
       "id": "tt6352564",
       "type": "movie",
       "name": "Peter Pan Goes Wrong",
@@ -508,17 +495,28 @@
       ]
     },
     {
-      "id": "tt1725969",
+      "id": "tt21064584",
       "type": "movie",
-      "name": "Ethel & Ernest",
-      "poster": "https://image.tmdb.org/t/p/w342/aXIrOeS81jXR1ZyYq73yrqHALzT.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nD14XrDKbTB4K9KNUjRwajK948I.jpg",
-      "description": "This hand drawn animated film, based on the award winning graphic novel by Raymond Briggs, is an intimate and affectionate depiction of the life and times of his parents, two ordinary Londoners living through extraordinary events.",
-      "releaseInfo": "2016",
+      "name": "The Iron Claw",
+      "poster": "https://image.tmdb.org/t/p/w342/s2VLjcykJfwplJNGT5iEeCA0mRx.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4l65BWqJBl7hBwdIwp2nQdwsOuw.jpg",
+      "description": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s. Through tragedy and triumph, under the shadow of their domineering father and coach, the brothers seek larger-than-life immortality on the biggest stage in sports.",
+      "releaseInfo": "2023",
       "genres": [
-        "Animation",
         "Drama",
-        "War",
+        "History"
+      ]
+    },
+    {
+      "id": "tt0420901",
+      "type": "movie",
+      "name": "Shooting Dogs",
+      "poster": "https://image.tmdb.org/t/p/w342/9xC2yUgqPVvoHykYuigrxLyunya.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6PkzgNLKoK1Oy0j7L79JuBgl22r.jpg",
+      "description": "Two westerners, a priest and a teacher find themselves in the middle of the Rwandan genocide and face a moral dilemna. Do they place themselves in danger and protect the refugees, or escape the country with their lives? Based on a true story.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
         "History"
       ]
     },
@@ -551,15 +549,17 @@
       ]
     },
     {
-      "id": "tt0420901",
+      "id": "tt1725969",
       "type": "movie",
-      "name": "Shooting Dogs",
-      "poster": "https://image.tmdb.org/t/p/w342/9xC2yUgqPVvoHykYuigrxLyunya.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6PkzgNLKoK1Oy0j7L79JuBgl22r.jpg",
-      "description": "Two westerners, a priest and a teacher find themselves in the middle of the Rwandan genocide and face a moral dilemna. Do they place themselves in danger and protect the refugees, or escape the country with their lives? Based on a true story.",
-      "releaseInfo": "2006",
+      "name": "Ethel & Ernest",
+      "poster": "https://image.tmdb.org/t/p/w342/aXIrOeS81jXR1ZyYq73yrqHALzT.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nD14XrDKbTB4K9KNUjRwajK948I.jpg",
+      "description": "This hand drawn animated film, based on the award winning graphic novel by Raymond Briggs, is an intimate and affectionate depiction of the life and times of his parents, two ordinary Londoners living through extraordinary events.",
+      "releaseInfo": "2016",
       "genres": [
+        "Animation",
         "Drama",
+        "War",
         "History"
       ]
     },
@@ -598,18 +598,6 @@
       "genres": [
         "Comedy",
         "Sci-Fi"
-      ]
-    },
-    {
-      "id": "tt35695538",
-      "type": "movie",
-      "name": "My Father's Shadow",
-      "poster": "https://image.tmdb.org/t/p/w342/aF8AFFh3LJpF8An0KUM8SdTwfVt.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sv12y5tWaE4seAy53tMbCapvSE3.jpg",
-      "description": "Two young brothers explore Lagos with their estranged father during the 1993 Nigerian election crisis, witnessing both the city's magnitude and their father's daily struggles as political unrest threatens their journey home.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Drama"
       ]
     },
     {
@@ -665,6 +653,18 @@
         "Crime",
         "Thriller",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt35695538",
+      "type": "movie",
+      "name": "My Father's Shadow",
+      "poster": "https://image.tmdb.org/t/p/w342/aF8AFFh3LJpF8An0KUM8SdTwfVt.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sv12y5tWaE4seAy53tMbCapvSE3.jpg",
+      "description": "Two young brothers explore Lagos with their estranged father during the 1993 Nigerian election crisis, witnessing both the city's magnitude and their father's daily struggles as political unrest threatens their journey home.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -787,6 +787,19 @@
       ]
     },
     {
+      "id": "tt14473100",
+      "type": "movie",
+      "name": "Nineteen Eighty-Four",
+      "poster": "https://image.tmdb.org/t/p/w342/w6fHgUpUA3aRwv8MrmxfuYlKoCJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/egiZUdhhWutp0VDchQfjq56ePJU.jpg",
+      "description": "A man who works for 'The Party' (an all powerful empire led by a man known only as 'Big Brother') begins to have thoughts of rebellion and love for a fellow member. Together they look to help bring down the party.",
+      "releaseInfo": "1954",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
       "id": "tt0416320",
       "type": "movie",
       "name": "Match Point",
@@ -814,20 +827,6 @@
       ]
     },
     {
-      "id": "tt0765443",
-      "type": "movie",
-      "name": "Eastern Promises",
-      "poster": "https://image.tmdb.org/t/p/w342/nLwv1pxRCRZucQaqs6oPkq7HH3K.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1ckHUJ6ztq5XJRKM2nIAW0UjJNH.jpg",
-      "description": "A Russian teenager living in London dies during childbirth but leaves clues in her diary that could tie her child to a rape involving a violent Russian mob family.",
-      "releaseInfo": "2007",
-      "genres": [
-        "Thriller",
-        "Crime",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt2431286",
       "type": "movie",
       "name": "Philomena",
@@ -835,30 +834,6 @@
       "background": "https://image.tmdb.org/t/p/w780/eyn0vuN4IZjImE5Dws0iPhZrCMc.jpg",
       "description": "A woman searches for her adult son, who was taken away from her decades ago when she was forced to live in a convent.",
       "releaseInfo": "2013",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt8359816",
-      "type": "movie",
-      "name": "Sorry We Missed You",
-      "poster": "https://image.tmdb.org/t/p/w342/jNvlqNDnXH8aqBeiBxNNP0wWWO3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bO7uK55yHE7hZobRN798rytCQuq.jpg",
-      "description": "Ricky and his family have been fighting an uphill struggle against debt since the 2008 financial crash. An opportunity to wrestle back some independence appears with a shiny new van and the chance to run a franchise as a self-employed delivery driver. It's hard work, and his wife's job as a carer is no easier. The family unit is strong but when both are pulled in different directions everything comes to breaking point.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2404425",
-      "type": "movie",
-      "name": "Woman in Gold",
-      "poster": "https://image.tmdb.org/t/p/w342/6eoj6bozvgwNuDV3vOrqlvrCrX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/cKrWGcWHKcergHyDKxKGbgcUsMm.jpg",
-      "description": "Maria Altmann, an octogenarian Jewish refugee, takes on the government to recover artwork she believes rightfully belongs to her family.",
-      "releaseInfo": "2015",
       "genres": [
         "Drama"
       ]
@@ -875,6 +850,31 @@
         "Comedy",
         "Drama",
         "History"
+      ]
+    },
+    {
+      "id": "tt8359816",
+      "type": "movie",
+      "name": "Sorry We Missed You",
+      "poster": "https://image.tmdb.org/t/p/w342/jNvlqNDnXH8aqBeiBxNNP0wWWO3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bO7uK55yHE7hZobRN798rytCQuq.jpg",
+      "description": "Hoping that self-employment through gig economy can solve their financial woes, a hard-up delivery driver and his wife struggling to raise a family end up trapped in the vicious circle of modern-day labour exploitation.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0416508",
+      "type": "movie",
+      "name": "Becoming Jane",
+      "poster": "https://image.tmdb.org/t/p/w342/yHA6JEn57MBGp2yGFgYyopJvk2O.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/r95IP56O3j8fz9a09x55lymr9uJ.jpg",
+      "description": "Though young Jane Austen's financially strapped parents expect her to marry the nephew of wealthy Lady Gresham, Jane herself knows that such a union will destroy her creativity and sense of self-worth. Instead, she becomes involved with Tom Lefroy, a charming but penniless apprentice lawyer who gives her the knowledge of the heart she needs for her future career as a novelist.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Romance",
+        "Drama"
       ]
     },
     {
@@ -904,16 +904,17 @@
       ]
     },
     {
-      "id": "tt0416508",
+      "id": "tt0765443",
       "type": "movie",
-      "name": "Becoming Jane",
-      "poster": "https://image.tmdb.org/t/p/w342/yHA6JEn57MBGp2yGFgYyopJvk2O.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/r95IP56O3j8fz9a09x55lymr9uJ.jpg",
-      "description": "Though young Jane Austen's financially strapped parents expect her to marry the nephew of wealthy Lady Gresham, Jane herself knows that such a union will destroy her creativity and sense of self-worth. Instead, she becomes involved with Tom Lefroy, a charming but penniless apprentice lawyer who gives her the knowledge of the heart she needs for her future career as a novelist.",
+      "name": "Eastern Promises",
+      "poster": "https://image.tmdb.org/t/p/w342/nLwv1pxRCRZucQaqs6oPkq7HH3K.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1ckHUJ6ztq5XJRKM2nIAW0UjJNH.jpg",
+      "description": "A Russian teenager living in London dies during childbirth but leaves clues in her diary that could tie her child to a rape involving a violent Russian mob family.",
       "releaseInfo": "2007",
       "genres": [
-        "Romance",
-        "Drama"
+        "Thriller",
+        "Crime",
+        "Mystery"
       ]
     },
     {
@@ -927,19 +928,6 @@
       "genres": [
         "Animation",
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt14473100",
-      "type": "movie",
-      "name": "Nineteen Eighty-Four",
-      "poster": "https://image.tmdb.org/t/p/w342/w6fHgUpUA3aRwv8MrmxfuYlKoCJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/egiZUdhhWutp0VDchQfjq56ePJU.jpg",
-      "description": "A man who works for 'The Party' (an all powerful empire led by a man known only as 'Big Brother') begins to have thoughts of rebellion and love for a fellow member. Together they look to help bring down the party.",
-      "releaseInfo": "1954",
-      "genres": [
-        "Drama",
-        "Sci-Fi"
       ]
     },
     {
@@ -957,19 +945,6 @@
       ]
     },
     {
-      "id": "tt0200095",
-      "type": "movie",
-      "name": "Scum",
-      "poster": "https://image.tmdb.org/t/p/w342/3cDsOsGomlrFFG1VUT3def7koMm.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/lJlt6z65AFZuE34wL7gDgYig3fF.jpg",
-      "description": "Carlin is a new reform school inmate with a reputation as a hard case. The authorities encourage gang leader Pongo to humble Carlin, but Carlin overtakes Pongo as Daddy of the ward. The guards institute a reign of terror and neglect, with Carlin emerging as an unlikely leader.",
-      "releaseInfo": "1977",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
       "id": "tt0101435",
       "type": "movie",
       "name": "Bernard and the Genie",
@@ -980,6 +955,19 @@
       "genres": [
         "Comedy",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0200095",
+      "type": "movie",
+      "name": "Scum",
+      "poster": "https://image.tmdb.org/t/p/w342/3cDsOsGomlrFFG1VUT3def7koMm.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/lJlt6z65AFZuE34wL7gDgYig3fF.jpg",
+      "description": "Carlin is a new reform school inmate with a reputation as a hard case. The authorities encourage gang leader Pongo to humble Carlin, but Carlin overtakes Pongo as Daddy of the ward. The guards institute a reign of terror and neglect, with Carlin emerging as an unlikely leader.",
+      "releaseInfo": "1977",
+      "genres": [
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -1011,47 +999,6 @@
       ]
     },
     {
-      "id": "tt0081874",
-      "type": "movie",
-      "name": "The Hitch Hikers Guide to the Galaxy",
-      "poster": "https://image.tmdb.org/t/p/w342/paOaEgnRu6eWraEwrpaE4yggpj5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vkioDzkjFv0xCWHOJ75Qx4XWIRf.jpg",
-      "description": "An Earth Man and his alien friend escape an exploding Earth, and set forth on an odd adventure across the universe with a known fugitive.",
-      "releaseInfo": "1981",
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Sci-Fi"
-      ]
-    },
-    {
-      "id": "tt0084315",
-      "type": "movie",
-      "name": "Time Masters",
-      "poster": "https://image.tmdb.org/t/p/w342/4ktdTOrJnSk7iCtX6Q2QR0sR9Je.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/eOgq3wNremNJ5V3hxapQop7JXvP.jpg",
-      "description": "On planet Perdide, an attack of giant hornets leaves young Piel alone in a wrecked car with his dying father. A mayday message reaches their friend Jaffar, an adventurer travelling through space. Onboard Jaffar’s shuttle are the renegade Prince Matton, his fiancée, and Silbad, who knows Perdide well. Thus begins an incredible race across space to save Piel.",
-      "releaseInfo": "1982",
-      "genres": [
-        "Animation",
-        "Sci-Fi",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt7686464",
-      "type": "movie",
-      "name": "FX's A Christmas Carol",
-      "poster": "https://image.tmdb.org/t/p/w342/mcddQAelCt6K0g3pCzPgKJQWpHU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ubLsCmv36zUUt2zxhFSowYFe5uF.jpg",
-      "description": "London, 1843. Ebenezer Scrooge, a bitter old man, despises the Christmas holiday. Over the course of Christmas Eve night he is visited by three ghosts to show him his past, present and future.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt5594080",
       "type": "movie",
       "name": "To Walk Invisible",
@@ -1065,79 +1012,29 @@
       ]
     },
     {
-      "id": "tt0120324",
+      "id": "tt2404425",
       "type": "movie",
-      "name": "A Simple Plan",
-      "poster": "https://image.tmdb.org/t/p/w342/wO2gH7DMqpMeHlj5QmDhW4IkgAr.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gtdCmYpubVkkvTQ8rdR9tkixDSj.jpg",
-      "description": "Captivated by the lure of sudden wealth, the quiet rural lives of two brothers erupt into conflicts of greed, paranoia and distrust when over $4 million in cash is discovered at the remote site of a downed small airplane. Their simple plan to retain the money while avoiding detection opens a Pandora's box when the fear of getting caught triggers panicked behavior and leads to virulent consequences.",
-      "releaseInfo": "1998",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt0137390",
-      "type": "movie",
-      "name": "Blackadder: The Cavalier Years",
-      "poster": "https://image.tmdb.org/t/p/w342/yw5S8hsHMsSJrXhBGJ1Byn3PxDU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8a0sGQEmvOAopu7T357cznTvvrz.jpg",
-      "description": "A short movie, made for Comic Relief, in which Blackadder (Rowan Atkinson) and Baldrick (Tony Robinson) must help protect King Charles I (Stephen Fry) from the machinations of Oliver Cromwell and his Roundheads",
-      "releaseInfo": "1988",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt19883634",
-      "type": "movie",
-      "name": "The Old Oak",
-      "poster": "https://image.tmdb.org/t/p/w342/xN293BKB0MDqpILmLCtGGYxQXKW.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/H8YE8DDrnvr869RgCqLvhfcUFM.jpg",
-      "description": "A pub landlord in a previously thriving mining community struggles to hold onto his pub. Meanwhile, tensions rise in the town when Syrian refugees are placed in the empty houses in the community.",
-      "releaseInfo": "2023",
+      "name": "Woman in Gold",
+      "poster": "https://image.tmdb.org/t/p/w342/6eoj6bozvgwNuDV3vOrqlvrCrX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cKrWGcWHKcergHyDKxKGbgcUsMm.jpg",
+      "description": "Maria Altmann, an octogenarian Jewish refugee, takes on the government to recover artwork she believes rightfully belongs to her family.",
+      "releaseInfo": "2015",
       "genres": [
         "Drama"
       ]
     },
     {
-      "id": "tt0114117",
+      "id": "tt0081874",
       "type": "movie",
-      "name": "Persuasion",
-      "poster": "https://image.tmdb.org/t/p/w342/10hycdhFLq3M3y0ONxIMSiY8Mrs.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/evCHYeumw4Y4hikG4AG9o5yZXUW.jpg",
-      "description": "In early 19th-century England, dire financial straits reacquaint the aristocratic Anne Elliot with her wealthy ex-fiance Frederick Wentworth. The two must choose between either putting the past behind them or listening to their hearts.",
-      "releaseInfo": "1995",
+      "name": "The Hitch Hikers Guide to the Galaxy",
+      "poster": "https://image.tmdb.org/t/p/w342/paOaEgnRu6eWraEwrpaE4yggpj5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vkioDzkjFv0xCWHOJ75Qx4XWIRf.jpg",
+      "description": "An Earth Man and his alien friend escape an exploding Earth, and set forth on an odd adventure across the universe with a known fugitive.",
+      "releaseInfo": "1981",
       "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tt15574124",
-      "type": "movie",
-      "name": "Peaky Blinders: The Immortal Man",
-      "poster": "https://image.tmdb.org/t/p/w342/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
-      "description": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt28277817",
-      "type": "movie",
-      "name": "Bird",
-      "poster": "https://image.tmdb.org/t/p/w342/wKshd6n8EKrwbE2fLOUqC4TSG6O.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wwtZN9fy6BaFguj6wGPV0ZtCLHD.jpg",
-      "description": "12-year-old Bailey lives with her single dad Bug and brother Hunter in a squat in North Kent. Bug doesn’t have much time for his kids, and Bailey, who is approaching puberty, seeks attention and adventure elsewhere.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Drama"
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
       ]
     },
     {
@@ -1155,6 +1052,20 @@
       ]
     },
     {
+      "id": "tt0084315",
+      "type": "movie",
+      "name": "Time Masters",
+      "poster": "https://image.tmdb.org/t/p/w342/4ktdTOrJnSk7iCtX6Q2QR0sR9Je.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/eOgq3wNremNJ5V3hxapQop7JXvP.jpg",
+      "description": "On planet Perdide, an attack of giant hornets leaves young Piel alone in a wrecked car with his dying father. A mayday message reaches their friend Jaffar, an adventurer travelling through space. Onboard Jaffar’s shuttle are the renegade Prince Matton, his fiancée, and Silbad, who knows Perdide well. Thus begins an incredible race across space to save Piel.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Adventure"
+      ]
+    },
+    {
       "id": "tt1226271",
       "type": "movie",
       "name": "The Damned United",
@@ -1165,6 +1076,82 @@
       "genres": [
         "Drama",
         "History"
+      ]
+    },
+    {
+      "id": "tt15574124",
+      "type": "movie",
+      "name": "Peaky Blinders: The Immortal Man",
+      "poster": "https://image.tmdb.org/t/p/w342/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+      "description": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt7686464",
+      "type": "movie",
+      "name": "FX's A Christmas Carol",
+      "poster": "https://image.tmdb.org/t/p/w342/mcddQAelCt6K0g3pCzPgKJQWpHU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ubLsCmv36zUUt2zxhFSowYFe5uF.jpg",
+      "description": "London, 1843. Ebenezer Scrooge, a bitter old man, despises the Christmas holiday. Over the course of Christmas Eve night he is visited by three ghosts to show him his past, present and future.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0137390",
+      "type": "movie",
+      "name": "Blackadder: The Cavalier Years",
+      "poster": "https://image.tmdb.org/t/p/w342/yw5S8hsHMsSJrXhBGJ1Byn3PxDU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8a0sGQEmvOAopu7T357cznTvvrz.jpg",
+      "description": "A short movie, made for Comic Relief, in which Blackadder (Rowan Atkinson) and Baldrick (Tony Robinson) must help protect King Charles I (Stephen Fry) from the machinations of Oliver Cromwell and his Roundheads",
+      "releaseInfo": "1988",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0120324",
+      "type": "movie",
+      "name": "A Simple Plan",
+      "poster": "https://image.tmdb.org/t/p/w342/wO2gH7DMqpMeHlj5QmDhW4IkgAr.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gtdCmYpubVkkvTQ8rdR9tkixDSj.jpg",
+      "description": "Captivated by the lure of sudden wealth, the quiet rural lives of two brothers erupt into conflicts of greed, paranoia and distrust when over $4 million in cash is discovered at the remote site of a downed small airplane. Their simple plan to retain the money while avoiding detection opens a Pandora's box when the fear of getting caught triggers panicked behavior and leads to virulent consequences.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt19883634",
+      "type": "movie",
+      "name": "The Old Oak",
+      "poster": "https://image.tmdb.org/t/p/w342/xN293BKB0MDqpILmLCtGGYxQXKW.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/H8YE8DDrnvr869RgCqLvhfcUFM.jpg",
+      "description": "A pub landlord in a previously thriving mining community struggles to hold onto his pub. Meanwhile, tensions rise in the town when Syrian refugees are placed in the empty houses in the community.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt28277817",
+      "type": "movie",
+      "name": "Bird",
+      "poster": "https://image.tmdb.org/t/p/w342/wKshd6n8EKrwbE2fLOUqC4TSG6O.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wwtZN9fy6BaFguj6wGPV0ZtCLHD.jpg",
+      "description": "12-year-old Bailey lives with her single dad Bug and brother Hunter in a squat in North Kent. Bug doesn’t have much time for his kids, and Bailey, who is approaching puberty, seeks attention and adventure elsewhere.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -1179,6 +1166,19 @@
         "Drama",
         "History",
         "War"
+      ]
+    },
+    {
+      "id": "tt0114117",
+      "type": "movie",
+      "name": "Persuasion",
+      "poster": "https://image.tmdb.org/t/p/w342/10hycdhFLq3M3y0ONxIMSiY8Mrs.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/evCHYeumw4Y4hikG4AG9o5yZXUW.jpg",
+      "description": "In early 19th-century England, dire financial straits reacquaint the aristocratic Anne Elliot with her wealthy ex-fiance Frederick Wentworth. The two must choose between either putting the past behind them or listening to their hearts.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Drama",
+        "Romance"
       ]
     },
     {
@@ -1309,15 +1309,16 @@
       ]
     },
     {
-      "id": "tt10692788",
+      "id": "tt0465551",
       "type": "movie",
-      "name": "After Love",
-      "poster": "https://image.tmdb.org/t/p/w342/mXaNg69iWEs0Qsj4AJxcvCXuWKw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xgxdY4puoffYlCrfSumQt9xULFR.jpg",
-      "description": "Set in the port town of Dover in the South-East of England, Mary Hussain suddenly finds herself a widow following the unexpected death of her husband. A day after the burial, she discovers he has a secret just twenty-one miles across the English Channel in Calais.",
-      "releaseInfo": "2021",
+      "name": "Notes on a Scandal",
+      "poster": "https://image.tmdb.org/t/p/w342/ieX6ZO2Kf2qjoIBXbQW5awivbhY.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cn1AjfcI8B2CxekvYYZWkLf5muE.jpg",
+      "description": "A veteran high school teacher befriends a younger art teacher, who is having an affair with one of her 15-year-old students. However, her intentions with this new \"friend\" also go well beyond platonic friendship.",
+      "releaseInfo": "2006",
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ]
     }
   ]

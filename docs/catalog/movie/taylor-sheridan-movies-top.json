@@ -72,7 +72,7 @@
       "type": "movie",
       "name": "Sicario: Day of the Soldado",
       "poster": "https://image.tmdb.org/t/p/w342/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/13VjjUeJ6mcDUB36XRu4YFpYNSm.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
       "description": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
       "releaseInfo": "2018",
       "genres": [
@@ -200,6 +200,37 @@
         "Action",
         "Thriller",
         "Crime"
+      ]
+    },
+    {
+      "id": "tt19860606",
+      "type": "movie",
+      "name": "1883: The Road West",
+      "poster": "https://image.tmdb.org/t/p/w342/qM0Sg8jwHsfTQIGpy4q8ah8eHcd.jpg",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documentary",
+        "History",
+        "Western"
+      ]
+    },
+    {
+      "id": "tt43722524",
+      "type": "movie",
+      "name": "Visalia (upcoming)",
+      "description": "⏳ Not yet released — status: Planned. A determined young Cuban woman escapes the only life she’s ever known, braving treacherous waters and relentless danger in pursuit of freedom in America. But when a historic political shift pulls her back to Cuba, she must confront the uncertain promises of a homeland transformed — and the price she’s paid to survive it.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt43722525",
+      "type": "movie",
+      "name": "Capture the Flag (upcoming)",
+      "description": "⏳ Not yet released — status: Planned. A NASA engineer is thrown into a desperate race to build the first reusable spacecraft capable of traveling to the moon and back, testing his limits, loyalties, and morals when a tech tycoon offers him the chance to make history — if he’s willing to pay for it.",
+      "genres": [
+        "Drama"
       ]
     }
   ]

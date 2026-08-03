@@ -1,24 +1,11 @@
 {
   "metas": [
     {
-      "id": "tt4236770",
-      "type": "series",
-      "name": "Yellowstone",
-      "poster": "https://image.tmdb.org/t/p/w342/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "description": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Western",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt13111078",
       "type": "series",
       "name": "Lioness",
       "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3Udwq6W7y4AIsuJDXV2YwowZ1gQ.jpg",
       "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
       "releaseInfo": "2023",
       "genres": [
@@ -27,13 +14,13 @@
       ]
     },
     {
-      "id": "tt34991493",
+      "id": "tt4236770",
       "type": "series",
-      "name": "Dutton Ranch",
-      "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-      "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "releaseInfo": "2026",
+      "name": "Yellowstone",
+      "poster": "https://image.tmdb.org/t/p/w342/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+      "description": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
+      "releaseInfo": "2018",
       "genres": [
         "Western",
         "Drama"
@@ -53,6 +40,19 @@
       ]
     },
     {
+      "id": "tt34991493",
+      "type": "series",
+      "name": "Dutton Ranch",
+      "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+      "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Western",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt14186672",
       "type": "series",
       "name": "Landman",
@@ -62,19 +62,6 @@
       "releaseInfo": "2024",
       "genres": [
         "Drama"
-      ]
-    },
-    {
-      "id": "tt11712058",
-      "type": "series",
-      "name": "Mayor of Kingstown",
-      "poster": "https://image.tmdb.org/t/p/w342/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
-      "description": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama",
-        "Crime"
       ]
     },
     {
@@ -90,6 +77,19 @@
         "Crime",
         "Action",
         "Adventure"
+      ]
+    },
+    {
+      "id": "tt11712058",
+      "type": "series",
+      "name": "Mayor of Kingstown",
+      "poster": "https://image.tmdb.org/t/p/w342/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+      "description": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -166,19 +166,6 @@
       ]
     },
     {
-      "id": "tt10521222",
-      "type": "series",
-      "name": "The Last Cowboy",
-      "poster": "https://image.tmdb.org/t/p/w342/cfuLF7Kg4jiJHlejnQsNsWWE33S.jpg",
-      "description": "A documentary competition show that chronicles the lives of riders competing in the high-stakes sport of horse reining. The contenders are determined to elevate and preserve the cowboy tradition as they guide horses through precise patterns of circles, spins and stops. Run for a Million serves as the culmination of the series, where the riders compete for a $1 million purse.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Reality",
-        "Drama",
-        "Western"
-      ]
-    },
-    {
       "id": "tt15167360",
       "type": "series",
       "name": "Willie Nelson & Family",
@@ -199,6 +186,19 @@
       "releaseInfo": "2025",
       "genres": [
         "Documentary"
+      ]
+    },
+    {
+      "id": "tt10521222",
+      "type": "series",
+      "name": "The Last Cowboy",
+      "poster": "https://image.tmdb.org/t/p/w342/cfuLF7Kg4jiJHlejnQsNsWWE33S.jpg",
+      "description": "A documentary competition show that chronicles the lives of riders competing in the high-stakes sport of horse reining. The contenders are determined to elevate and preserve the cowboy tradition as they guide horses through precise patterns of circles, spins and stops. Run for a Million serves as the culmination of the series, where the riders compete for a $1 million purse.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Reality",
+        "Drama",
+        "Western"
       ]
     },
     {
