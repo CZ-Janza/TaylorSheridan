@@ -16,34 +16,6 @@
       ]
     },
     {
-      "id": "tt0108598",
-      "type": "movie",
-      "name": "The Wrong Trousers",
-      "poster": "https://image.tmdb.org/t/p/w342/mV8SDTjkxrDxu0a0egvFz1lRPU7.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9AbessEz2YKjmPtYKATDeYRW3Px.jpg",
-      "description": "Wallace rents out Gromit's former bedroom to a penguin, who takes up an interest in the techno trousers created by Wallace. However, Gromit later learns that the penguin is a wanted criminal.",
-      "releaseInfo": "1993",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
-      ]
-    },
-    {
-      "id": "tt0112691",
-      "type": "movie",
-      "name": "A Close Shave",
-      "poster": "https://image.tmdb.org/t/p/w342/qdIR27trLyrlJ5nmkbcG3Bomah6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/aD8ZhhrlJ6PXDiyyIvaMltxfbSz.jpg",
-      "description": "Wallace's whirlwind romance with the proprietor of the local wool shop puts his head in a spin, and Gromit is framed for sheep-rustling in a fiendish criminal plot.",
-      "releaseInfo": "1996",
-      "genres": [
-        "Family",
-        "Animation",
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt1762399",
       "type": "movie",
       "name": "Walking with Dinosaurs",
@@ -70,6 +42,34 @@
         "Comedy",
         "Drama",
         "Adventure"
+      ]
+    },
+    {
+      "id": "tt0108598",
+      "type": "movie",
+      "name": "The Wrong Trousers",
+      "poster": "https://image.tmdb.org/t/p/w342/mV8SDTjkxrDxu0a0egvFz1lRPU7.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9AbessEz2YKjmPtYKATDeYRW3Px.jpg",
+      "description": "Wallace rents out Gromit's former bedroom to a penguin, who takes up an interest in the techno trousers created by Wallace. However, Gromit later learns that the penguin is a wanted criminal.",
+      "releaseInfo": "1993",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0112691",
+      "type": "movie",
+      "name": "A Close Shave",
+      "poster": "https://image.tmdb.org/t/p/w342/qdIR27trLyrlJ5nmkbcG3Bomah6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aD8ZhhrlJ6PXDiyyIvaMltxfbSz.jpg",
+      "description": "Wallace's whirlwind romance with the proprietor of the local wool shop puts his head in a spin, and Gromit is framed for sheep-rustling in a fiendish criminal plot.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy"
       ]
     },
     {
@@ -144,18 +144,16 @@
       ]
     },
     {
-      "id": "tt0108069",
+      "id": "tt0099386",
       "type": "movie",
-      "name": "The Secret Adventures of Tom Thumb",
-      "poster": "https://image.tmdb.org/t/p/w342/98yogK8pBvjqpQ7mtohuaBMLUJv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yJ4PMGCOSIi69GqIYXa4Ll7X7DP.jpg",
-      "description": "A boy born the size of a small doll is kidnapped by a genetic lab and must find a way back to his father in this inventive adventure filmed using stop motion animation techniques.",
-      "releaseInfo": "1993",
+      "name": "The Death of Stalinism in Bohemia",
+      "poster": "https://image.tmdb.org/t/p/w342/qfsOPn3r4CTX503pgrnqFaoGRLF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iGjb4P2dVDZoESJlUNCEtam77Nf.jpg",
+      "description": "A bust of Stalin is cut open on an operating table, leading to an elaborate animated depiction of Czech history from 1948 (the Communist takeover) to 1989 (the Velvet Revolution).",
+      "releaseInfo": "1991",
       "genres": [
         "Animation",
-        "Sci-Fi",
-        "Adventure",
-        "Horror"
+        "Comedy"
       ]
     },
     {
@@ -185,16 +183,18 @@
       ]
     },
     {
-      "id": "tt0099386",
+      "id": "tt0108069",
       "type": "movie",
-      "name": "The Death of Stalinism in Bohemia",
-      "poster": "https://image.tmdb.org/t/p/w342/qfsOPn3r4CTX503pgrnqFaoGRLF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iGjb4P2dVDZoESJlUNCEtam77Nf.jpg",
-      "description": "A bust of Stalin is cut open on an operating table, leading to an elaborate animated depiction of Czech history from 1948 (the Communist takeover) to 1989 (the Velvet Revolution).",
-      "releaseInfo": "1991",
+      "name": "The Secret Adventures of Tom Thumb",
+      "poster": "https://image.tmdb.org/t/p/w342/98yogK8pBvjqpQ7mtohuaBMLUJv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yJ4PMGCOSIi69GqIYXa4Ll7X7DP.jpg",
+      "description": "A boy born the size of a small doll is kidnapped by a genetic lab and must find a way back to his father in this inventive adventure filmed using stop motion animation techniques.",
+      "releaseInfo": "1993",
       "genres": [
         "Animation",
-        "Comedy"
+        "Sci-Fi",
+        "Adventure",
+        "Horror"
       ]
     },
     {

@@ -170,32 +170,6 @@
       ]
     },
     {
-      "id": "tt2428246",
-      "type": "movie",
-      "name": "Mr. Stink",
-      "poster": "https://image.tmdb.org/t/p/w342/7Lergwt4FcSszwUks8QYzahOrsu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bCRDelikJKv73PBo47hbGec6yVF.jpg",
-      "description": "Chloe recedes into herself due to her family's uncaring attitude towards her. When she meets Mr. Stink, a smelly man, she invites him to live in her garden shed.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Comedy",
-        "Family"
-      ]
-    },
-    {
-      "id": "tt1083845",
-      "type": "movie",
-      "name": "Ballet Shoes",
-      "poster": "https://image.tmdb.org/t/p/w342/sG1ef5gIObTeItweZZxhSLJVs8B.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vHC79hM1bQG5JR9E8nlZn3pwyPt.jpg",
-      "description": "An unusual explorer named Gum and his kindly niece adopt three orphans -- Pauline, Petrova and Posy -- and raise them as sisters in 1930s London. But the girls must fend for themselves when Gum doesn't return from one of his adventures. Together, they nurture their passions for acting, aviation and ballet in this charming TV adaptation of Noel Streatfield's novel.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Drama",
-        "Family"
-      ]
-    },
-    {
       "id": "tt0482552",
       "type": "movie",
       "name": "My Family and Other Animals",
@@ -206,6 +180,19 @@
       "genres": [
         "Comedy",
         "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt2428246",
+      "type": "movie",
+      "name": "Mr. Stink",
+      "poster": "https://image.tmdb.org/t/p/w342/7Lergwt4FcSszwUks8QYzahOrsu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bCRDelikJKv73PBo47hbGec6yVF.jpg",
+      "description": "Chloe recedes into herself due to her family's uncaring attitude towards her. When she meets Mr. Stink, a smelly man, she invites him to live in her garden shed.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Comedy",
         "Family"
       ]
     },
@@ -251,17 +238,16 @@
       ]
     },
     {
-      "id": "tt7546096",
+      "id": "tt1083845",
       "type": "movie",
-      "name": "The Highway Rat",
-      "poster": "https://image.tmdb.org/t/p/w342/dxNKtY0e5pm6BFCdDMP3riRVBTb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/muXYdzOL7DSlzoWYuu6QOCdy7vZ.jpg",
-      "description": "The tale of a ravenous rat who craves buns, biscuits and all sweet things. Tearing along the highway, he searches for sugary treats to steal, until his sweet tooth leads him to a sticky end.",
-      "releaseInfo": "2018",
+      "name": "Ballet Shoes",
+      "poster": "https://image.tmdb.org/t/p/w342/sG1ef5gIObTeItweZZxhSLJVs8B.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vHC79hM1bQG5JR9E8nlZn3pwyPt.jpg",
+      "description": "An unusual explorer named Gum and his kindly niece adopt three orphans -- Pauline, Petrova and Posy -- and raise them as sisters in 1930s London. But the girls must fend for themselves when Gum doesn't return from one of his adventures. Together, they nurture their passions for acting, aviation and ballet in this charming TV adaptation of Noel Streatfield's novel.",
+      "releaseInfo": "2008",
       "genres": [
-        "Family",
-        "Animation",
-        "Comedy"
+        "Drama",
+        "Family"
       ]
     },
     {
@@ -275,6 +261,20 @@
       "genres": [
         "Drama",
         "Family",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt7546096",
+      "type": "movie",
+      "name": "The Highway Rat",
+      "poster": "https://image.tmdb.org/t/p/w342/dxNKtY0e5pm6BFCdDMP3riRVBTb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/muXYdzOL7DSlzoWYuu6QOCdy7vZ.jpg",
+      "description": "The tale of a ravenous rat who craves buns, biscuits and all sweet things. Tearing along the highway, he searches for sugary treats to steal, until his sweet tooth leads him to a sticky end.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Family",
+        "Animation",
         "Comedy"
       ]
     },
@@ -296,7 +296,7 @@
       "id": "tt0105316",
       "type": "movie",
       "name": "Sarafina!",
-      "poster": "https://image.tmdb.org/t/p/w342/i52368CunnMFEQIgPmGDKSPLcKx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/jAbU0p1hQErFIErJPmUG3n91xgn.jpg",
       "background": "https://image.tmdb.org/t/p/w780/lsKlPoqRy0nzquK3Iv8jOY0FnaO.jpg",
       "description": "A Soweto schoolgirl named Sarafina is galvanized to protest apartheid after her teacher is arrested for her activism, leading her to join the student resistance movement.",
       "releaseInfo": "1992",

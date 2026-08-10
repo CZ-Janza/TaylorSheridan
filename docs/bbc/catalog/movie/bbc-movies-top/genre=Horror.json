@@ -81,19 +81,6 @@
       ]
     },
     {
-      "id": "tt0189998",
-      "type": "movie",
-      "name": "Shadow of the Vampire",
-      "poster": "https://image.tmdb.org/t/p/w342/nWm7DWi8X4D87XkM5qr9BhTJHq6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/cKKhk85c1TZSYy6ZF94QpUH8bRw.jpg",
-      "description": "Director F.W. Murnau makes a Faustian pact with a vampire to get him to star in his 1922 film \"Nosferatu.\"",
-      "releaseInfo": "2000",
-      "genres": [
-        "Drama",
-        "Horror"
-      ]
-    },
-    {
       "id": "tt0100469",
       "type": "movie",
       "name": "The Reflecting Skin",
@@ -104,6 +91,19 @@
       "genres": [
         "Drama",
         "Thriller",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0189998",
+      "type": "movie",
+      "name": "Shadow of the Vampire",
+      "poster": "https://image.tmdb.org/t/p/w342/nWm7DWi8X4D87XkM5qr9BhTJHq6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cKKhk85c1TZSYy6ZF94QpUH8bRw.jpg",
+      "description": "Director F.W. Murnau makes a Faustian pact with a vampire to get him to star in his 1922 film \"Nosferatu.\"",
+      "releaseInfo": "2000",
+      "genres": [
+        "Drama",
         "Horror"
       ]
     },
@@ -135,6 +135,19 @@
       ]
     },
     {
+      "id": "tt8508734",
+      "type": "movie",
+      "name": "His House",
+      "poster": "https://image.tmdb.org/t/p/w342/s6XxJEe4ovVTMgmGmKeO87OFANU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bNZB25TQxt0jEVgJOJ09tD2es7k.jpg",
+      "description": "After making a harrowing escape from war-torn South Sudan, a young refugee couple struggle to adjust to their new life in a small English town that has an unspeakable evil lurking beneath the surface.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Horror",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt2183152",
       "type": "movie",
       "name": "The Lady Vanishes",
@@ -146,19 +159,6 @@
         "Thriller",
         "Mystery",
         "Horror"
-      ]
-    },
-    {
-      "id": "tt8508734",
-      "type": "movie",
-      "name": "His House",
-      "poster": "https://image.tmdb.org/t/p/w342/s6XxJEe4ovVTMgmGmKeO87OFANU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bNZB25TQxt0jEVgJOJ09tD2es7k.jpg",
-      "description": "After making a harrowing escape from war-torn South Sudan, a young refugee couple struggle to adjust to their new life in a small English town that has an unspeakable evil lurking beneath the surface.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Horror",
-        "Drama"
       ]
     },
     {
@@ -231,20 +231,6 @@
       ]
     },
     {
-      "id": "tt1172571",
-      "type": "movie",
-      "name": "The Children",
-      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
-      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt0069316",
       "type": "movie",
       "name": "The Stone Tape",
@@ -256,6 +242,20 @@
         "Horror",
         "Mystery",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt1172571",
+      "type": "movie",
+      "name": "The Children",
+      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
+      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
       ]
     },
     {
