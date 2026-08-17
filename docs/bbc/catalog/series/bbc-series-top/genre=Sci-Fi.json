@@ -106,20 +106,6 @@
       ]
     },
     {
-      "id": "tt8594324",
-      "type": "series",
-      "name": "Ghosts",
-      "poster": "https://image.tmdb.org/t/p/w342/3Xz4JtqISyVCKct96O94k4Mz5sU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2FXDdIGjDhEoBkuFk5NhHWLd3VX.jpg",
-      "description": "A cash-strapped young couple inherits a grand country house, only to find it is both falling apart and teeming with the ghosts of former inhabitants.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt0056751",
       "type": "series",
       "name": "Doctor Who",
@@ -131,6 +117,20 @@
         "Drama",
         "Action",
         "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt8594324",
+      "type": "series",
+      "name": "Ghosts",
+      "poster": "https://image.tmdb.org/t/p/w342/3Xz4JtqISyVCKct96O94k4Mz5sU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2FXDdIGjDhEoBkuFk5NhHWLd3VX.jpg",
+      "description": "A cash-strapped young couple inherits a grand country house, only to find it is both falling apart and teeming with the ghosts of former inhabitants.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comedy",
         "Sci-Fi",
         "Fantasy"
       ]
@@ -150,16 +150,14 @@
       ]
     },
     {
-      "id": "tt1199099",
+      "id": "tt2234222",
       "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
+      "name": "Orphan Black",
+      "poster": "https://image.tmdb.org/t/p/w342/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cBmVnbc9KKhsdHCDJU2pibU5Pjs.jpg",
+      "description": "A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.",
+      "releaseInfo": "2013",
       "genres": [
-        "Action",
-        "Adventure",
         "Drama",
         "Sci-Fi",
         "Fantasy"
@@ -182,14 +180,16 @@
       ]
     },
     {
-      "id": "tt2234222",
+      "id": "tt1199099",
       "type": "series",
-      "name": "Orphan Black",
-      "poster": "https://image.tmdb.org/t/p/w342/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/cBmVnbc9KKhsdHCDJU2pibU5Pjs.jpg",
-      "description": "A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.",
-      "releaseInfo": "2013",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+      "releaseInfo": "2008",
       "genres": [
+        "Action",
+        "Adventure",
         "Drama",
         "Sci-Fi",
         "Fantasy"
@@ -483,6 +483,20 @@
       ]
     },
     {
+      "id": "tt1258189",
+      "type": "series",
+      "name": "Survivors",
+      "poster": "https://image.tmdb.org/t/p/w342/qw1veNeQzzN0FD2DJyemxO7hPPE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rulrZar942TxA7vn6OPjOEd7clR.jpg",
+      "description": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt2303367",
       "type": "series",
       "name": "Dirk Gently",
@@ -515,17 +529,16 @@
       ]
     },
     {
-      "id": "tt1258189",
+      "id": "tt0080242",
       "type": "series",
-      "name": "Survivors",
-      "poster": "https://image.tmdb.org/t/p/w342/qw1veNeQzzN0FD2DJyemxO7hPPE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rulrZar942TxA7vn6OPjOEd7clR.jpg",
-      "description": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
-      "releaseInfo": "2008",
+      "name": "The Martian Chronicles",
+      "poster": "https://image.tmdb.org/t/p/w342/vBq5qOxBKnhGZNcW36b2Qq6cLDG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kb8obptHWmfaG7ZhP1IeracmW9o.jpg",
+      "description": "The Martian Chronicles deals with the exploration of Mars and the inhabitants there.",
+      "releaseInfo": "1980",
       "genres": [
         "Sci-Fi",
-        "Fantasy",
-        "Drama"
+        "Fantasy"
       ]
     },
     {
@@ -543,19 +556,6 @@
         "Comedy",
         "Action",
         "Adventure"
-      ]
-    },
-    {
-      "id": "tt0080242",
-      "type": "series",
-      "name": "The Martian Chronicles",
-      "poster": "https://image.tmdb.org/t/p/w342/vBq5qOxBKnhGZNcW36b2Qq6cLDG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kb8obptHWmfaG7ZhP1IeracmW9o.jpg",
-      "description": "The Martian Chronicles deals with the exploration of Mars and the inhabitants there.",
-      "releaseInfo": "1980",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy"
       ]
     },
     {
@@ -746,20 +746,6 @@
       ]
     },
     {
-      "id": "tt5079788",
-      "type": "series",
-      "name": "Class",
-      "poster": "https://image.tmdb.org/t/p/w342/qC6c8Bx5LiWuZ5t9v3Iyn0818FL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4XcOdRYPTdNyu5C1iDnFHDqI9QN.jpg",
-      "description": "Coal Hill School has been a feature of Doctor Who since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt31433814",
       "type": "series",
       "name": "Doctor Who",
@@ -770,6 +756,20 @@
       "genres": [
         "Action",
         "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt5079788",
+      "type": "series",
+      "name": "Class",
+      "poster": "https://image.tmdb.org/t/p/w342/qC6c8Bx5LiWuZ5t9v3Iyn0818FL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4XcOdRYPTdNyu5C1iDnFHDqI9QN.jpg",
+      "description": "Coal Hill School has been a feature of Doctor Who since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.",
+      "releaseInfo": "2016",
+      "genres": [
         "Drama",
         "Sci-Fi",
         "Fantasy"
@@ -798,22 +798,6 @@
       "description": "A shipping magnate hires four experts from various fields to investigate what happened to his ships that went missing in the Bermuda Triangle. The team discovers a threat that might unravel time itself and cause the world to end.",
       "releaseInfo": "2005",
       "genres": [
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt4939950",
-      "type": "series",
-      "name": "SS-GB",
-      "poster": "https://image.tmdb.org/t/p/w342/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jf7K081EEjuypr2uQLB0X0Z1kvw.jpg",
-      "description": "Adapted from Len Deighton’s 1978 alternate history novel. A British detective investigates a murder in German-occupied Britain during World War II.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
         "Sci-Fi",
         "Fantasy"
       ]

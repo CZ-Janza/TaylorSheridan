@@ -361,13 +361,13 @@
       "name": "Troy: Fall of a City",
       "poster": "https://image.tmdb.org/t/p/w342/wPLiUBrVav1ssvRwcr0M3Xq92Vi.jpg",
       "background": "https://image.tmdb.org/t/p/w780/3zzAYFF57wqNbwDqtByMHi85HkH.jpg",
-      "description": "A rich story of love, intrigue, betrayal and belonging told from the perspective of the Trojan royal family at the heart of the siege of Troy.",
+      "description": "Told from the perspective of the Trojan Family, the rich history of the Trojan War is explored, as well as the love, intrigue and betrayal of those who lived through it. On a trip to Sparta as a guest of Menelaus, Paris, son of Troy, falls in love with Menelaus' wife, Helen. After they depart Sparta together for Troy, Helen and Paris risk not only their lives, but those of their families and people as they trigger a chain of events that ultimately lead them all into an unending war.",
       "releaseInfo": "2018",
       "genres": [
-        "War",
-        "Drama",
         "Action",
-        "Adventure"
+        "Adventure",
+        "War",
+        "Drama"
       ]
     },
     {
@@ -1139,6 +1139,19 @@
       ]
     },
     {
+      "id": "tt3893044",
+      "type": "series",
+      "name": "The Passing Bells",
+      "poster": "https://image.tmdb.org/t/p/w342/3i1Gqt8ejEwjXq3pFiD1P8ykgVK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cfWpdOpqKhXoc7EmxONjLURMohv.jpg",
+      "description": "At the outbreak of World War I, two teenage boys - one German and one British - defy their parents to sign up. An epic historical drama spanning the five years of the First World War, as seen through the eyes of two ordinary young soldiers.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
       "id": "tt3877200",
       "type": "series",
       "name": "The Missing",
@@ -1293,23 +1306,6 @@
         "Mystery",
         "Drama",
         "Crime"
-      ]
-    },
-    {
-      "id": "tt2674806",
-      "type": "series",
-      "name": "Inside No. 9",
-      "poster": "https://image.tmdb.org/t/p/w342/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/99W2xN8v9eAukGWzZN4zUsslQBo.jpg",
-      "description": "An anthology of darkly comic twisted tales, each one taking place behind a door marked 'number 9'.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Comedy",
-        "Mystery",
-        "Crime",
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
       ]
     }
   ]

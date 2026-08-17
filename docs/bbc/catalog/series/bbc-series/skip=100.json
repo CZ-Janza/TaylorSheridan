@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tt7374240",
+      "type": "series",
+      "name": "The Other One",
+      "poster": "https://image.tmdb.org/t/p/w342/2SShbsKfkBWWecKEN0fgiYtz7IZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cGRvrH5HAm9wKXy99MHBP9EMc46.jpg",
+      "description": "After Colin Walcott drops dead at his birthday party his wife Tess and daughter Cat discover he had a long-term mistress Marilyn by whom he has a daughter Cath. An irate Tess throws out Colin's belongings whilst Cat is angry with boy-friend Marcus over a text he sent to another girl. When the two half-sisters meet there is an argument over where to scatter their father's ashes, leading to police intervention whilst they also learn he may have been having an affair with yet another woman.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt12369754",
       "type": "series",
       "name": "Staged",
@@ -754,13 +767,13 @@
       "name": "Troy: Fall of a City",
       "poster": "https://image.tmdb.org/t/p/w342/wPLiUBrVav1ssvRwcr0M3Xq92Vi.jpg",
       "background": "https://image.tmdb.org/t/p/w780/3zzAYFF57wqNbwDqtByMHi85HkH.jpg",
-      "description": "A rich story of love, intrigue, betrayal and belonging told from the perspective of the Trojan royal family at the heart of the siege of Troy.",
+      "description": "Told from the perspective of the Trojan Family, the rich history of the Trojan War is explored, as well as the love, intrigue and betrayal of those who lived through it. On a trip to Sparta as a guest of Menelaus, Paris, son of Troy, falls in love with Menelaus' wife, Helen. After they depart Sparta together for Troy, Helen and Paris risk not only their lives, but those of their families and people as they trigger a chain of events that ultimately lead them all into an unending war.",
       "releaseInfo": "2018",
       "genres": [
-        "War",
-        "Drama",
         "Action",
-        "Adventure"
+        "Adventure",
+        "War",
+        "Drama"
       ]
     },
     {
@@ -1292,19 +1305,6 @@
       "releaseInfo": "2016",
       "genres": [
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt4793190",
-      "type": "series",
-      "name": "Upstart Crow",
-      "poster": "https://image.tmdb.org/t/p/w342/aaCefKIYilykJ8e7HA04wyo4RIw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mu6TpbM5uNSwLO61djH4XmHuyoz.jpg",
-      "description": "Comedy about the life and times of William Shakespeare as he starts to make a name for himself in London, whilst also trying to balance life as a husband and father for his family in Stratford-upon-Avon.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Comedy",
-        "Drama"
       ]
     }
   ]

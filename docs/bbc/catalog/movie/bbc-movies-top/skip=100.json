@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tt0465551",
+      "type": "movie",
+      "name": "Notes on a Scandal",
+      "poster": "https://image.tmdb.org/t/p/w342/ymFybaA0r7MpwWnmUCFHYAT6Djb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cn1AjfcI8B2CxekvYYZWkLf5muE.jpg",
+      "description": "A veteran high school teacher befriends a younger art teacher, who is having an affair with one of her 15-year-old students. However, her intentions with this new \"friend\" also go well beyond platonic friendship.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
       "id": "tt10692788",
       "type": "movie",
       "name": "After Love",
@@ -37,20 +50,6 @@
       ]
     },
     {
-      "id": "tt0099949",
-      "type": "movie",
-      "name": "Korczak",
-      "poster": "https://image.tmdb.org/t/p/w342/vP0UUZ7AUP711WRSkj3uGM3r2hp.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4lV7RWF2XnoWlExYQM0ibfVS4or.jpg",
-      "description": "The story of Polish pedagogue Janusz Korczak and his dedication to protecting Jewish orphans during the war.",
-      "releaseInfo": "1990",
-      "genres": [
-        "Drama",
-        "History",
-        "War"
-      ]
-    },
-    {
       "id": "tt0443518",
       "type": "movie",
       "name": "The Girl in the Café",
@@ -65,28 +64,15 @@
       ]
     },
     {
-      "id": "tt0200659",
+      "id": "tt2935476",
       "type": "movie",
-      "name": "Ghostwatch",
-      "poster": "https://image.tmdb.org/t/p/w342/h5nOIZbO3J7STIOZumW00BxU6DC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/eIX4mfDkd0KHFFE7ouYTKuIBJbK.jpg",
-      "description": "For Halloween 1992, the BBC decides to broadcast an investigation into the supernatural, hosted by TV chat-show legend Michael Parkinson. Parky (assisted by Mike Smith, Sarah Greene & Craig Charles) and a camera crew attempt to discover the truth behind the most haunted house in Britain. This ground-breaking live television experiment does not go as planned, however.",
-      "releaseInfo": "1992",
+      "name": "Far from the Madding Crowd",
+      "poster": "https://image.tmdb.org/t/p/w342/cr4cctBPv9qHDtjDps4wi0kqI7h.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7mbypv8Orbw7lJVmbJiAGN8eSdJ.jpg",
+      "description": "In Victorian England, the independent and headstrong Bathsheba Everdene attracts three very different suitors: Gabriel Oak, a hardworking young sheep farmer; Frank Troy, a handsome and reckless Sergeant; and William Boldwood, a prosperous and mature bachelor.",
+      "releaseInfo": "2015",
       "genres": [
-        "Horror",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt15893750",
-      "type": "movie",
-      "name": "Rye Lane",
-      "poster": "https://image.tmdb.org/t/p/w342/int5eEKNc8g0V5i3XYaPeaC6paD.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3di4noZGr04O2lyqgDgWNbyW1wA.jpg",
-      "description": "Two twenty-somethings, both reeling from bad break-ups, connect over the course of an eventful day in South London – helping each other deal with their nightmare exes, and potentially restoring their faith in romance.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Comedy",
+        "Drama",
         "Romance"
       ]
     },
@@ -100,6 +86,19 @@
       "releaseInfo": "2009",
       "genres": [
         "Comedy"
+      ]
+    },
+    {
+      "id": "tt15893750",
+      "type": "movie",
+      "name": "Rye Lane",
+      "poster": "https://image.tmdb.org/t/p/w342/int5eEKNc8g0V5i3XYaPeaC6paD.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3di4noZGr04O2lyqgDgWNbyW1wA.jpg",
+      "description": "Two twenty-somethings, both reeling from bad break-ups, connect over the course of an eventful day in South London – helping each other deal with their nightmare exes, and potentially restoring their faith in romance.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comedy",
+        "Romance"
       ]
     },
     {
@@ -142,29 +141,16 @@
       ]
     },
     {
-      "id": "tt30444418",
+      "id": "tt0864761",
       "type": "movie",
-      "name": "Santosh",
-      "poster": "https://image.tmdb.org/t/p/w342/fMx9y9DyjhDyKxjSiDvYKcpRnnk.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/c6DH4DO5Gf1MRuFIA8omh2b6psn.jpg",
-      "description": "A government scheme sees newly widowed Santosh inherit her husband’s job as a police constable in the rural badlands of Northern India. When a low-caste girl is found raped and murdered, she is pulled into the investigation under the wing of charismatic feminist inspector Sharma.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Thriller",
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2935476",
-      "type": "movie",
-      "name": "Far from the Madding Crowd",
-      "poster": "https://image.tmdb.org/t/p/w342/cr4cctBPv9qHDtjDps4wi0kqI7h.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7mbypv8Orbw7lJVmbJiAGN8eSdJ.jpg",
-      "description": "In Victorian England, the independent and headstrong Bathsheba Everdene attracts three very different suitors: Gabriel Oak, a hardworking young sheep farmer; Frank Troy, a handsome and reckless Sergeant; and William Boldwood, a prosperous and mature bachelor.",
-      "releaseInfo": "2015",
+      "name": "The Duchess",
+      "poster": "https://image.tmdb.org/t/p/w342/77ckyYrWmR12kl3qToqmDySnuwv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qY6jnp4cNUYMz6FBG7ATtVmWttM.jpg",
+      "description": "A chronicle of the life of 18th century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.",
+      "releaseInfo": "2008",
       "genres": [
         "Drama",
+        "History",
         "Romance"
       ]
     },
@@ -197,6 +183,19 @@
       ]
     },
     {
+      "id": "tt0200659",
+      "type": "movie",
+      "name": "Ghostwatch",
+      "poster": "https://image.tmdb.org/t/p/w342/h5nOIZbO3J7STIOZumW00BxU6DC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iMedTQJ3sbRu3EmfTO15zJrdlEe.jpg",
+      "description": "For Halloween 1992, the BBC decides to broadcast an investigation into the supernatural, hosted by TV chat-show legend Michael Parkinson. Parky (assisted by Mike Smith, Sarah Greene & Craig Charles) and a camera crew attempt to discover the truth behind the most haunted house in Britain. This ground-breaking live television experiment does not go as planned, however.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt0959337",
       "type": "movie",
       "name": "Revolutionary Road",
@@ -220,20 +219,6 @@
       "genres": [
         "Comedy",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt0864761",
-      "type": "movie",
-      "name": "The Duchess",
-      "poster": "https://image.tmdb.org/t/p/w342/77ckyYrWmR12kl3qToqmDySnuwv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qY6jnp4cNUYMz6FBG7ATtVmWttM.jpg",
-      "description": "A chronicle of the life of 18th century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Drama",
-        "History",
-        "Romance"
       ]
     },
     {
@@ -302,19 +287,6 @@
       ]
     },
     {
-      "id": "tt1438216",
-      "type": "movie",
-      "name": "Oranges and Sunshine",
-      "poster": "https://image.tmdb.org/t/p/w342/tMOAXwYuXCCmj7DvJW1e3Wafeib.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dkx8j5Orh3e46DIU6atEAfj7j2i.jpg",
-      "description": "The story of Margaret Humphreys, a social worker from Nottingham, who uncovers one of the most significant social scandals in recent times – the forced migration of children from the United Kingdom to Australia and other Commonwealth countries. Almost singlehandedly, Margaret reunited thousands of families, brought authorities to account and worldwide attention to an extraordinary miscarriage of justice.",
-      "releaseInfo": "2010",
-      "genres": [
-        "Drama",
-        "History"
-      ]
-    },
-    {
       "id": "tt0107616",
       "type": "movie",
       "name": "Much Ado About Nothing",
@@ -326,6 +298,31 @@
         "Drama",
         "Comedy",
         "Romance"
+      ]
+    },
+    {
+      "id": "tt1232776",
+      "type": "movie",
+      "name": "Fish Tank",
+      "poster": "https://image.tmdb.org/t/p/w342/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4VgiVdd2I3AktHkOpCeSjtP4t8b.jpg",
+      "description": "Fifteen-year-old Mia is in a constant state of war with her family and the world around her. When she meets her party-girl mother’s charming new boyfriend Connor, she is amazed to find he returns her attention, and believes he might help her start to make sense of her life.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1438216",
+      "type": "movie",
+      "name": "Oranges and Sunshine",
+      "poster": "https://image.tmdb.org/t/p/w342/tMOAXwYuXCCmj7DvJW1e3Wafeib.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dkx8j5Orh3e46DIU6atEAfj7j2i.jpg",
+      "description": "The story of Margaret Humphreys, a social worker from Nottingham, who uncovers one of the most significant social scandals in recent times – the forced migration of children from the United Kingdom to Australia and other Commonwealth countries. Almost singlehandedly, Margaret reunited thousands of families, brought authorities to account and worldwide attention to an extraordinary miscarriage of justice.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Drama",
+        "History"
       ]
     },
     {
@@ -342,27 +339,16 @@
       ]
     },
     {
-      "id": "tt3385524",
+      "id": "tt30444418",
       "type": "movie",
-      "name": "Stan & Ollie",
-      "poster": "https://image.tmdb.org/t/p/w342/8qDBDXA8Od8gc4IQMnoXUKyj8Pf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6oyC0KcZPx9aqA1WkXtkfA1txXU.jpg",
-      "description": "With their golden era long behind them, comedy duo Stan Laurel and Oliver Hardy embark on a variety hall tour of Britain and Ireland. Despite the pressures of a hectic schedule, and with the support of their wives Lucille and Ida – a formidable double act in their own right – the pair's love of performing, as well as for each other, endures as they secure their place in the hearts of their adoring public",
-      "releaseInfo": "2018",
+      "name": "Santosh",
+      "poster": "https://image.tmdb.org/t/p/w342/fMx9y9DyjhDyKxjSiDvYKcpRnnk.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/c6DH4DO5Gf1MRuFIA8omh2b6psn.jpg",
+      "description": "A government scheme sees newly widowed Santosh inherit her husband’s job as a police constable in the rural badlands of Northern India. When a low-caste girl is found raped and murdered, she is pulled into the investigation under the wing of charismatic feminist inspector Sharma.",
+      "releaseInfo": "2024",
       "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0120684",
-      "type": "movie",
-      "name": "Gods and Monsters",
-      "poster": "https://image.tmdb.org/t/p/w342/awvJH3NtXoStsjAtXKr99hfuVaG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/v1HOjtXoGwQz26fT4elHeNT0JnW.jpg",
-      "description": "It's 1957, and James Whale's heyday as the director of \"Frankenstein,\" \"Bride of Frankenstein\" and \"The Invisible Man\" is long behind him. Retired and a semi-recluse, he lives his days accompanied only by images from his past. When his dour housekeeper, Hannah, hires a handsome young gardener, the flamboyant director and simple yard man develop an unlikely friendship, which will change them forever.",
-      "releaseInfo": "1998",
-      "genres": [
+        "Thriller",
+        "Crime",
         "Drama"
       ]
     },
@@ -392,17 +378,29 @@
       ]
     },
     {
-      "id": "tt20729172",
+      "id": "tt3385524",
       "type": "movie",
-      "name": "Hoard",
-      "poster": "https://image.tmdb.org/t/p/w342/81VQOyGSnyMxE2SWf0bgnHAAKeT.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/c0tZsK1WouPqKIgREuTcjDuy5K0.jpg",
-      "description": "The story follows Maria – a teenager whose mother used to be a hoarder. Now (set in the 90s) she lives in a foster home where a previous resident, Michael, inspires her to revisit the childhood memories and passions that she has repressed.",
-      "releaseInfo": "2024",
+      "name": "Stan & Ollie",
+      "poster": "https://image.tmdb.org/t/p/w342/8qDBDXA8Od8gc4IQMnoXUKyj8Pf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6oyC0KcZPx9aqA1WkXtkfA1txXU.jpg",
+      "description": "With their golden era long behind them, comedy duo Stan Laurel and Oliver Hardy embark on a variety hall tour of Britain and Ireland. Despite the pressures of a hectic schedule, and with the support of their wives Lucille and Ida – a formidable double act in their own right – the pair's love of performing, as well as for each other, endures as they secure their place in the hearts of their adoring public",
+      "releaseInfo": "2018",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt5816682",
+      "type": "movie",
+      "name": "Victoria & Abdul",
+      "poster": "https://image.tmdb.org/t/p/w342/uIzQ8zZ0rqjqqJUIpeeovtTryAa.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9as73Rj0Y7nMZBZTwoyjyUpfjyS.jpg",
+      "description": "Queen Victoria strikes up an unlikely friendship with a young Indian clerk named Abdul Karim.",
+      "releaseInfo": "2017",
       "genres": [
         "Drama",
-        "Romance",
-        "Fantasy"
+        "History"
       ]
     },
     {
@@ -419,18 +417,6 @@
       ]
     },
     {
-      "id": "tt1232776",
-      "type": "movie",
-      "name": "Fish Tank",
-      "poster": "https://image.tmdb.org/t/p/w342/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4VgiVdd2I3AktHkOpCeSjtP4t8b.jpg",
-      "description": "Fifteen-year-old Mia is in a constant state of war with her family and the world around her. When she meets her party-girl mother’s charming new boyfriend Connor, she is amazed to find he returns her attention, and believes he might help her start to make sense of her life.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0220608",
       "type": "movie",
       "name": "The Last of the Blonde Bombshells",
@@ -441,6 +427,18 @@
       "genres": [
         "Comedy",
         "Music"
+      ]
+    },
+    {
+      "id": "tt0120684",
+      "type": "movie",
+      "name": "Gods and Monsters",
+      "poster": "https://image.tmdb.org/t/p/w342/awvJH3NtXoStsjAtXKr99hfuVaG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/v1HOjtXoGwQz26fT4elHeNT0JnW.jpg",
+      "description": "It's 1957, and James Whale's heyday as the director of \"Frankenstein,\" \"Bride of Frankenstein\" and \"The Invisible Man\" is long behind him. Retired and a semi-recluse, he lives his days accompanied only by images from his past. When his dour housekeeper, Hannah, hires a handsome young gardener, the flamboyant director and simple yard man develop an unlikely friendship, which will change them forever.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -473,6 +471,18 @@
       ]
     },
     {
+      "id": "tt0220726",
+      "type": "movie",
+      "name": "Human Resources",
+      "poster": "https://image.tmdb.org/t/p/w342/i2BdbtsCeRCHhczCDEV3mFt4uF0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dZs8GUwoyFjzCHN9QgNfdfUaC7c.jpg",
+      "description": "\"Good son\" Franck returns to his hometown to do a trainee managerial internship in the Human Resources department of the factory where his anxious, taciturn father has worked for 23 years.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0119873",
       "type": "movie",
       "name": "Warriors",
@@ -483,19 +493,6 @@
       "genres": [
         "Drama",
         "War"
-      ]
-    },
-    {
-      "id": "tt5816682",
-      "type": "movie",
-      "name": "Victoria & Abdul",
-      "poster": "https://image.tmdb.org/t/p/w342/uIzQ8zZ0rqjqqJUIpeeovtTryAa.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9as73Rj0Y7nMZBZTwoyjyUpfjyS.jpg",
-      "description": "Queen Victoria strikes up an unlikely friendship with a young Indian clerk named Abdul Karim.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Drama",
-        "History"
       ]
     },
     {
@@ -513,13 +510,13 @@
       ]
     },
     {
-      "id": "tt0220726",
+      "id": "tt1441940",
       "type": "movie",
-      "name": "Human Resources",
-      "poster": "https://image.tmdb.org/t/p/w342/i2BdbtsCeRCHhczCDEV3mFt4uF0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dZs8GUwoyFjzCHN9QgNfdfUaC7c.jpg",
-      "description": "\"Good son\" Franck returns to his hometown to do a trainee managerial internship in the Human Resources department of the factory where his anxious, taciturn father has worked for 23 years.",
-      "releaseInfo": "1999",
+      "name": "Broken",
+      "poster": "https://image.tmdb.org/t/p/w342/cNeDPyJdeV4Gzs3TcVthM8AJYHW.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gG5ZlQNnJs2NsO9JdeCf1jgNzn7.jpg",
+      "description": "Three suburban English families' lives intertwine with tragic consequences.",
+      "releaseInfo": "2012",
       "genres": [
         "Drama"
       ]
@@ -534,18 +531,6 @@
       "releaseInfo": "2016",
       "genres": [
         "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1441940",
-      "type": "movie",
-      "name": "Broken",
-      "poster": "https://image.tmdb.org/t/p/w342/cNeDPyJdeV4Gzs3TcVthM8AJYHW.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gG5ZlQNnJs2NsO9JdeCf1jgNzn7.jpg",
-      "description": "Three suburban English families' lives intertwine with tragic consequences.",
-      "releaseInfo": "2012",
-      "genres": [
         "Drama"
       ]
     },
@@ -579,6 +564,33 @@
       ]
     },
     {
+      "id": "tt20729172",
+      "type": "movie",
+      "name": "Hoard",
+      "poster": "https://image.tmdb.org/t/p/w342/81VQOyGSnyMxE2SWf0bgnHAAKeT.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/c0tZsK1WouPqKIgREuTcjDuy5K0.jpg",
+      "description": "The story follows Maria – a teenager whose mother used to be a hoarder. Now (set in the 90s) she lives in a foster home where a previous resident, Michael, inspires her to revisit the childhood memories and passions that she has repressed.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt10375470",
+      "type": "movie",
+      "name": "Supernova",
+      "poster": "https://image.tmdb.org/t/p/w342/c21Vwt4shqVxCQziFz0Hf91wSow.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/BjLgTDAcZc94KomcQAxMVye0yI.jpg",
+      "description": "Sam and Tusker, partners of 20 years, are traveling across England in their old RV visiting friends, family and places from their past. Since Tusker was diagnosed with early-onset dementia two years ago, their time together is the most important thing they have.  As the trip progresses, however, their ideas for the future clash, secrets come out, and their love for each other is tested as never before. Ultimately, they must confront the question of what it means to love one another in the face of Tusker’s illness.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt4645330",
       "type": "movie",
       "name": "Denial",
@@ -604,15 +616,14 @@
       ]
     },
     {
-      "id": "tt0185014",
+      "id": "tt8649344",
       "type": "movie",
-      "name": "Wonder Boys",
-      "poster": "https://image.tmdb.org/t/p/w342/5yvQe06HPNII2eZCJWTeMwqLWvR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/f6axPiSzkPa2ErTtTxBUGfCLFPd.jpg",
-      "description": "Grady is a 50-ish English professor who hasn't had a thing published in years—not since he wrote his award winning 'Great American Novel' 7 years ago. This weekend proves even worse than he could imagine as he finds himself reeling from one misadventure to another in the company of a new wonder boy author.",
-      "releaseInfo": "2000",
+      "name": "Blue Jean",
+      "poster": "https://image.tmdb.org/t/p/w342/8kzhsiL340IDeaAuEz4RfiFilgf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1hujMZeoy7KXUU92tYekbNjq0PS.jpg",
+      "description": "Jean, a PE teacher, is forced to live a double life. When a new student arrives and threatens to expose her sexuality, Jean is pushed to extreme lengths to keep her job and her integrity.",
+      "releaseInfo": "2023",
       "genres": [
-        "Comedy",
         "Drama"
       ]
     },
@@ -656,39 +667,15 @@
       ]
     },
     {
-      "id": "tt11687002",
+      "id": "tt14682800",
       "type": "movie",
-      "name": "The Outrun",
-      "poster": "https://image.tmdb.org/t/p/w342/zfRR2CkbvYrLuOPQFm8vBaENyMy.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8xTvH93bQl0AxMMeVkrlao2bMui.jpg",
-      "description": "Fresh out of rehab, Rona returns to the Orkney Islands—a place both wild and beautiful, right off the Scottish coast. Now 29 and after more than a decade of living life on the edge in London, where she both found and lost love, Rona attempts to come to terms with her troubled past. As she reconnects with the dramatic landscape where she grew up, memories of her traumatic childhood merge with more recent challenging events that have set her on the path to recovery.",
+      "name": "Tuesday",
+      "poster": "https://image.tmdb.org/t/p/w342/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ebmY8j6bfTsxUdhVtTaoNITch6u.jpg",
+      "description": "A mother and her teenage daughter must confront Death when it arrives in the form of an astonishing talking bird.",
       "releaseInfo": "2024",
       "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt8649344",
-      "type": "movie",
-      "name": "Blue Jean",
-      "poster": "https://image.tmdb.org/t/p/w342/8kzhsiL340IDeaAuEz4RfiFilgf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1hujMZeoy7KXUU92tYekbNjq0PS.jpg",
-      "description": "Jean, a PE teacher, is forced to live a double life. When a new student arrives and threatens to expose her sexuality, Jean is pushed to extreme lengths to keep her job and her integrity.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt10375470",
-      "type": "movie",
-      "name": "Supernova",
-      "poster": "https://image.tmdb.org/t/p/w342/c21Vwt4shqVxCQziFz0Hf91wSow.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/BjLgTDAcZc94KomcQAxMVye0yI.jpg",
-      "description": "Sam and Tusker, partners of 20 years, are traveling across England in their old RV visiting friends, family and places from their past. Since Tusker was diagnosed with early-onset dementia two years ago, their time together is the most important thing they have.  As the trip progresses, however, their ideas for the future clash, secrets come out, and their love for each other is tested as never before. Ultimately, they must confront the question of what it means to love one another in the face of Tusker’s illness.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Romance",
+        "Fantasy",
         "Drama"
       ]
     },
@@ -701,6 +688,19 @@
       "description": "Renowned Shakespearean actor Patrick Stewart features as the eponymous anti-hero in this Soviet-era adaptation of one of Shakespeare's darkest and most powerful tragedies.",
       "releaseInfo": "2010",
       "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0185014",
+      "type": "movie",
+      "name": "Wonder Boys",
+      "poster": "https://image.tmdb.org/t/p/w342/5yvQe06HPNII2eZCJWTeMwqLWvR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/f6axPiSzkPa2ErTtTxBUGfCLFPd.jpg",
+      "description": "Grady is a 50-ish English professor who hasn't had a thing published in years—not since he wrote his award winning 'Great American Novel' 7 years ago. This weekend proves even worse than he could imagine as he finds himself reeling from one misadventure to another in the company of a new wonder boy author.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Comedy",
         "Drama"
       ]
     },
@@ -732,6 +732,19 @@
       ]
     },
     {
+      "id": "tt0101811",
+      "type": "movie",
+      "name": "Enchanted April",
+      "poster": "https://image.tmdb.org/t/p/w342/b4Jrg23Q3y7p8GS7aMnPdFiEcnP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hjkAO8GDwipwEL3gyItLxrfiIsw.jpg",
+      "description": "When married British women Rose Arbuthnot and Lottie Wilkins decide to take a break from their respective spouses, they stay at a castle in Italy for a quiet holiday. Joining the ladies is Caroline Dester, a young socialite, and Mrs. Fisher, an older aristocrat. Liberated from their daily routines, the four women ease into life in rural Italy, and each finds herself transformed by the experience.",
+      "releaseInfo": "1991",
+      "genres": [
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt6523092",
       "type": "movie",
       "name": "Against the Law",
@@ -743,19 +756,6 @@
         "Drama",
         "History",
         "Romance"
-      ]
-    },
-    {
-      "id": "tt0101811",
-      "type": "movie",
-      "name": "Enchanted April",
-      "poster": "https://image.tmdb.org/t/p/w342/b4Jrg23Q3y7p8GS7aMnPdFiEcnP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hjkAO8GDwipwEL3gyItLxrfiIsw.jpg",
-      "description": "When married British women Rose Arbuthnot and Lottie Wilkins decide to take a break from their respective spouses, they stay at a castle in Italy for a quiet holiday. Joining the ladies is Caroline Dester, a young socialite, and Mrs. Fisher, an older aristocrat. Liberated from their daily routines, the four women ease into life in rural Italy, and each finds herself transformed by the experience.",
-      "releaseInfo": "1991",
-      "genres": [
-        "Romance",
-        "Drama"
       ]
     },
     {
@@ -772,15 +772,14 @@
       ]
     },
     {
-      "id": "tt14682800",
+      "id": "tt11687002",
       "type": "movie",
-      "name": "Tuesday",
-      "poster": "https://image.tmdb.org/t/p/w342/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ebmY8j6bfTsxUdhVtTaoNITch6u.jpg",
-      "description": "A mother and her teenage daughter must confront Death when it arrives in the form of an astonishing talking bird.",
+      "name": "The Outrun",
+      "poster": "https://image.tmdb.org/t/p/w342/zfRR2CkbvYrLuOPQFm8vBaENyMy.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8xTvH93bQl0AxMMeVkrlao2bMui.jpg",
+      "description": "Fresh out of rehab, Rona returns to the Orkney Islands—a place both wild and beautiful, right off the Scottish coast. Now 29 and after more than a decade of living life on the edge in London, where she both found and lost love, Rona attempts to come to terms with her troubled past. As she reconnects with the dramatic landscape where she grew up, memories of her traumatic childhood merge with more recent challenging events that have set her on the path to recovery.",
       "releaseInfo": "2024",
       "genres": [
-        "Fantasy",
         "Drama"
       ]
     },
@@ -811,18 +810,6 @@
       ]
     },
     {
-      "id": "tt9902160",
-      "type": "movie",
-      "name": "Herself",
-      "poster": "https://image.tmdb.org/t/p/w342/qTCdyHTibEl90w6rDxTTHTX9k3O.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/oY2Lae2YDu7Ibeprh6sBgUUMXcO.jpg",
-      "description": "Struggling to provide her daughters with a safe, happy home, Sandra decides to build one - from scratch. Using all her ingenuity to make her ambitious dream a reality, Sandra draws together a community to lend a helping hand to build her house and ultimately recover her own sense of self.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0300015",
       "type": "movie",
       "name": "I Capture the Castle",
@@ -833,6 +820,18 @@
       "genres": [
         "Drama",
         "Romance"
+      ]
+    },
+    {
+      "id": "tt11197444",
+      "type": "movie",
+      "name": "The Fall",
+      "poster": "https://image.tmdb.org/t/p/w342/ltZj6zkzsTjKOA6XK1mlW0bxGrs.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/i8WHMVgsF6FRnoXVA3l3ryjgHMZ.jpg",
+      "description": "A mob's punishment of a lone man proves cruel and unusual.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Horror"
       ]
     },
     {
@@ -875,43 +874,27 @@
       ]
     },
     {
-      "id": "tt7549996",
+      "id": "tt35715953",
       "type": "movie",
-      "name": "Judy",
-      "poster": "https://image.tmdb.org/t/p/w342/iqJhHjD6k6T07waELjMKDpQJUP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/x3u29Z4fWAeQmsUkgkRTFNgDZig.jpg",
-      "description": "Thirty years after starring in 'The Wizard of Oz', beloved actress and singer Judy Garland arrives in London to perform sold-out shows at the Talk of the Town nightclub. While there, she reminisces with friends and fans and begins a whirlwind romance with musician Mickey Deans, her soon-to-be fifth husband.",
-      "releaseInfo": "2019",
+      "name": "Urchin",
+      "poster": "https://image.tmdb.org/t/p/w342/zc8n3hm3S2VxFxlNH1MNN28LVMa.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1M8MgXc9UifZFA8qeC2gG4UCQe.jpg",
+      "description": "Mike, a rough sleeper in London, is trapped in a cycle of self-destruction as he attempts to turn his life around. Along the way, he encounters unexpected chances for a fresh start.",
+      "releaseInfo": "2025",
       "genres": [
-        "Drama",
-        "History",
-        "Music"
+        "Drama"
       ]
     },
     {
-      "id": "tt3387266",
+      "id": "tt9902160",
       "type": "movie",
-      "name": "A United Kingdom",
-      "poster": "https://image.tmdb.org/t/p/w342/xyhoW9qK7ZaDM1V4A6pPL9DWjn8.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/cBlKxl2YSRVTLb1szSur8H3BNdZ.jpg",
-      "description": "The inspiring true story of Seretse Khama, the King of Bechuanaland (modern Botswana), and Ruth Williams, the London office worker he married in 1948 in the face of fierce opposition from their families and the British and South African governments. Seretse and Ruth defied family, Apartheid and empire - their love triumphed over every obstacle flung in their path and in so doing they transformed their nation and inspired the world.",
-      "releaseInfo": "2016",
+      "name": "Herself",
+      "poster": "https://image.tmdb.org/t/p/w342/qTCdyHTibEl90w6rDxTTHTX9k3O.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/oY2Lae2YDu7Ibeprh6sBgUUMXcO.jpg",
+      "description": "Struggling to provide her daughters with a safe, happy home, Sandra decides to build one - from scratch. Using all her ingenuity to make her ambitious dream a reality, Sandra draws together a community to lend a helping hand to build her house and ultimately recover her own sense of self.",
+      "releaseInfo": "2020",
       "genres": [
-        "Drama",
-        "History"
-      ]
-    },
-    {
-      "id": "tt3205394",
-      "type": "movie",
-      "name": "Roald Dahl's Esio Trot",
-      "poster": "https://image.tmdb.org/t/p/w342/zr3VIk1jWxuEuECbEg2IyG7YuDb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hWKtkjuHeFHCEm5RKGc3rw1Nnyz.jpg",
-      "description": "Retired bachelor Mr Hoppy is hopelessly in love with his neighbour Mrs Silver, but she is only interested in her pet tortoise Alfie - until Mr Hoppy hatches an audacious plan.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Romance",
-        "Comedy"
+        "Drama"
       ]
     },
     {
@@ -941,24 +924,12 @@
       ]
     },
     {
-      "id": "tt11197444",
-      "type": "movie",
-      "name": "The Fall",
-      "poster": "https://image.tmdb.org/t/p/w342/ltZj6zkzsTjKOA6XK1mlW0bxGrs.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/i8WHMVgsF6FRnoXVA3l3ryjgHMZ.jpg",
-      "description": "A mob's punishment of a lone man proves cruel and unusual.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt3149038",
       "type": "movie",
       "name": "X+Y",
       "poster": "https://image.tmdb.org/t/p/w342/jYkfSWb9rlTTzvLclCuJwm48kbl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qqRzC2xkCCTTPVA7IKYf4CsPkEj.jpg",
-      "description": "A socially awkward teenage math prodigy finds new confidence and new friendships when he lands a spot on the British squad at the International Mathematics Olympiad.",
+      "background": "https://image.tmdb.org/t/p/w780/jHlodFQ7WcmVWYi6HAAc2Ox9rPZ.jpg",
+      "description": "Struggling to connect with those around him, a teenage math prodigy trains for the International Mathematical Olympiad, where a budding romance with a fellow contestant breaks through his emotional walls and teaches him that love cannot be calculated.",
       "releaseInfo": "2014",
       "genres": [
         "Drama"
@@ -977,15 +948,29 @@
       ]
     },
     {
-      "id": "tt35715953",
+      "id": "tt0300214",
       "type": "movie",
-      "name": "Urchin",
-      "poster": "https://image.tmdb.org/t/p/w342/zc8n3hm3S2VxFxlNH1MNN28LVMa.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1M8MgXc9UifZFA8qeC2gG4UCQe.jpg",
-      "description": "Mike, a rough sleeper in London, is trapped in a cycle of self-destruction as he attempts to turn his life around. Along the way, he encounters unexpected chances for a fresh start.",
-      "releaseInfo": "2025",
+      "name": "Morvern Callar",
+      "poster": "https://image.tmdb.org/t/p/w342/kKGUF97v8a62MtSKM0V6fqDxGTS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aRFsgk8X8J6mRvgStvUDBIaDdlX.jpg",
+      "description": "After her boyfriend commits suicide, a young woman attempts to use the unpublished manuscript of a novel and a sum of money he left behind to reinvent her life.",
+      "releaseInfo": "2002",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt7549996",
+      "type": "movie",
+      "name": "Judy",
+      "poster": "https://image.tmdb.org/t/p/w342/iqJhHjD6k6T07waELjMKDpQJUP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x3u29Z4fWAeQmsUkgkRTFNgDZig.jpg",
+      "description": "Thirty years after starring in 'The Wizard of Oz', beloved actress and singer Judy Garland arrives in London to perform sold-out shows at the Talk of the Town nightclub. While there, she reminisces with friends and fans and begins a whirlwind romance with musician Mickey Deans, her soon-to-be fifth husband.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama",
+        "History",
+        "Music"
       ]
     },
     {
@@ -1016,18 +1001,6 @@
       ]
     },
     {
-      "id": "tt0300214",
-      "type": "movie",
-      "name": "Morvern Callar",
-      "poster": "https://image.tmdb.org/t/p/w342/kKGUF97v8a62MtSKM0V6fqDxGTS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/aRFsgk8X8J6mRvgStvUDBIaDdlX.jpg",
-      "description": "After her boyfriend commits suicide, a young woman attempts to use the unpublished manuscript of a novel and a sum of money he left behind to reinvent her life.",
-      "releaseInfo": "2002",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0100469",
       "type": "movie",
       "name": "The Reflecting Skin",
@@ -1039,18 +1012,6 @@
         "Drama",
         "Thriller",
         "Horror"
-      ]
-    },
-    {
-      "id": "tt2725962",
-      "type": "movie",
-      "name": "What We Did on Our Holiday",
-      "poster": "https://image.tmdb.org/t/p/w342/79erD2M6Tj9He4GSXiW0TjlQHkg.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5oM00doqcMnRaJT4CaOfczEO7Qb.jpg",
-      "description": "Doug and Abi and their three children travel to the Scottish Highlands for Doug's father Gordie's birthday party. It's soon clear that when it comes to keeping a secret under wraps from the rest of the family, their children are their biggest liability...",
-      "releaseInfo": "2014",
-      "genres": [
-        "Comedy"
       ]
     },
     {
@@ -1067,6 +1028,18 @@
       ]
     },
     {
+      "id": "tt2725962",
+      "type": "movie",
+      "name": "What We Did on Our Holiday",
+      "poster": "https://image.tmdb.org/t/p/w342/79erD2M6Tj9He4GSXiW0TjlQHkg.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5oM00doqcMnRaJT4CaOfczEO7Qb.jpg",
+      "description": "Doug and Abi and their three children travel to the Scottish Highlands for Doug's father Gordie's birthday party. It's soon clear that when it comes to keeping a secret under wraps from the rest of the family, their children are their biggest liability...",
+      "releaseInfo": "2014",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt0149723",
       "type": "movie",
       "name": "Besieged",
@@ -1077,6 +1050,19 @@
       "genres": [
         "Drama",
         "Romance"
+      ]
+    },
+    {
+      "id": "tt3205394",
+      "type": "movie",
+      "name": "Roald Dahl's Esio Trot",
+      "poster": "https://image.tmdb.org/t/p/w342/zr3VIk1jWxuEuECbEg2IyG7YuDb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hWKtkjuHeFHCEm5RKGc3rw1Nnyz.jpg",
+      "description": "Retired bachelor Mr Hoppy is hopelessly in love with his neighbour Mrs Silver, but she is only interested in her pet tortoise Alfie - until Mr Hoppy hatches an audacious plan.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Romance",
+        "Comedy"
       ]
     },
     {
@@ -1093,17 +1079,16 @@
       ]
     },
     {
-      "id": "tt14124080",
+      "id": "tt4163668",
       "type": "movie",
-      "name": "The Great Escaper",
-      "poster": "https://image.tmdb.org/t/p/w342/50rOFWgFUsCw3zfwSKXcdglh3Ji.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dcGf6amsVeJ2oT75GhpeqavCWO8.jpg",
-      "description": "In the summer of 2014, a World War II veteran sneaks out of his care home to attend the 70th anniversary commemoration of the D-Day landings in Normandy.",
-      "releaseInfo": "2023",
+      "name": "The Eichmann Show",
+      "poster": "https://image.tmdb.org/t/p/w342/6cu8bEgtpX6ITxmI4JmiiCjU4OG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rjK7JGPe7CbhwjfNLx6DQgRaN2L.jpg",
+      "description": "The behind-the-scenes true life story of a groundbreaking producer, Milton Fruchtman, and blacklisted TV director Leo Hurwitz who, overcoming enormous obstacles, set out to capture the testimony of one of the war's most notorious Nazis, Adolf Eichmann, who is accused of executing the 'final solution' and organising the murder of 6 million Jews. This is the extraordinary story of how the trial came to be televised and the team that made it happen.",
+      "releaseInfo": "2015",
       "genres": [
-        "History",
         "Drama",
-        "War"
+        "History"
       ]
     },
     {
@@ -1120,16 +1105,16 @@
       ]
     },
     {
-      "id": "tt4163668",
+      "id": "tt4136084",
       "type": "movie",
-      "name": "The Eichmann Show",
-      "poster": "https://image.tmdb.org/t/p/w342/6cu8bEgtpX6ITxmI4JmiiCjU4OG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rjK7JGPe7CbhwjfNLx6DQgRaN2L.jpg",
-      "description": "The behind-the-scenes true life story of a groundbreaking producer, Milton Fruchtman, and blacklisted TV director Leo Hurwitz who, overcoming enormous obstacles, set out to capture the testimony of one of the war's most notorious Nazis, Adolf Eichmann, who is accused of executing the 'final solution' and organising the murder of 6 million Jews. This is the extraordinary story of how the trial came to be televised and the team that made it happen.",
-      "releaseInfo": "2015",
+      "name": "Florence Foster Jenkins",
+      "poster": "https://image.tmdb.org/t/p/w342/1HAdtUchzWEo0LMFHrgD2UBIBS3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x5zHw4qTZ1aP4Lrcv49coRluvxr.jpg",
+      "description": "The story of Florence Foster Jenkins, a New York heiress, who dreamed of becoming an opera singer, despite having a terrible singing voice.",
+      "releaseInfo": "2016",
       "genres": [
-        "Drama",
-        "History"
+        "Comedy",
+        "Drama"
       ]
     },
     {
@@ -1146,16 +1131,44 @@
       ]
     },
     {
-      "id": "tt4136084",
+      "id": "tt0482546",
       "type": "movie",
-      "name": "Florence Foster Jenkins",
-      "poster": "https://image.tmdb.org/t/p/w342/1HAdtUchzWEo0LMFHrgD2UBIBS3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/x5zHw4qTZ1aP4Lrcv49coRluvxr.jpg",
-      "description": "The story of Florence Foster Jenkins, a New York heiress, who dreamed of becoming an opera singer, despite having a terrible singing voice.",
+      "name": "Miss Potter",
+      "poster": "https://image.tmdb.org/t/p/w342/fecGKwGABfZdMbiH1WQN9zMcOkS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/heXvhrTFCF8j84iFQtpXEKCFwGL.jpg",
+      "description": "Beatrix Potter, the author of the beloved children's book \"The Tale of Peter Rabbit\", struggles for love, happiness and success.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
+        "Family",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt3387266",
+      "type": "movie",
+      "name": "A United Kingdom",
+      "poster": "https://image.tmdb.org/t/p/w342/xyhoW9qK7ZaDM1V4A6pPL9DWjn8.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cBlKxl2YSRVTLb1szSur8H3BNdZ.jpg",
+      "description": "The inspiring true story of Seretse Khama, the King of Bechuanaland (modern Botswana), and Ruth Williams, the London office worker he married in 1948 in the face of fierce opposition from their families and the British and South African governments. Seretse and Ruth defied family, Apartheid and empire - their love triumphed over every obstacle flung in their path and in so doing they transformed their nation and inspired the world.",
       "releaseInfo": "2016",
       "genres": [
-        "Comedy",
-        "Drama"
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "tt14124080",
+      "type": "movie",
+      "name": "The Great Escaper",
+      "poster": "https://image.tmdb.org/t/p/w342/50rOFWgFUsCw3zfwSKXcdglh3Ji.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dcGf6amsVeJ2oT75GhpeqavCWO8.jpg",
+      "description": "In the summer of 2014, a World War II veteran sneaks out of his care home to attend the 70th anniversary commemoration of the D-Day landings in Normandy.",
+      "releaseInfo": "2023",
+      "genres": [
+        "History",
+        "Drama",
+        "War"
       ]
     },
     {
@@ -1207,20 +1220,6 @@
       "releaseInfo": "2018",
       "genres": [
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt0482546",
-      "type": "movie",
-      "name": "Miss Potter",
-      "poster": "https://image.tmdb.org/t/p/w342/fecGKwGABfZdMbiH1WQN9zMcOkS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/heXvhrTFCF8j84iFQtpXEKCFwGL.jpg",
-      "description": "Beatrix Potter, the author of the beloved children's book \"The Tale of Peter Rabbit\", struggles for love, happiness and success.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Drama",
-        "Family",
-        "Romance"
       ]
     },
     {

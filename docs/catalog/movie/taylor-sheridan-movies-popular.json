@@ -43,19 +43,6 @@
       ]
     },
     {
-      "id": "tt3215824",
-      "type": "movie",
-      "name": "Those Who Wish Me Dead",
-      "poster": "https://image.tmdb.org/t/p/w342/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ouOojiypBE6CD1aqcHPVq7cJf2R.jpg",
-      "description": "A young boy finds himself pursued by two assassins in the Montana wilderness, with a survival expert determined to protect him, and a forest fire threatening to consume them all.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Thriller",
-        "Action"
-      ]
-    },
-    {
       "id": "tt2582782",
       "type": "movie",
       "name": "Hell or High Water",
@@ -67,6 +54,19 @@
         "Western",
         "Crime",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt3215824",
+      "type": "movie",
+      "name": "Those Who Wish Me Dead",
+      "poster": "https://image.tmdb.org/t/p/w342/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ouOojiypBE6CD1aqcHPVq7cJf2R.jpg",
+      "description": "A young boy finds himself pursued by two assassins in the Montana wilderness, with a survival expert determined to protect him, and a forest fire threatening to consume them all.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Thriller",
+        "Action"
       ]
     },
     {
@@ -98,18 +98,6 @@
       ]
     },
     {
-      "id": "tt5952594",
-      "type": "movie",
-      "name": "The Mustang",
-      "poster": "https://image.tmdb.org/t/p/w342/sXQzQcjNAYYosymYPVaXh1nYKaJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fsobXtw2DfNvv8XRFGJUu95H9bU.jpg",
-      "description": "While participating in a rehabilitation program training wild mustangs, a convict at first struggles to connect with the horses and his fellow inmates, but he learns to confront his violent past as he soothes an especially feisty horse.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt15685360",
       "type": "movie",
       "name": "You Gotta Believe",
@@ -119,6 +107,18 @@
       "releaseInfo": "2024",
       "genres": [
         "Family",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt5952594",
+      "type": "movie",
+      "name": "The Mustang",
+      "poster": "https://image.tmdb.org/t/p/w342/sXQzQcjNAYYosymYPVaXh1nYKaJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fsobXtw2DfNvv8XRFGJUu95H9bU.jpg",
+      "description": "While participating in a rehabilitation program training wild mustangs, a convict at first struggles to connect with the horses and his fellow inmates, but he learns to confront his violent past as he soothes an especially feisty horse.",
+      "releaseInfo": "2019",
+      "genres": [
         "Drama"
       ]
     },
@@ -148,14 +148,14 @@
       ]
     },
     {
-      "id": "tt1800290",
+      "id": "tt29768342",
       "type": "movie",
-      "name": "Empire of the Summer Moon (upcoming)",
-      "poster": "https://image.tmdb.org/t/p/w342/iLmQ2YSqmvbe8vZSGOqq3YEdl0d.jpg",
-      "description": "⏳ Not yet released — status: Planned. The narrative spans four decades of conflict between the Comanches natives and white colonists, highlighting the Comanches' mastery of horse warfare, their resistance to Spanish, French, and settler-expansion, and their pivotal role in shaping the American West.",
+      "name": "Sicario: Capos (upcoming)",
+      "description": "⏳ Not yet released — status: Rumored. The third installment in the Sicario trilogy set to be released in 2028.",
       "genres": [
-        "Western",
-        "History"
+        "Action",
+        "Thriller",
+        "Crime"
       ]
     },
     {
@@ -183,17 +183,6 @@
       ]
     },
     {
-      "id": "tt29768342",
-      "type": "movie",
-      "name": "Sicario: Capos (upcoming)",
-      "description": "⏳ Not yet released — status: Rumored. The third installment in the Sicario trilogy set to be released in 2028.",
-      "genres": [
-        "Action",
-        "Thriller",
-        "Crime"
-      ]
-    },
-    {
       "id": "tt8009732",
       "type": "movie",
       "name": "Call of Duty (upcoming)",
@@ -202,6 +191,17 @@
       "releaseInfo": "2028",
       "genres": [
         "Action"
+      ]
+    },
+    {
+      "id": "tt1800290",
+      "type": "movie",
+      "name": "Empire of the Summer Moon (upcoming)",
+      "poster": "https://image.tmdb.org/t/p/w342/iLmQ2YSqmvbe8vZSGOqq3YEdl0d.jpg",
+      "description": "⏳ Not yet released — status: Planned. The narrative spans four decades of conflict between the Comanches natives and white colonists, highlighting the Comanches' mastery of horse warfare, their resistance to Spanish, French, and settler-expansion, and their pivotal role in shaping the American West.",
+      "genres": [
+        "Western",
+        "History"
       ]
     },
     {

@@ -1,27 +1,143 @@
 {
   "metas": [
     {
-      "id": "tt4594334",
+      "id": "tt1127205",
       "type": "series",
-      "name": "Capital",
-      "poster": "https://image.tmdb.org/t/p/w342/8cTY7TOT7GauA8zEANk9C7kZPko.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/a3ii0ECFqoDYbmHj3lVHS7aqKNb.jpg",
-      "description": "Set on a single street in South London, Capital is a portrait of a road transformed by soaring property prices: what was once the home of modest lower-middle class families, Pepys Road has been continuously gentrified into a street of multimillion pound houses.  On one day, the people of this South London street all receive an anonymous postcard with the simple message 'we want what you have'. Its unsettling ripples affect every corner of the community.",
-      "releaseInfo": "2015",
+      "name": "The Diary of Anne Frank",
+      "poster": "https://image.tmdb.org/t/p/w342/mCMtsNo7dbsi7BZ3vgehZUpC2f5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fiKo4nW0aXVJGTwWJXYqTjd103F.jpg",
+      "description": "Five-part adaptation of Anne Frank's famous wartime diaries in which a young teenager and her family go into hiding from the Nazis in wartime Amsterdam.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "tt0111960",
+      "type": "series",
+      "name": "The Final Cut",
+      "poster": "https://image.tmdb.org/t/p/w342/7lQ6roAFARdKe9qGPF0KigYPASZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6Jg3QcWXxALsZG9qcZZFTf8Wo4Z.jpg",
+      "description": "Seasoned politician Francis Urquhart tries to establish his legacy before retirement by negotiating an end to the Cyprus, but the island hides secrets from his past that could destroy him.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "War"
+      ]
+    },
+    {
+      "id": "tt8098956",
+      "type": "series",
+      "name": "Noughts + Crosses",
+      "poster": "https://image.tmdb.org/t/p/w342/xKo7Zog27jcGvPKGkpHkqbLqLR8.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tRHML16irVmFXqKDoIwP8Sk8rQU.jpg",
+      "description": "In an alternate history where black “Cross” people rule over white “Noughts”, young couple Sephy and Callum are divided by their colour but united by love.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt12005828",
+      "type": "series",
+      "name": "You Don't Know Me",
+      "poster": "https://image.tmdb.org/t/p/w342/xgaMPHjbv1RqeVocoiC1y3quyeM.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iz0qIneDSPM3Mns9rhSd3vN0oKk.jpg",
+      "description": "Accused of murder, Hero shouldn't stand a chance in court. He swears he's innocent. But in the end, all that matters is this: do you believe him?",
+      "releaseInfo": "2021",
       "genres": [
         "Drama"
       ]
     },
     {
-      "id": "tt0408375",
+      "id": "tt3654614",
       "type": "series",
-      "name": "Blackpool",
-      "poster": "https://image.tmdb.org/t/p/w342/nTfqEIqtMbehNWXliWXmu4Ki1E1.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9a8x7uScSahUtFcpX4yawIUM2Bm.jpg",
-      "description": "Ripley Holden is a small-time entrepreneur desperate to make it big with his new state-of-the-art amusement arcade. The opening extravaganza is overshadowed by the find of a dead body on the premises. DI Carlisle is called in and quickly finds he has more on his mind than murder, when he falls in love with Ripley's long-suffering wife.",
-      "releaseInfo": "2004",
+      "name": "The Interceptor",
+      "poster": "https://image.tmdb.org/t/p/w342/yYaGl8oHjSs6EDcAegsezk5j0QP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aUys0nbLgn4hw8UD0cgk2kbaadX.jpg",
+      "description": "A gripping eight-part series about a state-of-the-art law enforcement team whose unswerving mission is to hunt down some of Britain’s most dangerous criminals. The Interceptor delves into the adventures of a dedicated surveillance team known as the UNIT. Keeping their quarries under ultra-tight surveillance, they take us into the real world inhabited by the criminals of today. And it’s easy to recognize because it’s the same world the rest of us inhabit.",
+      "releaseInfo": "2015",
       "genres": [
-        "Comedy",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt9724628",
+      "type": "series",
+      "name": "Get Even",
+      "poster": "https://image.tmdb.org/t/p/w342/7hkp2nLI84G6btRGwcYVHYZ9coT.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/enVwFLjnIKVaAwXQL2fDGydfkwE.jpg",
+      "description": "On the surface Kitty, Margot, Bree and Olivia appear to have nothing in common - but there’s one passion which unites them: to expose injustice. They form their own secret society, DGM - they Don’t Get Mad, they Get Even - playing anonymous pranks to expose bullies.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt7161312",
+      "type": "series",
+      "name": "Informer",
+      "poster": "https://image.tmdb.org/t/p/w342/aTRB6WPUOCKQ3Lv5jAeHx5TgmcU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tbxdFYVh3VtxxOuDR5VMO0upRjQ.jpg",
+      "description": "Raza, a young second-generation British-Pakistani man from London is coerced by Gabe, a counterterrorism officer, into informing.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0144727",
+      "type": "series",
+      "name": "Our Mutual Friend",
+      "poster": "https://image.tmdb.org/t/p/w342/36rfVPNq9ibnsti0CLQvvUJNKSF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sD4LMMRawOvXLyWGaCVScoaQveZ.jpg",
+      "description": "After his father's will stipulates he must marry Bella Wilfer to inherit his fortune, John Harmon fakes his death to avoid the marriage and the threats on his life. He returns as John Rokesmith and becomes the secretary for the Boffins, who inherit Harmon's estate following his alleged death.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0300879",
+      "type": "series",
+      "name": "The Way We Live Now",
+      "poster": "https://image.tmdb.org/t/p/w342/lfPRBOrtKDT9bM70OQ2iSvE0BKH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ceUxEzImXlEnghDaEENgAX06rxF.jpg",
+      "description": "Anthony Trollope’s epic tale of Victorian power and corruption, set in the 1870s. Within weeks of his arrival in London, financier Augustus Melmotte announces a railway is to be built from Salt Lake City to the Gulf of Mexico and entices distinguished members of England's land-rich, cash-poor aristocracy into his web. Many are eager to sell their ailing land parcels to afford moving to London proper and naïve speculators are all lured in with promises of an instant fortune.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt8359610",
+      "type": "series",
+      "name": "Death and Nightingales",
+      "poster": "https://image.tmdb.org/t/p/w342/mZ2uK5oe5AEmCbNplUmX76pWWg6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4mXiOtPWNuzG0JQXBCAhtFv1R3T.jpg",
+      "description": "Fermanagh, Irish countryside, 1885. On her 23rd birthday, Beth, who lives on a remote farm with Billy Winters, her tyrannical stepfather, whom she can barely stand, prepares to flee from such a suffocating life with the help of the seductive Liam Ward, without being aware that her decision will unearth deeply buried secrets a long time ago.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt14220870",
+      "type": "series",
+      "name": "A Very British Scandal",
+      "poster": "https://image.tmdb.org/t/p/w342/rCa2Cdb3JNx2jka2LQJeaSTCIeH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/oratSFbxhVq4uGps5bAZvSqUuRH.jpg",
+      "description": "The true story of a duchess publicly shamed in a high society divorce that gripped the nation.",
+      "releaseInfo": "2021",
+      "genres": [
         "Drama"
       ]
     },
@@ -39,65 +155,94 @@
       ]
     },
     {
-      "id": "tt0966151",
+      "id": "tt10846250",
       "type": "series",
-      "name": "The Last Enemy",
-      "poster": "https://image.tmdb.org/t/p/w342/wlBj7IPDHiIBFsGILZkG3LL8IlJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/olMxdNBX5kn1uqhr3nty7aAUOp3.jpg",
-      "description": "Reclusive mathematician Stephen Ezard returns to England after years in China, finds his brother's widow, and becomes entangled in a plot involving a new national database (TIA) and a terrorist scheme.",
-      "releaseInfo": "2008",
+      "name": "Roadkill",
+      "poster": "https://image.tmdb.org/t/p/w342/g4y8qq4acg2Q41hCKKwYO69VIr9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/w4YBZv5tLbHGnODoNsfl6fHd504.jpg",
+      "description": "Politician Peter Laurence's private life is falling apart. Shamelessly untroubled by guilt or remorse, he seeks to further his own agenda whilst others plot to bring him down. Can he out-run his own secrets to win the ultimate prize?",
+      "releaseInfo": "2020",
       "genres": [
-        "Mystery",
+        "War",
         "Drama"
       ]
     },
     {
-      "id": "tt18974452",
+      "id": "tt0090521",
       "type": "series",
-      "name": "Such Brave Girls",
-      "poster": "https://image.tmdb.org/t/p/w342/7g60yren32dIyR0ZsMFPXWn3vGt.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/crXtVaUWKDd2CihDmKGD6dUyMAV.jpg",
-      "description": "Sisters Josie and Billie and their single mother Deb navigate life armed with nothing but poor judgement and self-esteem exclusively tied to people who couldn't care less about them. They're vain, selfish, heavily in debt, pathologically desperate for affection and bursting with misplaced, terrifying love.",
-      "releaseInfo": "2023",
+      "name": "The Singing Detective",
+      "poster": "https://image.tmdb.org/t/p/w342/1xUAh6d239ABRU8KiTqXOijNPuJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2slV9gF3070EIRA45SODHnIYsEe.jpg",
+      "description": "Tormented and bedridden by a debilitating disease, a mystery writer relives his detective stories through his imagination and hallucinations.",
+      "releaseInfo": "1986",
       "genres": [
-        "Comedy",
-        "Drama"
+        "Drama",
+        "Mystery"
       ]
     },
     {
-      "id": "tt33335242",
+      "id": "tt5336698",
       "type": "series",
-      "name": "Film Club",
-      "poster": "https://image.tmdb.org/t/p/w342/5koeXuj7klU2vfVEbLqYUfd0gqK.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fFJigkZ4QoI0MFO1ZN3tKSn2Xnl.jpg",
-      "description": "Friday night. 7pm. Film Club Week 198. Evie hasn't left the house in six months after a 'wobble', and Film Club is her escape. A weekly chance to create a world of wonder, deck the garage out in whatever the movie calls for and spend a few uninterrupted hours with Noa - her best friend and one of the few mates who still shows up. But tonight, things are different. Noa's got big news. A dream job is taking him across the other side of the country, which means that all of this is ending.",
-      "releaseInfo": "2025",
+      "name": "Apple Tree Yard",
+      "poster": "https://image.tmdb.org/t/p/w342/4KgTAANgyxOLlDMPQD4vwe0AOQR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dSQvrQdkPB3e7348zjeoeTlNZwh.jpg",
+      "description": "What starts out as a simple, reckless mid-life affair between a genetic scientist named Yvonne and a Westminster paper pusher takes an intriguing turn when she realizes he’s a spook – then suddenly gets very dark indeed. A provocative study of obsession, longing and just how far down a criminal path desire can take you.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt7374240",
+      "type": "series",
+      "name": "The Other One",
+      "poster": "https://image.tmdb.org/t/p/w342/2SShbsKfkBWWecKEN0fgiYtz7IZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cGRvrH5HAm9wKXy99MHBP9EMc46.jpg",
+      "description": "After Colin Walcott drops dead at his birthday party his wife Tess and daughter Cat discover he had a long-term mistress Marilyn by whom he has a daughter Cath. An irate Tess throws out Colin's belongings whilst Cat is angry with boy-friend Marcus over a text he sent to another girl. When the two half-sisters meet there is an argument over where to scatter their father's ashes, leading to police intervention whilst they also learn he may have been having an affair with yet another woman.",
+      "releaseInfo": "2020",
       "genres": [
         "Drama",
         "Comedy"
       ]
     },
     {
-      "id": "tt0346223",
+      "id": "tt0091970",
       "type": "series",
-      "name": "Cambridge Spies",
-      "poster": "https://image.tmdb.org/t/p/w342/dQ7nKa7s8ba9WTFFQXzQUa6yBMu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sIDw0X8tunF1szw3TFHLTGufMft.jpg",
-      "description": "In 1934, four brilliant Cambridge students are recruited to spy for Russia. Fueled by youthful idealism, a passion for social justice and a talent for lying, they take huge personal risks to pass Britain's biggest secrets to Moscow.",
-      "releaseInfo": "2003",
+      "name": "Miss Marple: Sleeping Murder",
+      "poster": "https://image.tmdb.org/t/p/w342/zikO7vlK3r4AGLjtYt6E40QlG7S.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pVb9yUxLoUvUZjqOIy4WmL9dK8A.jpg",
+      "description": "When a young bride moves into a country manor, long repressed childhood memories of witnessing a murder come to the surface.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0078672",
+      "type": "series",
+      "name": "Pride and Prejudice",
+      "poster": "https://image.tmdb.org/t/p/w342/jXj1uEJgPToJmG4bq1mIZeghyv3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/p6TAbDkG13ZdZVwZ1mzKx1FijnO.jpg",
+      "description": "In early 19th century England, Mr and Mrs Bennet's five unmarried daughters vie for the affections of rich and eligible Mr Bingley and his status-conscious friend, Mr Darcy, who have moved into their neighbourhood. While Bingley takes an immediate liking to eldest daughter Jane, Darcy has difficulty adapting to local society and repeatedly clashes with second-eldest Elizabeth.",
+      "releaseInfo": "1980",
       "genres": [
         "Drama"
       ]
     },
     {
-      "id": "tt17001504",
+      "id": "tt1258189",
       "type": "series",
-      "name": "The Diplomat",
-      "poster": "https://image.tmdb.org/t/p/w342/ePknauaRbj3fSzyVRt9CIs6So7y.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iN9kJ2hIjw2wSrcm2Avxjgzsj3P.jpg",
-      "description": "The six-part series follows Laura Simmonds and her Barcelona Consul colleague and friend Alba Ortiz as they fight to protect British nationals who find themselves in trouble in the Catalan city.",
-      "releaseInfo": "2023",
+      "name": "Survivors",
+      "poster": "https://image.tmdb.org/t/p/w342/qw1veNeQzzN0FD2DJyemxO7hPPE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rulrZar942TxA7vn6OPjOEd7clR.jpg",
+      "description": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
+      "releaseInfo": "2008",
       "genres": [
+        "Sci-Fi",
+        "Fantasy",
         "Drama"
       ]
     },
@@ -115,365 +260,65 @@
       ]
     },
     {
-      "id": "tt0300879",
+      "id": "tt10948746",
       "type": "series",
-      "name": "The Way We Live Now",
-      "poster": "https://image.tmdb.org/t/p/w342/lfPRBOrtKDT9bM70OQ2iSvE0BKH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ceUxEzImXlEnghDaEENgAX06rxF.jpg",
-      "description": "Anthony Trollope’s epic tale of Victorian power and corruption, set in the 1870s. Within weeks of his arrival in London, financier Augustus Melmotte announces a railway is to be built from Salt Lake City to the Gulf of Mexico and entices distinguished members of England's land-rich, cash-poor aristocracy into his web. Many are eager to sell their ailing land parcels to afford moving to London proper and naïve speculators are all lured in with promises of an instant fortune.",
-      "releaseInfo": "2001",
+      "name": "Ridley Road",
+      "poster": "https://image.tmdb.org/t/p/w342/6fUvGknVpFpTEC5byjTEae6u3gm.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2rinWZ3Ci5TaX456kOFgdwE6nkr.jpg",
+      "description": "During London's swinging sixties, young Jewish Vivien Epstein follows her lover into danger and when he is caught between life and death, she finds herself going undercover with the fascists, not only for him but for the sake of her country.",
+      "releaseInfo": "2021",
       "genres": [
         "Drama"
       ]
     },
     {
-      "id": "tt1588221",
+      "id": "tt6495880",
       "type": "series",
-      "name": "Rev.",
-      "poster": "https://image.tmdb.org/t/p/w342/rapm6NKOuFPhP7O5CgsCA9rt7MB.jpg",
-      "description": "Sitcom about a former rural parish vicar trying to cope with the varied demands of running an inner-city church.",
-      "releaseInfo": "2010",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1697793",
-      "type": "series",
-      "name": "Outcasts",
-      "poster": "https://image.tmdb.org/t/p/w342/1QUfhOHzbLDhgOmedXH7gMC8ezK.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5H7zm5hpI25oERf2E1sB4n8AqGm.jpg",
-      "description": "Seeking the chance to build a better future, a group of courageous pioneers departs Earth for Carpathia, a newly discovered planet in a distant galaxy. Led by President Richard Tate and his core team of Stella, Cass and Fleur, the pioneers settle in the town of Forthaven, creating a society there alongside expeditionaries Mitchell and Jack. Having embraced all the challenges that come with forging a new beginning, the townspeople work hard to preserve what they've built on Carpathia, and even as they long for those left behind, there is optimism about the future. But while they try to learn from mistakes made on Earth, there is no avoiding the human pitfalls of love, greed, lust and loss.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt6835252",
-      "type": "series",
-      "name": "Three Girls",
-      "poster": "https://image.tmdb.org/t/p/w342/5qqXN4XGwJXESUlRvqaYiy17rMy.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/aiaJYq4ArCsmBYCdLzTcUgizOXz.jpg",
-      "description": "The story of three of the children who were victims in the 2012 grooming and sex trafficking case in Rochdale, for which nine men were convicted and sentenced. The drama explores how these girls were groomed, how they were ignored by the authorities directly responsible for protecting them, and how they eventually made themselves heard.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt10661302",
-      "type": "series",
-      "name": "We Hunt Together",
-      "poster": "https://image.tmdb.org/t/p/w342/kdc9ycNwpelgnke1iGo9XMTV4KK.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ob2Tn0ZuJx60qy9PVI2mbc6Jj1Q.jpg",
-      "description": "Explore the intoxication of sexual attraction, the dangerous power of emotional manipulation, and how finding a volatile form of solace in another can have dire consequences as two conflicted coppers track down a pair of deadly killers.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt6402362",
-      "type": "series",
-      "name": "Hard Sun",
-      "poster": "https://image.tmdb.org/t/p/w342/eROfMhluF1kxDHFS5wbPmjN2KvU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tnexT4uY0iKeRYg9hW5CAgxQ97s.jpg",
-      "description": "Two detectives with opposing viewpoints are partnered together five years before the Apocalypse.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2357908",
-      "type": "series",
-      "name": "Quirke",
-      "poster": "https://image.tmdb.org/t/p/w342/trJ35jkeQHYCnSbD6BLbVeIdacg.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/eGHKDAmpmIi85CdzwjwQ6p6gEk3.jpg",
-      "description": "Quirke is the chief pathologist in the Dublin city morgue – a charismatic loner whose job takes him into fascinating places as he investigates sudden deaths in 1950s Dublin. His pleasures in life are raw and deep, a drink, a smoke, good food, a woman: With one woman in particular – his adoptive brother's wife Sarah and the forbidden love that has shaped and dominated Quirke's life.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt3914672",
-      "type": "series",
-      "name": "The Code",
-      "poster": "https://image.tmdb.org/t/p/w342/d960SZCKOXrHQLFRlaGhlPUFEOR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/cI4P2GaNJ9Hh40wiWKY91v34vOY.jpg",
-      "description": "The Code is a drama series which tells tells the story of two brothers who discover some information that those at the highest levels of political power are determined to keep secret.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt10394886",
-      "type": "series",
-      "name": "The Salisbury Poisonings",
-      "poster": "https://image.tmdb.org/t/p/w342/80CObOtHNCdROSPuPNfETW4OOyA.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/japHBMqYYKKiTc2XjEbbEPWROfH.jpg",
-      "description": "In March 2018 Salisbury became the site of an unprecedented national emergency. This three-part dramatisation focuses on the extraordinary heroism shown by the local community.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt14412362",
-      "type": "series",
-      "name": "Chloe",
-      "poster": "https://image.tmdb.org/t/p/w342/3sHAsDMik5CyJCwrfb0KS6EaBdR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kLDFnGct1QUIZMxohYn70OcLNDW.jpg",
-      "description": "Outsider Becky obsesses over influencer Chloe – until tragedy pulls her in deeper than she ever dreamed possible.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt6078644",
-      "type": "series",
-      "name": "Broken",
-      "poster": "https://image.tmdb.org/t/p/w342/xvwcRQiE7aanggwKgwj9T3x4pdt.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/h4Z2gdoQj0yLVvFsxAJsbIREGEA.jpg",
-      "description": "Father Michael, a Catholic priest presiding over a Northern urban parish, who is modern, maverick, and reassuringly flawed, must be confidante, counselor and confessor to a congregation struggling to reconcile its beliefs with the challenges of daily life.",
+      "name": "Paula",
+      "poster": "https://image.tmdb.org/t/p/w342/k6M7Rpkzfw3OU9j0MDJvmTfrDAK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3yqNdS34TKlCHIG9cSVYQ9mPSHw.jpg",
+      "description": "A chemistry teacher's life is turned upside down after a one-night stand with James. They become locked in a dance of destruction. Only one can survive.",
       "releaseInfo": "2017",
       "genres": [
         "Drama"
       ]
     },
     {
-      "id": "tt8201142",
+      "id": "tt18974452",
       "type": "series",
-      "name": "Dark Money",
-      "poster": "https://image.tmdb.org/t/p/w342/sYCOQbb7bXra6BMgV8HQfNO1YNu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xnDlsAAZdf4OhcYcd6yjww6OVAH.jpg",
-      "description": "13 year old British film star Isaac Mensah was sexually abused by a producer on the set of a Hollywood film, the family decide to take action after learning the truth and Deal with US Lawyers who offer the family 3 million to stay silent.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt5057932",
-      "type": "series",
-      "name": "Undercover",
-      "poster": "https://image.tmdb.org/t/p/w342/oFnxDGtgmsF35E4B2wqT0Qsnmvo.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4L41SALwq4VTslUxq4NGeo3GZGZ.jpg",
-      "description": "Undercover follows Maya, the first black Director Of Public Prosecutions. Just as she is about to take up the post and her life comes under intense public scrutiny, she learns that that her husband Nick has been lying to her for years. Twenty years ago Nick was a fearless and dedicated undercover officer, infiltrating organisations considered a danger to society because of their political beliefs. Nick built himself a fake past and now with his wife unsuspecting and his conscience killing him – his secret identity may compromise the new Director of Public Prosecutions.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0209813",
-      "type": "series",
-      "name": "Takin' Over the Asylum",
-      "poster": "https://image.tmdb.org/t/p/w342/y8jjCpykDbgyz98K54uRWIZmEo1.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/77cbaKPRoRqoKwwq9ErBmOL32sD.jpg",
-      "description": "A salesman starts to run a hospital radio station inside a facility for people with mental heath needs.",
-      "releaseInfo": "1994",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2294227",
-      "type": "series",
-      "name": "The Secret of Crickley Hall",
-      "poster": "https://image.tmdb.org/t/p/w342/a0WKfSZavXH1XUMh3MxKkRFVuHo.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kIs35FpFDArJHvDmDVmeaVIHNxw.jpg",
-      "description": "A year after the disappearance of their son, Gabe and Eve Caleigh and their two daughters attempt to start anew, they head to Crickley Hall - a seemingly perfect countryside house. But when cellar doors start to open on their own, phantom children's cries are heard through the night and a frenzied cane-wielding specter rears its head - the Caleigh's realize the house comes with a lot more than they bargained for. Just as they're ready to move out, Eve Caleigh hears Cam's cries and all bets are off.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt9095260",
-      "type": "series",
-      "name": "Criminal Justice",
-      "poster": "https://image.tmdb.org/t/p/w342/eac9ylXW2mazqOI5L50uY9Rvmxr.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hfkTZuQAYtrCkwEhV8c4K0xmU2c.jpg",
-      "description": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
-      "releaseInfo": "2019",
-      "genres": [
-        "Crime",
-        "Mystery",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt5133742",
-      "type": "series",
-      "name": "The Last Post",
-      "poster": "https://image.tmdb.org/t/p/w342/iQPE4wB39N4oYM0dctVeI1bqAb5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/UNbIUhbc891gHunUi4GQLB5PNe.jpg",
-      "description": "Drama series set in the mid-sixties, in which a unit of Royal Military Police officers and their families deal with the challenges of politics, love and war in British-controlled Aden.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Drama",
-        "War"
-      ]
-    },
-    {
-      "id": "tt0087756",
-      "type": "series",
-      "name": "Miss Marple: A Murder Is Announced",
-      "poster": "https://image.tmdb.org/t/p/w342/3MzWUqYabOX6hj9Z9tXElhnF6Gc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yOSInIsiFzuie6p3Jyn2Nsdq5hs.jpg",
-      "description": "An advertisement announcing the time and place of a forthcoming murder appears among the ads of the paper in the small village of Chipping Cleghorn.",
-      "releaseInfo": "1985",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt1346018",
-      "type": "series",
-      "name": "Desperate Romantics",
-      "poster": "https://image.tmdb.org/t/p/w342/yEHtpt6t2IVzDJYbpUcl0mLgcgI.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1lsT7rSkcGJ5WgaY2xiuyqhBBQj.jpg",
-      "description": "Six-part drama series set in and among the alleys, galleries and flesh-houses of 19th-century industrial London, following the Pre-Raphaelite Brotherhood, a vagabond group of English painters, poets and critics.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0098032",
-      "type": "series",
-      "name": "Oranges Are Not the Only Fruit",
-      "poster": "https://image.tmdb.org/t/p/w342/mMETYbPN7PJeSkEpKeOlSrzStTV.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jNmHcPQ3rK1oftbltbaUOgGgnV1.jpg",
-      "description": "Seven-year-old Jess is removed from her peculiar Pentecostal home and sent to school.",
-      "releaseInfo": "1990",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt5729304",
-      "type": "series",
-      "name": "In the Dark",
-      "poster": "https://image.tmdb.org/t/p/w342/ecUKYm6Pf8dEHk2IZiNaLtbprRQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sb68JRR5x9Rd9pjT7qcm4PJIpfH.jpg",
-      "description": "DI Helen Weeks grapples with pregnancy as she undertakes a very personal abduction case.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt20916306",
-      "type": "series",
-      "name": "The Sixth Commandment",
-      "poster": "https://image.tmdb.org/t/p/w342/lwZCPn0oXrceUhzfguz9jlIROJY.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/a2V547ZPfMqwK8eTcvT5QMuPxcd.jpg",
-      "description": "A series that dramatises the shocking story of the true-life murder of former Stowe schoolmaster and deeply closeted evangelical Christian, 69-year-old Peter Farquhar, by his 28-year-old student and young churchwarden Ben Field in October 2015.",
+      "name": "Such Brave Girls",
+      "poster": "https://image.tmdb.org/t/p/w342/7g60yren32dIyR0ZsMFPXWn3vGt.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/crXtVaUWKDd2CihDmKGD6dUyMAV.jpg",
+      "description": "Sisters Josie and Billie and their single mother Deb navigate life armed with nothing but poor judgement and self-esteem exclusively tied to people who couldn't care less about them. They're vain, selfish, heavily in debt, pathologically desperate for affection and bursting with misplaced, terrifying love.",
       "releaseInfo": "2023",
       "genres": [
-        "Crime",
+        "Comedy",
         "Drama"
       ]
     },
     {
-      "id": "tt1525182",
+      "id": "tt2647420",
       "type": "series",
-      "name": "The Deep",
-      "poster": "https://image.tmdb.org/t/p/w342/6xFhx63ec8WPvL5BaXu15IOinoE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/smjEnqihzpUpLrcT3BNJkXBxU8V.jpg",
-      "description": "As the world's energy supplies dwindle, the Orpheus, a research submarine, delves into the deep of the Arctic Ocean searching for rare micro-organisms, but the crew soon find themselves in peril.",
-      "releaseInfo": "2010",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt2199618",
-      "type": "series",
-      "name": "The Politician's Husband",
-      "poster": "https://image.tmdb.org/t/p/w342/kG5mhhIZrpYDySz1tLGtVx1muO.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5pp1JTvkvfiGqrscmDkXkwq1Mkz.jpg",
-      "description": "A drama about the shifting power in a marriage when the personal and political collide.",
-      "releaseInfo": "2013",
+      "name": "Fleming",
+      "poster": "https://image.tmdb.org/t/p/w342/Ap2RdhXi8mEGsGrgfPpsVF01mSZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/T1Vha4ZptEh5AWNCnQAVUnhA3t.jpg",
+      "description": "Set at the outbreak of WWII – mischievous playboy Ian Fleming is untroubled by the specter of impending war – chasing women, collecting rare books and living off his family fortune. Forever in the shadow of his brother Peter, and an eternal disappointment to his formidable mother Eve, Fleming dreams of becoming the ‘ultimate’ man – a hero, a lover, a brute and the one who always gets the girl. He is finally given some direction in his life when he’s recruited by the Director of Naval Intelligence to help in the effort against the Nazis. Suddenly, Fleming finds his chance to shine and prove his worth.",
+      "releaseInfo": "2014",
       "genres": [
         "Drama",
         "War"
       ]
     },
     {
-      "id": "tt0144727",
+      "id": "tt3101352",
       "type": "series",
-      "name": "Our Mutual Friend",
-      "poster": "https://image.tmdb.org/t/p/w342/36rfVPNq9ibnsti0CLQvvUJNKSF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sD4LMMRawOvXLyWGaCVScoaQveZ.jpg",
-      "description": "After his father's will stipulates he must marry Bella Wilfer to inherit his fortune, John Harmon fakes his death to avoid the marriage and the threats on his life. He returns as John Rokesmith and becomes the secretary for the Boffins, who inherit Harmon's estate following his alleged death.",
-      "releaseInfo": "1998",
+      "name": "37 Days",
+      "poster": "https://image.tmdb.org/t/p/w342/iqDzrXyRvm0mCMzYizRDhuAxkMF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/r9rz5P7JxFq3hlyBIIVelSxlTVo.jpg",
+      "description": "This three-part political thriller follows the catastrophic chain of events leading up to World War I from the assassination of Archduke Franz Ferdinand on 28 June 1914 to Britain's declaration of war on Germany 37 days later. This tense and gripping miniseries set among the corridors of power in Whitehall and Berlin tracks the unfolding crisis through the eyes of leading politicians and civil servants struggling to prevent the world's first global war. 37 Days unlocks the mystery of the war s origins, overturning assumptions about its inevitability, demonstrating that World War One was neither a chance happening nor was it a foregone conclusion.",
+      "releaseInfo": "2014",
       "genres": [
         "Drama"
-      ]
-    },
-    {
-      "id": "tt1800493",
-      "type": "series",
-      "name": "Exile",
-      "poster": "https://image.tmdb.org/t/p/w342/c8wwPUIFw9853z9ioHb53hZyIUH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6v0nw4EFGPaN8QcdJRWdpHAWBQT.jpg",
-      "description": "Exile is a British psychological thriller television series created by Paul Abbott and Danny Brocklehurst for BBC One. The three-part serial stars John Simm as London journalist Tom Ronstadt, whose world falls apart as a result of his own actions. Upon returning to his Lancashire hometown after 18 years, he finds his father, Sam, in the grips of Alzheimer's disease.\n\nDuring the course of the series, Tom begins to unravel the mystery of his childhood that drove him away many years earlier. Trying to extract information from Sam causes Tom to grow frustrated with his father's inability to remember. Tom continues on his quest for the truth, unaware he is unearthing a devastating crime that will reveal unimaginable secrets.\n\nThe series received varying reviews, with praise for the script and performances but criticism for the clichés. Simm received a BAFTA nomination for his lead role, as did director John Alexander.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt23805744",
-      "type": "series",
-      "name": "This Town",
-      "poster": "https://image.tmdb.org/t/p/w342/mTSPfAHMRKIzNAqUihePHc3TLmp.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pKIh0q0lzdesrsUTmB2vxVbWKwF.jpg",
-      "description": "An extended family and four young people are drawn into the world of ska and two-tone music, which exploded from the grass roots of Coventry and Birmingham in the late ‘70s and early ‘80s, uniting black, white and Asian youths.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt7205264",
-      "type": "series",
-      "name": "The City and the City",
-      "poster": "https://image.tmdb.org/t/p/w342/g5xoKhFdaOQQXbiYxPGavsZ6R1S.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rV8fIFosqalud6AlYLz9slgAeEJ.jpg",
-      "description": "When the body of a foreign student is discovered in the streets of the down-at-heel city of Besźel, it’s just another day’s work for Inspector Tyador Borlú of the Extreme Crime Squad. But he uncovers evidence that the murdered girl came from Ul Qoma, a city that shares a dangerous and volatile relationship with Besźel, and this case will challenge everything Borlú holds dear.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Fantasy",
-        "Crime"
       ]
     },
     {
@@ -489,52 +334,15 @@
       ]
     },
     {
-      "id": "tt10669608",
+      "id": "tt3956604",
       "type": "series",
-      "name": "Us",
-      "poster": "https://image.tmdb.org/t/p/w342/dWBZqmCdM56vCxpb8YO29k8Bd5n.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/px1MUiMYjIyHy0Uxwakln9erVWA.jpg",
-      "description": "The poignant and hilarious story of the Petersens during their vacation across Europe where the father Douglas tries to win back the love of his wife Connie and become reconciled with their son Albie.",
-      "releaseInfo": "2020",
+      "name": "The Driver",
+      "poster": "https://image.tmdb.org/t/p/w342/jeveGKPiqqUbWptQLmsGpbDZk4c.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tkxn0YuwcA26IHK1fLcOSYcGbJf.jpg",
+      "description": "The Driver is a three-part British crime drama serial aired on BBC One between 23 September and 7 October 2014. Written by Danny Brocklehurst and directed by Jamie Payne, it stars David Morrissey as despondent cab driver Vince McKee, whose life is turned upside down when he agrees to be the driver for a criminal gang.",
+      "releaseInfo": "2014",
       "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt5239494",
-      "type": "series",
-      "name": "The Collection",
-      "poster": "https://image.tmdb.org/t/p/w342/1mcVVIOzfdQ1gmAmr9q8GfL9o3h.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/t8AKsH45kwBIFyx4r3z56ikMDzv.jpg",
-      "description": "A gripping family drama and entrepreneurial fable, set in a post-war Paris fashion house. It exposes the grit behind the glamour of a rising business, spearheaded by two clashing brothers.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt5473364",
-      "type": "series",
-      "name": "The Cry",
-      "poster": "https://image.tmdb.org/t/p/w342/a7Qdjk9jBSkZM3Zobfj2ua2pw7r.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/lBkVp73UKiUELS1lX6PKYrn5NQd.jpg",
-      "description": "The disappearance of a baby from a small coastal town in Australia is the catalyst for a journey into the disintegrating psychology of a young couple as they deal with an unthinkable tragedy under both the white light of public scrutiny and behind closed doors.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt13355234",
-      "type": "series",
-      "name": "The Reckoning",
-      "poster": "https://image.tmdb.org/t/p/w342/zXSIWNCuLT4NugyC70RR4aRJSif.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/o2hC4ZIZBReZb53pvTPqXzpTclS.jpg",
-      "description": "The life of Jimmy Savile, a man who, for decades, became one of the UK’s most influential celebrities, but in death has become one of the most reviled figures of modern history following revelations of extensive and horrific abuse.",
-      "releaseInfo": "2023",
-      "genres": [
+        "Crime",
         "Drama"
       ]
     },
@@ -553,16 +361,189 @@
       ]
     },
     {
-      "id": "tt1596589",
+      "id": "tt1346018",
       "type": "series",
-      "name": "Angry Boys",
-      "poster": "https://image.tmdb.org/t/p/w342/kviE2G5B4X5SfuQOITDkKhyYepH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3GBkukPGWm8oC5kMUetR9UrEalL.jpg",
-      "description": "Angry Boys is an Australian television mockumentary series written by and starring Chris Lilley. Continuing the mockumentary style of his previous series, the show explores the issues faced by young males in the 21st century – their influences, their pressures, their dreams and ambitions. In Angry Boys, Lilley plays multiple characters: S.mouse, an American rapper; Jen, a manipulative Japanese mother; Blake Oakfield, a champion surfer; Ruth \"Gran\" Sims, a guard at a juvenile detention facility; and her grandchildren, South Australian twins Daniel and Nathan Sims.\n\nThe series is a co-production between the Australian Broadcasting Corporation and US cable channel HBO, with a pre-sale to BBC Three in the United Kingdom. Filmed in Melbourne, Los Angeles and Tokyo, Angry Boys premièred on 11 May 2011 at 9:00 pm on ABC1.",
+      "name": "Desperate Romantics",
+      "poster": "https://image.tmdb.org/t/p/w342/yEHtpt6t2IVzDJYbpUcl0mLgcgI.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1lsT7rSkcGJ5WgaY2xiuyqhBBQj.jpg",
+      "description": "Six-part drama series set in and among the alleys, galleries and flesh-houses of 19th-century industrial London, following the Pre-Raphaelite Brotherhood, a vagabond group of English painters, poets and critics.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2303367",
+      "type": "series",
+      "name": "Dirk Gently",
+      "poster": "https://image.tmdb.org/t/p/w342/nbliUzKVtuLpRIDapKOycoySqpX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qphUmcQ2GPBN7jQCantjj87hA1v.jpg",
+      "description": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0081850",
+      "type": "series",
+      "name": "The Day of the Triffids",
+      "poster": "https://image.tmdb.org/t/p/w342/pDGJW9qlHQwnhNhlj9gQReM4NVi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yaZ1j4zfeOq5pS1LYgPdqNjlK6B.jpg",
+      "description": "After an unusual meteor shower leaves most of the human population blind, a merchant navy officer must find a way to conquer tall, aggressive plants which are feeding on people and animals.",
+      "releaseInfo": "1981",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt6402362",
+      "type": "series",
+      "name": "Hard Sun",
+      "poster": "https://image.tmdb.org/t/p/w342/eROfMhluF1kxDHFS5wbPmjN2KvU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tnexT4uY0iKeRYg9hW5CAgxQ97s.jpg",
+      "description": "Two detectives with opposing viewpoints are partnered together five years before the Apocalypse.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt8201142",
+      "type": "series",
+      "name": "Dark Money",
+      "poster": "https://image.tmdb.org/t/p/w342/sYCOQbb7bXra6BMgV8HQfNO1YNu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xnDlsAAZdf4OhcYcd6yjww6OVAH.jpg",
+      "description": "13 year old British film star Isaac Mensah was sexually abused by a producer on the set of a Hollywood film, the family decide to take action after learning the truth and Deal with US Lawyers who offer the family 3 million to stay silent.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2554946",
+      "type": "series",
+      "name": "The Casual Vacancy",
+      "poster": "https://image.tmdb.org/t/p/w342/wXr9enVT2ECxJeOnrG5MRFtcdKJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fBgYlZpisVRBCh7bSvxtqioVmcF.jpg",
+      "description": "The citizens of the small British town of Pagford fight for the spot on the parish council after Barry Fairbrother dies.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt5473364",
+      "type": "series",
+      "name": "The Cry",
+      "poster": "https://image.tmdb.org/t/p/w342/a7Qdjk9jBSkZM3Zobfj2ua2pw7r.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/lBkVp73UKiUELS1lX6PKYrn5NQd.jpg",
+      "description": "The disappearance of a baby from a small coastal town in Australia is the catalyst for a journey into the disintegrating psychology of a young couple as they deal with an unthinkable tragedy under both the white light of public scrutiny and behind closed doors.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1800493",
+      "type": "series",
+      "name": "Exile",
+      "poster": "https://image.tmdb.org/t/p/w342/c8wwPUIFw9853z9ioHb53hZyIUH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6v0nw4EFGPaN8QcdJRWdpHAWBQT.jpg",
+      "description": "Exile is a British psychological thriller television series created by Paul Abbott and Danny Brocklehurst for BBC One. The three-part serial stars John Simm as London journalist Tom Ronstadt, whose world falls apart as a result of his own actions. Upon returning to his Lancashire hometown after 18 years, he finds his father, Sam, in the grips of Alzheimer's disease.\n\nDuring the course of the series, Tom begins to unravel the mystery of his childhood that drove him away many years earlier. Trying to extract information from Sam causes Tom to grow frustrated with his father's inability to remember. Tom continues on his quest for the truth, unaware he is unearthing a devastating crime that will reveal unimaginable secrets.\n\nThe series received varying reviews, with praise for the script and performances but criticism for the clichés. Simm received a BAFTA nomination for his lead role, as did director John Alexander.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt3620824",
+      "type": "series",
+      "name": "Our Zoo",
+      "poster": "https://image.tmdb.org/t/p/w342/9Nz07tWxibDb44epJ7Aj6UoXGei.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pkAIotn02NCCKtyPgLxlwS66LNN.jpg",
+      "description": "The story of George, who being frustrated by memories of fighting in the great war and living with his extended family, wants to bring more beauty into the world. When he comes across a camel and monkey that are about to be abandoned, he embarks on a plan to set up a zoo.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0966151",
+      "type": "series",
+      "name": "The Last Enemy",
+      "poster": "https://image.tmdb.org/t/p/w342/wlBj7IPDHiIBFsGILZkG3LL8IlJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kPcJUhT3uElB9OQY5XSWcs4kl9a.jpg",
+      "description": "Reclusive mathematician Stephen Ezard returns to England after years in China, finds his brother's widow, and becomes entangled in a plot involving a new national database (TIA) and a terrorist scheme.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1772379",
+      "type": "series",
+      "name": "The Fades",
+      "poster": "https://image.tmdb.org/t/p/w342/6YEXq1g6QQ3k5rEaeocMNk3eGcF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rB7DzIP7KgRkb8xrZed4m9lTiog.jpg",
+      "description": "Seventeen-year old Paul can see the spirits of the dead. When one of these restless spirits crosses back into the living world, he is forced into a fight to prevent the apocalypse.",
       "releaseInfo": "2011",
       "genres": [
         "Drama",
-        "Comedy"
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0108962",
+      "type": "series",
+      "name": "To Play the King",
+      "poster": "https://image.tmdb.org/t/p/w342/uyTPnSlh7NKic8MgYn2GzD7s0La.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4quKhVONt0E1GIEdYkrdqJcqQph.jpg",
+      "description": "Francis Urquhart's survival at the top is threatened by the new king's populist agenda.",
+      "releaseInfo": "1993",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "War"
+      ]
+    },
+    {
+      "id": "tt10661302",
+      "type": "series",
+      "name": "We Hunt Together",
+      "poster": "https://image.tmdb.org/t/p/w342/kdc9ycNwpelgnke1iGo9XMTV4KK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ob2Tn0ZuJx60qy9PVI2mbc6Jj1Q.jpg",
+      "description": "Explore the intoxication of sexual attraction, the dangerous power of emotional manipulation, and how finding a volatile form of solace in another can have dire consequences as two conflicted coppers track down a pair of deadly killers.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt6835252",
+      "type": "series",
+      "name": "Three Girls",
+      "poster": "https://image.tmdb.org/t/p/w342/5qqXN4XGwJXESUlRvqaYiy17rMy.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aiaJYq4ArCsmBYCdLzTcUgizOXz.jpg",
+      "description": "The story of three of the children who were victims in the 2012 grooming and sex trafficking case in Rochdale, for which nine men were convicted and sentenced. The drama explores how these girls were groomed, how they were ignored by the authorities directly responsible for protecting them, and how they eventually made themselves heard.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drama",
+        "Crime"
       ]
     }
   ]

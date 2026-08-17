@@ -48,22 +48,6 @@
       ]
     },
     {
-      "id": "tt1199099",
-      "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt0160904",
       "type": "series",
       "name": "Spooks",
@@ -95,6 +79,36 @@
       ]
     },
     {
+      "id": "tt0384766",
+      "type": "series",
+      "name": "Rome",
+      "poster": "https://image.tmdb.org/t/p/w342/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/b2fhZk0xB2TgMsDXT6goR28PoHX.jpg",
+      "description": "A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1199099",
+      "type": "series",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt31433814",
       "type": "series",
       "name": "Doctor Who",
@@ -108,20 +122,6 @@
         "Drama",
         "Sci-Fi",
         "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0384766",
-      "type": "series",
-      "name": "Rome",
-      "poster": "https://image.tmdb.org/t/p/w342/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/b2fhZk0xB2TgMsDXT6goR28PoHX.jpg",
-      "description": "A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama"
       ]
     },
     {
@@ -156,15 +156,14 @@
       ]
     },
     {
-      "id": "tt5103758",
+      "id": "tt27557666",
       "type": "series",
-      "name": "Troy: Fall of a City",
-      "poster": "https://image.tmdb.org/t/p/w342/wPLiUBrVav1ssvRwcr0M3Xq92Vi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3zzAYFF57wqNbwDqtByMHi85HkH.jpg",
-      "description": "A rich story of love, intrigue, betrayal and belonging told from the perspective of the Trojan royal family at the heart of the siege of Troy.",
-      "releaseInfo": "2018",
+      "name": "Lord of the Flies",
+      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
+      "releaseInfo": "2026",
       "genres": [
-        "War",
         "Drama",
         "Action",
         "Adventure"
@@ -186,20 +185,6 @@
       ]
     },
     {
-      "id": "tt2733252",
-      "type": "series",
-      "name": "The Musketeers",
-      "poster": "https://image.tmdb.org/t/p/w342/6kOMlk4hlavwO5L82eLdklN0fm5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nkPWqWZQ84WtbUY5RktSPPrNdWO.jpg",
-      "description": "Set in 17th century Paris, musketeers Athos, Porthos, Aramis and D'Artagnan are members of an elite band of soldiers who fight for what is just. They are heroes in the truest and most abiding sense – men that can be trusted and believed in to do the right thing, regardless of personal risk.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
       "id": "tt0808096",
       "type": "series",
       "name": "Primeval",
@@ -216,33 +201,32 @@
       ]
     },
     {
-      "id": "tt27557666",
+      "id": "tt5103758",
       "type": "series",
-      "name": "Lord of the Flies",
-      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
-      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
-      "releaseInfo": "2026",
+      "name": "Troy: Fall of a City",
+      "poster": "https://image.tmdb.org/t/p/w342/wPLiUBrVav1ssvRwcr0M3Xq92Vi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3zzAYFF57wqNbwDqtByMHi85HkH.jpg",
+      "description": "Told from the perspective of the Trojan Family, the rich history of the Trojan War is explored, as well as the love, intrigue and betrayal of those who lived through it. On a trip to Sparta as a guest of Menelaus, Paris, son of Troy, falls in love with Menelaus' wife, Helen. After they depart Sparta together for Troy, Helen and Paris risk not only their lives, but those of their families and people as they trigger a chain of events that ultimately lead them all into an unending war.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Action",
+        "Adventure",
+        "War",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2733252",
+      "type": "series",
+      "name": "The Musketeers",
+      "poster": "https://image.tmdb.org/t/p/w342/6kOMlk4hlavwO5L82eLdklN0fm5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nkPWqWZQ84WtbUY5RktSPPrNdWO.jpg",
+      "description": "Set in 17th century Paris, musketeers Athos, Porthos, Aramis and D'Artagnan are members of an elite band of soldiers who fight for what is just. They are heroes in the truest and most abiding sense – men that can be trusted and believed in to do the right thing, regardless of personal risk.",
+      "releaseInfo": "2014",
       "genres": [
         "Drama",
         "Action",
         "Adventure"
-      ]
-    },
-    {
-      "id": "tt0943690",
-      "type": "series",
-      "name": "M.I. High",
-      "poster": "https://image.tmdb.org/t/p/w342/yOqLG4MMaIIh7e4hH5ani1jgKlG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/k1B7v41OLtHCAfb2jKRlLkmEBAM.jpg",
-      "description": "A team of undercover teenage spies working for the fictional British secret intelligence agency MI9 who have to balance their school life with their jobs as secret agents.",
-      "releaseInfo": "2007",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Crime",
-        "Drama",
-        "Family"
       ]
     },
     {
@@ -306,6 +290,22 @@
       ]
     },
     {
+      "id": "tt0943690",
+      "type": "series",
+      "name": "M.I. High",
+      "poster": "https://image.tmdb.org/t/p/w342/yOqLG4MMaIIh7e4hH5ani1jgKlG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/k1B7v41OLtHCAfb2jKRlLkmEBAM.jpg",
+      "description": "A team of undercover teenage spies working for the fictional British secret intelligence agency MI9 who have to balance their school life with their jobs as secret agents.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime",
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
       "id": "tt0094500",
       "type": "series",
       "name": "The Chronicles of Narnia",
@@ -339,6 +339,21 @@
       ]
     },
     {
+      "id": "tt8080292",
+      "type": "series",
+      "name": "The Watch",
+      "poster": "https://image.tmdb.org/t/p/w342/8ZNamnEnExlzyEcbpg0tBviNEDc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5o5S6WOVKkGX1OSLuK2C56jGNQB.jpg",
+      "description": "A group of misfit cops rise up from decades of helplessness to save their corrupt city from catastrophe. Inspired by the characters created by Sir Terry Pratchett’s famous “Discworld” novels.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
       "id": "tt3574152",
       "type": "series",
       "name": "Partners in Crime",
@@ -352,21 +367,6 @@
         "Adventure",
         "Drama",
         "Crime"
-      ]
-    },
-    {
-      "id": "tt8080292",
-      "type": "series",
-      "name": "The Watch",
-      "poster": "https://image.tmdb.org/t/p/w342/8ZNamnEnExlzyEcbpg0tBviNEDc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5o5S6WOVKkGX1OSLuK2C56jGNQB.jpg",
-      "description": "A group of misfit cops rise up from decades of helplessness to save their corrupt city from catastrophe. Inspired by the characters created by Sir Terry Pratchett’s famous “Discworld” novels.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Action",
-        "Adventure"
       ]
     },
     {
@@ -413,20 +413,6 @@
       ]
     },
     {
-      "id": "tt0426911",
-      "type": "series",
-      "name": "Archangel",
-      "poster": "https://image.tmdb.org/t/p/w342/a8nIZ669NG0d1jhshRiwBnqBCd9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qJVOxaW0J9qooIRUVcAGsqArtfn.jpg",
-      "description": "Fluke Kelso, a dissipated, middle-aged former Oxford historian, who is in Moscow to attend a conference on the newly opened Soviet archives, receives in his hotel a very unexpected visitor.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
       "id": "tt4939950",
       "type": "series",
       "name": "SS-GB",
@@ -440,6 +426,20 @@
         "Drama",
         "Sci-Fi",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0426911",
+      "type": "series",
+      "name": "Archangel",
+      "poster": "https://image.tmdb.org/t/p/w342/a8nIZ669NG0d1jhshRiwBnqBCd9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qJVOxaW0J9qooIRUVcAGsqArtfn.jpg",
+      "description": "Fluke Kelso, a dissipated, middle-aged former Oxford historian, who is in Moscow to attend a conference on the newly opened Soviet archives, receives in his hotel a very unexpected visitor.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
       ]
     },
     {
@@ -460,17 +460,20 @@
       ]
     },
     {
-      "id": "tt1525182",
+      "id": "tt2303367",
       "type": "series",
-      "name": "The Deep",
-      "poster": "https://image.tmdb.org/t/p/w342/6xFhx63ec8WPvL5BaXu15IOinoE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/smjEnqihzpUpLrcT3BNJkXBxU8V.jpg",
-      "description": "As the world's energy supplies dwindle, the Orpheus, a research submarine, delves into the deep of the Arctic Ocean searching for rare micro-organisms, but the crew soon find themselves in peril.",
-      "releaseInfo": "2010",
+      "name": "Dirk Gently",
+      "poster": "https://image.tmdb.org/t/p/w342/nbliUzKVtuLpRIDapKOycoySqpX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qphUmcQ2GPBN7jQCantjj87hA1v.jpg",
+      "description": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
+      "releaseInfo": "2012",
       "genres": [
-        "Drama",
         "Action",
-        "Adventure"
+        "Adventure",
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
       ]
     }
   ]

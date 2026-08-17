@@ -46,22 +46,6 @@
       ]
     },
     {
-      "id": "tt1199099",
-      "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt5607976",
       "type": "series",
       "name": "His Dark Materials",
@@ -75,6 +59,22 @@
         "Drama",
         "Action",
         "Adventure"
+      ]
+    },
+    {
+      "id": "tt1199099",
+      "type": "series",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -398,36 +398,6 @@
         "Drama",
         "Action",
         "Adventure"
-      ]
-    },
-    {
-      "id": "tt4939950",
-      "type": "series",
-      "name": "SS-GB",
-      "poster": "https://image.tmdb.org/t/p/w342/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jf7K081EEjuypr2uQLB0X0Z1kvw.jpg",
-      "description": "Adapted from Len Deighton’s 1978 alternate history novel. A British detective investigates a murder in German-occupied Britain during World War II.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt2006374",
-      "type": "series",
-      "name": "Copper",
-      "poster": "https://image.tmdb.org/t/p/w342/z2oQu8SipXvlnlrJrt6gZ47D408.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/q4GFazIt2wqhkah7T5C7QTiXuZO.jpg",
-      "description": "Kevin Corcoran is a rugged young Irish immigrant policeman trying to keep the peace in the historical Five Points neighborhood in 1860s New York City while searching for information on the disappearance of his wife and death of his daughter.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama"
       ]
     }
   ]

@@ -1,6 +1,31 @@
 {
   "metas": [
     {
+      "id": "tt1991897",
+      "type": "series",
+      "name": "The Mystery of Edwin Drood",
+      "poster": "https://image.tmdb.org/t/p/w342/afJL7uqu5MzMgRjRtQxMyFCDFJh.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5O1DjSXo66nNxTLy6KY5WbWwImW.jpg",
+      "description": "Choirmaster John Jasper is obsessed with his nephew's fiancé. Will he take his opportunity to get rid of Edwin Drood?",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1949720",
+      "type": "series",
+      "name": "Great Expectations",
+      "poster": "https://image.tmdb.org/t/p/w342/lcS3dqdpYj07cysAqkaCpKf6y7Y.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mJdG1fKMQ7w9wkEvNb5jUpBDODw.jpg",
+      "description": "Orphan Pip discovers through lawyer Mr. Jaggers that a mysterious benefactor wishes to ensure that he becomes a gentleman. Reunited with his childhood patron, Miss Havisham, and his first love, the beautiful but emotionally cold Estella, he discovers that the elderly spinster has gone mad from having been left at the altar as a young woman, and has made her charge into a warped, unfeeling heartbreaker.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt1641247",
       "type": "series",
       "name": "Life's Too Short",
@@ -777,7 +802,7 @@
       "type": "series",
       "name": "The Last Enemy",
       "poster": "https://image.tmdb.org/t/p/w342/wlBj7IPDHiIBFsGILZkG3LL8IlJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/olMxdNBX5kn1uqhr3nty7aAUOp3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kPcJUhT3uElB9OQY5XSWcs4kl9a.jpg",
       "description": "Reclusive mathematician Stephen Ezard returns to England after years in China, finds his brother's widow, and becomes entangled in a plot involving a new national database (TIA) and a terrorist scheme.",
       "releaseInfo": "2008",
       "genres": [
@@ -943,7 +968,7 @@
         "Action",
         "Adventure",
         "Crime",
-        "Drama",
+        "Comedy",
         "Family"
       ]
     },
@@ -1286,31 +1311,6 @@
         "Drama",
         "Action",
         "Adventure"
-      ]
-    },
-    {
-      "id": "tt0427042",
-      "type": "series",
-      "name": "Casanova",
-      "poster": "https://image.tmdb.org/t/p/w342/bvjiITAnOZoLxfLmni1sazcbeWu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jwiQpxw8yTTnkgQ9k0zT0zFvTNy.jpg",
-      "description": "Castle Dux, Bohemia, 1798. Casanova, now a penniless librarian in his seventies, tells Edith, a young kitchen maid in the castle, his remarkable life story, and about falling in love with Henriette.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0417332",
-      "type": "series",
-      "name": "Ideal",
-      "poster": "https://image.tmdb.org/t/p/w342/1zGJEm7KTWPfa3YUagBBrRZIS7A.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/t96QeyzbYB55xCkQ5YW67ogOK5H.jpg",
-      "description": "Sitcom about a small-time dope dealer and his strange collection of acquaintances.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Comedy"
       ]
     }
   ]

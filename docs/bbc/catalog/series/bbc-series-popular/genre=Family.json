@@ -25,7 +25,7 @@
         "Action",
         "Adventure",
         "Crime",
-        "Drama",
+        "Comedy",
         "Family"
       ]
     },
@@ -40,22 +40,6 @@
       "genres": [
         "Comedy",
         "Family"
-      ]
-    },
-    {
-      "id": "tt0876219",
-      "type": "series",
-      "name": "Young Dracula",
-      "poster": "https://image.tmdb.org/t/p/w342/nKNtYVK2vhJudSOCDjhCtqAAZpa.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2ZTPDS1BNTgWggSlLLCKBMiqqWz.jpg",
-      "description": "The misadventures of Vlad and Ingrid, who have moved to Britain from Transylvania with their father Count Dracula.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Family",
-        "Drama",
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
       ]
     },
     {
@@ -75,16 +59,19 @@
       ]
     },
     {
-      "id": "tt0969007",
+      "id": "tt0876219",
       "type": "series",
-      "name": "Mistresses",
-      "poster": "https://image.tmdb.org/t/p/w342/diTnk44w1bZWktB3cEZ78X5XXyz.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sZy7ksxRX1uK5L6Nad5W9kixcnD.jpg",
-      "description": "Follows the lives of four female friends and their involvement in an array of marital and extramarital relationships.",
-      "releaseInfo": "2008",
+      "name": "Young Dracula",
+      "poster": "https://image.tmdb.org/t/p/w342/nKNtYVK2vhJudSOCDjhCtqAAZpa.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2ZTPDS1BNTgWggSlLLCKBMiqqWz.jpg",
+      "description": "The misadventures of Vlad and Ingrid, who have moved to Britain from Transylvania with their father Count Dracula.",
+      "releaseInfo": "2006",
       "genres": [
+        "Family",
         "Drama",
-        "Family"
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -115,13 +102,13 @@
       ]
     },
     {
-      "id": "tt3620824",
+      "id": "tt0969007",
       "type": "series",
-      "name": "Our Zoo",
-      "poster": "https://image.tmdb.org/t/p/w342/9Nz07tWxibDb44epJ7Aj6UoXGei.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pkAIotn02NCCKtyPgLxlwS66LNN.jpg",
-      "description": "The story of George, who being frustrated by memories of fighting in the great war and living with his extended family, wants to bring more beauty into the world. When he comes across a camel and monkey that are about to be abandoned, he embarks on a plan to set up a zoo.",
-      "releaseInfo": "2014",
+      "name": "Mistresses",
+      "poster": "https://image.tmdb.org/t/p/w342/diTnk44w1bZWktB3cEZ78X5XXyz.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sZy7ksxRX1uK5L6Nad5W9kixcnD.jpg",
+      "description": "Follows the lives of four female friends and their involvement in an array of marital and extramarital relationships.",
+      "releaseInfo": "2008",
       "genres": [
         "Drama",
         "Family"
@@ -152,6 +139,19 @@
         "Family",
         "Drama",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt3620824",
+      "type": "series",
+      "name": "Our Zoo",
+      "poster": "https://image.tmdb.org/t/p/w342/9Nz07tWxibDb44epJ7Aj6UoXGei.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pkAIotn02NCCKtyPgLxlwS66LNN.jpg",
+      "description": "The story of George, who being frustrated by memories of fighting in the great war and living with his extended family, wants to bring more beauty into the world. When he comes across a camel and monkey that are about to be abandoned, he embarks on a plan to set up a zoo.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama",
+        "Family"
       ]
     }
   ]
