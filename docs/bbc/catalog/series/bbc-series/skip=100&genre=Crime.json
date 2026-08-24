@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt2303687",
+      "type": "series",
+      "name": "Line of Duty",
+      "poster": "https://image.tmdb.org/t/p/w342/pBAp7VfKVQKQIiLRJHZSMGtyXAB.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5ZLEFPayOJr3KhXPoAnLWdVQJem.jpg",
+      "description": "A drama about the investigations of AC-12, a controversial police anticorruption unit.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt1989062",
       "type": "series",
       "name": "Inside Men",
@@ -33,7 +47,7 @@
       "type": "series",
       "name": "Hidden",
       "poster": "https://image.tmdb.org/t/p/w342/r8BIIQ0DzyoYXGW3IuZbnXYtV3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/acKSRp5nuUn3CgJkIFm2NUyH158.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/lOCSxhyJiPG5G5B9Wb7ru3cFo4r.jpg",
       "description": "When lawyer Gina Hawkes hires Harry to find a witness, he unexpectedly revisits his brother's decades-old death, embroiling him in a political conspiracy at the highest levels of British government.",
       "releaseInfo": "2011",
       "genres": [
@@ -525,34 +539,6 @@
       "genres": [
         "Crime",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt0087924",
-      "type": "series",
-      "name": "Miss Marple: A Pocketful of Rye",
-      "poster": "https://image.tmdb.org/t/p/w342/y4o4QI5cBMNlhZFIOhPpbK9fFaF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nGiNHReDNOcuJdxYGCPQ8TZ1qk4.jpg",
-      "description": "When a handful of grain is found in the pocket of a murdered businessman, Miss Marple seeks a murderer with a penchant for nursery rhymes.",
-      "releaseInfo": "1985",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0087756",
-      "type": "series",
-      "name": "Miss Marple: A Murder Is Announced",
-      "poster": "https://image.tmdb.org/t/p/w342/3MzWUqYabOX6hj9Z9tXElhnF6Gc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yOSInIsiFzuie6p3Jyn2Nsdq5hs.jpg",
-      "description": "An advertisement announcing the time and place of a forthcoming murder appears among the ads of the paper in the small village of Chipping Cleghorn.",
-      "releaseInfo": "1985",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
       ]
     }
   ]

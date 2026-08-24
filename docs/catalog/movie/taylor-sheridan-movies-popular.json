@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "tt5362988",
-      "type": "movie",
-      "name": "Wind River",
-      "poster": "https://image.tmdb.org/t/p/w342/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/zcbb4XArMpGSNUQUZTdemp2WOTs.jpg",
-      "description": "An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Crime",
-        "Mystery",
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt5052474",
       "type": "movie",
       "name": "Sicario: Day of the Soldado",
@@ -43,17 +29,17 @@
       ]
     },
     {
-      "id": "tt2582782",
+      "id": "tt5362988",
       "type": "movie",
-      "name": "Hell or High Water",
-      "poster": "https://image.tmdb.org/t/p/w342/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kQVdpIPCqfpa24I8SQRiwOAbkLG.jpg",
-      "description": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
-      "releaseInfo": "2016",
+      "name": "Wind River",
+      "poster": "https://image.tmdb.org/t/p/w342/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/zcbb4XArMpGSNUQUZTdemp2WOTs.jpg",
+      "description": "An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation.",
+      "releaseInfo": "2017",
       "genres": [
-        "Western",
         "Crime",
-        "Drama"
+        "Mystery",
+        "Thriller"
       ]
     },
     {
@@ -67,6 +53,20 @@
       "genres": [
         "Thriller",
         "Action"
+      ]
+    },
+    {
+      "id": "tt2582782",
+      "type": "movie",
+      "name": "Hell or High Water",
+      "poster": "https://image.tmdb.org/t/p/w342/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kQVdpIPCqfpa24I8SQRiwOAbkLG.jpg",
+      "description": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Western",
+        "Crime",
+        "Drama"
       ]
     },
     {
@@ -126,7 +126,7 @@
       "id": "tt9198366",
       "type": "movie",
       "name": "F.A.S.T. (upcoming)",
-      "description": "⏳ Expected release: 2027-05-13. A former special forces commando, down on his luck after returning Stateside, is recruited by the DEA to lead a covert black ops team to take down CIA-protected drug dealers.",
+      "description": "⏳ Expected release: 2027-05-12. A former special forces commando, down on his luck after returning Stateside, is recruited by the DEA to lead a covert black ops team to take down CIA-protected drug dealers.",
       "releaseInfo": "2027",
       "genres": [
         "Thriller",
@@ -159,18 +159,6 @@
       ]
     },
     {
-      "id": "tt19860606",
-      "type": "movie",
-      "name": "1883: The Road West",
-      "poster": "https://image.tmdb.org/t/p/w342/qM0Sg8jwHsfTQIGpy4q8ah8eHcd.jpg",
-      "releaseInfo": "2022",
-      "genres": [
-        "Documentary",
-        "History",
-        "Western"
-      ]
-    },
-    {
       "id": "tt13930830",
       "type": "movie",
       "name": "Pure Grit",
@@ -183,6 +171,18 @@
       ]
     },
     {
+      "id": "tt19860606",
+      "type": "movie",
+      "name": "1883: The Road West",
+      "poster": "https://image.tmdb.org/t/p/w342/qM0Sg8jwHsfTQIGpy4q8ah8eHcd.jpg",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documentary",
+        "History",
+        "Western"
+      ]
+    },
+    {
       "id": "tt8009732",
       "type": "movie",
       "name": "Call of Duty (upcoming)",
@@ -191,17 +191,6 @@
       "releaseInfo": "2028",
       "genres": [
         "Action"
-      ]
-    },
-    {
-      "id": "tt1800290",
-      "type": "movie",
-      "name": "Empire of the Summer Moon (upcoming)",
-      "poster": "https://image.tmdb.org/t/p/w342/iLmQ2YSqmvbe8vZSGOqq3YEdl0d.jpg",
-      "description": "⏳ Not yet released — status: Planned. The narrative spans four decades of conflict between the Comanches natives and white colonists, highlighting the Comanches' mastery of horse warfare, their resistance to Spanish, French, and settler-expansion, and their pivotal role in shaping the American West.",
-      "genres": [
-        "Western",
-        "History"
       ]
     },
     {
@@ -222,6 +211,17 @@
       "genres": [
         "Drama",
         "Thriller"
+      ]
+    },
+    {
+      "id": "tt1800290",
+      "type": "movie",
+      "name": "Empire of the Summer Moon (upcoming)",
+      "poster": "https://image.tmdb.org/t/p/w342/iLmQ2YSqmvbe8vZSGOqq3YEdl0d.jpg",
+      "description": "⏳ Not yet released — status: Planned. The narrative spans four decades of conflict between the Comanches natives and white colonists, highlighting the Comanches' mastery of horse warfare, their resistance to Spanish, French, and settler-expansion, and their pivotal role in shaping the American West.",
+      "genres": [
+        "Western",
+        "History"
       ]
     },
     {

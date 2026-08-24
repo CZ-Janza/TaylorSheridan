@@ -15,21 +15,6 @@
       ]
     },
     {
-      "id": "tt0862467",
-      "type": "movie",
-      "name": "Valhalla Rising",
-      "poster": "https://image.tmdb.org/t/p/w342/7LBMcAx6XHwEduIsBYipvUke9n.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5UTOmyAIe7icGgjc5ETOZNMITmj.jpg",
-      "description": "Scandinavia, 1,000 AD. For years, One Eye, a mute warrior of supernatural strength, has been held prisoner by the Norse chieftain Barde. Aided by Are, a boy slave, One Eye slays his captor and together he and Are escape, beginning a journey into the heart of darkness. On their flight, One Eye and Are board a Viking vessel, but the ship is soon engulfed by an endless fog that clears only as the crew sights an unknown land. As the new world reveals its secrets and the Vikings confront their terrible and bloody fate, One Eye discovers his true self.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Action",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt14682800",
       "type": "movie",
       "name": "Tuesday",
@@ -56,6 +41,36 @@
       ]
     },
     {
+      "id": "tt0862467",
+      "type": "movie",
+      "name": "Valhalla Rising",
+      "poster": "https://image.tmdb.org/t/p/w342/7LBMcAx6XHwEduIsBYipvUke9n.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5UTOmyAIe7icGgjc5ETOZNMITmj.jpg",
+      "description": "Scandinavia, 1,000 AD. For years, One Eye, a mute warrior of supernatural strength, has been held prisoner by the Norse chieftain Barde. Aided by Are, a boy slave, One Eye slays his captor and together he and Are escape, beginning a journey into the heart of darkness. On their flight, One Eye and Are board a Viking vessel, but the ship is soon engulfed by an endless fog that clears only as the crew sights an unknown land. As the new world reveals its secrets and the Vikings confront their terrible and bloody fate, One Eye discovers his true self.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Action",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt7464188",
+      "type": "movie",
+      "name": "In Fabric",
+      "poster": "https://image.tmdb.org/t/p/w342/puGJX5Ko9KUMWM5cGqPZ5nyxa8c.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/97NFoAp9JdgXqBQG6aoUprF6zbS.jpg",
+      "description": "A haunting ghost story set against the backdrop of a busy winter sales period in a department store, following the life of a cursed dress as it passes from person to person, with devastating consequences.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Comedy",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt17521612",
       "type": "movie",
       "name": "Starve Acre",
@@ -66,18 +81,6 @@
       "genres": [
         "Horror",
         "Drama",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0109781",
-      "type": "movie",
-      "name": "Faust",
-      "poster": "https://image.tmdb.org/t/p/w342/pyCHHLEdRJPx0BD22n9Cs7B78Wp.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qiGF1b2vH38WRWQooLp3q9LS7m2.jpg",
-      "description": "A very free adaptation of Marlowe's \"Doctor Faustus\", Goethe's \"Faust\" and various other treatments of the old legend of the man who sold his soul to the devil. A nondescript man is lured by a strange map into a sinister puppet theatre, where he finds himself immersed in an indescribably weird version of the play, blending live actors, clay animation and giant puppets.",
-      "releaseInfo": "1994",
-      "genres": [
         "Fantasy"
       ]
     },
@@ -94,21 +97,6 @@
         "Drama",
         "Comedy",
         "Romance"
-      ]
-    },
-    {
-      "id": "tt7464188",
-      "type": "movie",
-      "name": "In Fabric",
-      "poster": "https://image.tmdb.org/t/p/w342/puGJX5Ko9KUMWM5cGqPZ5nyxa8c.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/97NFoAp9JdgXqBQG6aoUprF6zbS.jpg",
-      "description": "A haunting ghost story set against the backdrop of a busy winter sales period in a department store, following the life of a cursed dress as it passes from person to person, with devastating consequences.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Horror",
-        "Fantasy",
-        "Comedy",
-        "Mystery"
       ]
     },
     {
@@ -141,17 +129,15 @@
       ]
     },
     {
-      "id": "tt0286049",
+      "id": "tt0109781",
       "type": "movie",
-      "name": "Schalcken the Painter",
-      "poster": "https://image.tmdb.org/t/p/w342/h5l75RLmMiVHlb6K5DMnybNgmdR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/AsDDOgHe9TEKY4xp0t6kp3jkjqR.jpg",
-      "description": "Can Schalcken save his love, Rose, from the clutches of a ghastly suitor before it is too late?",
-      "releaseInfo": "1979",
+      "name": "Faust",
+      "poster": "https://image.tmdb.org/t/p/w342/pyCHHLEdRJPx0BD22n9Cs7B78Wp.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qiGF1b2vH38WRWQooLp3q9LS7m2.jpg",
+      "description": "A very free adaptation of Marlowe's \"Doctor Faustus\", Goethe's \"Faust\" and various other treatments of the old legend of the man who sold his soul to the devil. A nondescript man is lured by a strange map into a sinister puppet theatre, where he finds himself immersed in an indescribably weird version of the play, blending live actors, clay animation and giant puppets.",
+      "releaseInfo": "1994",
       "genres": [
-        "Drama",
-        "Fantasy",
-        "Horror"
+        "Fantasy"
       ]
     },
     {
@@ -165,20 +151,6 @@
       "genres": [
         "Drama",
         "Romance",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0061937",
-      "type": "movie",
-      "name": "Magical Mystery Tour",
-      "poster": "https://image.tmdb.org/t/p/w342/uJSqSXCeK407l7t4zTXaYSJH0gL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/az5L3ksvP0e3y8AsfwVfE3MCdMy.jpg",
-      "description": "While on a coach tour, The Beatles and a few dozen friends experience strange happenings caused by magicians.",
-      "releaseInfo": "1967",
-      "genres": [
-        "Music",
-        "Comedy",
         "Fantasy"
       ]
     },
@@ -198,17 +170,43 @@
       ]
     },
     {
-      "id": "tt1321969",
+      "id": "tt0119893",
       "type": "movie",
-      "name": "Doctor Who: The Next Doctor",
-      "poster": "https://image.tmdb.org/t/p/w342/3jc2spp0w3a50drKFCHgdyj4u0d.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/lbjFL4zFzloqZPySgoIDuWgLzto.jpg",
-      "description": "The Doctor arrives in Victorian London. It's Christmas, but snow isn't the only thing descending on the tranquil and jubilant civilization, as familiar silver giants from an alternate reality are amassing in numbers. The Cybermen are on the move again, and the only beings who can stop them are the Doctor and... another Doctor?",
-      "releaseInfo": "2008",
+      "name": "Photographing Fairies",
+      "poster": "https://image.tmdb.org/t/p/w342/95rYK0G003rj8WDavXslmTO4pRE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/343tndCLTH1BaBLyRsH9ipTHmOR.jpg",
+      "description": "Photographer Charles Castle is numbed with grief following the death of his beautiful bride. He goes off to war, working in the trenches as a photographer. Following the war and still in grief Charles is given some photographs purporting to be of fairies. His search for the truth leads him to Burkinwell, a seemingly peaceful village seething with secrets",
+      "releaseInfo": "1997",
       "genres": [
-        "Sci-Fi",
         "Mystery",
-        "Adventure",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0101435",
+      "type": "movie",
+      "name": "Bernard and the Genie",
+      "poster": "https://image.tmdb.org/t/p/w342/fEHObAiSDCjg8eZdlZfK8IuHJF2.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/n3FhxmJai1DZe0BJqACySfQXG12.jpg",
+      "description": "Bernard Bottle, a mild mannered art buyer, is fired by his greedy boss, abandoned by his girlfriend and discovers a genie in an old bottle. The genie immediately embraces the modern world and helps Bernard on the side.",
+      "releaseInfo": "1991",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0061937",
+      "type": "movie",
+      "name": "Magical Mystery Tour",
+      "poster": "https://image.tmdb.org/t/p/w342/uJSqSXCeK407l7t4zTXaYSJH0gL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/az5L3ksvP0e3y8AsfwVfE3MCdMy.jpg",
+      "description": "While on a coach tour, The Beatles and a few dozen friends experience strange happenings caused by magicians.",
+      "releaseInfo": "1967",
+      "genres": [
+        "Music",
+        "Comedy",
         "Fantasy"
       ]
     },
@@ -226,30 +224,17 @@
       ]
     },
     {
-      "id": "tt0101435",
+      "id": "tt0286049",
       "type": "movie",
-      "name": "Bernard and the Genie",
-      "poster": "https://image.tmdb.org/t/p/w342/fEHObAiSDCjg8eZdlZfK8IuHJF2.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/n3FhxmJai1DZe0BJqACySfQXG12.jpg",
-      "description": "Bernard Bottle, a mild mannered art buyer, is fired by his greedy boss, abandoned by his girlfriend and discovers a genie in an old bottle. The genie immediately embraces the modern world and helps Bernard on the side.",
-      "releaseInfo": "1991",
+      "name": "Schalcken the Painter",
+      "poster": "https://image.tmdb.org/t/p/w342/h5l75RLmMiVHlb6K5DMnybNgmdR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/AsDDOgHe9TEKY4xp0t6kp3jkjqR.jpg",
+      "description": "Can Schalcken save his love, Rose, from the clutches of a ghastly suitor before it is too late?",
+      "releaseInfo": "1979",
       "genres": [
-        "Comedy",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0119893",
-      "type": "movie",
-      "name": "Photographing Fairies",
-      "poster": "https://image.tmdb.org/t/p/w342/95rYK0G003rj8WDavXslmTO4pRE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/343tndCLTH1BaBLyRsH9ipTHmOR.jpg",
-      "description": "Photographer Charles Castle is numbed with grief following the death of his beautiful bride. He goes off to war, working in the trenches as a photographer. Following the war and still in grief Charles is given some photographs purporting to be of fairies. His search for the truth leads him to Burkinwell, a seemingly peaceful village seething with secrets",
-      "releaseInfo": "1997",
-      "genres": [
-        "Mystery",
+        "Drama",
         "Fantasy",
-        "Drama"
+        "Horror"
       ]
     },
     {
@@ -262,6 +247,21 @@
       "releaseInfo": "2020",
       "genres": [
         "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt1321969",
+      "type": "movie",
+      "name": "Doctor Who: The Next Doctor",
+      "poster": "https://image.tmdb.org/t/p/w342/3jc2spp0w3a50drKFCHgdyj4u0d.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/lbjFL4zFzloqZPySgoIDuWgLzto.jpg",
+      "description": "The Doctor arrives in Victorian London. It's Christmas, but snow isn't the only thing descending on the tranquil and jubilant civilization, as familiar silver giants from an alternate reality are amassing in numbers. The Cybermen are on the move again, and the only beings who can stop them are the Doctor and... another Doctor?",
+      "releaseInfo": "2008",
+      "genres": [
+        "Sci-Fi",
+        "Mystery",
+        "Adventure",
         "Fantasy"
       ]
     },
@@ -283,7 +283,7 @@
       "id": "tt0106961",
       "type": "movie",
       "name": "Franz Kafka's It's a Wonderful Life",
-      "poster": "https://image.tmdb.org/t/p/w342/5lHyjxGiqiROJKc3BwgNCSFjgWF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/r7yZIRgIHYXvsmUaYiIrAJOpG1g.jpg",
       "background": "https://image.tmdb.org/t/p/w780/p3qHZbOavitb5XFa95DH34qmU9t.jpg",
       "description": "Franz Kafka is working on his Metamorphosis, but he's suffering from writer's block; he can't get off on the right track. While trying to decide what Gregor Samsa is going to wake up as, he is constantly interrupted by door-to-door salesmen, young women, and his own inexplicable hallucinations.",
       "releaseInfo": "1995",

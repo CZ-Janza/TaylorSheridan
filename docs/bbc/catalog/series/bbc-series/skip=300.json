@@ -1,6 +1,31 @@
 {
   "metas": [
     {
+      "id": "tt1127876",
+      "type": "series",
+      "name": "Birdsong",
+      "poster": "https://image.tmdb.org/t/p/w342/x4QdPNpWjmI47iv9Z7F46BT3gQW.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/k8wzJwJNIutJIB40rOR1g65W68C.jpg",
+      "description": "As an English soldier fights in the horrific trenches of northern France, he is haunted by the memories of his forbidden love affair with a French woman.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "tt1983079",
+      "type": "series",
+      "name": "Call the Midwife",
+      "poster": "https://image.tmdb.org/t/p/w342/b1p0nL00x563ACkcmGNIRP4ZnkA.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/a600KQ3DdQUQl5LewN5imbL0BaF.jpg",
+      "description": "Drama following the lives of a group of midwives working in the poverty-stricken East End of London during the 1950s, based on the best-selling memoirs of Jennifer Worth.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt1991897",
       "type": "series",
       "name": "The Mystery of Edwin Drood",
@@ -57,7 +82,7 @@
       "type": "series",
       "name": "Hidden",
       "poster": "https://image.tmdb.org/t/p/w342/r8BIIQ0DzyoYXGW3IuZbnXYtV3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/acKSRp5nuUn3CgJkIFm2NUyH158.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/lOCSxhyJiPG5G5B9Wb7ru3cFo4r.jpg",
       "description": "When lawyer Gina Hawkes hires Harry to find a witness, he unexpectedly revisits his brother's decades-old death, embroiling him in a political conspiracy at the highest levels of British government.",
       "releaseInfo": "2011",
       "genres": [
@@ -1281,36 +1306,6 @@
         "Drama",
         "Mystery",
         "Crime"
-      ]
-    },
-    {
-      "id": "tt0436992",
-      "type": "series",
-      "name": "Doctor Who",
-      "poster": "https://image.tmdb.org/t/p/w342/m6G92osOtSeXwjSfL21jZCUOvxe.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-      "description": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0426911",
-      "type": "series",
-      "name": "Archangel",
-      "poster": "https://image.tmdb.org/t/p/w342/a8nIZ669NG0d1jhshRiwBnqBCd9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qJVOxaW0J9qooIRUVcAGsqArtfn.jpg",
-      "description": "Fluke Kelso, a dissipated, middle-aged former Oxford historian, who is in Moscow to attend a conference on the newly opened Soviet archives, receives in his hotel a very unexpected visitor.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
       ]
     }
   ]

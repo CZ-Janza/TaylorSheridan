@@ -17,6 +17,22 @@
       ]
     },
     {
+      "id": "tt0056751",
+      "type": "series",
+      "name": "Doctor Who",
+      "poster": "https://image.tmdb.org/t/p/w342/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+      "description": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
+      "releaseInfo": "1963",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt4179452",
       "type": "series",
       "name": "The Last Kingdom",
@@ -32,17 +48,17 @@
       ]
     },
     {
-      "id": "tt0056751",
+      "id": "tt1199099",
       "type": "series",
-      "name": "Doctor Who",
-      "poster": "https://image.tmdb.org/t/p/w342/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
-      "description": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
-      "releaseInfo": "1963",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+      "releaseInfo": "2008",
       "genres": [
-        "Drama",
         "Action",
         "Adventure",
+        "Drama",
         "Sci-Fi",
         "Fantasy"
       ]
@@ -79,36 +95,6 @@
       ]
     },
     {
-      "id": "tt0384766",
-      "type": "series",
-      "name": "Rome",
-      "poster": "https://image.tmdb.org/t/p/w342/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/b2fhZk0xB2TgMsDXT6goR28PoHX.jpg",
-      "description": "A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1199099",
-      "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt31433814",
       "type": "series",
       "name": "Doctor Who",
@@ -122,6 +108,20 @@
         "Drama",
         "Sci-Fi",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0384766",
+      "type": "series",
+      "name": "Rome",
+      "poster": "https://image.tmdb.org/t/p/w342/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/b2fhZk0xB2TgMsDXT6goR28PoHX.jpg",
+      "description": "A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
       ]
     },
     {
@@ -141,28 +141,13 @@
       ]
     },
     {
-      "id": "tt10405370",
+      "id": "tt2733252",
       "type": "series",
-      "name": "SAS Rogue Heroes",
-      "poster": "https://image.tmdb.org/t/p/w342/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hGdTq9BX3DB2gwGGFMLTdipCBPk.jpg",
-      "description": "The dramatised account of how the world’s greatest Special Forces unit, the SAS, was formed under extraordinary circumstances in the darkest days of World War Two.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Drama",
-        "War",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt27557666",
-      "type": "series",
-      "name": "Lord of the Flies",
-      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
-      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
-      "releaseInfo": "2026",
+      "name": "The Musketeers",
+      "poster": "https://image.tmdb.org/t/p/w342/6kOMlk4hlavwO5L82eLdklN0fm5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nkPWqWZQ84WtbUY5RktSPPrNdWO.jpg",
+      "description": "Set in 17th century Paris, musketeers Athos, Porthos, Aramis and D'Artagnan are members of an elite band of soldiers who fight for what is just. They are heroes in the truest and most abiding sense – men that can be trusted and believed in to do the right thing, regardless of personal risk.",
+      "releaseInfo": "2014",
       "genres": [
         "Drama",
         "Action",
@@ -185,22 +170,6 @@
       ]
     },
     {
-      "id": "tt0808096",
-      "type": "series",
-      "name": "Primeval",
-      "poster": "https://image.tmdb.org/t/p/w342/pjRhnncEnTT8T5YsLbTb0A4msuQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yRGZD3qdK49COaBFo0mxxJoLDzR.jpg",
-      "description": "When strange anomalies start to appear all over England, Professor Cutter and his team must track down and capture all sorts of dangerous prehistoric creatures from Earth's distant past and near future.",
-      "releaseInfo": "2007",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Action",
-        "Adventure",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt5103758",
       "type": "series",
       "name": "Troy: Fall of a City",
@@ -216,15 +185,16 @@
       ]
     },
     {
-      "id": "tt2733252",
+      "id": "tt10405370",
       "type": "series",
-      "name": "The Musketeers",
-      "poster": "https://image.tmdb.org/t/p/w342/6kOMlk4hlavwO5L82eLdklN0fm5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nkPWqWZQ84WtbUY5RktSPPrNdWO.jpg",
-      "description": "Set in 17th century Paris, musketeers Athos, Porthos, Aramis and D'Artagnan are members of an elite band of soldiers who fight for what is just. They are heroes in the truest and most abiding sense – men that can be trusted and believed in to do the right thing, regardless of personal risk.",
-      "releaseInfo": "2014",
+      "name": "SAS Rogue Heroes",
+      "poster": "https://image.tmdb.org/t/p/w342/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hGdTq9BX3DB2gwGGFMLTdipCBPk.jpg",
+      "description": "The dramatised account of how the world’s greatest Special Forces unit, the SAS, was formed under extraordinary circumstances in the darkest days of World War Two.",
+      "releaseInfo": "2022",
       "genres": [
         "Drama",
+        "War",
         "Action",
         "Adventure"
       ]
@@ -247,46 +217,19 @@
       ]
     },
     {
-      "id": "tt9139220",
+      "id": "tt0808096",
       "type": "series",
-      "name": "Dracula",
-      "poster": "https://image.tmdb.org/t/p/w342/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/v3cpyhytwXXbAr7Wycn5LEwonuL.jpg",
-      "description": "Transylvania, 1897. The blood-drinking Count Dracula is drawing his plans against Victorian London. And be warned: the dead travel fast.",
-      "releaseInfo": "2020",
+      "name": "Primeval",
+      "poster": "https://image.tmdb.org/t/p/w342/pjRhnncEnTT8T5YsLbTb0A4msuQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yRGZD3qdK49COaBFo0mxxJoLDzR.jpg",
+      "description": "When strange anomalies start to appear all over England, Professor Cutter and his team must track down and capture all sorts of dangerous prehistoric creatures from Earth's distant past and near future.",
+      "releaseInfo": "2007",
       "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt30221531",
-      "type": "series",
-      "name": "King & Conqueror",
-      "poster": "https://image.tmdb.org/t/p/w342/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
-      "description": "The story of a clash that defined the future of a country and a continent for a thousand years. Harold of Wessex and William of Normandy were two men destined to meet at the Battle of Hastings in 1066. These two former allies with no design on the British throne found themselves forced by circumstance and personal obsession into a war for possession of its crown.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt2705602",
-      "type": "series",
-      "name": "Atlantis",
-      "poster": "https://image.tmdb.org/t/p/w342/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nMdyDnHiRpJ2sfqk3JfUb3CvME4.jpg",
-      "description": "A fantasy drama set in a world of legendary heroes and mythical creatures. Far from home and desperate for answers, Jason washes up on the shores of an ancient land. A mysterious place; a world of bull leaping, of snake haired goddesses and of palaces so vast it was said they were built by giants - this is the city of Atlantis. Aided by his two new friends, Pythagoras and Hercules, Jason embarks on a voyage of discovery, and salvation, which sees him brush shoulders with Medusa, come face to face with the Minotaur and even do battle with the dead.",
-      "releaseInfo": "2013",
-      "genres": [
+        "Sci-Fi",
+        "Fantasy",
         "Action",
         "Adventure",
-        "Sci-Fi",
-        "Fantasy"
+        "Drama"
       ]
     },
     {
@@ -306,17 +249,15 @@
       ]
     },
     {
-      "id": "tt0094500",
+      "id": "tt9139220",
       "type": "series",
-      "name": "The Chronicles of Narnia",
-      "poster": "https://image.tmdb.org/t/p/w342/pfAFIkQd9MD4KDxlElCVSNKwnaR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kXTZR11xLYaShf3ZMeTmBP9Lsq7.jpg",
-      "description": "The Chronicles of Narnia is a British television miniseries adapting four of C.S. Lewis's books, blending live-action with animation for fantasy elements like Aslan and the creatures. The first series—The Lion, the Witch and the Wardrobe—aired from 13 November to 18 December 1988; the second—Prince Caspian and The Voyage of the Dawn Treader—aired from 19 November to 24 December 1989; and the third—The Silver Chair—from 18 November to 23 December 1990. Each series consists of six episodes each.",
-      "releaseInfo": "1988",
+      "name": "Dracula",
+      "poster": "https://image.tmdb.org/t/p/w342/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/v3cpyhytwXXbAr7Wycn5LEwonuL.jpg",
+      "description": "Transylvania, 1897. The blood-drinking Count Dracula is drawing his plans against Victorian London. And be warned: the dead travel fast.",
+      "releaseInfo": "2020",
       "genres": [
         "Drama",
-        "Sci-Fi",
-        "Fantasy",
         "Action",
         "Adventure"
       ]
@@ -339,6 +280,66 @@
       ]
     },
     {
+      "id": "tt30221531",
+      "type": "series",
+      "name": "King & Conqueror",
+      "poster": "https://image.tmdb.org/t/p/w342/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
+      "description": "Harold of Wessex and William of Normandy are two men destined to face each other at the Battle of Hastings in 1066. Two former allies, neither of whom had aspired to the British throne, are forced, by circumstances and their personal obsession, to wage war over possession of the crown.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure",
+        "War"
+      ]
+    },
+    {
+      "id": "tt27557666",
+      "type": "series",
+      "name": "Lord of the Flies",
+      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt2705602",
+      "type": "series",
+      "name": "Atlantis",
+      "poster": "https://image.tmdb.org/t/p/w342/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nMdyDnHiRpJ2sfqk3JfUb3CvME4.jpg",
+      "description": "A fantasy drama set in a world of legendary heroes and mythical creatures. Far from home and desperate for answers, Jason washes up on the shores of an ancient land. A mysterious place; a world of bull leaping, of snake haired goddesses and of palaces so vast it was said they were built by giants - this is the city of Atlantis. Aided by his two new friends, Pythagoras and Hercules, Jason embarks on a voyage of discovery, and salvation, which sees him brush shoulders with Medusa, come face to face with the Minotaur and even do battle with the dead.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0094500",
+      "type": "series",
+      "name": "The Chronicles of Narnia",
+      "poster": "https://image.tmdb.org/t/p/w342/pfAFIkQd9MD4KDxlElCVSNKwnaR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kXTZR11xLYaShf3ZMeTmBP9Lsq7.jpg",
+      "description": "The Chronicles of Narnia is a British television miniseries adapting four of C.S. Lewis's books, blending live-action with animation for fantasy elements like Aslan and the creatures. The first series—The Lion, the Witch and the Wardrobe—aired from 13 November to 18 December 1988; the second—Prince Caspian and The Voyage of the Dawn Treader—aired from 19 November to 24 December 1989; and the third—The Silver Chair—from 18 November to 23 December 1990. Each series consists of six episodes each.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
       "id": "tt8080292",
       "type": "series",
       "name": "The Watch",
@@ -351,6 +352,20 @@
         "Fantasy",
         "Action",
         "Adventure"
+      ]
+    },
+    {
+      "id": "tt2006374",
+      "type": "series",
+      "name": "Copper",
+      "poster": "https://image.tmdb.org/t/p/w342/z2oQu8SipXvlnlrJrt6gZ47D408.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/q4GFazIt2wqhkah7T5C7QTiXuZO.jpg",
+      "description": "Kevin Corcoran is a rugged young Irish immigrant policeman trying to keep the peace in the historical Five Points neighborhood in 1860s New York City while searching for information on the disappearance of his wife and death of his daughter.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
       ]
     },
     {
@@ -370,6 +385,19 @@
       ]
     },
     {
+      "id": "tt2069449",
+      "type": "series",
+      "name": "Hunted",
+      "poster": "https://image.tmdb.org/t/p/w342/f7xmk6fNp0hXcGI9k0vXeX69Afq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1dlu0v3C1Qln9SIEel3KyIzCKi4.jpg",
+      "description": "Samantha Hunter suspects someone within the private intelligence agency she works at tried to kill her and she seeks to uncover the person behind it.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
       "id": "tt0181199",
       "type": "series",
       "name": "Arabian Nights",
@@ -386,28 +414,18 @@
       ]
     },
     {
-      "id": "tt2006374",
+      "id": "tt0197154",
       "type": "series",
-      "name": "Copper",
-      "poster": "https://image.tmdb.org/t/p/w342/z2oQu8SipXvlnlrJrt6gZ47D408.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/q4GFazIt2wqhkah7T5C7QTiXuZO.jpg",
-      "description": "Kevin Corcoran is a rugged young Irish immigrant policeman trying to keep the peace in the historical Five Points neighborhood in 1860s New York City while searching for information on the disappearance of his wife and death of his daughter.",
-      "releaseInfo": "2012",
+      "name": "Gormenghast",
+      "poster": "https://image.tmdb.org/t/p/w342/zuz0jt4VZOilIV7Lh4MINZXKdjX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xCYZIsH4r5LlVjleSi717ZSdCJN.jpg",
+      "description": "At the Castle of Gormenghast, the Groan family has ruled with dusty ceremony for more than seventy generations. A clever and ambitious new kitchen boy, Steerpike, begins to insinuate himself into the affections of Lady Fuchsia Groan and to murder his way to power.",
+      "releaseInfo": "2000",
       "genres": [
-        "Action",
-        "Adventure",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2069449",
-      "type": "series",
-      "name": "Hunted",
-      "poster": "https://image.tmdb.org/t/p/w342/f7xmk6fNp0hXcGI9k0vXeX69Afq.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1dlu0v3C1Qln9SIEel3KyIzCKi4.jpg",
-      "description": "Samantha Hunter suspects someone within the private intelligence agency she works at tried to kill her and she seeks to uncover the person behind it.",
-      "releaseInfo": "2012",
-      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Mystery",
+        "Comedy",
         "Action",
         "Adventure"
       ]
@@ -438,23 +456,6 @@
       "releaseInfo": "2005",
       "genres": [
         "Drama",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt0197154",
-      "type": "series",
-      "name": "Gormenghast",
-      "poster": "https://image.tmdb.org/t/p/w342/zuz0jt4VZOilIV7Lh4MINZXKdjX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xCYZIsH4r5LlVjleSi717ZSdCJN.jpg",
-      "description": "At the Castle of Gormenghast, the Groan family has ruled with dusty ceremony for more than seventy generations. A clever and ambitious new kitchen boy, Steerpike, begins to insinuate himself into the affections of Lady Fuchsia Groan and to murder his way to power.",
-      "releaseInfo": "2000",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Mystery",
-        "Comedy",
         "Action",
         "Adventure"
       ]

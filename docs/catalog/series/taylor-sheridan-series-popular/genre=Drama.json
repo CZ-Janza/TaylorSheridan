@@ -17,23 +17,10 @@
       "id": "tt4236770",
       "type": "series",
       "name": "Yellowstone",
-      "poster": "https://image.tmdb.org/t/p/w342/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
       "background": "https://image.tmdb.org/t/p/w780/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
       "description": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
       "releaseInfo": "2018",
-      "genres": [
-        "Western",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt34991493",
-      "type": "series",
-      "name": "Dutton Ranch",
-      "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-      "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "releaseInfo": "2026",
       "genres": [
         "Western",
         "Drama"
@@ -53,14 +40,15 @@
       ]
     },
     {
-      "id": "tt14186672",
+      "id": "tt34991493",
       "type": "series",
-      "name": "Landman",
-      "poster": "https://image.tmdb.org/t/p/w342/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
-      "description": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
-      "releaseInfo": "2024",
+      "name": "Dutton Ranch",
+      "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+      "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+      "releaseInfo": "2026",
       "genres": [
+        "Western",
         "Drama"
       ]
     },
@@ -93,6 +81,18 @@
       ]
     },
     {
+      "id": "tt14186672",
+      "type": "series",
+      "name": "Landman",
+      "poster": "https://image.tmdb.org/t/p/w342/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
+      "description": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt18335752",
       "type": "series",
       "name": "1923",
@@ -100,19 +100,6 @@
       "background": "https://image.tmdb.org/t/p/w780/vIioWssbxRtEkIzgj8r0pCWYkYM.jpg",
       "description": "Follow a new generation of the Dutton family during the early twentieth century when pandemics, historic drought, the end of Prohibition and the Great Depression all plague the mountain west, and the Duttons who call it home.",
       "releaseInfo": "2022",
-      "genres": [
-        "Drama",
-        "Western"
-      ]
-    },
-    {
-      "id": "tt13991232",
-      "type": "series",
-      "name": "1883",
-      "poster": "https://image.tmdb.org/t/p/w342/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
-      "description": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America’s promised land — Montana.",
-      "releaseInfo": "2021",
       "genres": [
         "Drama",
         "Western"
@@ -128,6 +115,19 @@
       "releaseInfo": "2026",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt13991232",
+      "type": "series",
+      "name": "1883",
+      "poster": "https://image.tmdb.org/t/p/w342/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
+      "description": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America’s promised land — Montana.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Western"
       ]
     },
     {

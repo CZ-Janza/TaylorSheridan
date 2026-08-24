@@ -44,18 +44,6 @@
       ]
     },
     {
-      "id": "tt0075220",
-      "type": "movie",
-      "name": "The Signalman",
-      "poster": "https://image.tmdb.org/t/p/w342/8WHG1G1jbHVbwXc7KHQyShz4RdD.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nmnzMEEiBv0vD05xtlYpWlrpIdP.jpg",
-      "description": "A traveller comes across a signalman stationed by the exit of a railway tunnel in a deep cutting. The traveller becomes familiar with the signalman, and finds that he is troubled by an apparition which appears by the tunnel.",
-      "releaseInfo": "1976",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
       "id": "tt0217142",
       "type": "movie",
       "name": "A Warning to the Curious",
@@ -66,6 +54,18 @@
       "genres": [
         "Horror",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt0075220",
+      "type": "movie",
+      "name": "The Signalman",
+      "poster": "https://image.tmdb.org/t/p/w342/8WHG1G1jbHVbwXc7KHQyShz4RdD.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nmnzMEEiBv0vD05xtlYpWlrpIdP.jpg",
+      "description": "A traveller comes across a signalman stationed by the exit of a railway tunnel in a deep cutting. The traveller becomes familiar with the signalman, and finds that he is troubled by an apparition which appears by the tunnel.",
+      "releaseInfo": "1976",
+      "genres": [
+        "Horror"
       ]
     },
     {
@@ -148,20 +148,6 @@
       ]
     },
     {
-      "id": "tt2183152",
-      "type": "movie",
-      "name": "The Lady Vanishes",
-      "poster": "https://image.tmdb.org/t/p/w342/AuLuO1pEy8yAYTIROv0uH6cuXa9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/43oduu4qhXLkpRk0SVRP0FcWvFA.jpg",
-      "description": "Young socialite Iris Carr befriends an older woman while traveling solo by train. When Iris wakes from a nap, the woman is gone and other passengers claim she never existed.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Thriller",
-        "Mystery",
-        "Horror"
-      ]
-    },
-    {
       "id": "tt1687901",
       "type": "movie",
       "name": "The Awakening",
@@ -176,14 +162,16 @@
       ]
     },
     {
-      "id": "tt0217060",
+      "id": "tt2183152",
       "type": "movie",
-      "name": "The Stalls of Barchester",
-      "poster": "https://image.tmdb.org/t/p/w342/hXQPc3uNZsn72GuIVFcCto2AQlO.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/AnjlfEmL2bj5xjOkJPRmzYPbmZO.jpg",
-      "description": "Scholar Dr. Black's seemingly mundane assignment of sorting through the assets of the Barchester Cathedral library takes an eerie turn when he comes across the papers of the late Archdeacon, who plotted to gain his position through murder. However, he soon comes to discover something truly horrific about the wooden choir stalls in the church, which are tied to a famous local tree and a sinister local legend.",
-      "releaseInfo": "1971",
+      "name": "The Lady Vanishes",
+      "poster": "https://image.tmdb.org/t/p/w342/AuLuO1pEy8yAYTIROv0uH6cuXa9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/43oduu4qhXLkpRk0SVRP0FcWvFA.jpg",
+      "description": "Young socialite Iris Carr befriends an older woman while traveling solo by train. When Iris wakes from a nap, the woman is gone and other passengers claim she never existed.",
+      "releaseInfo": "2013",
       "genres": [
+        "Thriller",
+        "Mystery",
         "Horror"
       ]
     },
@@ -200,6 +188,18 @@
         "Horror",
         "Thriller",
         "Music"
+      ]
+    },
+    {
+      "id": "tt0217060",
+      "type": "movie",
+      "name": "The Stalls of Barchester",
+      "poster": "https://image.tmdb.org/t/p/w342/hXQPc3uNZsn72GuIVFcCto2AQlO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/AnjlfEmL2bj5xjOkJPRmzYPbmZO.jpg",
+      "description": "Scholar Dr. Black's seemingly mundane assignment of sorting through the assets of the Barchester Cathedral library takes an eerie turn when he comes across the papers of the late Archdeacon, who plotted to gain his position through murder. However, he soon comes to discover something truly horrific about the wooden choir stalls in the church, which are tied to a famous local tree and a sinister local legend.",
+      "releaseInfo": "1971",
+      "genres": [
+        "Horror"
       ]
     },
     {

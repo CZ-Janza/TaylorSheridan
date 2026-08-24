@@ -1,6 +1,36 @@
 {
   "metas": [
     {
+      "id": "tt0436992",
+      "type": "series",
+      "name": "Doctor Who",
+      "poster": "https://image.tmdb.org/t/p/w342/m6G92osOtSeXwjSfL21jZCUOvxe.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+      "description": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0426911",
+      "type": "series",
+      "name": "Archangel",
+      "poster": "https://image.tmdb.org/t/p/w342/a8nIZ669NG0d1jhshRiwBnqBCd9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qJVOxaW0J9qooIRUVcAGsqArtfn.jpg",
+      "description": "Fluke Kelso, a dissipated, middle-aged former Oxford historian, who is in Moscow to attend a conference on the newly opened Soviet archives, receives in his hotel a very unexpected visitor.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
       "id": "tt0427042",
       "type": "series",
       "name": "Casanova",
@@ -1247,34 +1277,6 @@
       "genres": [
         "Crime",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt0087924",
-      "type": "series",
-      "name": "Miss Marple: A Pocketful of Rye",
-      "poster": "https://image.tmdb.org/t/p/w342/y4o4QI5cBMNlhZFIOhPpbK9fFaF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nGiNHReDNOcuJdxYGCPQ8TZ1qk4.jpg",
-      "description": "When a handful of grain is found in the pocket of a murdered businessman, Miss Marple seeks a murderer with a penchant for nursery rhymes.",
-      "releaseInfo": "1985",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0087756",
-      "type": "series",
-      "name": "Miss Marple: A Murder Is Announced",
-      "poster": "https://image.tmdb.org/t/p/w342/3MzWUqYabOX6hj9Z9tXElhnF6Gc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yOSInIsiFzuie6p3Jyn2Nsdq5hs.jpg",
-      "description": "An advertisement announcing the time and place of a forthcoming murder appears among the ads of the paper in the small village of Chipping Cleghorn.",
-      "releaseInfo": "1985",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
       ]
     }
   ]

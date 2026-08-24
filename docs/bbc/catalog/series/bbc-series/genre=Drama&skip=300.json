@@ -1,6 +1,18 @@
 {
   "metas": [
     {
+      "id": "tt0780362",
+      "type": "series",
+      "name": "Jane Eyre",
+      "poster": "https://image.tmdb.org/t/p/w342/rj6SOvMzH1KOILZBR8bkIqXztRO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/oolJUXleyfiTFul9uwuDMrBztmD.jpg",
+      "description": "Charlotte Bronte's classic about an orphan girl who grows up to become a governess in a gloomy manor in Yorkshire, where she falls in love with the mysterious Edward Rochester.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0876219",
       "type": "series",
       "name": "Young Dracula",
@@ -791,34 +803,6 @@
       "genres": [
         "Crime",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt0087924",
-      "type": "series",
-      "name": "Miss Marple: A Pocketful of Rye",
-      "poster": "https://image.tmdb.org/t/p/w342/y4o4QI5cBMNlhZFIOhPpbK9fFaF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nGiNHReDNOcuJdxYGCPQ8TZ1qk4.jpg",
-      "description": "When a handful of grain is found in the pocket of a murdered businessman, Miss Marple seeks a murderer with a penchant for nursery rhymes.",
-      "releaseInfo": "1985",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0087756",
-      "type": "series",
-      "name": "Miss Marple: A Murder Is Announced",
-      "poster": "https://image.tmdb.org/t/p/w342/3MzWUqYabOX6hj9Z9tXElhnF6Gc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yOSInIsiFzuie6p3Jyn2Nsdq5hs.jpg",
-      "description": "An advertisement announcing the time and place of a forthcoming murder appears among the ads of the paper in the small village of Chipping Cleghorn.",
-      "releaseInfo": "1985",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
       ]
     }
   ]

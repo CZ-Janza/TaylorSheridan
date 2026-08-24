@@ -32,20 +32,6 @@
       ]
     },
     {
-      "id": "tt0081874",
-      "type": "series",
-      "name": "The Hitchhiker's Guide to the Galaxy",
-      "poster": "https://image.tmdb.org/t/p/w342/yKiH7IIbo23uA72MmY318mXorjw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
-      "description": "Don't Panic! The story of Arthur Dent, an average Englishman whose life was spared by his friend, who turned out to be an alien, while the planet Earth is destroyed. His friend tells him about the Hitchhiker's Guide to the Galaxy, a guide with anything you ever needed, and wanted to know. They travel across the galaxy, meeting friendly, and not so friendly characters in order to find the great question (the answer being 42).",
-      "releaseInfo": "1981",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt11379026",
       "type": "series",
       "name": "Ghosts",
@@ -70,6 +56,20 @@
       "genres": [
         "Comedy",
         "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0081874",
+      "type": "series",
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "poster": "https://image.tmdb.org/t/p/w342/yKiH7IIbo23uA72MmY318mXorjw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
+      "description": "Don't Panic! The story of Arthur Dent, an average Englishman whose life was spared by his friend, who turned out to be an alien, while the planet Earth is destroyed. His friend tells him about the Hitchhiker's Guide to the Galaxy, a guide with anything you ever needed, and wanted to know. They travel across the galaxy, meeting friendly, and not so friendly characters in order to find the great question (the answer being 42).",
+      "releaseInfo": "1981",
+      "genres": [
+        "Comedy",
         "Sci-Fi",
         "Fantasy"
       ]
@@ -150,6 +150,22 @@
       ]
     },
     {
+      "id": "tt1199099",
+      "type": "series",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt2234222",
       "type": "series",
       "name": "Orphan Black",
@@ -177,22 +193,6 @@
         "Drama",
         "Action",
         "Adventure"
-      ]
-    },
-    {
-      "id": "tt1199099",
-      "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
       ]
     },
     {
@@ -258,20 +258,6 @@
       ]
     },
     {
-      "id": "tt30645193",
-      "type": "series",
-      "name": "The War Between the Land and the Sea",
-      "poster": "https://image.tmdb.org/t/p/w342/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
-      "description": "When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0436992",
       "type": "series",
       "name": "Doctor Who",
@@ -285,6 +271,20 @@
         "Drama",
         "Sci-Fi",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tt30645193",
+      "type": "series",
+      "name": "The War Between the Land and the Sea",
+      "poster": "https://image.tmdb.org/t/p/w342/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
+      "description": "When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
       ]
     },
     {
@@ -436,6 +436,21 @@
       ]
     },
     {
+      "id": "tt1140939",
+      "type": "series",
+      "name": "Apparitions",
+      "poster": "https://image.tmdb.org/t/p/w342/jpd7vaCQo2059Ju0yfxL1Ibo6Or.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dLWTG3G54ngP7xUf2FyW1ZdOfKq.jpg",
+      "description": "Apparitions is a BBC drama about Father Jacob Myers, a priest of the Roman Catholic Church, played by Martin Shaw, who examines evidence of miracles to be used in canonisation but also performs exorcisms. As he learns, Jacob's duties run deeper than just sending demons back to Hell; he later must prevent them all from escaping.\n\nUnlike most portrayals of exorcism and spirit possession in fiction, Apparitions is more religiously accurate and fact-based, incorporating the nature of demonic possession as described by the Church. It also recounts historical events associated with Christianity and other Abrahamic religions, which may have been caused by Heaven or Hell, indicating that the War described in the Bible may not have fully concluded.\n\nThe series is written by Joe Ahearne.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt14644726",
       "type": "series",
       "name": "Silverpoint",
@@ -451,18 +466,16 @@
       ]
     },
     {
-      "id": "tt1140939",
+      "id": "tt0080242",
       "type": "series",
-      "name": "Apparitions",
-      "poster": "https://image.tmdb.org/t/p/w342/jpd7vaCQo2059Ju0yfxL1Ibo6Or.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dLWTG3G54ngP7xUf2FyW1ZdOfKq.jpg",
-      "description": "Apparitions is a BBC drama about Father Jacob Myers, a priest of the Roman Catholic Church, played by Martin Shaw, who examines evidence of miracles to be used in canonisation but also performs exorcisms. As he learns, Jacob's duties run deeper than just sending demons back to Hell; he later must prevent them all from escaping.\n\nUnlike most portrayals of exorcism and spirit possession in fiction, Apparitions is more religiously accurate and fact-based, incorporating the nature of demonic possession as described by the Church. It also recounts historical events associated with Christianity and other Abrahamic religions, which may have been caused by Heaven or Hell, indicating that the War described in the Bible may not have fully concluded.\n\nThe series is written by Joe Ahearne.",
-      "releaseInfo": "2008",
+      "name": "The Martian Chronicles",
+      "poster": "https://image.tmdb.org/t/p/w342/vBq5qOxBKnhGZNcW36b2Qq6cLDG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kb8obptHWmfaG7ZhP1IeracmW9o.jpg",
+      "description": "The Martian Chronicles deals with the exploration of Mars and the inhabitants there.",
+      "releaseInfo": "1980",
       "genres": [
-        "Mystery",
         "Sci-Fi",
-        "Fantasy",
-        "Drama"
+        "Fantasy"
       ]
     },
     {
@@ -480,20 +493,6 @@
         "Mystery",
         "Action",
         "Adventure"
-      ]
-    },
-    {
-      "id": "tt1258189",
-      "type": "series",
-      "name": "Survivors",
-      "poster": "https://image.tmdb.org/t/p/w342/qw1veNeQzzN0FD2DJyemxO7hPPE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rulrZar942TxA7vn6OPjOEd7clR.jpg",
-      "description": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
       ]
     },
     {
@@ -529,16 +528,17 @@
       ]
     },
     {
-      "id": "tt0080242",
+      "id": "tt1258189",
       "type": "series",
-      "name": "The Martian Chronicles",
-      "poster": "https://image.tmdb.org/t/p/w342/vBq5qOxBKnhGZNcW36b2Qq6cLDG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kb8obptHWmfaG7ZhP1IeracmW9o.jpg",
-      "description": "The Martian Chronicles deals with the exploration of Mars and the inhabitants there.",
-      "releaseInfo": "1980",
+      "name": "Survivors",
+      "poster": "https://image.tmdb.org/t/p/w342/qw1veNeQzzN0FD2DJyemxO7hPPE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rulrZar942TxA7vn6OPjOEd7clR.jpg",
+      "description": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
+      "releaseInfo": "2008",
       "genres": [
         "Sci-Fi",
-        "Fantasy"
+        "Fantasy",
+        "Drama"
       ]
     },
     {
@@ -617,6 +617,20 @@
       ]
     },
     {
+      "id": "tt0115288",
+      "type": "series",
+      "name": "Neverwhere",
+      "poster": "https://image.tmdb.org/t/p/w342/jQbTB9IhHQoqWrJs53iHI0f1c8F.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/u9a0DbqejhqOIRpMwtbK1PZEOzU.jpg",
+      "description": "Richard Mayhew leads an ordinary life in London when one day a girl named Door falls, injured, across his path. The next thing he knows, his life is gone and he's pulled into the fantastical world of London Below. Pursued by the murderous Messrs. Croup and Vandemar, Door and Richard with the help of Hunter and the Marquis de Carabas, attempt to find the Angel Islington, who knows the secret behind the murder of Door's family, and possibly a way for Richard to go home.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt1319690",
       "type": "series",
       "name": "Defying Gravity",
@@ -627,20 +641,6 @@
       "genres": [
         "Drama",
         "Mystery",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0115288",
-      "type": "series",
-      "name": "Neverwhere",
-      "poster": "https://image.tmdb.org/t/p/w342/jQbTB9IhHQoqWrJs53iHI0f1c8F.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/u9a0DbqejhqOIRpMwtbK1PZEOzU.jpg",
-      "description": "Richard Mayhew leads an ordinary life in London when one day a girl named Door falls, injured, across his path. The next thing he knows, his life is gone and he's pulled into the fantastical world of London Below. Pursued by the murderous Messrs. Croup and Vandemar, Door and Richard with the help of Hunter and the Marquis de Carabas, attempt to find the Angel Islington, who knows the secret behind the murder of Door's family, and possibly a way for Richard to go home.",
-      "releaseInfo": "1996",
-      "genres": [
-        "Drama",
         "Sci-Fi",
         "Fantasy"
       ]
