@@ -30,7 +30,7 @@
       "id": "tt13592494",
       "type": "series",
       "name": "The Bombing of Pan Am 103",
-      "poster": "https://image.tmdb.org/t/p/w342/9RR6jkc35HOJcZG3modHZwh3J3J.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/jWMG8htFNfc4eeu9UcPszql3Xa6.jpg",
       "background": "https://image.tmdb.org/t/p/w780/5ZgPQjEsJqCwRtx6vsBBISxn389.jpg",
       "description": "On December 21, 1988, Pan Am Flight 103 exploded over the small Scottish town of Lockerbie, killing 270 people. What followed was the largest murder investigation in the history of Scottish policing, into the deadliest act of terrorism on British soil.",
       "releaseInfo": "2025",
@@ -213,6 +213,19 @@
       ]
     },
     {
+      "id": "tt13355234",
+      "type": "series",
+      "name": "The Reckoning",
+      "poster": "https://image.tmdb.org/t/p/w342/zXSIWNCuLT4NugyC70RR4aRJSif.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/o2hC4ZIZBReZb53pvTPqXzpTclS.jpg",
+      "description": "The life of Jimmy Savile, a man who, for decades, became one of the UK’s most influential celebrities, but in death has become one of the most reviled figures of modern history following revelations of extensive and horrific abuse.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt21822590",
       "type": "series",
       "name": "The Woman in the Wall",
@@ -222,6 +235,7 @@
       "releaseInfo": "2023",
       "genres": [
         "Crime",
+        "Drama",
         "Mystery"
       ]
     },
@@ -453,7 +467,7 @@
       "type": "series",
       "name": "Vigil",
       "poster": "https://image.tmdb.org/t/p/w342/5zAheY0Upi2MwU3edGtEgb7Ldh3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mSo8k4n4btwDbINqIMJ1q38ZbpP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bfL7ZRhYJn5rYq9DYZL4Wf5qboL.jpg",
       "description": "The mysterious disappearance of a Scottish fishing trawler and a death on-board the submarine HMS Vigil bring the police into conflict with the Navy and British security services. DCI Amy Silva and DS Kirsten Longacre lead an investigation on land and at sea into a conspiracy that goes to the very heart of Britain’s national security.",
       "releaseInfo": "2021",
       "genres": [
@@ -1338,19 +1352,6 @@
         "Drama",
         "Mystery",
         "Crime"
-      ]
-    },
-    {
-      "id": "tt2256491",
-      "type": "series",
-      "name": "Good Cop",
-      "poster": "https://image.tmdb.org/t/p/w342/knNOB8wbCToPot0Gc9c6eQyvwHg.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1vAchfzyN3nhNrXBHGarixJlzD7.jpg",
-      "description": "A dutiful Liverpool beat cop discovers what he is truly capable of after his partner is brutally murdered in a targeted attack by a local gang.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Crime",
-        "Drama"
       ]
     }
   ]

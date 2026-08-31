@@ -1,6 +1,18 @@
 {
   "metas": [
     {
+      "id": "tt3101352",
+      "type": "series",
+      "name": "37 Days",
+      "poster": "https://image.tmdb.org/t/p/w342/iqDzrXyRvm0mCMzYizRDhuAxkMF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/r9rz5P7JxFq3hlyBIIVelSxlTVo.jpg",
+      "description": "This three-part political thriller follows the catastrophic chain of events leading up to World War I from the assassination of Archduke Franz Ferdinand on 28 June 1914 to Britain's declaration of war on Germany 37 days later. This tense and gripping miniseries set among the corridors of power in Whitehall and Berlin tracks the unfolding crisis through the eyes of leading politicians and civil servants struggling to prevent the world's first global war. 37 Days unlocks the mystery of the war s origins, overturning assumptions about its inevitability, demonstrating that World War One was neither a chance happening nor was it a foregone conclusion.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt2357908",
       "type": "series",
       "name": "Quirke",
@@ -156,7 +168,8 @@
       "description": "Set against the backdrop of the Wars of the Roses, the series is the story of the women caught up in the protracted conflict for the throne of England.",
       "releaseInfo": "2013",
       "genres": [
-        "Drama"
+        "Drama",
+        "War"
       ]
     },
     {
@@ -1315,21 +1328,6 @@
         "Action",
         "Adventure",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt0787985",
-      "type": "series",
-      "name": "Robin Hood",
-      "poster": "https://image.tmdb.org/t/p/w342/wz0CSuIiUpvHtpbPxVhMQWKtLTG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/GElmmVU8N0hl05WBcd0y3E8b6f.jpg",
-      "description": "Robin of Loxley returns to England after 5 years of fighting in the crusades alongside King Richard. After losing his estates and being branded an outlaw, he takes on the title of Robin Hood and assembles a ragtag band of outlaw companions. Together they steal from the rich and give to the poor - all the while avoiding and outwitting their enemies Sir Guy of Gisborne and the evil Sheriff of Nottingham.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure",
-        "Comedy"
       ]
     }
   ]

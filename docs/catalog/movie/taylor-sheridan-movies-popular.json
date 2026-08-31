@@ -56,20 +56,6 @@
       ]
     },
     {
-      "id": "tt2582782",
-      "type": "movie",
-      "name": "Hell or High Water",
-      "poster": "https://image.tmdb.org/t/p/w342/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kQVdpIPCqfpa24I8SQRiwOAbkLG.jpg",
-      "description": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Western",
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0499097",
       "type": "movie",
       "name": "Tom Clancy's Without Remorse",
@@ -84,6 +70,20 @@
       ]
     },
     {
+      "id": "tt2582782",
+      "type": "movie",
+      "name": "Hell or High Water",
+      "poster": "https://image.tmdb.org/t/p/w342/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kQVdpIPCqfpa24I8SQRiwOAbkLG.jpg",
+      "description": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Western",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt7991508",
       "type": "movie",
       "name": "Finestkind",
@@ -95,19 +95,6 @@
         "Crime",
         "Drama",
         "Thriller"
-      ]
-    },
-    {
-      "id": "tt15685360",
-      "type": "movie",
-      "name": "You Gotta Believe",
-      "poster": "https://image.tmdb.org/t/p/w342/l4X9SeMFCv414BCt97IBgzYX7JC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2zjLxtdr1xInAxH06ZIrE9HVe4s.jpg",
-      "description": "After dedicating the season to a teammate’s ailing father, a group of underestimated Ft. Worth youth baseball players takes its Cinderella run all the way to the 2002 Little League World Series—culminating in a record-breaking showdown that became an instant ESPN classic.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Family",
-        "Drama"
       ]
     },
     {
@@ -135,16 +122,16 @@
       ]
     },
     {
-      "id": "tt1711018",
+      "id": "tt15685360",
       "type": "movie",
-      "name": "Vile",
-      "poster": "https://image.tmdb.org/t/p/w342/wHxVSKv4plCpllQpBt4tOftKJ12.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mlCEa13EogQ7rYt96OglyjNzQam.jpg",
-      "description": "A group of people awaken to find themselves prisoners in a mysterious house with no means of escape. They are each outfitted with electronic devices attached to the base of their skulls. The chemicals that the brain produces when in pain are collected by the devices, and when it collects a predetermined amount, the doors will be opened. In order to escape, they must hurt themselves and each other.",
-      "releaseInfo": "2011",
+      "name": "You Gotta Believe",
+      "poster": "https://image.tmdb.org/t/p/w342/l4X9SeMFCv414BCt97IBgzYX7JC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2zjLxtdr1xInAxH06ZIrE9HVe4s.jpg",
+      "description": "After dedicating the season to a teammate’s ailing father, a group of underestimated Ft. Worth youth baseball players takes its Cinderella run all the way to the 2002 Little League World Series—culminating in a record-breaking showdown that became an instant ESPN classic.",
+      "releaseInfo": "2024",
       "genres": [
-        "Horror",
-        "Thriller"
+        "Family",
+        "Drama"
       ]
     },
     {
@@ -159,15 +146,16 @@
       ]
     },
     {
-      "id": "tt13930830",
+      "id": "tt1711018",
       "type": "movie",
-      "name": "Pure Grit",
-      "poster": "https://image.tmdb.org/t/p/w342/lKlrpWLAXspwyQ3dCRR5OccVAWc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/g1LDvRnotgnwB0qMOtKRxeNtUrB.jpg",
-      "description": "Chronicling three years in the life of a young Native American bareback horse racer, her dogged determination, and the relationships that sustain her.",
-      "releaseInfo": "2022",
+      "name": "Vile",
+      "poster": "https://image.tmdb.org/t/p/w342/wHxVSKv4plCpllQpBt4tOftKJ12.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mlCEa13EogQ7rYt96OglyjNzQam.jpg",
+      "description": "A group of people awaken to find themselves prisoners in a mysterious house with no means of escape. They are each outfitted with electronic devices attached to the base of their skulls. The chemicals that the brain produces when in pain are collected by the devices, and when it collects a predetermined amount, the doors will be opened. In order to escape, they must hurt themselves and each other.",
+      "releaseInfo": "2011",
       "genres": [
-        "Documentary"
+        "Horror",
+        "Thriller"
       ]
     },
     {
@@ -180,6 +168,18 @@
         "Documentary",
         "History",
         "Western"
+      ]
+    },
+    {
+      "id": "tt13930830",
+      "type": "movie",
+      "name": "Pure Grit",
+      "poster": "https://image.tmdb.org/t/p/w342/lKlrpWLAXspwyQ3dCRR5OccVAWc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/g1LDvRnotgnwB0qMOtKRxeNtUrB.jpg",
+      "description": "Chronicling three years in the life of a young Native American bareback horse racer, her dogged determination, and the relationships that sustain her.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documentary"
       ]
     },
     {
@@ -214,6 +214,15 @@
       ]
     },
     {
+      "id": "tt43722525",
+      "type": "movie",
+      "name": "Capture the Flag (upcoming)",
+      "description": "⏳ Not yet released — status: Planned. A NASA engineer is thrown into a desperate race to build the first reusable spacecraft capable of traveling to the moon and back, testing his limits, loyalties, and morals when a tech tycoon offers him the chance to make history — if he’s willing to pay for it.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt1800290",
       "type": "movie",
       "name": "Empire of the Summer Moon (upcoming)",
@@ -222,15 +231,6 @@
       "genres": [
         "Western",
         "History"
-      ]
-    },
-    {
-      "id": "tt43722525",
-      "type": "movie",
-      "name": "Capture the Flag (upcoming)",
-      "description": "⏳ Not yet released — status: Planned. A NASA engineer is thrown into a desperate race to build the first reusable spacecraft capable of traveling to the moon and back, testing his limits, loyalties, and morals when a tech tycoon offers him the chance to make history — if he’s willing to pay for it.",
-      "genres": [
-        "Drama"
       ]
     }
   ]

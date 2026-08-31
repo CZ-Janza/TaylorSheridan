@@ -14,20 +14,6 @@
       ]
     },
     {
-      "id": "tt29271622",
-      "type": "movie",
-      "name": "Palestine 36",
-      "poster": "https://image.tmdb.org/t/p/w342/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/e5LTUuIumJCgeoAApfCXhKUZ1UH.jpg",
-      "description": "Year 1936. As villages across Palestine rise against British colonial rule, Yusuf drifts between his rural home and the restless energy of Jerusalem, longing for a future beyond the growing unrest. But history is relentless. With rising numbers of Jewish immigrants escaping antisemitism in Europe and some arriving with nefarious Zionist-colonial ambitions, and the Palestinian population uniting in the largest and longest uprising against Britain’s 30-year dominion, all sides spiral towards inevitable collision in a decisive moment for the British Empire and the future of the entire region.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Drama",
-        "History",
-        "War"
-      ]
-    },
-    {
       "id": "tt0914798",
       "type": "movie",
       "name": "The Boy in the Striped Pyjamas",
@@ -39,6 +25,20 @@
         "Drama",
         "War",
         "History"
+      ]
+    },
+    {
+      "id": "tt29271622",
+      "type": "movie",
+      "name": "Palestine 36",
+      "poster": "https://image.tmdb.org/t/p/w342/ajeiriNRFPLESjGZ0vdp4MVardZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/e5LTUuIumJCgeoAApfCXhKUZ1UH.jpg",
+      "description": "Year 1936. As villages across Palestine rise against British colonial rule, Yusuf drifts between his rural home and the restless energy of Jerusalem, longing for a future beyond the growing unrest. But history is relentless. With rising numbers of Jewish immigrants escaping antisemitism in Europe and some arriving with nefarious Zionist-colonial ambitions, and the Palestinian population uniting in the largest and longest uprising against Britain’s 30-year dominion, all sides spiral towards inevitable collision in a decisive moment for the British Empire and the future of the entire region.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
       ]
     },
     {
@@ -138,20 +138,6 @@
       ]
     },
     {
-      "id": "tt2421662",
-      "type": "movie",
-      "name": "The Challenger Disaster",
-      "poster": "https://image.tmdb.org/t/p/w342/ltSiY7rORMGlSHGI7Lr0sgI8D6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tvzGlFkOHApPOckWN7PSNScGDbx.jpg",
-      "description": "When the space shuttle Challenger blew up in 1986, it was the most shocking event in the history of American spaceflight. The deaths of seven astronauts, including the first teacher in space Christa McAuliffe, were watched live on television by millions of viewers. But what was more shocking was that the cause of the disaster might never be uncovered. The Challenger is the story of how Richard Feynman, one of America's most famous scientists, helped to discover the cause of a tragedy that stunned America.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Thriller",
-        "Drama",
-        "History"
-      ]
-    },
-    {
       "id": "tt2381111",
       "type": "movie",
       "name": "Brooklyn",
@@ -188,6 +174,20 @@
       "description": "To Walk Invisible takes a new look at the extraordinary Brontë family, telling the story of these remarkable women who, despite the obstacles they faced, came from obscurity to produce some of the greatest novels in the English language.",
       "releaseInfo": "2016",
       "genres": [
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "tt2421662",
+      "type": "movie",
+      "name": "The Challenger Disaster",
+      "poster": "https://image.tmdb.org/t/p/w342/ltSiY7rORMGlSHGI7Lr0sgI8D6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tvzGlFkOHApPOckWN7PSNScGDbx.jpg",
+      "description": "When the space shuttle Challenger blew up in 1986, it was the most shocking event in the history of American spaceflight. The deaths of seven astronauts, including the first teacher in space Christa McAuliffe, were watched live on television by millions of viewers. But what was more shocking was that the cause of the disaster might never be uncovered. The Challenger is the story of how Richard Feynman, one of America's most famous scientists, helped to discover the cause of a tragedy that stunned America.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Thriller",
         "Drama",
         "History"
       ]
@@ -467,20 +467,6 @@
       ]
     },
     {
-      "id": "tt14124080",
-      "type": "movie",
-      "name": "The Great Escaper",
-      "poster": "https://image.tmdb.org/t/p/w342/50rOFWgFUsCw3zfwSKXcdglh3Ji.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dcGf6amsVeJ2oT75GhpeqavCWO8.jpg",
-      "description": "In the summer of 2014, a World War II veteran sneaks out of his care home to attend the 70th anniversary commemoration of the D-Day landings in Normandy.",
-      "releaseInfo": "2023",
-      "genres": [
-        "History",
-        "Drama",
-        "War"
-      ]
-    },
-    {
       "id": "tt4977530",
       "type": "movie",
       "name": "Viceroy's House",
@@ -519,6 +505,20 @@
         "Comedy",
         "History",
         "Family"
+      ]
+    },
+    {
+      "id": "tt14124080",
+      "type": "movie",
+      "name": "The Great Escaper",
+      "poster": "https://image.tmdb.org/t/p/w342/50rOFWgFUsCw3zfwSKXcdglh3Ji.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dcGf6amsVeJ2oT75GhpeqavCWO8.jpg",
+      "description": "In the summer of 2014, a World War II veteran sneaks out of his care home to attend the 70th anniversary commemoration of the D-Day landings in Normandy.",
+      "releaseInfo": "2023",
+      "genres": [
+        "History",
+        "Drama",
+        "War"
       ]
     },
     {
@@ -588,12 +588,12 @@
       ]
     },
     {
-      "id": "tt0992993",
+      "id": "tt1397265",
       "type": "movie",
-      "name": "Into the Storm",
-      "poster": "https://image.tmdb.org/t/p/w342/icIs3OmlazNg6LpfJmGGlw5VTiy.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2AyORI4K6wTo6EDs0FlLzNUqMHP.jpg",
-      "description": "This powerful follow-up to “The Gathering Storm” follows Churchill from 1940 to 1945 as he guided his beleaguered nation through the crucible of the war years--even as his marriage was encountering its own struggles.",
+      "name": "Enid",
+      "poster": "https://image.tmdb.org/t/p/w342/lDlgMqpWrZ6w3MAFi3I1JPubuu9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/13yzNdCAbGxbENVc4sUEmJzi19p.jpg",
+      "description": "A poignant biography of one of the most successful and wildly-read writers of the 20th century. Her stories enthralled children everywhere but her personal struggles often proved too much.",
       "releaseInfo": "2009",
       "genres": [
         "Drama",
@@ -601,12 +601,12 @@
       ]
     },
     {
-      "id": "tt1397265",
+      "id": "tt0992993",
       "type": "movie",
-      "name": "Enid",
-      "poster": "https://image.tmdb.org/t/p/w342/lDlgMqpWrZ6w3MAFi3I1JPubuu9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/13yzNdCAbGxbENVc4sUEmJzi19p.jpg",
-      "description": "A poignant biography of one of the most successful and wildly-read writers of the 20th century. Her stories enthralled children everywhere but her personal struggles often proved too much.",
+      "name": "Into the Storm",
+      "poster": "https://image.tmdb.org/t/p/w342/icIs3OmlazNg6LpfJmGGlw5VTiy.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2AyORI4K6wTo6EDs0FlLzNUqMHP.jpg",
+      "description": "This powerful follow-up to “The Gathering Storm” follows Churchill from 1940 to 1945 as he guided his beleaguered nation through the crucible of the war years--even as his marriage was encountering its own struggles.",
       "releaseInfo": "2009",
       "genres": [
         "Drama",
@@ -687,19 +687,6 @@
       ]
     },
     {
-      "id": "tt0423409",
-      "type": "movie",
-      "name": "A Cock and Bull Story",
-      "poster": "https://image.tmdb.org/t/p/w342/ww8nEKv3gPOfIkRMGS2A3j566Fr.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8MWKVstOmGUlCsS80iPTHDH7N22.jpg",
-      "description": "Steve Coogan, an arrogant actor with low self-esteem and a complicated love life, is playing the eponymous role in an adaptation of \"The Life and Opinions of Tristram Shandy, Gentleman\" being filmed at a stately home. He constantly spars with actor Rob Brydon, who is playing Uncle Toby and believes his role to be of equal importance to Coogan's.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Comedy",
-        "History"
-      ]
-    },
-    {
       "id": "tt1076240",
       "type": "movie",
       "name": "Miss Austen Regrets",
@@ -709,6 +696,19 @@
       "releaseInfo": "2008",
       "genres": [
         "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "tt0423409",
+      "type": "movie",
+      "name": "A Cock and Bull Story",
+      "poster": "https://image.tmdb.org/t/p/w342/ww8nEKv3gPOfIkRMGS2A3j566Fr.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8MWKVstOmGUlCsS80iPTHDH7N22.jpg",
+      "description": "Steve Coogan, an arrogant actor with low self-esteem and a complicated love life, is playing the eponymous role in an adaptation of \"The Life and Opinions of Tristram Shandy, Gentleman\" being filmed at a stately home. He constantly spars with actor Rob Brydon, who is playing Uncle Toby and believes his role to be of equal importance to Coogan's.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Comedy",
         "History"
       ]
     },

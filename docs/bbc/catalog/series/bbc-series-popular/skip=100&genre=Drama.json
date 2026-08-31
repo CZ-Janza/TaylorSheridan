@@ -1,12 +1,12 @@
 {
   "metas": [
     {
-      "id": "tt2575968",
+      "id": "tt2103085",
       "type": "series",
-      "name": "Hinterland",
-      "poster": "https://image.tmdb.org/t/p/w342/5embjatUwLawjCYNKKhwnJwmO3p.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/aPtygCQY7FOBO0Ns3bKhafR9HrI.jpg",
-      "description": "Tom Mathias comes to Aberystwyth having abandoned his life in London. He's a brilliant but troubled man. Despite his faults he is an excellent detective, who knows that the key to solving the crime lies not in where you look for truth, but how you look.",
+      "name": "Top of the Lake",
+      "poster": "https://image.tmdb.org/t/p/w342/AdJGimYaqSXINsa6pfx1L7yBsvr.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2byYEDTx5J8BiHpCJMU6Cd1fdkC.jpg",
+      "description": "A woman haunted by her past, Detective Robin Griffin, investigates complex and unsettling cases.",
       "releaseInfo": "2013",
       "genres": [
         "Crime",
@@ -15,40 +15,52 @@
       ]
     },
     {
-      "id": "tt0974077",
+      "id": "tt2391224",
       "type": "series",
-      "name": "Cranford",
-      "poster": "https://image.tmdb.org/t/p/w342/3CgVhZLCs8Owf01a4YMcX9fqezI.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2WQa9vZhgvW5T4ciD8XfjORkMaQ.jpg",
-      "description": "A rich and comic drama about the people of Cranford, a small Cheshire town on the cusp of change in the 1840s. Adapted from the novels by Elizabeth Gaskell.",
-      "releaseInfo": "2007",
+      "name": "The Paradise",
+      "poster": "https://image.tmdb.org/t/p/w342/csvd77VNfTutFjm7jVsijLn2SYB.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kItI3VSy7oBF1ANuF6J2KPeYoA9.jpg",
+      "description": "An intoxicating love story set in England's first department store in the 1870s. The Paradise revolves around the lives of the people who live and work in the store, each bound in their own way by the power of the world they live in, and the pasts that follow them there. A love story, mystery, and social comedy all in one.\n\n",
+      "releaseInfo": "2012",
       "genres": [
         "Drama"
       ]
     },
     {
-      "id": "tt9810248",
+      "id": "tt0074006",
       "type": "series",
-      "name": "61st Street",
-      "poster": "https://image.tmdb.org/t/p/w342/bTEfmPiaDpsDu5oZKNSrhnF2ci5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7ebnWh0t5WKK1owCcr0UZIROHjd.jpg",
-      "description": "Moses Johnson is a promising high-school athlete with a bright future who’s accused of murdering a police officer during a drug bust gone wrong. Swept up into the infamously corrupt Chicago criminal justice system, Moses’ case is taken up by ageing public defender Franklin Roberts, who sees this as his chance to finally challenge the institutional racism at the heart of the judicial system.",
-      "releaseInfo": "2022",
+      "name": "I, Claudius",
+      "poster": "https://image.tmdb.org/t/p/w342/oztxNqan7wKvFuCDS55WyUmKNMU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ep6X0ekrWS0go3UXPRXmtN6AfNs.jpg",
+      "description": "Acclaimed blackly comic historical drama series. Set amidst a web of power, corruption and lies, it chronicles the reigns of the Roman emperors - Augustus, Tiberius, Caligula and finally Claudius.",
+      "releaseInfo": "1976",
       "genres": [
         "Drama",
-        "Crime"
+        "War"
       ]
     },
     {
-      "id": "tt3581932",
+      "id": "tt4793190",
       "type": "series",
-      "name": "And Then There Were None",
-      "poster": "https://image.tmdb.org/t/p/w342/xbcGTnlxszacXztaOdY2hu5TI7K.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iM6t3rNQNmUJgIzNCF1aPiD6A5j.jpg",
-      "description": "Ten strangers, drawn away from their normal lives to an isolated rock off the Devon coast. But as the mismatched group waits for the arrival of the hosts -- the improbably named Mr. and Mrs. U.N. Owen -- the weather sours and they find themselves cut off from civilization. Very soon, the guests, each struggling with their conscience, will start to die -- one by one, according to the rules of the nursery rhyme 'Ten Little Soldier Boys' -- a rhyme that hangs in every room of the house and ends with the most terrifying words of all: '... and then there were none.",
-      "releaseInfo": "2015",
+      "name": "Upstart Crow",
+      "poster": "https://image.tmdb.org/t/p/w342/aaCefKIYilykJ8e7HA04wyo4RIw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mu6TpbM5uNSwLO61djH4XmHuyoz.jpg",
+      "description": "Comedy about the life and times of William Shakespeare as he starts to make a name for himself in London, whilst also trying to balance life as a husband and father for his family in Stratford-upon-Avon.",
+      "releaseInfo": "2016",
       "genres": [
-        "Mystery",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1178522",
+      "type": "series",
+      "name": "Little Dorrit",
+      "poster": "https://image.tmdb.org/t/p/w342/5CTWoruhvpCGiR9PavoARnnV8Y1.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/m45Nb3j5Ln2gckv43zaflggi1Ta.jpg",
+      "description": "Amy Dorrit spends her days earning money for the family and looking after her proud father who is a long term inmate of Marshalsea debtors' prison in London. Amy and her family's world is transformed when her employer's son, Arthur Clennam, returns from overseas to solve his family's mysterious legacy and discovers that their lives are interlinked.",
+      "releaseInfo": "2008",
+      "genres": [
         "Drama"
       ]
     },
@@ -69,43 +81,97 @@
       ]
     },
     {
-      "id": "tt9204128",
+      "id": "tt13138834",
       "type": "series",
-      "name": "The Mallorca Files",
-      "poster": "https://image.tmdb.org/t/p/w342/jrOSijpP34R1LgbRgxae2aMyzXk.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7zI2O0IzxzXcd2JPmgWqVf72fXU.jpg",
-      "description": "Amongst the vibrant international community of the eponymous Spanish island, a British and a German detective with very different approaches to policing have a clash of personalities. Despite - or perhaps because of - their very different approaches, the sleuths form a perfect complementary partnership as they seek to solve a new crime on the island each week.",
-      "releaseInfo": "2019",
+      "name": "Time",
+      "poster": "https://image.tmdb.org/t/p/w342/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gJahHqSvFrBjjt3AX6oOL2B0yMP.jpg",
+      "description": "Guilt, violence and impossible choices – what does it take to survive? Tense, gritty and heartbreaking – Jimmy McGovern's award-winning prison drama, with an all-star cast.",
+      "releaseInfo": "2021",
       "genres": [
-        "Crime",
         "Drama"
       ]
     },
     {
-      "id": "tt0074006",
+      "id": "tt3581932",
       "type": "series",
-      "name": "I, Claudius",
-      "poster": "https://image.tmdb.org/t/p/w342/oztxNqan7wKvFuCDS55WyUmKNMU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ep6X0ekrWS0go3UXPRXmtN6AfNs.jpg",
-      "description": "Acclaimed blackly comic historical drama series. Set amidst a web of power, corruption and lies, it chronicles the reigns of the Roman emperors - Augustus, Tiberius, Caligula and finally Claudius.",
-      "releaseInfo": "1976",
+      "name": "And Then There Were None",
+      "poster": "https://image.tmdb.org/t/p/w342/xbcGTnlxszacXztaOdY2hu5TI7K.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iM6t3rNQNmUJgIzNCF1aPiD6A5j.jpg",
+      "description": "Ten strangers, drawn away from their normal lives to an isolated rock off the Devon coast. But as the mismatched group waits for the arrival of the hosts -- the improbably named Mr. and Mrs. U.N. Owen -- the weather sours and they find themselves cut off from civilization. Very soon, the guests, each struggling with their conscience, will start to die -- one by one, according to the rules of the nursery rhyme 'Ten Little Soldier Boys' -- a rhyme that hangs in every room of the house and ends with the most terrifying words of all: '... and then there were none.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt30221531",
+      "type": "series",
+      "name": "King & Conqueror",
+      "poster": "https://image.tmdb.org/t/p/w342/8SW0c0tUFWjpWBz2UYr0U57a8kB.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bEhOXB2Pmda0tgRya5tLEaDr1qY.jpg",
+      "description": "Harold of Wessex and William of Normandy are two men destined to face each other at the Battle of Hastings in 1066. Two former allies, neither of whom had aspired to the British throne, are forced, by circumstances and their personal obsession, to wage war over possession of the crown.",
+      "releaseInfo": "2025",
       "genres": [
         "Drama",
+        "Action",
+        "Adventure",
         "War"
       ]
     },
     {
-      "id": "tt2103085",
+      "id": "tt0475047",
       "type": "series",
-      "name": "Top of the Lake",
-      "poster": "https://image.tmdb.org/t/p/w342/AdJGimYaqSXINsa6pfx1L7yBsvr.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2byYEDTx5J8BiHpCJMU6Cd1fdkC.jpg",
-      "description": "A woman haunted by her past, Detective Robin Griffin, investigates complex and unsettling cases.",
-      "releaseInfo": "2013",
+      "name": "Hotel Babylon",
+      "poster": "https://image.tmdb.org/t/p/w342/yKMpHmpM4yHWROcl8o4pqYwjta3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bWDxhxboTnjDjWxI65Fnfn6ohyM.jpg",
+      "description": "Hotel Babylon is a British television drama series based on the book of the same name by Imogen Edwards-Jones. The show followed the lives of workers at a glamorous five-star hotel.",
+      "releaseInfo": "2006",
       "genres": [
-        "Crime",
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt2321596",
+      "type": "series",
+      "name": "Wolfblood",
+      "poster": "https://image.tmdb.org/t/p/w342/rYFKm38ClVGVe6Bj3RUYf67Vc9E.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sC9OILuFOlZon1XQFrSDBUlGLkI.jpg",
+      "description": "Being a teenager is hard enough. Being a Wolfblood teenager is ten times more complicated. 14 year old Maddy loves her abilities - heightened senses, being faster, stronger and more graceful - but hates the secrets that come with them.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
         "Drama",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt1258189",
+      "type": "series",
+      "name": "Survivors",
+      "poster": "https://image.tmdb.org/t/p/w342/qw1veNeQzzN0FD2DJyemxO7hPPE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rulrZar942TxA7vn6OPjOEd7clR.jpg",
+      "description": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1186342",
+      "type": "series",
+      "name": "Tess of the D'Urbervilles",
+      "poster": "https://image.tmdb.org/t/p/w342/p1usK7ZjI5H0KRmDImu5waIVmZZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/h9QdwCOokfdiyTZzPP7o09fyg0h.jpg",
+      "description": "The story of Tess Durbeyfield, a low-born country girl whose family find they have noble connections.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -122,27 +188,40 @@
       ]
     },
     {
-      "id": "tt9179616",
+      "id": "tt1769411",
       "type": "series",
-      "name": "Vienna Blood",
-      "poster": "https://image.tmdb.org/t/p/w342/wHIkllx1obFjEeI7z558QLoRhiU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2zg0XXoZFqF4XmxwNJHR3lbvctY.jpg",
-      "description": "Max Liebermann, a student of Sigmund Freud, helps Detective Rheinhardt in the investigation of a series of disturbing murders around the grand cafes and opera houses of 1900s Vienna.",
-      "releaseInfo": "2019",
+      "name": "Accused",
+      "poster": "https://image.tmdb.org/t/p/w342/cNTmeTD26zh3IGmWbiByHdsk8Ky.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/oY2gPpKUhfUOK2i4Jr7xs0LXLhH.jpg",
+      "description": "How certain people end up being accused of a crime.",
+      "releaseInfo": "2010",
       "genres": [
-        "Crime",
         "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt10948716",
+      "type": "series",
+      "name": "Inside Man",
+      "poster": "https://image.tmdb.org/t/p/w342/7tZONSnzKylgzHJvtoOGjRmYlgU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bqopwxfw2Sd30gPDfUUFflCpjtK.jpg",
+      "description": "A prisoner on death row in the US, a vicar in a quiet English town, and a maths teacher trapped in a cellar cross paths in the most unexpected way.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama",
+        "Crime",
         "Mystery"
       ]
     },
     {
-      "id": "tt24133138",
+      "id": "tt1748888",
       "type": "series",
-      "name": "Nightsleeper",
-      "poster": "https://image.tmdb.org/t/p/w342/twMzmcKkJpftjhYyrPXETddN08R.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5mKnTUZQ74nLvj1D8Ms2F42V8q2.jpg",
-      "description": "Set on a sleeper train traveling from Glasgow to London, a government agency desperately tries to intervene in the rapidly-escalating events onboard. Can two people who've never met, one on the train and one not, work together to save the lives of its disparate group of passengers as the Heart of Britain service hurtles towards what might quite literally be its final destination?",
-      "releaseInfo": "2024",
+      "name": "Case Histories",
+      "poster": "https://image.tmdb.org/t/p/w342/xghENqyHjSZgsO8ZVKFfeG6ioYu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/29avaBXpQWFASrkibUteOxL4J0L.jpg",
+      "description": "Case Histories is a British drama television series based on the Jackson Brodie detective novels by Kate Atkinson. It stars Jason Isaacs as Jackson Brodie.",
+      "releaseInfo": "2011",
       "genres": [
         "Drama",
         "Crime"
@@ -162,6 +241,45 @@
       ]
     },
     {
+      "id": "tt0098825",
+      "type": "series",
+      "name": "House of Cards",
+      "poster": "https://image.tmdb.org/t/p/w342/rkCSSr8iWecBWPszKenxnytetLs.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fn2wQKo2pfavlTGsFSxgimAx24Q.jpg",
+      "description": "Frustrated at a new moderate Conservative government and deprived of a promotion to a senior position, chief whip Francis Urquhart prepares a meticulous plot to bring down the Prime Minister then to take his place.",
+      "releaseInfo": "1990",
+      "genres": [
+        "War",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0847150",
+      "type": "series",
+      "name": "Sense and Sensibility",
+      "poster": "https://image.tmdb.org/t/p/w342/orYPEKHsB734AFFINcCbjT57Ifa.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kZXRChfXnj6fMHZazE8IBq1KIn5.jpg",
+      "description": "Sense and Sensibility is a 2008 British television drama, based on Jane Austen's 1811 novel of the same name. The screenplay was written by Andrew Davies, who said that the aim of the series was to make viewers forget Ang Lee's 1995 film version. As such, this series was more overtly sexual than previous Austen adaptations, and Davies included scenes featuring a seduction and a duel that are suggested in Austen's novel but absent from the feature film.\n\nA story of two sisters attempting to find happiness in the tightly structured society of 18th century England. Elinor, disciplined, restrained and very conscious of the manners of the day, represents sense. Outspoken, impetuous, emotional Marianne represents sensibility.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt3815412",
+      "type": "series",
+      "name": "Our Girl",
+      "poster": "https://image.tmdb.org/t/p/w342/4RL153WVbce7i9oemTzzBiD6B1Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iE0SftugzCFJ6eV3IznwbiJmGAU.jpg",
+      "description": "Drama following the extraordinary adventures of female medics in the British Army.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
       "id": "tt11847842",
       "type": "series",
       "name": "The Tourist",
@@ -175,55 +293,43 @@
       ]
     },
     {
-      "id": "tt1769411",
+      "id": "tt9204128",
       "type": "series",
-      "name": "Accused",
-      "poster": "https://image.tmdb.org/t/p/w342/cNTmeTD26zh3IGmWbiByHdsk8Ky.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/oY2gPpKUhfUOK2i4Jr7xs0LXLhH.jpg",
-      "description": "How certain people end up being accused of a crime.",
-      "releaseInfo": "2010",
+      "name": "The Mallorca Files",
+      "poster": "https://image.tmdb.org/t/p/w342/jrOSijpP34R1LgbRgxae2aMyzXk.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7zI2O0IzxzXcd2JPmgWqVf72fXU.jpg",
+      "description": "Amongst the vibrant international community of the eponymous Spanish island, a British and a German detective with very different approaches to policing have a clash of personalities. Despite - or perhaps because of - their very different approaches, the sleuths form a perfect complementary partnership as they seek to solve a new crime on the island each week.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt11899030",
+      "type": "series",
+      "name": "The Responder",
+      "poster": "https://image.tmdb.org/t/p/w342/mU51EB4OSEL7oxMIub1Rl7N0xFB.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9TEWo6dVn9cHGuegR2gXkf3J7jI.jpg",
+      "description": "Under pressure, fraying at the edges. In relentless night-time Liverpool, copper Chris is paired with a rookie. Will they save or destroy each other?",
+      "releaseInfo": "2022",
       "genres": [
         "Drama",
         "Crime"
       ]
     },
     {
-      "id": "tt8001226",
+      "id": "tt32409123",
       "type": "series",
-      "name": "The War of the Worlds",
-      "poster": "https://image.tmdb.org/t/p/w342/zcUkFaxUtP3V3YjoS1fh8YRW19H.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xLh6Lkj0J5d4new50BxDHEB7wjj.jpg",
-      "description": "In Edwardian England, George and his partner Amy attempt to defy society and start a life together as they face the escalating terror of an alien invasion, fighting for their lives against an enemy beyond their comprehension.",
-      "releaseInfo": "2019",
+      "name": "Death Valley",
+      "poster": "https://image.tmdb.org/t/p/w342/vFRBR439sIshJenXDM0TqxyULyl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8Pa1IbBJ1FKbNeLagFZ23hjRCw.jpg",
+      "description": "Thrown together by the murder of John's neighbour, John and Janie are an odd, yet hilarious duo with opposing instincts. Every week, they get to the bottom of gripping murders, with various stunning Welsh locations providing a backdrop to their investigations.",
+      "releaseInfo": "2025",
       "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0908454",
-      "type": "series",
-      "name": "Gavin & Stacey",
-      "poster": "https://image.tmdb.org/t/p/w342/jNpySE7Rwq1DlhHadMZnGquralv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/u0TtCgIEHdZAX0Ta5V3YbyvDK5D.jpg",
-      "description": "Essex and Wales collide when Gavin and Stacey fall in love - bringing their friends, family and baggage with them.",
-      "releaseInfo": "2007",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1782352",
-      "type": "series",
-      "name": "Upstairs Downstairs",
-      "poster": "https://image.tmdb.org/t/p/w342/hGh87w2j5huGJeV4VVtnPoR42FZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pwUsveFRhYg9XOYMzCCESz40j7X.jpg",
-      "description": "Set in 1936, the show takes viewers, old and new, back to the lavish world of Belgravia, London. A new set of occupants reside at 165 Eaton Place and viewers see how external and internal influences of the tumultuous pre-war period shape and mould the lives of this wealthy family and their servants.‬",
-      "releaseInfo": "2010",
-      "genres": [
-        "Drama"
+        "Mystery",
+        "Drama",
+        "Comedy"
       ]
     },
     {
@@ -241,326 +347,41 @@
       ]
     },
     {
-      "id": "tt0847150",
+      "id": "tt6712390",
       "type": "series",
-      "name": "Sense and Sensibility",
-      "poster": "https://image.tmdb.org/t/p/w342/orYPEKHsB734AFFINcCbjT57Ifa.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kZXRChfXnj6fMHZazE8IBq1KIn5.jpg",
-      "description": "Sense and Sensibility is a 2008 British television drama, based on Jane Austen's 1811 novel of the same name. The screenplay was written by Andrew Davies, who said that the aim of the series was to make viewers forget Ang Lee's 1995 film version. As such, this series was more overtly sexual than previous Austen adaptations, and Davies included scenes featuring a seduction and a duel that are suggested in Austen's novel but absent from the feature film.\n\nA story of two sisters attempting to find happiness in the tightly structured society of 18th century England. Elinor, disciplined, restrained and very conscious of the manners of the day, represents sense. Outspoken, impetuous, emotional Marianne represents sensibility.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt5194866",
-      "type": "series",
-      "name": "The Coroner",
-      "poster": "https://image.tmdb.org/t/p/w342/AaGkUBncNAkL0fDcjSWLEp4EAE1.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qLqPeZp195bA1GuTPgxxfCJJPwa.jpg",
-      "description": "High-flying solicitor Jane Kennedy returns to the seaside town she left as a teenager to take up the post of coroner, becoming an advocate for the dead as she investigates sudden, violent or unexplained deaths.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0163492",
-      "type": "series",
-      "name": "Sherlock Holmes",
-      "poster": "https://image.tmdb.org/t/p/w342/jR55Mp5TG9vOBBbTQonPphJQSk2.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ugCPYic47kfffoEdXESqGTbgGtu.jpg",
-      "description": "Sherlock Holmes (also known as 'Sir Arthur Conan Doyle's Sherlock Holmes') is a series of Sherlock Holmes adaptations produced by British television company BBC between 1964 and 1968. This was the second screen adaption of Sherlock Holmes for BBC Television.",
-      "releaseInfo": "1964",
-      "genres": [
-        "Mystery",
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2391224",
-      "type": "series",
-      "name": "The Paradise",
-      "poster": "https://image.tmdb.org/t/p/w342/csvd77VNfTutFjm7jVsijLn2SYB.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kItI3VSy7oBF1ANuF6J2KPeYoA9.jpg",
-      "description": "An intoxicating love story set in England's first department store in the 1870s. The Paradise revolves around the lives of the people who live and work in the store, each bound in their own way by the power of the world they live in, and the pasts that follow them there. A love story, mystery, and social comedy all in one.\n\n",
-      "releaseInfo": "2012",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt4793190",
-      "type": "series",
-      "name": "Upstart Crow",
-      "poster": "https://image.tmdb.org/t/p/w342/aaCefKIYilykJ8e7HA04wyo4RIw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mu6TpbM5uNSwLO61djH4XmHuyoz.jpg",
-      "description": "Comedy about the life and times of William Shakespeare as he starts to make a name for himself in London, whilst also trying to balance life as a husband and father for his family in Stratford-upon-Avon.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt6271042",
-      "type": "series",
-      "name": "McMafia",
-      "poster": "https://image.tmdb.org/t/p/w342/jdt7RFfVCGWrNnrxeQ0Us9kGhJu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8uJPiVNMjjVUHgnCb3de1nSv0L5.jpg",
-      "description": "Alex Godman, the English-raised son of Russian mafia exiles, has spent his life trying to escape the shadow of their past, building his own legitimate business and forging a life with his girlfriend Rebecca. But when a murder forces his family's past to return to threaten them, Alex is drawn into the criminal underworld and must confront his values to protect those he loves.",
+      "name": "Requiem",
+      "poster": "https://image.tmdb.org/t/p/w342/ahEpW6eJIc5CT3GECpXDG477aC4.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hXaXiqm9AFiSLtjZIJ4pJ0xL6ol.jpg",
+      "description": "In 1994, a toddler disappeared from a small Welsh village, never to be seen again. 23 years later, in London, the mother of rising cello star Matilda Gray commits suicide, without apparent reason. Among her possessions, Matilda discovers tantalising evidence, linking her mother to the Welsh girl's disappearance all those years ago.",
       "releaseInfo": "2018",
       "genres": [
-        "Crime",
+        "Mystery",
         "Drama"
       ]
     },
     {
-      "id": "tt0442632",
+      "id": "tt9179616",
       "type": "series",
-      "name": "Bleak House",
-      "poster": "https://image.tmdb.org/t/p/w342/gEXvWTXCQogRIKlUWBLrj5ihOWi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xaGmyVtVtXyNUohYkmA7Z42MUBT.jpg",
-      "description": "The generous John Jarndyce, struggling with his own past, and his two young wards Richard and Ada, are all caught up, like Lady Dedlock, in the infamous case of Jarndyce vs. Jarndyce, which will make one of them rich beyond imagination if it can ever be brought to a conclusion. As Tulkinghorn digs deeper into Lady Dedlock's past, he unearths a secret that will change their lives forever, and which is almost as astounding as the final outcome of the Jarndyce case.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0417349",
-      "type": "series",
-      "name": "North & South",
-      "poster": "https://image.tmdb.org/t/p/w342/djdM8JblEUsJN23vXd869X7ACQE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/aq5TZCcSnML58dEds2ksbCELrKN.jpg",
-      "description": "Margaret Hale is a southerner from a country vicarage newly settled in the industrial northern town of Milton. In the shock of her move, she misjudges charismatic cotton mill-owner John Thornton, whose strength of purpose and passion are a match for her own pride and willfulness. When the workers of Milton call a strike, Margaret takes their side, and the two are brought into deeper conflict. As events spiral out of control, Margaret - to her surprise - begins to fall in love with Thornton...",
-      "releaseInfo": "2004",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt11771270",
-      "type": "series",
-      "name": "The English",
-      "poster": "https://image.tmdb.org/t/p/w342/aAFAwxj0VzBRyX5biAHUJM73qYG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/eenxjEAPwPbkjN6W5ZzTbfLA4GM.jpg",
-      "description": "An aristocratic Englishwoman, Lady Cornelia Locke, arrives into the new and wild landscape of the American West to wreak revenge on the man she sees as responsible for the death of her son.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Drama",
-        "Western"
-      ]
-    },
-    {
-      "id": "tt8694364",
-      "type": "series",
-      "name": "Years and Years",
-      "poster": "https://image.tmdb.org/t/p/w342/u1FBsyMH9Tx7K5yzMnJsYRvNEKQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/95DOsfIpXweztOlzGBU1bnePCIS.jpg",
-      "description": "As Britain is rocked by unstable political, economic and technological advances, members of the Lyons family converge on one crucial night in 2019. Over the next 15 years, the twists and turns of their everyday lives are explored as we find out if this ordinary family could change the world.",
+      "name": "Vienna Blood",
+      "poster": "https://image.tmdb.org/t/p/w342/wHIkllx1obFjEeI7z558QLoRhiU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2zg0XXoZFqF4XmxwNJHR3lbvctY.jpg",
+      "description": "Max Liebermann, a student of Sigmund Freud, helps Detective Rheinhardt in the investigation of a series of disturbing murders around the grand cafes and opera houses of 1900s Vienna.",
       "releaseInfo": "2019",
       "genres": [
-        "Drama",
-        "War",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt13138834",
-      "type": "series",
-      "name": "Time",
-      "poster": "https://image.tmdb.org/t/p/w342/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gJahHqSvFrBjjt3AX6oOL2B0yMP.jpg",
-      "description": "Guilt, violence and impossible choices – what does it take to survive? Tense, gritty and heartbreaking – Jimmy McGovern's award-winning prison drama, with an all-star cast.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt38504111",
-      "type": "series",
-      "name": "Small Prophets",
-      "poster": "https://image.tmdb.org/t/p/w342/dwa5S9efdYhnxMBjUtRdrmlHT5e.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
-      "description": "The magical and mundane unfold in a suburban shed as a lonely man stumbles on the supernatural.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Comedy",
+        "Crime",
         "Drama",
         "Mystery"
       ]
     },
     {
-      "id": "tt7631146",
+      "id": "tt0974077",
       "type": "series",
-      "name": "The Split",
-      "poster": "https://image.tmdb.org/t/p/w342/vOxXjqBNGXTjZeYCsEebljiDkLj.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kZA1PConTaVJQH2lAgvGB6VEO2b.jpg",
-      "description": "The Defoes, a family of female divorce lawyers, are forced to face their past following the return of their estranged father after a 30 year absence.",
-      "releaseInfo": "2018",
+      "name": "Cranford",
+      "poster": "https://image.tmdb.org/t/p/w342/3CgVhZLCs8Owf01a4YMcX9fqezI.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2WQa9vZhgvW5T4ciD8XfjORkMaQ.jpg",
+      "description": "A rich and comic drama about the people of Cranford, a small Cheshire town on the cusp of change in the 1840s. Adapted from the novels by Elizabeth Gaskell.",
+      "releaseInfo": "2007",
       "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt7639280",
-      "type": "series",
-      "name": "Man Like Mobeen",
-      "poster": "https://image.tmdb.org/t/p/w342/eldYxHJQDGrOGi0NHoEURzAWcUS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/r6MmTYatDwJo3KAbOeksN7Qolcd.jpg",
-      "description": "All Mobeen wants to do is follow his faith, lead a good life and keep his little sister on track. But with his dodgy past chasing him, can he stay on the right side of wrong?",
-      "releaseInfo": "2017",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1778108",
-      "type": "series",
-      "name": "The Hour",
-      "poster": "https://image.tmdb.org/t/p/w342/72JWVRK6VvqNx1gYumVxhtoXc03.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jINW7XYCw3tHDdvtHj2nmhfOzPc.jpg",
-      "description": "A behind-the-scenes drama and espionage thriller in Cold War-era England that centers on a journalist, a producer, and an anchorman for an investigative news programme.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Drama",
-        "War",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt4602768",
-      "type": "series",
-      "name": "Doctor Foster",
-      "poster": "https://image.tmdb.org/t/p/w342/gJiaterDM3tZ2yioR24RzJpLhzD.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6D7xmI8NJJMJKCsN1wH5oQdP64w.jpg",
-      "description": "A woman suspects her husband of having an affair. After following several lines of enquiries far more unravels including a streak of violence below the surface.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1178522",
-      "type": "series",
-      "name": "Little Dorrit",
-      "poster": "https://image.tmdb.org/t/p/w342/5CTWoruhvpCGiR9PavoARnnV8Y1.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/m45Nb3j5Ln2gckv43zaflggi1Ta.jpg",
-      "description": "Amy Dorrit spends her days earning money for the family and looking after her proud father who is a long term inmate of Marshalsea debtors' prison in London. Amy and her family's world is transformed when her employer's son, Arthur Clennam, returns from overseas to solve his family's mysterious legacy and discovers that their lives are interlinked.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0085037",
-      "type": "series",
-      "name": "Jane Eyre",
-      "poster": "https://image.tmdb.org/t/p/w342/nPl4tm54apPRIwkBda1pogWprAv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7GvyqztUEwXZ2klDAAEyRtVr2WE.jpg",
-      "description": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meets the dark, cold, and abrupt master of the house, Edward Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Rochester's terrible secret be about to destroy it forever?",
-      "releaseInfo": "1983",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0475047",
-      "type": "series",
-      "name": "Hotel Babylon",
-      "poster": "https://image.tmdb.org/t/p/w342/yKMpHmpM4yHWROcl8o4pqYwjta3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bWDxhxboTnjDjWxI65Fnfn6ohyM.jpg",
-      "description": "Hotel Babylon is a British television drama series based on the book of the same name by Imogen Edwards-Jones. The show followed the lives of workers at a glamorous five-star hotel.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt3815412",
-      "type": "series",
-      "name": "Our Girl",
-      "poster": "https://image.tmdb.org/t/p/w342/4RL153WVbce7i9oemTzzBiD6B1Q.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iE0SftugzCFJ6eV3IznwbiJmGAU.jpg",
-      "description": "Drama following the extraordinary adventures of female medics in the British Army.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Drama",
-        "War"
-      ]
-    },
-    {
-      "id": "tt1748888",
-      "type": "series",
-      "name": "Case Histories",
-      "poster": "https://image.tmdb.org/t/p/w342/xghENqyHjSZgsO8ZVKFfeG6ioYu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/29avaBXpQWFASrkibUteOxL4J0L.jpg",
-      "description": "Case Histories is a British drama television series based on the Jackson Brodie detective novels by Kate Atkinson. It stars Jason Isaacs as Jackson Brodie.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt0876219",
-      "type": "series",
-      "name": "Young Dracula",
-      "poster": "https://image.tmdb.org/t/p/w342/nKNtYVK2vhJudSOCDjhCtqAAZpa.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2ZTPDS1BNTgWggSlLLCKBMiqqWz.jpg",
-      "description": "The misadventures of Vlad and Ingrid, who have moved to Britain from Transylvania with their father Count Dracula.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Family",
-        "Drama",
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt11899030",
-      "type": "series",
-      "name": "The Responder",
-      "poster": "https://image.tmdb.org/t/p/w342/mU51EB4OSEL7oxMIub1Rl7N0xFB.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9TEWo6dVn9cHGuegR2gXkf3J7jI.jpg",
-      "description": "Under pressure, fraying at the edges. In relentless night-time Liverpool, copper Chris is paired with a rookie. Will they save or destroy each other?",
-      "releaseInfo": "2022",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt0215364",
-      "type": "series",
-      "name": "Wives and Daughters",
-      "poster": "https://image.tmdb.org/t/p/w342/5HqWMg33tuYiySjggZGCdX3dH6A.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2rjvzbH8zWSXs6BgVMxX7oJPwEP.jpg",
-      "description": "The life of doctor's daughter Molly Gibson changes gradually after her widowed father chooses to remarry. The union brings into her once-quiet life an ever-proper stepmother and flirtatious stepsister, Cynthia, while a friendship with the local squire brings about an unexpected romance.",
-      "releaseInfo": "1999",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2006374",
-      "type": "series",
-      "name": "Copper",
-      "poster": "https://image.tmdb.org/t/p/w342/z2oQu8SipXvlnlrJrt6gZ47D408.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/q4GFazIt2wqhkah7T5C7QTiXuZO.jpg",
-      "description": "Kevin Corcoran is a rugged young Irish immigrant policeman trying to keep the peace in the historical Five Points neighborhood in 1860s New York City while searching for information on the disappearance of his wife and death of his daughter.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Action",
-        "Adventure",
         "Drama"
       ]
     },
@@ -579,55 +400,55 @@
       ]
     },
     {
-      "id": "tt8681148",
+      "id": "tt31438328",
       "type": "series",
-      "name": "This Is Going to Hurt",
-      "poster": "https://image.tmdb.org/t/p/w342/pzr43c48eKRTfHCkspWia2J35Fw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/icgOrvpT7ANec2rBdzZQPwB7Ykj.jpg",
-      "description": "The unvarnished truth of life as a doctor working in obstetrics and gynaecology.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt32409123",
-      "type": "series",
-      "name": "Death Valley",
-      "poster": "https://image.tmdb.org/t/p/w342/vFRBR439sIshJenXDM0TqxyULyl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8Pa1IbBJ1FKbNeLagFZ23hjRCw.jpg",
-      "description": "Thrown together by the murder of John's neighbour, John and Janie are an odd, yet hilarious duo with opposing instincts. Every week, they get to the bottom of gripping murders, with various stunning Welsh locations providing a backdrop to their investigations.",
+      "name": "This City Is Ours",
+      "poster": "https://image.tmdb.org/t/p/w342/fQpJFVWX8MCdOkwoutDw7tjhvgp.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vfe1cSviBFnNcgk76jwgdb5Wyek.jpg",
+      "description": "Notorious gang boss Ronnie (Sean Bean) steps back from his criminal empire, triggering a violent power struggle between his volatile son Jamie (Jack McMullen) and trusted lieutenant Michael (James Nelson Joyce), who sees his chance to seize control. As rivalries ignite and loyalties fracture, the family behind the city’s cocaine trade descends into open war.",
       "releaseInfo": "2025",
       "genres": [
-        "Mystery",
         "Drama",
-        "Comedy"
+        "Crime"
       ]
     },
     {
-      "id": "tt0435995",
+      "id": "tt0080297",
       "type": "series",
-      "name": "To the Ends of the Earth",
-      "poster": "https://image.tmdb.org/t/p/w342/bMBn5C3MTjb8aQpM8lN0sotj9uG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/63m3snpQuRxxDXDTkzvWQfOrL8.jpg",
-      "description": "From Nobel Laureate William Golding's (Lord of the Flies) epic sea-voyage trilogy comes the story of an ambitious British aristocrat, humbled by the lives of his fellow passengers, as he embarks on an ocean voyage for Australia where he is to be an official in the colonial government.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0098825",
-      "type": "series",
-      "name": "House of Cards",
-      "poster": "https://image.tmdb.org/t/p/w342/rkCSSr8iWecBWPszKenxnytetLs.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fn2wQKo2pfavlTGsFSxgimAx24Q.jpg",
-      "description": "Frustrated at a new moderate Conservative government and deprived of a promotion to a senior position, chief whip Francis Urquhart prepares a meticulous plot to bring down the Prime Minister then to take his place.",
-      "releaseInfo": "1990",
+      "name": "Tinker Tailor Soldier Spy",
+      "poster": "https://image.tmdb.org/t/p/w342/3HlMztiMrTnhU1u807MGUizEXxH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6IPIqdc7J0hXxTgWjzfgk6DRTXX.jpg",
+      "description": "Tinker Tailor Soldier Spy is a seven-part BBC2 spy drama written by Arthur Hopcraft, adapted from John le Carré's eponymous 1974 novel. The serial, which stars Alec Guinness, Alexander Knox, Ian Richardson, Michael Jayston, Bernard Hepton, Anthony Bate, Ian Bannen, George Sewell and Michael Aldridge, was broadcast from 10 September to 22 October 1979.\n\nGeorge Smiley, the ageing master spy of the Cold War and once heir-apparent to Control, is brought back out of retirement to flush out a top level mole within the Circus. Smiley must travel back through his life and murky workings of the Circus to unravel the net spun by his nemesis Karla 'The Sandman' of the KGB and reveal the identity of the mole before he disappears.",
+      "releaseInfo": "1979",
       "genres": [
         "War",
-        "Comedy",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt2575968",
+      "type": "series",
+      "name": "Hinterland",
+      "poster": "https://image.tmdb.org/t/p/w342/5embjatUwLawjCYNKKhwnJwmO3p.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aPtygCQY7FOBO0Ns3bKhafR9HrI.jpg",
+      "description": "Tom Mathias comes to Aberystwyth having abandoned his life in London. He's a brilliant but troubled man. Despite his faults he is an excellent detective, who knows that the key to solving the crime lies not in where you look for truth, but how you look.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0085037",
+      "type": "series",
+      "name": "Jane Eyre",
+      "poster": "https://image.tmdb.org/t/p/w342/nPl4tm54apPRIwkBda1pogWprAv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7GvyqztUEwXZ2klDAAEyRtVr2WE.jpg",
+      "description": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meets the dark, cold, and abrupt master of the house, Edward Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Rochester's terrible secret be about to destroy it forever?",
+      "releaseInfo": "1983",
+      "genres": [
         "Drama"
       ]
     },
@@ -645,34 +466,6 @@
       ]
     },
     {
-      "id": "tt0072572",
-      "type": "series",
-      "name": "Survivors",
-      "poster": "https://image.tmdb.org/t/p/w342/djYiHmLuom48ja9g712ZIiHgRbP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8X5V5KuqWUk80wf8ZRuuN9hYe1r.jpg",
-      "description": "Survivors is a British post-apocalyptic fiction television series devised by Terry Nation and produced by Terence Dudley at the BBC from 1975 to 1977. It concerns the plight of a group of people who have survived an accidentally released plague – referred to as \"The Death\" – that kills nearly the entire human population of the planet.",
-      "releaseInfo": "1975",
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt10948716",
-      "type": "series",
-      "name": "Inside Man",
-      "poster": "https://image.tmdb.org/t/p/w342/7tZONSnzKylgzHJvtoOGjRmYlgU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bqopwxfw2Sd30gPDfUUFflCpjtK.jpg",
-      "description": "A prisoner on death row in the US, a vicar in a quiet English town, and a maths teacher trapped in a cellar cross paths in the most unexpected way.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt19050000",
       "type": "series",
       "name": "Rain Dogs",
@@ -683,132 +476,6 @@
       "genres": [
         "Drama",
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt2299141",
-      "type": "series",
-      "name": "The Syndicate",
-      "poster": "https://image.tmdb.org/t/p/w342/4vn6Xpj5H67rGCc0syxiIVFpmZS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4XQRsr1MgxFrvzcne9NFFAzYe3W.jpg",
-      "description": "A drama exploring how winning the lottery transforms the lives of ordinary people.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt31438328",
-      "type": "series",
-      "name": "This City Is Ours",
-      "poster": "https://image.tmdb.org/t/p/w342/fQpJFVWX8MCdOkwoutDw7tjhvgp.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vfe1cSviBFnNcgk76jwgdb5Wyek.jpg",
-      "description": "Notorious gang boss Ronnie (Sean Bean) steps back from his criminal empire, triggering a violent power struggle between his volatile son Jamie (Jack McMullen) and trusted lieutenant Michael (James Nelson Joyce), who sees his chance to seize control. As rivalries ignite and loyalties fracture, the family behind the city’s cocaine trade descends into open war.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt10016724",
-      "type": "series",
-      "name": "Orphan Black: Echoes",
-      "poster": "https://image.tmdb.org/t/p/w342/iz8w67Q6pJBB7JJiczA95YlHrfG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/uz9xYdqbECij0vAUWqCcKVKVLzm.jpg",
-      "description": "In the near future, a group of women weave their way into each other's lives and embark on a thrilling journey, unravelling the mystery of their identity and uncovering a wrenching story of love and betrayal.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt6859806",
-      "type": "series",
-      "name": "Mrs Wilson",
-      "poster": "https://image.tmdb.org/t/p/w342/vD8SzDX7mUbMM3wxqw5okaiwFOh.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bj1rMa0MT077Vgz5x3JMbRbzlUN.jpg",
-      "description": "After the sudden death of ex-Secret Intelligence Service man Alexander, his wife Alison investigates when mysteries from her husband's past come knocking.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt11204260",
-      "type": "series",
-      "name": "I May Destroy You",
-      "poster": "https://image.tmdb.org/t/p/w342/9awmdcJsukBEY5Er8t4Vi1Ji7YX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sk7QfJtxgonCupN7Hx0jgOfNbE3.jpg",
-      "description": "Set in London, where gratification is only an app away, the story centers on Arabella,  a carefree, self-assured Londoner with a group of great friends, a boyfriend in Italy, and a burgeoning writing career. But when her drink is spiked, she must question and rebuild every element of her life.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt11719808",
-      "type": "series",
-      "name": "Smother",
-      "poster": "https://image.tmdb.org/t/p/w342/liE0KylYp5uzqONbDT07bVUUNUa.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/irOWKJO2OXBwAwUtsVDsf6JS3qM.jpg",
-      "description": "On the rugged coast of County Clare, Val Ahern's husband is found dead at the foot of a cliff the morning after a family party. The matriarch starts to dig into the family's secrets to find out who might be responsible.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt6938856",
-      "type": "series",
-      "name": "A Very English Scandal",
-      "poster": "https://image.tmdb.org/t/p/w342/xQU99bLRjTegRSGScLDVqpcx5QV.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hEgzWYtXzbPVpNDWfAE9m273j6D.jpg",
-      "description": "It's the late 1960s, homosexuality has only just been legalised and Jeremy Thorpe, the leader of the Liberal party, has a secret he's desperate to hide.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt8571906",
-      "type": "series",
-      "name": "London Kills",
-      "poster": "https://image.tmdb.org/t/p/w342/9YqT6OWah3zQfFMFQGLzQHDObcq.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7k21NnwnMnHQwJfv6WjDGnW8IvI.jpg",
-      "description": "With a documentary style delivery, this drama tells the story of a team of top murder detectives with each episode featuring a different murder while also following a serialized story involving the lead detective’s missing wife.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt1270367",
-      "type": "series",
-      "name": "How Not to Live Your Life",
-      "poster": "https://image.tmdb.org/t/p/w342/1R9QAs40TeF8o8uG5QbHvOAvPu0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6rAfCGjuTbEU1Pm1PXoWdlPlsu6.jpg",
-      "description": "Sitcom about 20-something Don, a man with bad luck and even worse instincts. Don's overactive imagination is always in full flow in the form of quick-fire fantasy sequences as he imagines what he would really like to say.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0115390",
-      "type": "series",
-      "name": "This Life",
-      "poster": "https://image.tmdb.org/t/p/w342/wC8V4g0AsyWO6ZFCRqg7bkNsmVC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wkQRvJEExw8vdwNU0Hbo4rZ62Vp.jpg",
-      "description": "Five aspiring lawyers are aiming for the top - but behind the scenes they're a mess of love, drugs and excess.",
-      "releaseInfo": "1996",
-      "genres": [
-        "Drama"
       ]
     },
     {
@@ -825,254 +492,109 @@
       ]
     },
     {
-      "id": "tt4258440",
+      "id": "tt3877200",
       "type": "series",
-      "name": "River",
-      "poster": "https://image.tmdb.org/t/p/w342/fhiVcu9RA3MEVQtMowwQUsHJfJR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sryK4G2U27mWAiuKk7v63uSbmto.jpg",
-      "description": "Respected police officer John River, a gifted cop with a troubled mind, struggles to come to terms with the recent loss of a colleague, and chases a suspect across London - with tragic consequences. Now at odds with the authorities, River ends up in a precarious position as he seeks to bring closure to the mother of murdered teenager, who blames him for failing to keep his promise.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt1366312",
-      "type": "series",
-      "name": "Emma",
-      "poster": "https://image.tmdb.org/t/p/w342/nwTYHGzc4wtf8uFWwXAaUQH94Jx.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/t6L5QIqmiHyH94yVbzofoQ7ZHF4.jpg",
-      "description": "Emma Woodhouse is a congenial young lady who delights in meddling in other people’s affairs. She is perpetually trying to unite men and women who are utterly wrong for each other. Despite her interest in romance, Emma is clueless about her own feelings, and her relationship with gentle Mr. Knightley.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt4108134",
-      "type": "series",
-      "name": "London Spy",
-      "poster": "https://image.tmdb.org/t/p/w342/whE6eWgDpmAP93mB6vGvIzu4SK5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/q4mwUw7Vu983QuLQDbzf6zWLZLr.jpg",
-      "description": "A chance romance between two men from very different worlds, one from the headquarters of the Secret Intelligence Service, the other from a world of clubbing and youthful excess, leads into mystery after one of them suddenly disappears.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt7660730",
-      "type": "series",
-      "name": "Black Earth Rising",
-      "poster": "https://image.tmdb.org/t/p/w342/77MPYFMYiMi0PFXk1Kr5Nv9yaO7.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wikVrWQckbFT1ukTAQLPjU3PfAH.jpg",
-      "description": "As a child, Kate Ashby was rescued from the horrific aftermath of the Rwandan genocide and brought to the UK. But the tragic shadow of her past proves impossible to escape.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt7768192",
-      "type": "series",
-      "name": "Dublin Murders",
-      "poster": "https://image.tmdb.org/t/p/w342/3olPAGfJXQ9epf8kFCGzg9B34hR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fgkxlmFgku6X6G2a6Qmve28q7Ta.jpg",
-      "description": "Two detectives are dispatched to investigate the murder of a young girl on the outskirts of Dublin, but as the case of the missing children intensifies, both are forced to confront the darkness that lies in their past.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt6118426",
-      "type": "series",
-      "name": "Ordeal by Innocence",
-      "poster": "https://image.tmdb.org/t/p/w342/fCNgaOIViqrFyo9duHUd76h50BZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pbiH13zw34FPkZm396zFliiqiBU.jpg",
-      "description": "The black sheep of the Argyll family, Jack Argyll, was accused of murdering their matriarch a year ago, but now a man shows up on their doorstep claiming Jack’s innocence. The family must come to terms with this news and the fact that the real killer might still be among them.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0086665",
-      "type": "series",
-      "name": "Auf Wiedersehen, Pet",
-      "poster": "https://image.tmdb.org/t/p/w342/zm2idxDPAVDx97mF3neoJn9MhmY.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/aQEVbp9tpy6gFMbZdQAjpKcsnOH.jpg",
-      "description": "Seven British construction workers escape Britain's ever growing dole queues and travel to Germany to work on a site in Dusseldorf. We follow their trials and tribulations of working away from home and away from the women they left behind.",
-      "releaseInfo": "1983",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0497298",
-      "type": "series",
-      "name": "Jekyll",
-      "poster": "https://image.tmdb.org/t/p/w342/7ZFjQbziDY9zyt03mIcE0Ydz8xq.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qk3ppV3UCxLKfKkkKPoLFqbch9c.jpg",
-      "description": "Tom Jackman is learning to cope with his alter ego, the dark and mysterious Hyde, who threatens his life and family. They also have to live in the same body while on the run from a mysterious organization that is hunting them.",
-      "releaseInfo": "2007",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt6853528",
-      "type": "series",
-      "name": "Little Women",
-      "poster": "https://image.tmdb.org/t/p/w342/6qzMhtTyNwpaAthrAbojojfHWrs.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hQAFYlWxwZntIo5LLJAMOxjN21y.jpg",
-      "description": "Set against the backdrop of the American Civil War, the story follows sisters Jo, Meg, Beth and Amy March on their journey from childhood to adulthood. With the help of their mother, Marmee, and while their father is away at war, the girls navigate what it means to be a young woman: from sibling rivalry and first love, to loss and marriage.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt6563112",
-      "type": "series",
-      "name": "Clique",
-      "poster": "https://image.tmdb.org/t/p/w342/4xvuHbroZNZlp2QHvGpmc6gI8dv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/74IWV5N2nVOBd67i1HLQRhYuDpK.jpg",
-      "description": "In the first year of uni, childhood best friends Holly and Georgia find themselves drawn to an elite clique. When Holly begins to suspect darkness lurks beneath the glamour, she will do anything to save her soulmate.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt32059608",
-      "type": "series",
-      "name": "Return to Paradise",
-      "poster": "https://image.tmdb.org/t/p/w342/7Hx7H3MndGK4c4joXKeEW9GIeqs.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5vcVf5hDtnKQVmHj9RSIaVwwvlx.jpg",
-      "description": "DI Mackenzie Clarke is forced to leave London under a cloud of suspicion and return to the last place she ever wanted to be, her hometown of Dolphin Cove, Australia where her tenacity and work ethic helps her solve murder mysteries.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Crime",
-        "Mystery",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt8594510",
-      "type": "series",
-      "name": "Back to Life",
-      "poster": "https://image.tmdb.org/t/p/w342/opMb4UHDVKCVSknT5DIPUaSRaSP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kt7vFlGFZ5e07bx4U66LzWJkzV7.jpg",
-      "description": "When Miri Matteson returns home after eighteen years, can she integrate back into her old life? With a terrible event from her past hanging over her, it won’t be easy.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0167872",
-      "type": "series",
-      "name": "David Copperfield",
-      "poster": "https://image.tmdb.org/t/p/w342/73lKcw5bFmSD8lL0XuMbfYO29rO.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5Gl5dDr32fwl4qhH1UQM9dgRJra.jpg",
-      "description": "A young man journeys from a difficult childhood to maturity, exploring social injustice, personal development, and the complexities of human relationships.",
-      "releaseInfo": "1999",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0090424",
-      "type": "series",
-      "name": "Edge of Darkness",
-      "poster": "https://image.tmdb.org/t/p/w342/2etMft3bSdXC6xqhEWSXVb0IjLv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2VhhbaXuzbOAaurZNEyBNknkgdK.jpg",
-      "description": "Environmental activist Emma Craven is murdered in front of her father, local police inspector Ronald Craven. Investigating the death leads him through a haunting revelation of the murkiness of British nuclear policy of the 1980s.",
-      "releaseInfo": "1985",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1188927",
-      "type": "series",
-      "name": "Criminal Justice",
-      "poster": "https://image.tmdb.org/t/p/w342/b9eHNNoUGju7P5Q2Ez5Kxu4fzst.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/oeTTGsDwxmvUpE3dia5GBvwdTx1.jpg",
-      "description": "Thriller by Peter Moffat about the challenges and politics of the criminal justice system seen through the eyes of the accused.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt8001092",
-      "type": "series",
-      "name": "World on Fire",
-      "poster": "https://image.tmdb.org/t/p/w342/ecOAfSr6sWhX0rOLzNbb3lcMMhb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7EljsQNh2DiOCmu9HnQIHEXpO9E.jpg",
-      "description": "The story of World War II told through the intertwining fates of ordinary people from all sides of this global conflict as they grapple with the effect of the war on their everyday lives.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama",
-        "War"
-      ]
-    },
-    {
-      "id": "tt3159736",
-      "type": "series",
-      "name": "The Game",
-      "poster": "https://image.tmdb.org/t/p/w342/xhdl84crUXv0Jc5LXEQaArsRF7N.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iIvJ5NYpqcfr6tJ10m3Upt733wd.jpg",
-      "description": "\"The Game\" is a 1970s Cold War spy thriller set in the world of espionage. It tells the story of the invisible war fought by MI5 as it battles to protect the nation from the threats of the Cold War.",
+      "name": "The Missing",
+      "poster": "https://image.tmdb.org/t/p/w342/yZnR6EccMv4Evcady5M8MSzAmuq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6LNiGx7KfdTPrIkkl6MjAXaDHmJ.jpg",
+      "description": "A gripping anthological relationship thriller series exploring the emotional fallout of a child's abduction not only on the family but on the wider community, told over two time frames.",
       "releaseInfo": "2014",
       "genres": [
-        "War",
-        "Drama",
         "Crime",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt1596589",
-      "type": "series",
-      "name": "Angry Boys",
-      "poster": "https://image.tmdb.org/t/p/w342/kviE2G5B4X5SfuQOITDkKhyYepH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3GBkukPGWm8oC5kMUetR9UrEalL.jpg",
-      "description": "Angry Boys is an Australian television mockumentary series written by and starring Chris Lilley. Continuing the mockumentary style of his previous series, the show explores the issues faced by young males in the 21st century – their influences, their pressures, their dreams and ambitions. In Angry Boys, Lilley plays multiple characters: S.mouse, an American rapper; Jen, a manipulative Japanese mother; Blake Oakfield, a champion surfer; Ruth \"Gran\" Sims, a guard at a juvenile detention facility; and her grandchildren, South Australian twins Daniel and Nathan Sims.\n\nThe series is a co-production between the Australian Broadcasting Corporation and US cable channel HBO, with a pre-sale to BBC Three in the United Kingdom. Filmed in Melbourne, Los Angeles and Tokyo, Angry Boys premièred on 11 May 2011 at 9:00 pm on ABC1.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt9059820",
-      "type": "series",
-      "name": "The Nest",
-      "poster": "https://image.tmdb.org/t/p/w342/qr1ZznOW49uVUsI3pw7LY4JFUF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/uXo7iDtDgphcHUNrYhmRKqWkdZK.jpg",
-      "description": "Happy couple Dan and Emily live in a huge house just outside Glasgow and want for nothing, save a baby of their own. Through a chance encounter they meet Kaya, an 18-year-old from the other side of the city, whose life is as precarious as theirs is comfortable. When Kaya agrees to carry their baby, it feels like they were meant to meet, but was it really by chance?",
-      "releaseInfo": "2020",
-      "genres": [
         "Drama",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt0908454",
+      "type": "series",
+      "name": "Gavin & Stacey",
+      "poster": "https://image.tmdb.org/t/p/w342/jNpySE7Rwq1DlhHadMZnGquralv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/u0TtCgIEHdZAX0Ta5V3YbyvDK5D.jpg",
+      "description": "Essex and Wales collide when Gavin and Stacey fall in love - bringing their friends, family and baggage with them.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt11204260",
+      "type": "series",
+      "name": "I May Destroy You",
+      "poster": "https://image.tmdb.org/t/p/w342/9awmdcJsukBEY5Er8t4Vi1Ji7YX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sk7QfJtxgonCupN7Hx0jgOfNbE3.jpg",
+      "description": "Set in London, where gratification is only an app away, the story centers on Arabella,  a carefree, self-assured Londoner with a group of great friends, a boyfriend in Italy, and a burgeoning writing career. But when her drink is spiked, she must question and rebuild every element of her life.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt5194866",
+      "type": "series",
+      "name": "The Coroner",
+      "poster": "https://image.tmdb.org/t/p/w342/AaGkUBncNAkL0fDcjSWLEp4EAE1.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qLqPeZp195bA1GuTPgxxfCJJPwa.jpg",
+      "description": "High-flying solicitor Jane Kennedy returns to the seaside town she left as a teenager to take up the post of coroner, becoming an advocate for the dead as she investigates sudden, violent or unexplained deaths.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt24133138",
+      "type": "series",
+      "name": "Nightsleeper",
+      "poster": "https://image.tmdb.org/t/p/w342/twMzmcKkJpftjhYyrPXETddN08R.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5mKnTUZQ74nLvj1D8Ms2F42V8q2.jpg",
+      "description": "Set on a sleeper train traveling from Glasgow to London, a government agency desperately tries to intervene in the rapidly-escalating events onboard. Can two people who've never met, one on the train and one not, work together to save the lives of its disparate group of passengers as the Heart of Britain service hurtles towards what might quite literally be its final destination?",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt9810248",
+      "type": "series",
+      "name": "61st Street",
+      "poster": "https://image.tmdb.org/t/p/w342/bTEfmPiaDpsDu5oZKNSrhnF2ci5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7ebnWh0t5WKK1owCcr0UZIROHjd.jpg",
+      "description": "Moses Johnson is a promising high-school athlete with a bright future who’s accused of murdering a police officer during a drug bust gone wrong. Swept up into the infamously corrupt Chicago criminal justice system, Moses’ case is taken up by ageing public defender Franklin Roberts, who sees this as his chance to finally challenge the institutional racism at the heart of the judicial system.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt38504111",
+      "type": "series",
+      "name": "Small Prophets",
+      "poster": "https://image.tmdb.org/t/p/w342/dwa5S9efdYhnxMBjUtRdrmlHT5e.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
+      "description": "The magical and mundane unfold in a suburban shed as a lonely man stumbles on the supernatural.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0072572",
+      "type": "series",
+      "name": "Survivors",
+      "poster": "https://image.tmdb.org/t/p/w342/djYiHmLuom48ja9g712ZIiHgRbP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8X5V5KuqWUk80wf8ZRuuN9hYe1r.jpg",
+      "description": "Survivors is a British post-apocalyptic fiction television series devised by Terry Nation and produced by Terence Dudley at the BBC from 1975 to 1977. It concerns the plight of a group of people who have survived an accidentally released plague – referred to as \"The Death\" – that kills nearly the entire human population of the planet.",
+      "releaseInfo": "1975",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -1090,6 +612,72 @@
       ]
     },
     {
+      "id": "tt0497298",
+      "type": "series",
+      "name": "Jekyll",
+      "poster": "https://image.tmdb.org/t/p/w342/7ZFjQbziDY9zyt03mIcE0Ydz8xq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qk3ppV3UCxLKfKkkKPoLFqbch9c.jpg",
+      "description": "Tom Jackman is learning to cope with his alter ego, the dark and mysterious Hyde, who threatens his life and family. They also have to live in the same body while on the run from a mysterious organization that is hunting them.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0417349",
+      "type": "series",
+      "name": "North & South",
+      "poster": "https://image.tmdb.org/t/p/w342/djdM8JblEUsJN23vXd869X7ACQE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aq5TZCcSnML58dEds2ksbCELrKN.jpg",
+      "description": "Margaret Hale is a southerner from a country vicarage newly settled in the industrial northern town of Milton. In the shock of her move, she misjudges charismatic cotton mill-owner John Thornton, whose strength of purpose and passion are a match for her own pride and willfulness. When the workers of Milton call a strike, Margaret takes their side, and the two are brought into deeper conflict. As events spiral out of control, Margaret - to her surprise - begins to fall in love with Thornton...",
+      "releaseInfo": "2004",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt8681148",
+      "type": "series",
+      "name": "This Is Going to Hurt",
+      "poster": "https://image.tmdb.org/t/p/w342/pzr43c48eKRTfHCkspWia2J35Fw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/icgOrvpT7ANec2rBdzZQPwB7Ykj.jpg",
+      "description": "The unvarnished truth of life as a doctor working in obstetrics and gynaecology.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt8001226",
+      "type": "series",
+      "name": "The War of the Worlds",
+      "poster": "https://image.tmdb.org/t/p/w342/zcUkFaxUtP3V3YjoS1fh8YRW19H.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xLh6Lkj0J5d4new50BxDHEB7wjj.jpg",
+      "description": "In Edwardian England, George and his partner Amy attempt to defy society and start a life together as they face the escalating terror of an alien invasion, fighting for their lives against an enemy beyond their comprehension.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1778108",
+      "type": "series",
+      "name": "The Hour",
+      "poster": "https://image.tmdb.org/t/p/w342/72JWVRK6VvqNx1gYumVxhtoXc03.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jINW7XYCw3tHDdvtHj2nmhfOzPc.jpg",
+      "description": "A behind-the-scenes drama and espionage thriller in Cold War-era England that centers on a journalist, a producer, and an anchorman for an investigative news programme.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "War",
+        "Crime"
+      ]
+    },
+    {
       "id": "tt1949720",
       "type": "series",
       "name": "Great Expectations",
@@ -1102,144 +690,37 @@
       ]
     },
     {
-      "id": "tt3464896",
+      "id": "tt0442632",
       "type": "series",
-      "name": "Small Axe",
-      "poster": "https://image.tmdb.org/t/p/w342/qAafv0Ao1y8C2dLux9BBg6nVuc1.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6gdg8V2vWvYNTMTaSTEFUOr995Z.jpg",
-      "description": "An anthology series of five stories looking at the lives of a group of friends and their families in London’s West Indian community from the late 1960s to the early 80s.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt5232622",
-      "type": "series",
-      "name": "The Girl Before",
-      "poster": "https://image.tmdb.org/t/p/w342/11FAvHhce6xrMqgumguAVZWmvSI.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tvXebdBI5LTQ52brqkF15teS4W5.jpg",
-      "description": "A traumatized woman falls in love with an extraordinary minimalist house, which remains under the spell of the architect who originally designed it, but everything may not be as it seems.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt4531728",
-      "type": "series",
-      "name": "Dickensian",
-      "poster": "https://image.tmdb.org/t/p/w342/zR4KnPuMAyyew16YdmwvXrLPUQd.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/aEYT2X7dPEAxs311wbNJCERwPtT.jpg",
-      "description": "Dickensian intertwines the realm of fictional characters in Charles Dickens’ novels—including Scrooge, Fagin and Miss Havisham—in half-hour episodes, as their lives intertwine in 19th century London. The Old Curiosity Shop sits next door to The Three Cripples Pub, while Fagin’s Den is hidden down a murky alley off a bustling Victorian street.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt5834256",
-      "type": "series",
-      "name": "The Witness for the Prosecution",
-      "poster": "https://image.tmdb.org/t/p/w342/n6i4LpDcyiwGbZg3to3Z8puyS1F.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mQFFHTwytuBrd4euSQ6sC8dUGe5.jpg",
-      "description": "The hunt is on to find the murderer of a wealthy glamorous heiress who is found dead in her London townhouse. Based on the short story by Agatha Christie.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0423651",
-      "type": "series",
-      "name": "Fingersmith",
-      "poster": "https://image.tmdb.org/t/p/w342/jrPoKY5xDOeUyZ9NrswP37PWAAM.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jT8IYK7rvMRgk1bMJZvJMo0g88I.jpg",
-      "description": "A young woman is hired as a maid to an heiress who lives a secluded life on a large countryside estate with her domineering uncle. But, the maid has a secret: she is a pickpocket recruited by a swindler posing as a gentleman to help him seduce the heiress to elope with him, rob her of her fortune, and lock her up in a madhouse. The plan seems to proceed according to plan until the women discover some unexpected emotions.",
+      "name": "Bleak House",
+      "poster": "https://image.tmdb.org/t/p/w342/gEXvWTXCQogRIKlUWBLrj5ihOWi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xaGmyVtVtXyNUohYkmA7Z42MUBT.jpg",
+      "description": "The generous John Jarndyce, struggling with his own past, and his two young wards Richard and Ada, are all caught up, like Lady Dedlock, in the infamous case of Jarndyce vs. Jarndyce, which will make one of them rich beyond imagination if it can ever be brought to a conclusion. As Tulkinghorn digs deeper into Lady Dedlock's past, he unearths a secret that will change their lives forever, and which is almost as astounding as the final outcome of the Jarndyce case.",
       "releaseInfo": "2005",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt11997646",
-      "type": "series",
-      "name": "Conversations with Friends",
-      "poster": "https://image.tmdb.org/t/p/w342/kk6kXltSgeAA1yWiRaZ1sOexm1V.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1R4HDyLrvOBTvIJLXaY3iCL6bCc.jpg",
-      "description": "Two college students, Frances and Bobbi, forge a strange and unexpected relationship with a married couple.",
-      "releaseInfo": "2022",
-      "genres": [
         "Drama"
       ]
     },
     {
-      "id": "tt3574152",
+      "id": "tt4602768",
       "type": "series",
-      "name": "Partners in Crime",
-      "poster": "https://image.tmdb.org/t/p/w342/2Zwurp836fMcLpOwMDciWiiak0X.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tAdmbGEywXlWZvbcnYgfpYwuc9H.jpg",
-      "description": "Set in a 1950s Britain rising from the ashes of the Blitz into the grip of a new Cold War, our beekeeping duo stumble into a world of murder, undercover agents and cold war conspiracy. Tuppence is a woman who sees adventure round every corner, throwing herself head first into every mystery with passion and fervour, determined to get to the truth no matter what it takes, much to the dismay of her more cautious husband Tommy.",
+      "name": "Doctor Foster",
+      "poster": "https://image.tmdb.org/t/p/w342/gJiaterDM3tZ2yioR24RzJpLhzD.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6D7xmI8NJJMJKCsN1wH5oQdP64w.jpg",
+      "description": "A woman suspects her husband of having an affair. After following several lines of enquiries far more unravels including a streak of violence below the surface.",
       "releaseInfo": "2015",
       "genres": [
-        "Mystery",
-        "Action",
-        "Adventure",
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt6889090",
-      "type": "series",
-      "name": "The Miniaturist",
-      "poster": "https://image.tmdb.org/t/p/w342/bO57OA7pR4dXBQLTshuDEpkPyHF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/c7isbJyti22LYVhVwIT2fFJoZgm.jpg",
-      "description": "Nella Oortman's life changes drastically when she marries a wealthy merchant and moves to Amsterdam. As she struggles to win her husband's affection, she discovers dark secrets along the way.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Mystery",
         "Drama"
       ]
     },
     {
-      "id": "tt10556338",
+      "id": "tt4258440",
       "type": "series",
-      "name": "The Pursuit of Love",
-      "poster": "https://image.tmdb.org/t/p/w342/dHSLmNXesBcfSl3Th7EUa1Y71eJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3wRgL9FG7fr0nMipHXMKQL4Ah1P.jpg",
-      "description": "Longing for love, obsessed with sex, Linda is on the hunt for the perfect lover. But finding Mr. Right is much harder than she thought.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt33335242",
-      "type": "series",
-      "name": "Film Club",
-      "poster": "https://image.tmdb.org/t/p/w342/5koeXuj7klU2vfVEbLqYUfd0gqK.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fFJigkZ4QoI0MFO1ZN3tKSn2Xnl.jpg",
-      "description": "Friday night. 7pm. Film Club Week 198. Evie hasn't left the house in six months after a 'wobble', and Film Club is her escape. A weekly chance to create a world of wonder, deck the garage out in whatever the movie calls for and spend a few uninterrupted hours with Noa - her best friend and one of the few mates who still shows up. But tonight, things are different. Noa's got big news. A dream job is taking him across the other side of the country, which means that all of this is ending.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt8178650",
-      "type": "series",
-      "name": "The Victim",
-      "poster": "https://image.tmdb.org/t/p/w342/ow8vlCfGzZuUxipm0CNGRiCnSiX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pFW3JgwvphY6HvyqOCN9IWRAtR9.jpg",
-      "description": "A grieving mother is accused of identifying online the man she believes killed her son. But is he really a notorious child murderer or a tragic victim of mistaken identity?",
-      "releaseInfo": "2019",
+      "name": "River",
+      "poster": "https://image.tmdb.org/t/p/w342/fhiVcu9RA3MEVQtMowwQUsHJfJR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sryK4G2U27mWAiuKk7v63uSbmto.jpg",
+      "description": "Respected police officer John River, a gifted cop with a troubled mind, struggles to come to terms with the recent loss of a colleague, and chases a suspect across London - with tragic consequences. Now at odds with the authorities, River ends up in a precarious position as he seeks to bring closure to the mother of murdered teenager, who blames him for failing to keep his promise.",
+      "releaseInfo": "2015",
       "genres": [
         "Crime",
         "Drama",
@@ -1261,40 +742,347 @@
       ]
     },
     {
-      "id": "tt21096438",
+      "id": "tt10016724",
       "type": "series",
-      "name": "Miss Austen",
-      "poster": "https://image.tmdb.org/t/p/w342/vRzs71MV8RgL1nyswSSklQpkLkH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iKWGJvafghmJM6Z3rpI9Jtmq4kg.jpg",
-      "description": "Miss Austen takes a literary mystery – Cassandra Austen notoriously burning her famous sister Jane’s letters – and reimagines it as a fascinating, witty and heart-breaking story of sisterly love, while creating in Cassandra a character as captivating as any Austen heroine.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt28775005",
-      "type": "series",
-      "name": "The Jetty",
-      "poster": "https://image.tmdb.org/t/p/w342/8NFkGx0L6tobGOeoHohO6ycXt6G.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/e6B2PN4iAtqXwSbguBEFY9lRwNO.jpg",
-      "description": "Beneath the tranquillity of her home town, a detective uncovers dark secrets that threaten everything she thought she knew about consent – and her own life.",
+      "name": "Orphan Black: Echoes",
+      "poster": "https://image.tmdb.org/t/p/w342/iz8w67Q6pJBB7JJiczA95YlHrfG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/uz9xYdqbECij0vAUWqCcKVKVLzm.jpg",
+      "description": "In the near future, a group of women weave their way into each other's lives and embark on a thrilling journey, unravelling the mystery of their identity and uncovering a wrenching story of love and betrayal.",
       "releaseInfo": "2024",
       "genres": [
-        "Drama",
-        "Crime"
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
       ]
     },
     {
-      "id": "tt11403434",
+      "id": "tt0876219",
       "type": "series",
-      "name": "Showtrial",
-      "poster": "https://image.tmdb.org/t/p/w342/tYBLQeB44JRx2UlUpQjBnSpVzN.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yvb8rJRXLiYF6QtU0jdPO7kJrVS.jpg",
-      "description": "An anthology series of hotly contested criminal trials that divides the nation and take place in the full glare of the media spotlight.",
-      "releaseInfo": "2021",
+      "name": "Young Dracula",
+      "poster": "https://image.tmdb.org/t/p/w342/nKNtYVK2vhJudSOCDjhCtqAAZpa.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2ZTPDS1BNTgWggSlLLCKBMiqqWz.jpg",
+      "description": "The misadventures of Vlad and Ingrid, who have moved to Britain from Transylvania with their father Count Dracula.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Family",
+        "Drama",
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt1366312",
+      "type": "series",
+      "name": "Emma",
+      "poster": "https://image.tmdb.org/t/p/w342/nwTYHGzc4wtf8uFWwXAaUQH94Jx.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/t6L5QIqmiHyH94yVbzofoQ7ZHF4.jpg",
+      "description": "Emma Woodhouse is a congenial young lady who delights in meddling in other people’s affairs. She is perpetually trying to unite men and women who are utterly wrong for each other. Despite her interest in romance, Emma is clueless about her own feelings, and her relationship with gentle Mr. Knightley.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt6271042",
+      "type": "series",
+      "name": "McMafia",
+      "poster": "https://image.tmdb.org/t/p/w342/jdt7RFfVCGWrNnrxeQ0Us9kGhJu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8uJPiVNMjjVUHgnCb3de1nSv0L5.jpg",
+      "description": "Alex Godman, the English-raised son of Russian mafia exiles, has spent his life trying to escape the shadow of their past, building his own legitimate business and forging a life with his girlfriend Rebecca. But when a murder forces his family's past to return to threaten them, Alex is drawn into the criminal underworld and must confront his values to protect those he loves.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt6938856",
+      "type": "series",
+      "name": "A Very English Scandal",
+      "poster": "https://image.tmdb.org/t/p/w342/xQU99bLRjTegRSGScLDVqpcx5QV.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hEgzWYtXzbPVpNDWfAE9m273j6D.jpg",
+      "description": "It's the late 1960s, homosexuality has only just been legalised and Jeremy Thorpe, the leader of the Liberal party, has a secret he's desperate to hide.",
+      "releaseInfo": "2018",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt0086665",
+      "type": "series",
+      "name": "Auf Wiedersehen, Pet",
+      "poster": "https://image.tmdb.org/t/p/w342/zm2idxDPAVDx97mF3neoJn9MhmY.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aQEVbp9tpy6gFMbZdQAjpKcsnOH.jpg",
+      "description": "Seven British construction workers escape Britain's ever growing dole queues and travel to Germany to work on a site in Dusseldorf. We follow their trials and tribulations of working away from home and away from the women they left behind.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0115230",
+      "type": "series",
+      "name": "Karaoke",
+      "poster": "https://image.tmdb.org/t/p/w342/nvfgOlcxGhz9OTUNWenrnwoszQz.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/c10a7sHzApaSBz57S0v42XnPD99.jpg",
+      "description": "Screenwriter Daniel Feeld experiences bizarre coincidences as his screenplay—about a karaoke bar, an employee named Sandra, and her murder by Arthur 'Pig' Mallion—seems to mirror reality, with a karaoke bar, an employee named Sandra, and a shady owner named Mallion.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt6118426",
+      "type": "series",
+      "name": "Ordeal by Innocence",
+      "poster": "https://image.tmdb.org/t/p/w342/fCNgaOIViqrFyo9duHUd76h50BZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pbiH13zw34FPkZm396zFliiqiBU.jpg",
+      "description": "The black sheep of the Argyll family, Jack Argyll, was accused of murdering their matriarch a year ago, but now a man shows up on their doorstep claiming Jack’s innocence. The family must come to terms with this news and the fact that the real killer might still be among them.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt7660730",
+      "type": "series",
+      "name": "Black Earth Rising",
+      "poster": "https://image.tmdb.org/t/p/w342/77MPYFMYiMi0PFXk1Kr5Nv9yaO7.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wikVrWQckbFT1ukTAQLPjU3PfAH.jpg",
+      "description": "As a child, Kate Ashby was rescued from the horrific aftermath of the Rwandan genocide and brought to the UK. But the tragic shadow of her past proves impossible to escape.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt2006374",
+      "type": "series",
+      "name": "Copper",
+      "poster": "https://image.tmdb.org/t/p/w342/z2oQu8SipXvlnlrJrt6gZ47D408.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/q4GFazIt2wqhkah7T5C7QTiXuZO.jpg",
+      "description": "Kevin Corcoran is a rugged young Irish immigrant policeman trying to keep the peace in the historical Five Points neighborhood in 1860s New York City while searching for information on the disappearance of his wife and death of his daughter.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2299141",
+      "type": "series",
+      "name": "The Syndicate",
+      "poster": "https://image.tmdb.org/t/p/w342/4vn6Xpj5H67rGCc0syxiIVFpmZS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4XQRsr1MgxFrvzcne9NFFAzYe3W.jpg",
+      "description": "A drama exploring how winning the lottery transforms the lives of ordinary people.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt4531728",
+      "type": "series",
+      "name": "Dickensian",
+      "poster": "https://image.tmdb.org/t/p/w342/zR4KnPuMAyyew16YdmwvXrLPUQd.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aEYT2X7dPEAxs311wbNJCERwPtT.jpg",
+      "description": "Dickensian intertwines the realm of fictional characters in Charles Dickens’ novels—including Scrooge, Fagin and Miss Havisham—in half-hour episodes, as their lives intertwine in 19th century London. The Old Curiosity Shop sits next door to The Three Cripples Pub, while Fagin’s Den is hidden down a murky alley off a bustling Victorian street.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt8694364",
+      "type": "series",
+      "name": "Years and Years",
+      "poster": "https://image.tmdb.org/t/p/w342/u1FBsyMH9Tx7K5yzMnJsYRvNEKQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/95DOsfIpXweztOlzGBU1bnePCIS.jpg",
+      "description": "As Britain is rocked by unstable political, economic and technological advances, members of the Lyons family converge on one crucial night in 2019. Over the next 15 years, the twists and turns of their everyday lives are explored as we find out if this ordinary family could change the world.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama",
+        "War",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt5232622",
+      "type": "series",
+      "name": "The Girl Before",
+      "poster": "https://image.tmdb.org/t/p/w342/11FAvHhce6xrMqgumguAVZWmvSI.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tvXebdBI5LTQ52brqkF15teS4W5.jpg",
+      "description": "A traumatized woman falls in love with an extraordinary minimalist house, which remains under the spell of the architect who originally designed it, but everything may not be as it seems.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt4108134",
+      "type": "series",
+      "name": "London Spy",
+      "poster": "https://image.tmdb.org/t/p/w342/whE6eWgDpmAP93mB6vGvIzu4SK5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/q4mwUw7Vu983QuLQDbzf6zWLZLr.jpg",
+      "description": "A chance romance between two men from very different worlds, one from the headquarters of the Secret Intelligence Service, the other from a world of clubbing and youthful excess, leads into mystery after one of them suddenly disappears.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt19788500",
+      "type": "series",
+      "name": "Red Rose",
+      "poster": "https://image.tmdb.org/t/p/w342/pLJhY7K0FQwO3oa6UyPCSw4D9bl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8u6btHEx6knRmtaHQtcytiM6XHd.jpg",
+      "description": "When one of a group of friends downloads the mysterious Red Rose app, plans change. What starts innocently as a game of admiration rapidly descends into something much darker.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0163492",
+      "type": "series",
+      "name": "Sherlock Holmes",
+      "poster": "https://image.tmdb.org/t/p/w342/jR55Mp5TG9vOBBbTQonPphJQSk2.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ugCPYic47kfffoEdXESqGTbgGtu.jpg",
+      "description": "Sherlock Holmes (also known as 'Sir Arthur Conan Doyle's Sherlock Holmes') is a series of Sherlock Holmes adaptations produced by British television company BBC between 1964 and 1968. This was the second screen adaption of Sherlock Holmes for BBC Television.",
+      "releaseInfo": "1964",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1800493",
+      "type": "series",
+      "name": "Exile",
+      "poster": "https://image.tmdb.org/t/p/w342/c8wwPUIFw9853z9ioHb53hZyIUH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6v0nw4EFGPaN8QcdJRWdpHAWBQT.jpg",
+      "description": "Exile is a British psychological thriller television series created by Paul Abbott and Danny Brocklehurst for BBC One. The three-part serial stars John Simm as London journalist Tom Ronstadt, whose world falls apart as a result of his own actions. Upon returning to his Lancashire hometown after 18 years, he finds his father, Sam, in the grips of Alzheimer's disease.\n\nDuring the course of the series, Tom begins to unravel the mystery of his childhood that drove him away many years earlier. Trying to extract information from Sam causes Tom to grow frustrated with his father's inability to remember. Tom continues on his quest for the truth, unaware he is unearthing a devastating crime that will reveal unimaginable secrets.\n\nThe series received varying reviews, with praise for the script and performances but criticism for the clichés. Simm received a BAFTA nomination for his lead role, as did director John Alexander.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0215364",
+      "type": "series",
+      "name": "Wives and Daughters",
+      "poster": "https://image.tmdb.org/t/p/w342/5HqWMg33tuYiySjggZGCdX3dH6A.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2rjvzbH8zWSXs6BgVMxX7oJPwEP.jpg",
+      "description": "The life of doctor's daughter Molly Gibson changes gradually after her widowed father chooses to remarry. The union brings into her once-quiet life an ever-proper stepmother and flirtatious stepsister, Cynthia, while a friendship with the local squire brings about an unexpected romance.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt6853528",
+      "type": "series",
+      "name": "Little Women",
+      "poster": "https://image.tmdb.org/t/p/w342/6qzMhtTyNwpaAthrAbojojfHWrs.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hQAFYlWxwZntIo5LLJAMOxjN21y.jpg",
+      "description": "Set against the backdrop of the American Civil War, the story follows sisters Jo, Meg, Beth and Amy March on their journey from childhood to adulthood. With the help of their mother, Marmee, and while their father is away at war, the girls navigate what it means to be a young woman: from sibling rivalry and first love, to loss and marriage.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt3159736",
+      "type": "series",
+      "name": "The Game",
+      "poster": "https://image.tmdb.org/t/p/w342/xhdl84crUXv0Jc5LXEQaArsRF7N.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iIvJ5NYpqcfr6tJ10m3Upt733wd.jpg",
+      "description": "\"The Game\" is a 1970s Cold War spy thriller set in the world of espionage. It tells the story of the invisible war fought by MI5 as it battles to protect the nation from the threats of the Cold War.",
+      "releaseInfo": "2014",
+      "genres": [
+        "War",
+        "Drama",
+        "Crime",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt1188927",
+      "type": "series",
+      "name": "Criminal Justice",
+      "poster": "https://image.tmdb.org/t/p/w342/b9eHNNoUGju7P5Q2Ez5Kxu4fzst.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/oeTTGsDwxmvUpE3dia5GBvwdTx1.jpg",
+      "description": "Thriller by Peter Moffat about the challenges and politics of the criminal justice system seen through the eyes of the accused.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt10846250",
+      "type": "series",
+      "name": "Roadkill",
+      "poster": "https://image.tmdb.org/t/p/w342/g4y8qq4acg2Q41hCKKwYO69VIr9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/w4YBZv5tLbHGnODoNsfl6fHd504.jpg",
+      "description": "Politician Peter Laurence's private life is falling apart. Shamelessly untroubled by guilt or remorse, he seeks to further his own agenda whilst others plot to bring him down. Can he out-run his own secrets to win the ultimate prize?",
+      "releaseInfo": "2020",
+      "genres": [
+        "War",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt8259142",
+      "type": "series",
+      "name": "Baptiste",
+      "poster": "https://image.tmdb.org/t/p/w342/xgu7gih8wYtd4As95uDhVajjkM4.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sc8DoHgjqzDFuR04yVbNKJhjHrr.jpg",
+      "description": "Battered by life, detective Julien Baptiste will investigate to the brink of obsession. Whatever the cost. Whatever it takes.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1504261",
+      "type": "series",
+      "name": "The Sinking of the Laconia",
+      "poster": "https://image.tmdb.org/t/p/w342/z7Ybv2H5ml4OATZv9o4dgOfe67U.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dF1g4300iPwnjMNUS1WSaAHlELW.jpg",
+      "description": "The true story of the Allied ship Laconia, sunk in WWII by a German U-Boat, which then surfaced against orders to rescue the civilian crew",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "tt6563112",
+      "type": "series",
+      "name": "Clique",
+      "poster": "https://image.tmdb.org/t/p/w342/4xvuHbroZNZlp2QHvGpmc6gI8dv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/74IWV5N2nVOBd67i1HLQRhYuDpK.jpg",
+      "description": "In the first year of uni, childhood best friends Holly and Georgia find themselves drawn to an elite clique. When Holly begins to suspect darkness lurks beneath the glamour, she will do anything to save her soulmate.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
       ]
     },
     {
@@ -1308,6 +1096,232 @@
       "genres": [
         "Drama",
         "Comedy"
+      ]
+    },
+    {
+      "id": "tt2303367",
+      "type": "series",
+      "name": "Dirk Gently",
+      "poster": "https://image.tmdb.org/t/p/w342/nbliUzKVtuLpRIDapKOycoySqpX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qphUmcQ2GPBN7jQCantjj87hA1v.jpg",
+      "description": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt3574152",
+      "type": "series",
+      "name": "Partners in Crime",
+      "poster": "https://image.tmdb.org/t/p/w342/2Zwurp836fMcLpOwMDciWiiak0X.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tAdmbGEywXlWZvbcnYgfpYwuc9H.jpg",
+      "description": "Set in a 1950s Britain rising from the ashes of the Blitz into the grip of a new Cold War, our beekeeping duo stumble into a world of murder, undercover agents and cold war conspiracy. Tuppence is a woman who sees adventure round every corner, throwing herself head first into every mystery with passion and fervour, determined to get to the truth no matter what it takes, much to the dismay of her more cautious husband Tommy.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Mystery",
+        "Action",
+        "Adventure",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt8001092",
+      "type": "series",
+      "name": "World on Fire",
+      "poster": "https://image.tmdb.org/t/p/w342/ecOAfSr6sWhX0rOLzNbb3lcMMhb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7EljsQNh2DiOCmu9HnQIHEXpO9E.jpg",
+      "description": "The story of World War II told through the intertwining fates of ordinary people from all sides of this global conflict as they grapple with the effect of the war on their everyday lives.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "tt7639280",
+      "type": "series",
+      "name": "Man Like Mobeen",
+      "poster": "https://image.tmdb.org/t/p/w342/eldYxHJQDGrOGi0NHoEURzAWcUS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/r6MmTYatDwJo3KAbOeksN7Qolcd.jpg",
+      "description": "All Mobeen wants to do is follow his faith, lead a good life and keep his little sister on track. But with his dodgy past chasing him, can he stay on the right side of wrong?",
+      "releaseInfo": "2017",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt21096438",
+      "type": "series",
+      "name": "Miss Austen",
+      "poster": "https://image.tmdb.org/t/p/w342/vRzs71MV8RgL1nyswSSklQpkLkH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iKWGJvafghmJM6Z3rpI9Jtmq4kg.jpg",
+      "description": "Miss Austen takes a literary mystery – Cassandra Austen notoriously burning her famous sister Jane’s letters – and reimagines it as a fascinating, witty and heart-breaking story of sisterly love, while creating in Cassandra a character as captivating as any Austen heroine.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt7768192",
+      "type": "series",
+      "name": "Dublin Murders",
+      "poster": "https://image.tmdb.org/t/p/w342/3olPAGfJXQ9epf8kFCGzg9B34hR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fgkxlmFgku6X6G2a6Qmve28q7Ta.jpg",
+      "description": "Two detectives are dispatched to investigate the murder of a young girl on the outskirts of Dublin, but as the case of the missing children intensifies, both are forced to confront the darkness that lies in their past.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0111902",
+      "type": "series",
+      "name": "The Buccaneers",
+      "poster": "https://image.tmdb.org/t/p/w342/AbdJg42cyKWqfVm8B3fwdilabtK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4R74vZI6WZLo83BnlUtCFwEK7Dv.jpg",
+      "description": "Because of their \"new money\" background, four American girls have difficulty breaking into the upper-crust society of New York. Laura Testvalley, the governess of one of the girls, suggests a London season and thus the young women set sail for England and the unsuspecting English aristocracy. In England, all the girls soon find eligible husbands and the youngest girl, Nan, seems to land the best husband of them all: the handsome and very wealthy Julius, Duke of Trevennick. The girls soon discover that English upper-class men are not at all what they expected and hoped for.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt33335242",
+      "type": "series",
+      "name": "Film Club",
+      "poster": "https://image.tmdb.org/t/p/w342/5koeXuj7klU2vfVEbLqYUfd0gqK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fFJigkZ4QoI0MFO1ZN3tKSn2Xnl.jpg",
+      "description": "Friday night. 7pm. Film Club Week 198. Evie hasn't left the house in six months after a 'wobble', and Film Club is her escape. A weekly chance to create a world of wonder, deck the garage out in whatever the movie calls for and spend a few uninterrupted hours with Noa - her best friend and one of the few mates who still shows up. But tonight, things are different. Noa's got big news. A dream job is taking him across the other side of the country, which means that all of this is ending.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt8571906",
+      "type": "series",
+      "name": "London Kills",
+      "poster": "https://image.tmdb.org/t/p/w342/9YqT6OWah3zQfFMFQGLzQHDObcq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7k21NnwnMnHQwJfv6WjDGnW8IvI.jpg",
+      "description": "With a documentary style delivery, this drama tells the story of a team of top murder detectives with each episode featuring a different murder while also following a serialized story involving the lead detective’s missing wife.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt7608238",
+      "type": "series",
+      "name": "Wanderlust",
+      "poster": "https://image.tmdb.org/t/p/w342/w62IHw1uF90d9VrK6pvgGHNZhPj.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jY6TIi3V7oZmL6RgRYtkj2X2JqK.jpg",
+      "description": "Joy Richards is a therapist trying to find a way to keep the spark with her husband, Alan, after a cycling accident causes her to reassess their relationship. As family, friends, neighbours and clients live their lives, stories of love, lust and forbidden desire emerge.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0969007",
+      "type": "series",
+      "name": "Mistresses",
+      "poster": "https://image.tmdb.org/t/p/w342/diTnk44w1bZWktB3cEZ78X5XXyz.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sZy7ksxRX1uK5L6Nad5W9kixcnD.jpg",
+      "description": "Follows the lives of four female friends and their involvement in an array of marital and extramarital relationships.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt3464896",
+      "type": "series",
+      "name": "Small Axe",
+      "poster": "https://image.tmdb.org/t/p/w342/qAafv0Ao1y8C2dLux9BBg6nVuc1.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6gdg8V2vWvYNTMTaSTEFUOr995Z.jpg",
+      "description": "An anthology series of five stories looking at the lives of a group of friends and their families in London’s West Indian community from the late 1960s to the early 80s.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt5159916",
+      "type": "series",
+      "name": "Thirteen",
+      "poster": "https://image.tmdb.org/t/p/w342/kwTHwy53aXITTWYNZvarczlo02S.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hTqGb7oSI3OCgWw55XtDOy1iWtF.jpg",
+      "description": "A 26-year-old woman learns to live again after 13 years in captivity.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt11719808",
+      "type": "series",
+      "name": "Smother",
+      "poster": "https://image.tmdb.org/t/p/w342/liE0KylYp5uzqONbDT07bVUUNUa.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/irOWKJO2OXBwAwUtsVDsf6JS3qM.jpg",
+      "description": "On the rugged coast of County Clare, Val Ahern's husband is found dead at the foot of a cliff the morning after a family party. The matriarch starts to dig into the family's secrets to find out who might be responsible.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt14466190",
+      "type": "series",
+      "name": "Better",
+      "poster": "https://image.tmdb.org/t/p/w342/bVkFNpY3U1yFL8sjErs6cJ6gHJ7.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dVtsFRWmwOS44Ek9GKbM2eiTrRz.jpg",
+      "description": "After a family tragedy is narrowly averted, a corrupt police detective undergoes a painful moral awakening and decides to put right twenty years of wrongdoing but satisfying her newfound conscience won't be straightforward.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0090424",
+      "type": "series",
+      "name": "Edge of Darkness",
+      "poster": "https://image.tmdb.org/t/p/w342/2etMft3bSdXC6xqhEWSXVb0IjLv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2VhhbaXuzbOAaurZNEyBNknkgdK.jpg",
+      "description": "Environmental activist Emma Craven is murdered in front of her father, local police inspector Ronald Craven. Investigating the death leads him through a haunting revelation of the murkiness of British nuclear policy of the 1980s.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt21822590",
+      "type": "series",
+      "name": "The Woman in the Wall",
+      "poster": "https://image.tmdb.org/t/p/w342/tnqCuFq0RNBCdI8Tl3nFD0WLlis.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mpCCDXBYIxephWbkmJ3DFoGbkUR.jpg",
+      "description": "When Lorna Brady, a survivor of one of Ireland's Magdalene Laundries, wakes to find a corpse in her house, she has no idea who the dead woman is or if she's responsible for the apparent murder, because she has long suffered from extreme bouts of sleepwalking.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
       ]
     }
   ]
