@@ -40,32 +40,6 @@
       ]
     },
     {
-      "id": "tt34991493",
-      "type": "series",
-      "name": "Dutton Ranch",
-      "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-      "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Western",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt11712058",
-      "type": "series",
-      "name": "Mayor of Kingstown",
-      "poster": "https://image.tmdb.org/t/p/w342/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
-      "description": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
       "id": "tt14186672",
       "type": "series",
       "name": "Landman",
@@ -74,6 +48,19 @@
       "description": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
       "releaseInfo": "2024",
       "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt34991493",
+      "type": "series",
+      "name": "Dutton Ranch",
+      "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+      "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Western",
         "Drama"
       ]
     },
@@ -90,6 +77,19 @@
         "Crime",
         "Action",
         "Adventure"
+      ]
+    },
+    {
+      "id": "tt11712058",
+      "type": "series",
+      "name": "Mayor of Kingstown",
+      "poster": "https://image.tmdb.org/t/p/w342/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+      "description": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -167,18 +167,6 @@
       ]
     },
     {
-      "id": "tt15167360",
-      "type": "series",
-      "name": "Willie Nelson & Family",
-      "poster": "https://image.tmdb.org/t/p/w342/gYyIb8EmMNcXIAwlCXSCgYL0up3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/w39OZhKrLOOAMciufSjtiOkVQn2.jpg",
-      "description": "The first authorized work exploring the extraordinary life of Willie Nelson traverses the personal and career ups, downs, and in-betweens of one of the world’s most beloved musicians.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Documentary"
-      ]
-    },
-    {
       "id": "tt10521222",
       "type": "series",
       "name": "The Last Cowboy",
@@ -192,24 +180,24 @@
       ]
     },
     {
-      "id": "tt29731180",
-      "type": "series",
-      "name": "1944 (upcoming)",
-      "poster": "https://image.tmdb.org/t/p/w342/rlnc58aLcoZ15Iu7kNy4RclpeFy.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kqVMsDPuv0gcdDp0BpR5r5H1OTZ.jpg",
-      "description": "⏳ Not yet released — status: Planned. A prequel to Yellowstone featuring a new generation of the Dutton family ranchers in the 1940s.",
-      "genres": [
-        "Western",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt38991309",
       "type": "series",
       "name": "5-Star",
       "poster": "https://image.tmdb.org/t/p/w342/98gZRQ65T7xGEJte7dOyMn0kiEp.jpg",
       "description": "As these athletes chase their dreams under the spotlight, they must learn how to navigate playing in the Big Ten Conference while growing up in a pressure-cooker environment. When every mistake can risk everything and the fall from grace is devastatingly real, this isn't just about competing anymore; it's about fighting for a future where glory is within reach.",
       "releaseInfo": "2025",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt15167360",
+      "type": "series",
+      "name": "Willie Nelson & Family",
+      "poster": "https://image.tmdb.org/t/p/w342/gYyIb8EmMNcXIAwlCXSCgYL0up3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/w39OZhKrLOOAMciufSjtiOkVQn2.jpg",
+      "description": "The first authorized work exploring the extraordinary life of Willie Nelson traverses the personal and career ups, downs, and in-betweens of one of the world’s most beloved musicians.",
+      "releaseInfo": "2023",
       "genres": [
         "Documentary"
       ]

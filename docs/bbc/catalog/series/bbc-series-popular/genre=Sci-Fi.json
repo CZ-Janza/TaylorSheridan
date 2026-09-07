@@ -4,7 +4,7 @@
       "id": "tt0436992",
       "type": "series",
       "name": "Doctor Who",
-      "poster": "https://image.tmdb.org/t/p/w342/m6G92osOtSeXwjSfL21jZCUOvxe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
       "background": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
       "description": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
       "releaseInfo": "2005",
@@ -12,20 +12,6 @@
         "Action",
         "Adventure",
         "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt11379026",
-      "type": "series",
-      "name": "Ghosts",
-      "poster": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
-      "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Comedy",
         "Sci-Fi",
         "Fantasy"
       ]
@@ -47,6 +33,20 @@
       ]
     },
     {
+      "id": "tt11379026",
+      "type": "series",
+      "name": "Ghosts",
+      "poster": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+      "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt1199099",
       "type": "series",
       "name": "Merlin",
@@ -57,6 +57,35 @@
       "genres": [
         "Action",
         "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt1869454",
+      "type": "series",
+      "name": "Good Omens",
+      "poster": "https://image.tmdb.org/t/p/w342/nO68XVx5of8hlBwEOGOkPC8Mveu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dQCKc5NKeKOGAQusk2FdctGB9k5.jpg",
+      "description": "Aziraphale and Crowley, of Heaven and Hell respectively, have grown rather fond of the Earth. So it's terrible news that it's about to end. The armies of Good and Evil are amassing. The Four Horsemen are ready to ride. Everything is going according to the Divine Plan...except that someone seems to have misplaced the Antichrist. Can our heroes find him and stop Armageddon before it's too late?",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt2234222",
+      "type": "series",
+      "name": "Orphan Black",
+      "poster": "https://image.tmdb.org/t/p/w342/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cBmVnbc9KKhsdHCDJU2pibU5Pjs.jpg",
+      "description": "A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.",
+      "releaseInfo": "2013",
+      "genres": [
         "Drama",
         "Sci-Fi",
         "Fantasy"
@@ -79,6 +108,20 @@
       ]
     },
     {
+      "id": "tt0094535",
+      "type": "series",
+      "name": "Red Dwarf",
+      "poster": "https://image.tmdb.org/t/p/w342/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gBeHadaylDePYy6Gy2xyDVeYLkP.jpg",
+      "description": "The adventures of the last human alive and his friends, stranded three million years into deep space on the mining ship Red Dwarf.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt31433814",
       "type": "series",
       "name": "Doctor Who",
@@ -90,66 +133,6 @@
         "Action",
         "Adventure",
         "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt2234222",
-      "type": "series",
-      "name": "Orphan Black",
-      "poster": "https://image.tmdb.org/t/p/w342/tjFYkWMafg71sihs1aa7IDx17aS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/cBmVnbc9KKhsdHCDJU2pibU5Pjs.jpg",
-      "description": "A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt2674806",
-      "type": "series",
-      "name": "Inside No. 9",
-      "poster": "https://image.tmdb.org/t/p/w342/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/99W2xN8v9eAukGWzZN4zUsslQBo.jpg",
-      "description": "An anthology of darkly comic twisted tales, each one taking place behind a door marked 'number 9'.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Comedy",
-        "Mystery",
-        "Crime",
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1869454",
-      "type": "series",
-      "name": "Good Omens",
-      "poster": "https://image.tmdb.org/t/p/w342/nO68XVx5of8hlBwEOGOkPC8Mveu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dQCKc5NKeKOGAQusk2FdctGB9k5.jpg",
-      "description": "Aziraphale and Crowley, of Heaven and Hell respectively, have grown rather fond of the Earth. So it's terrible news that it's about to end. The armies of Good and Evil are amassing. The Four Horsemen are ready to ride. Everything is going according to the Divine Plan...except that someone seems to have misplaced the Antichrist. Can our heroes find him and stop Armageddon before it's too late?",
-      "releaseInfo": "2019",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0094535",
-      "type": "series",
-      "name": "Red Dwarf",
-      "poster": "https://image.tmdb.org/t/p/w342/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gBeHadaylDePYy6Gy2xyDVeYLkP.jpg",
-      "description": "The adventures of the last human alive and his friends, stranded three million years into deep space on the mining ship Red Dwarf.",
-      "releaseInfo": "1988",
-      "genres": [
-        "Comedy",
         "Sci-Fi",
         "Fantasy"
       ]
@@ -199,18 +182,20 @@
       ]
     },
     {
-      "id": "tt4047038",
+      "id": "tt2674806",
       "type": "series",
-      "name": "Dirk Gently's Holistic Detective Agency",
-      "poster": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
-      "description": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
-      "releaseInfo": "2016",
+      "name": "Inside No. 9",
+      "poster": "https://image.tmdb.org/t/p/w342/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/99W2xN8v9eAukGWzZN4zUsslQBo.jpg",
+      "description": "An anthology of darkly comic twisted tales, each one taking place behind a door marked 'number 9'.",
+      "releaseInfo": "2014",
       "genres": [
         "Comedy",
+        "Mystery",
+        "Crime",
         "Sci-Fi",
         "Fantasy",
-        "Crime"
+        "Drama"
       ]
     },
     {
@@ -247,6 +232,21 @@
       ]
     },
     {
+      "id": "tt4047038",
+      "type": "series",
+      "name": "Dirk Gently's Holistic Detective Agency",
+      "poster": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
+      "description": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
+        "Crime"
+      ]
+    },
+    {
       "id": "tt30645193",
       "type": "series",
       "name": "The War Between the Land and the Sea",
@@ -258,21 +258,6 @@
         "Sci-Fi",
         "Fantasy",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt2705602",
-      "type": "series",
-      "name": "Atlantis",
-      "poster": "https://image.tmdb.org/t/p/w342/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nMdyDnHiRpJ2sfqk3JfUb3CvME4.jpg",
-      "description": "A fantasy drama set in a world of legendary heroes and mythical creatures. Far from home and desperate for answers, Jason washes up on the shores of an ancient land. A mysterious place; a world of bull leaping, of snake haired goddesses and of palaces so vast it was said they were built by giants - this is the city of Atlantis. Aided by his two new friends, Pythagoras and Hercules, Jason embarks on a voyage of discovery, and salvation, which sees him brush shoulders with Medusa, come face to face with the Minotaur and even do battle with the dead.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Fantasy"
       ]
     },
     {
@@ -292,20 +277,6 @@
       ]
     },
     {
-      "id": "tt0416394",
-      "type": "series",
-      "name": "The Mighty Boosh",
-      "poster": "https://image.tmdb.org/t/p/w342/dKlYEo7mc1XLN2PutYlRuTLUXlC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/91cTQeEKxpV6ysdPO3VWn66pehc.jpg",
-      "description": "A British comic fantasy containing humour and pop-culture references.  Episodes often featured elaborate musical numbers in different genres, such as electro, heavy metal, funk, and rap. The show has been known for popularising a style called \"crimping\"; short acappella songs which are present throughout all three series.",
-      "releaseInfo": "2004",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt5194792",
       "type": "series",
       "name": "NOS4A2",
@@ -317,6 +288,65 @@
         "Sci-Fi",
         "Fantasy",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt0106014",
+      "type": "series",
+      "name": "Goodnight Sweetheart",
+      "poster": "https://image.tmdb.org/t/p/w342/wjAlo4Xac1sMq6mAMJTvkPxbOON.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pCoOFcXcwf1BsI2nJ82gx16b2MW.jpg",
+      "description": "Gary Sparrow is an ordinary bloke in 1990s Britain, married to the ambitious Yvonne and working as a TV repairman. Then his whole world changes when he stumbles upon a portal to WWII-era London and begins a dual life as an accidental time traveler.",
+      "releaseInfo": "1993",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2705602",
+      "type": "series",
+      "name": "Atlantis",
+      "poster": "https://image.tmdb.org/t/p/w342/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nMdyDnHiRpJ2sfqk3JfUb3CvME4.jpg",
+      "description": "A fantasy drama set in a world of legendary heroes and mythical creatures. Far from home and desperate for answers, Jason washes up on the shores of an ancient land. A mysterious place; a world of bull leaping, of snake haired goddesses and of palaces so vast it was said they were built by giants - this is the city of Atlantis. Aided by his two new friends, Pythagoras and Hercules, Jason embarks on a voyage of discovery, and salvation, which sees him brush shoulders with Medusa, come face to face with the Minotaur and even do battle with the dead.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt2321596",
+      "type": "series",
+      "name": "Wolfblood",
+      "poster": "https://image.tmdb.org/t/p/w342/rYFKm38ClVGVe6Bj3RUYf67Vc9E.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sC9OILuFOlZon1XQFrSDBUlGLkI.jpg",
+      "description": "Being a teenager is hard enough. Being a Wolfblood teenager is ten times more complicated. 14 year old Maddy loves her abilities - heightened senses, being faster, stronger and more graceful - but hates the secrets that come with them.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt6109562",
+      "type": "series",
+      "name": "Wellington Paranormal",
+      "poster": "https://image.tmdb.org/t/p/w342/eaGpAP4bKMjVlMIoGqKzMRJ2OIG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bsL4ODNxisyQ4Bl2dTOoVvzcgoN.jpg",
+      "description": "New Zealand's capital is a hotbed of supernatural activity... so Officers Minogue and O'Leary, who featured in the vampire documentary What We Do In The Shadows, take to the streets to investigate all manner of paranormal phenomena.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -337,6 +367,20 @@
       ]
     },
     {
+      "id": "tt0416394",
+      "type": "series",
+      "name": "The Mighty Boosh",
+      "poster": "https://image.tmdb.org/t/p/w342/dKlYEo7mc1XLN2PutYlRuTLUXlC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/91cTQeEKxpV6ysdPO3VWn66pehc.jpg",
+      "description": "A British comic fantasy containing humour and pop-culture references.  Episodes often featured elaborate musical numbers in different genres, such as electro, heavy metal, funk, and rap. The show has been known for popularising a style called \"crimping\"; short acappella songs which are present throughout all three series.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt7573024",
       "type": "series",
       "name": "Creeped Out",
@@ -348,35 +392,6 @@
         "Sci-Fi",
         "Fantasy",
         "Mystery"
-      ]
-    },
-    {
-      "id": "tt0106014",
-      "type": "series",
-      "name": "Goodnight Sweetheart",
-      "poster": "https://image.tmdb.org/t/p/w342/wjAlo4Xac1sMq6mAMJTvkPxbOON.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pCoOFcXcwf1BsI2nJ82gx16b2MW.jpg",
-      "description": "Gary Sparrow is an ordinary bloke in 1990s Britain, married to the ambitious Yvonne and working as a TV repairman. Then his whole world changes when he stumbles upon a portal to WWII-era London and begins a dual life as an accidental time traveler.",
-      "releaseInfo": "1993",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt6109562",
-      "type": "series",
-      "name": "Wellington Paranormal",
-      "poster": "https://image.tmdb.org/t/p/w342/eaGpAP4bKMjVlMIoGqKzMRJ2OIG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bsL4ODNxisyQ4Bl2dTOoVvzcgoN.jpg",
-      "description": "New Zealand's capital is a hotbed of supernatural activity... so Officers Minogue and O'Leary, who featured in the vampire documentary What We Do In The Shadows, take to the streets to investigate all manner of paranormal phenomena.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
       ]
     },
     {
@@ -396,32 +411,32 @@
       ]
     },
     {
-      "id": "tt2321596",
+      "id": "tt10016724",
       "type": "series",
-      "name": "Wolfblood",
-      "poster": "https://image.tmdb.org/t/p/w342/rYFKm38ClVGVe6Bj3RUYf67Vc9E.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sC9OILuFOlZon1XQFrSDBUlGLkI.jpg",
-      "description": "Being a teenager is hard enough. Being a Wolfblood teenager is ten times more complicated. 14 year old Maddy loves her abilities - heightened senses, being faster, stronger and more graceful - but hates the secrets that come with them.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt1258189",
-      "type": "series",
-      "name": "Survivors",
-      "poster": "https://image.tmdb.org/t/p/w342/qw1veNeQzzN0FD2DJyemxO7hPPE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rulrZar942TxA7vn6OPjOEd7clR.jpg",
-      "description": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
-      "releaseInfo": "2008",
+      "name": "Orphan Black: Echoes",
+      "poster": "https://image.tmdb.org/t/p/w342/iz8w67Q6pJBB7JJiczA95YlHrfG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/uz9xYdqbECij0vAUWqCcKVKVLzm.jpg",
+      "description": "In the near future, a group of women weave their way into each other's lives and embark on a thrilling journey, unravelling the mystery of their identity and uncovering a wrenching story of love and betrayal.",
+      "releaseInfo": "2024",
       "genres": [
         "Sci-Fi",
         "Fantasy",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt8694364",
+      "type": "series",
+      "name": "Years and Years",
+      "poster": "https://image.tmdb.org/t/p/w342/u1FBsyMH9Tx7K5yzMnJsYRvNEKQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/95DOsfIpXweztOlzGBU1bnePCIS.jpg",
+      "description": "As Britain is rocked by unstable political, economic and technological advances, members of the Lyons family converge on one crucial night in 2019. Over the next 15 years, the twists and turns of their everyday lives are explored as we find out if this ordinary family could change the world.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama",
+        "War",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -440,28 +455,15 @@
       ]
     },
     {
-      "id": "tt0452573",
+      "id": "tt0072572",
       "type": "series",
-      "name": "The Triangle",
-      "poster": "https://image.tmdb.org/t/p/w342/l5qJgE7XAuh664RzP0D0cxRKvP8.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wLsU8iHaDqhB7lQUlynoiZlgqpy.jpg",
-      "description": "A shipping magnate hires four experts from various fields to investigate what happened to his ships that went missing in the Bermuda Triangle. The team discovers a threat that might unravel time itself and cause the world to end.",
-      "releaseInfo": "2005",
+      "name": "Survivors",
+      "poster": "https://image.tmdb.org/t/p/w342/gY1U1CUovvvmazYNzudyWmfHIOd.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8X5V5KuqWUk80wf8ZRuuN9hYe1r.jpg",
+      "description": "Survivors is a British post-apocalyptic fiction television series devised by Terry Nation and produced by Terence Dudley at the BBC from 1975 to 1977. It concerns the plight of a group of people who have survived an accidentally released plague – referred to as \"The Death\" – that kills nearly the entire human population of the planet.",
+      "releaseInfo": "1975",
       "genres": [
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0081874",
-      "type": "series",
-      "name": "The Hitchhiker's Guide to the Galaxy",
-      "poster": "https://image.tmdb.org/t/p/w342/yKiH7IIbo23uA72MmY318mXorjw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
-      "description": "Don't Panic! The story of Arthur Dent, an average Englishman whose life was spared by his friend, who turned out to be an alien, while the planet Earth is destroyed. His friend tells him about the Hitchhiker's Guide to the Galaxy, a guide with anything you ever needed, and wanted to know. They travel across the galaxy, meeting friendly, and not so friendly characters in order to find the great question (the answer being 42).",
-      "releaseInfo": "1981",
-      "genres": [
-        "Comedy",
+        "Drama",
         "Sci-Fi",
         "Fantasy"
       ]
@@ -481,45 +483,61 @@
       ]
     },
     {
-      "id": "tt0072572",
+      "id": "tt0081874",
       "type": "series",
-      "name": "Survivors",
-      "poster": "https://image.tmdb.org/t/p/w342/djYiHmLuom48ja9g712ZIiHgRbP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8X5V5KuqWUk80wf8ZRuuN9hYe1r.jpg",
-      "description": "Survivors is a British post-apocalyptic fiction television series devised by Terry Nation and produced by Terence Dudley at the BBC from 1975 to 1977. It concerns the plight of a group of people who have survived an accidentally released plague – referred to as \"The Death\" – that kills nearly the entire human population of the planet.",
-      "releaseInfo": "1975",
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "poster": "https://image.tmdb.org/t/p/w342/yKiH7IIbo23uA72MmY318mXorjw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
+      "description": "Don't Panic! The story of Arthur Dent, an average Englishman whose life was spared by his friend, who turned out to be an alien, while the planet Earth is destroyed. His friend tells him about the Hitchhiker's Guide to the Galaxy, a guide with anything you ever needed, and wanted to know. They travel across the galaxy, meeting friendly, and not so friendly characters in order to find the great question (the answer being 42).",
+      "releaseInfo": "1981",
       "genres": [
-        "Drama",
+        "Comedy",
         "Sci-Fi",
         "Fantasy"
       ]
     },
     {
-      "id": "tt8001226",
+      "id": "tt1319690",
       "type": "series",
-      "name": "The War of the Worlds",
-      "poster": "https://image.tmdb.org/t/p/w342/zcUkFaxUtP3V3YjoS1fh8YRW19H.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xLh6Lkj0J5d4new50BxDHEB7wjj.jpg",
-      "description": "In Edwardian England, George and his partner Amy attempt to defy society and start a life together as they face the escalating terror of an alien invasion, fighting for their lives against an enemy beyond their comprehension.",
-      "releaseInfo": "2019",
+      "name": "Defying Gravity",
+      "poster": "https://image.tmdb.org/t/p/w342/cH8U50mHJ9JkhF5lJktHOvV30pP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6m21SM3KFOD0gaSmaInN0lQNzqO.jpg",
+      "description": "In the very near future, a team of eight astronauts embarking on a six-year journey to explore Venus and other planets in the solar system, find their lives and destinies intertwined and carefully directed, not only by Mission Control officials on Earth, but also by an unseen force which is much closer and far more powerful.",
+      "releaseInfo": "2009",
       "genres": [
+        "Drama",
+        "Mystery",
         "Sci-Fi",
-        "Fantasy",
-        "Drama"
+        "Fantasy"
       ]
     },
     {
-      "id": "tt10016724",
+      "id": "tt0452573",
       "type": "series",
-      "name": "Orphan Black: Echoes",
-      "poster": "https://image.tmdb.org/t/p/w342/iz8w67Q6pJBB7JJiczA95YlHrfG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/uz9xYdqbECij0vAUWqCcKVKVLzm.jpg",
-      "description": "In the near future, a group of women weave their way into each other's lives and embark on a thrilling journey, unravelling the mystery of their identity and uncovering a wrenching story of love and betrayal.",
-      "releaseInfo": "2024",
+      "name": "The Triangle",
+      "poster": "https://image.tmdb.org/t/p/w342/l5qJgE7XAuh664RzP0D0cxRKvP8.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wLsU8iHaDqhB7lQUlynoiZlgqpy.jpg",
+      "description": "A shipping magnate hires four experts from various fields to investigate what happened to his ships that went missing in the Bermuda Triangle. The team discovers a threat that might unravel time itself and cause the world to end.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0181199",
+      "type": "series",
+      "name": "Arabian Nights",
+      "poster": "https://image.tmdb.org/t/p/w342/oMLISBzw6QDo60h2C1NGUL00puS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3asUkvbzieSJI7EcRESfrCISexZ.jpg",
+      "description": "Targeted for assassination by his first wife and his evil brother, a young sultan must marry by the next full moon or he will lose his kingdom. His uncertainty over his newfound bride causes her to stall the sultan with a series of fantastic stories to ease the tension and stall her impending execution.",
+      "releaseInfo": "2000",
       "genres": [
         "Sci-Fi",
         "Fantasy",
-        "Drama"
+        "Action",
+        "Adventure",
+        "Family"
       ]
     },
     {
@@ -539,18 +557,60 @@
       ]
     },
     {
-      "id": "tt8694364",
+      "id": "tt8001226",
       "type": "series",
-      "name": "Years and Years",
-      "poster": "https://image.tmdb.org/t/p/w342/u1FBsyMH9Tx7K5yzMnJsYRvNEKQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/95DOsfIpXweztOlzGBU1bnePCIS.jpg",
-      "description": "As Britain is rocked by unstable political, economic and technological advances, members of the Lyons family converge on one crucial night in 2019. Over the next 15 years, the twists and turns of their everyday lives are explored as we find out if this ordinary family could change the world.",
+      "name": "The War of the Worlds",
+      "poster": "https://image.tmdb.org/t/p/w342/zcUkFaxUtP3V3YjoS1fh8YRW19H.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xLh6Lkj0J5d4new50BxDHEB7wjj.jpg",
+      "description": "In Edwardian England, George and his partner Amy attempt to defy society and start a life together as they face the escalating terror of an alien invasion, fighting for their lives against an enemy beyond their comprehension.",
       "releaseInfo": "2019",
       "genres": [
-        "Drama",
-        "War",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt3552166",
+      "type": "series",
+      "name": "Intruders",
+      "poster": "https://image.tmdb.org/t/p/w342/3ixwvt8zgkvRFHpR5g5nNpn1M15.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vB1bUcgAilQcDoayKJimtGExBX4.jpg",
+      "description": "Members of a secret society chase immortality by seeking refuge in the bodies of others.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Fantasy",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0080242",
+      "type": "series",
+      "name": "The Martian Chronicles",
+      "poster": "https://image.tmdb.org/t/p/w342/vBq5qOxBKnhGZNcW36b2Qq6cLDG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kb8obptHWmfaG7ZhP1IeracmW9o.jpg",
+      "description": "The Martian Chronicles deals with the exploration of Mars and the inhabitants there.",
+      "releaseInfo": "1980",
+      "genres": [
         "Sci-Fi",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tt14644726",
+      "type": "series",
+      "name": "Silverpoint",
+      "poster": "https://image.tmdb.org/t/p/w342/i5iY5D0qtZDIaHy6JSdbUHU8jzf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x559sLIPU9NiLWkAzW4PftCagAJ.jpg",
+      "description": "The series follows a group of kids at an adventure camp who discover a strange artefact, while also drawn to the fate of four children who mysteriously disappeared twenty years ago.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Family",
+        "Sci-Fi",
+        "Fantasy",
+        "Mystery"
       ]
     },
     {
@@ -571,66 +631,6 @@
       ]
     },
     {
-      "id": "tt0181199",
-      "type": "series",
-      "name": "Arabian Nights",
-      "poster": "https://image.tmdb.org/t/p/w342/oMLISBzw6QDo60h2C1NGUL00puS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3asUkvbzieSJI7EcRESfrCISexZ.jpg",
-      "description": "Targeted for assassination by his first wife and his evil brother, a young sultan must marry by the next full moon or he will lose his kingdom. His uncertainty over his newfound bride causes her to stall the sultan with a series of fantastic stories to ease the tension and stall her impending execution.",
-      "releaseInfo": "2000",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Action",
-        "Adventure",
-        "Family"
-      ]
-    },
-    {
-      "id": "tt1319690",
-      "type": "series",
-      "name": "Defying Gravity",
-      "poster": "https://image.tmdb.org/t/p/w342/cH8U50mHJ9JkhF5lJktHOvV30pP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6m21SM3KFOD0gaSmaInN0lQNzqO.jpg",
-      "description": "In the very near future, a team of eight astronauts embarking on a six-year journey to explore Venus and other planets in the solar system, find their lives and destinies intertwined and carefully directed, not only by Mission Control officials on Earth, but also by an unseen force which is much closer and far more powerful.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt14466446",
-      "type": "series",
-      "name": "Domino Day",
-      "poster": "https://image.tmdb.org/t/p/w342/qPDxgmngzLqqwMz9xNl9hrZCwg5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/zexWsJ5BsRzNlUJxg4FKHJH4Pvm.jpg",
-      "description": "A young witch with extraordinary powers, Domino desperately seeks a community to help her understand who she is. Still, she doesn’t need to look far, as a coven of witches is already tracking her every move, convinced they must stop her before her powers destroy everyone and everything around her.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt3552166",
-      "type": "series",
-      "name": "Intruders",
-      "poster": "https://image.tmdb.org/t/p/w342/3ixwvt8zgkvRFHpR5g5nNpn1M15.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vB1bUcgAilQcDoayKJimtGExBX4.jpg",
-      "description": "Members of a secret society chase immortality by seeking refuge in the bodies of others.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Mystery",
-        "Sci-Fi",
-        "Fantasy",
-        "Crime"
-      ]
-    },
-    {
       "id": "tt0115288",
       "type": "series",
       "name": "Neverwhere",
@@ -645,18 +645,19 @@
       ]
     },
     {
-      "id": "tt14644726",
+      "id": "tt4939950",
       "type": "series",
-      "name": "Silverpoint",
-      "poster": "https://image.tmdb.org/t/p/w342/i5iY5D0qtZDIaHy6JSdbUHU8jzf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/x559sLIPU9NiLWkAzW4PftCagAJ.jpg",
-      "description": "The series follows a group of kids at an adventure camp who discover a strange artefact, while also drawn to the fate of four children who mysteriously disappeared twenty years ago.",
-      "releaseInfo": "2022",
+      "name": "SS-GB",
+      "poster": "https://image.tmdb.org/t/p/w342/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jf7K081EEjuypr2uQLB0X0Z1kvw.jpg",
+      "description": "Adapted from Len Deighton’s 1978 alternate history novel. A British detective investigates a murder in German-occupied Britain during World War II.",
+      "releaseInfo": "2017",
       "genres": [
-        "Family",
+        "Action",
+        "Adventure",
+        "Drama",
         "Sci-Fi",
-        "Fantasy",
-        "Mystery"
+        "Fantasy"
       ]
     },
     {
@@ -689,36 +690,6 @@
       ]
     },
     {
-      "id": "tt4939950",
-      "type": "series",
-      "name": "SS-GB",
-      "poster": "https://image.tmdb.org/t/p/w342/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jf7K081EEjuypr2uQLB0X0Z1kvw.jpg",
-      "description": "Adapted from Len Deighton’s 1978 alternate history novel. A British detective investigates a murder in German-occupied Britain during World War II.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0481449",
-      "type": "series",
-      "name": "Hyperdrive",
-      "poster": "https://image.tmdb.org/t/p/w342/zUpHbyVK0O32KDqd2U0egJHfWif.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3iy5vqzTqDdk3NfNXVJkVs02doc.jpg",
-      "description": "Set in 2151 and 2152, it follows the crew of HMS Camden Lock as they stumble through their heroic mission to protect British interests in a changing galaxy.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt1772379",
       "type": "series",
       "name": "The Fades",
@@ -733,28 +704,15 @@
       ]
     },
     {
-      "id": "tt8098956",
+      "id": "tt14466446",
       "type": "series",
-      "name": "Noughts + Crosses",
-      "poster": "https://image.tmdb.org/t/p/w342/xKo7Zog27jcGvPKGkpHkqbLqLR8.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tRHML16irVmFXqKDoIwP8Sk8rQU.jpg",
-      "description": "In an alternate history where black “Cross” people rule over white “Noughts”, young couple Sephy and Callum are divided by their colour but united by love.",
-      "releaseInfo": "2020",
+      "name": "Domino Day",
+      "poster": "https://image.tmdb.org/t/p/w342/qPDxgmngzLqqwMz9xNl9hrZCwg5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/zexWsJ5BsRzNlUJxg4FKHJH4Pvm.jpg",
+      "description": "A young witch with extraordinary powers, Domino desperately seeks a community to help her understand who she is. Still, she doesn’t need to look far, as a coven of witches is already tracking her every move, convinced they must stop her before her powers destroy everyone and everything around her.",
+      "releaseInfo": "2024",
       "genres": [
         "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0080242",
-      "type": "series",
-      "name": "The Martian Chronicles",
-      "poster": "https://image.tmdb.org/t/p/w342/vBq5qOxBKnhGZNcW36b2Qq6cLDG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kb8obptHWmfaG7ZhP1IeracmW9o.jpg",
-      "description": "The Martian Chronicles deals with the exploration of Mars and the inhabitants there.",
-      "releaseInfo": "1980",
-      "genres": [
         "Sci-Fi",
         "Fantasy"
       ]
@@ -777,6 +735,62 @@
       ]
     },
     {
+      "id": "tt0481449",
+      "type": "series",
+      "name": "Hyperdrive",
+      "poster": "https://image.tmdb.org/t/p/w342/zUpHbyVK0O32KDqd2U0egJHfWif.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3iy5vqzTqDdk3NfNXVJkVs02doc.jpg",
+      "description": "Set in 2151 and 2152, it follows the crew of HMS Camden Lock as they stumble through their heroic mission to protect British interests in a changing galaxy.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt8098956",
+      "type": "series",
+      "name": "Noughts + Crosses",
+      "poster": "https://image.tmdb.org/t/p/w342/xKo7Zog27jcGvPKGkpHkqbLqLR8.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tRHML16irVmFXqKDoIwP8Sk8rQU.jpg",
+      "description": "In an alternate history where black “Cross” people rule over white “Noughts”, young couple Sephy and Callum are divided by their colour but united by love.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt1258189",
+      "type": "series",
+      "name": "Survivors",
+      "poster": "https://image.tmdb.org/t/p/w342/qw1veNeQzzN0FD2DJyemxO7hPPE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rulrZar942TxA7vn6OPjOEd7clR.jpg",
+      "description": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt5079788",
+      "type": "series",
+      "name": "Class",
+      "poster": "https://image.tmdb.org/t/p/w342/qC6c8Bx5LiWuZ5t9v3Iyn0818FL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4XcOdRYPTdNyu5C1iDnFHDqI9QN.jpg",
+      "description": "Coal Hill School has been a feature of Doctor Who since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt1332653",
       "type": "series",
       "name": "The Day of the Triffids",
@@ -785,34 +799,6 @@
       "description": "After an unusual meteor shower leaves most of the human population blind, a merchant navy officer must find a way to conquer tall, aggressive plants which are feeding on people and animals.",
       "releaseInfo": "2009",
       "genres": [
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0081850",
-      "type": "series",
-      "name": "The Day of the Triffids",
-      "poster": "https://image.tmdb.org/t/p/w342/pDGJW9qlHQwnhNhlj9gQReM4NVi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yaZ1j4zfeOq5pS1LYgPdqNjlK6B.jpg",
-      "description": "After an unusual meteor shower leaves most of the human population blind, a merchant navy officer must find a way to conquer tall, aggressive plants which are feeding on people and animals.",
-      "releaseInfo": "1981",
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt1460746",
-      "type": "series",
-      "name": "Paradox",
-      "poster": "https://image.tmdb.org/t/p/w342/fjVC5B4sOoR4pCNfKVRRclr5Hfk.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/n67VuPfGJzNrjDyx3ZJBSfzcEF9.jpg",
-      "description": "Mysterious images that show incidents 18 hours before they happen are transmitted from space. As a space scientist attempts to explain their source, detectives race against time to change the future.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Drama",
         "Sci-Fi",
         "Fantasy"
       ]

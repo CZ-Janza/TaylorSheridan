@@ -40,32 +40,6 @@
       ]
     },
     {
-      "id": "tt34991493",
-      "type": "series",
-      "name": "Dutton Ranch",
-      "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-      "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Western",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt11712058",
-      "type": "series",
-      "name": "Mayor of Kingstown",
-      "poster": "https://image.tmdb.org/t/p/w342/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
-      "description": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
       "id": "tt14186672",
       "type": "series",
       "name": "Landman",
@@ -74,6 +48,19 @@
       "description": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
       "releaseInfo": "2024",
       "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt34991493",
+      "type": "series",
+      "name": "Dutton Ranch",
+      "poster": "https://image.tmdb.org/t/p/w342/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+      "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Western",
         "Drama"
       ]
     },
@@ -90,6 +77,19 @@
         "Crime",
         "Action",
         "Adventure"
+      ]
+    },
+    {
+      "id": "tt11712058",
+      "type": "series",
+      "name": "Mayor of Kingstown",
+      "poster": "https://image.tmdb.org/t/p/w342/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+      "description": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -165,18 +165,6 @@
         "Reality",
         "Drama",
         "Western"
-      ]
-    },
-    {
-      "id": "tt29731180",
-      "type": "series",
-      "name": "1944 (upcoming)",
-      "poster": "https://image.tmdb.org/t/p/w342/rlnc58aLcoZ15Iu7kNy4RclpeFy.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kqVMsDPuv0gcdDp0BpR5r5H1OTZ.jpg",
-      "description": "⏳ Not yet released — status: Planned. A prequel to Yellowstone featuring a new generation of the Dutton family ranchers in the 1940s.",
-      "genres": [
-        "Western",
-        "Drama"
       ]
     }
   ]
