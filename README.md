@@ -103,11 +103,34 @@ Once everything works:
 node scripts/publish.js
 ```
 
-The script verifies the manifest is reachable and registers the add-on in
-Stremio's central catalog (`api.strem.io`). After that the add-on shows up for
-all users in the community add-ons section. You only do this once; further
-catalog updates propagate automatically (Stremio pulls the catalog from your
-URL).
+This publishes both add-ons; pass `sheridan` or `bbc` to do just one. Before
+sending anything, the script checks that each manifest is reachable and that
+every catalog it declares actually resolves and is non-empty — a catalog listed
+but missing shows up as an empty row for everyone who installs it.
+
+Registering puts the add-on in Stremio's central catalog (`api.strem.io`), so it
+appears in the community add-ons section instead of only working for people you
+sent the URL to. You only do this once: what gets registered is the manifest
+URL, and Stremio keeps pulling catalog updates from it.
+
+### Knowing whether anyone installed it
+
+Not really possible, and worth being clear about why: GitHub Pages keeps no
+access logs you can read, and Stremio publishes no install counts. Once someone
+has installed the add-on, their Stremio talks to the catalog JSON directly and
+nothing reports back.
+
+What you can measure is the install pages. [`docs/analytics.js`](docs/analytics.js)
+counts page visits and clicks on **Install in Stremio** — the closest proxy
+there is. It is **off** until you put a [GoatCounter](https://www.goatcounter.com)
+code in it (free, one minute, no cookies or personal data — it matters, other
+people visit these pages). Setup steps are in the file.
+
+It will not see anyone who pastes the manifest URL straight into Stremio, and it
+cannot see anyone who installed before you turned it on. For real install
+numbers the manifest would have to be served from something that logs requests
+— a Cloudflare Worker or similar in front of Pages — which means a new URL and
+re-sharing it.
 
 ## Tuning behavior (`config.json`)
 
@@ -264,9 +287,10 @@ Requires Node.js 18+, no dependencies to install.
 │   │   └── genres.js            # TMDB genre ids → Stremio dropdown labels
 │   ├── generate.js              # Taylor Sheridan generator
 │   ├── generate-bbc.js          # BBC generator
-│   └── publish.js               # one-time publish to Stremio
+│   └── publish.js               # one-time publish of both add-ons to Stremio
 ├── .github/workflows/update.yml # weekly automatic update (runs both)
 └── docs/                        # ← GitHub Pages = the finished add-ons
+    ├── analytics.js             # install-page visit counting (off by default)
     ├── manifest.json            # Taylor Sheridan add-on
     ├── index.html               # install page
     ├── catalog/
