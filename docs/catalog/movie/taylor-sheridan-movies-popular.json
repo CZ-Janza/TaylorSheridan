@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "tt5052474",
-      "type": "movie",
-      "name": "Sicario: Day of the Soldado",
-      "poster": "https://image.tmdb.org/t/p/w342/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
-      "description": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt5362988",
       "type": "movie",
       "name": "Wind River",
@@ -39,6 +25,20 @@
       "genres": [
         "Crime",
         "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt5052474",
+      "type": "movie",
+      "name": "Sicario: Day of the Soldado",
+      "poster": "https://image.tmdb.org/t/p/w342/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
+      "description": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Action",
+        "Crime",
         "Thriller"
       ]
     },
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "tt13930830",
-      "type": "movie",
-      "name": "Pure Grit",
-      "poster": "https://image.tmdb.org/t/p/w342/lKlrpWLAXspwyQ3dCRR5OccVAWc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/g1LDvRnotgnwB0qMOtKRxeNtUrB.jpg",
-      "description": "Chronicling three years in the life of a young Native American bareback horse racer, her dogged determination, and the relationships that sustain her.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Documentary"
-      ]
-    },
-    {
       "id": "tt19860606",
       "type": "movie",
       "name": "1883: The Road West",
@@ -169,6 +157,18 @@
         "Documentary",
         "History",
         "Western"
+      ]
+    },
+    {
+      "id": "tt13930830",
+      "type": "movie",
+      "name": "Pure Grit",
+      "poster": "https://image.tmdb.org/t/p/w342/lKlrpWLAXspwyQ3dCRR5OccVAWc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/g1LDvRnotgnwB0qMOtKRxeNtUrB.jpg",
+      "description": "Chronicling three years in the life of a young Native American bareback horse racer, her dogged determination, and the relationships that sustain her.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documentary"
       ]
     },
     {
@@ -193,13 +193,14 @@
       ]
     },
     {
-      "id": "tt6065956",
+      "id": "tt1800290",
       "type": "movie",
-      "name": "Disorder (upcoming)",
-      "description": "⏳ Not yet released — status: Rumored. A war veteran is hired to protect the family of a wealthy businessman.",
+      "name": "Empire of the Summer Moon (upcoming)",
+      "poster": "https://image.tmdb.org/t/p/w342/iLmQ2YSqmvbe8vZSGOqq3YEdl0d.jpg",
+      "description": "⏳ Not yet released — status: Planned. The narrative spans four decades of conflict between the Comanches natives and white colonists, highlighting the Comanches' mastery of horse warfare, their resistance to Spanish, French, and settler-expansion, and their pivotal role in shaping the American West.",
       "genres": [
-        "Drama",
-        "Thriller"
+        "Western",
+        "History"
       ]
     },
     {
@@ -212,14 +213,13 @@
       ]
     },
     {
-      "id": "tt1800290",
+      "id": "tt6065956",
       "type": "movie",
-      "name": "Empire of the Summer Moon (upcoming)",
-      "poster": "https://image.tmdb.org/t/p/w342/iLmQ2YSqmvbe8vZSGOqq3YEdl0d.jpg",
-      "description": "⏳ Not yet released — status: Planned. The narrative spans four decades of conflict between the Comanches natives and white colonists, highlighting the Comanches' mastery of horse warfare, their resistance to Spanish, French, and settler-expansion, and their pivotal role in shaping the American West.",
+      "name": "Disorder (upcoming)",
+      "description": "⏳ Not yet released — status: Rumored. A war veteran is hired to protect the family of a wealthy businessman.",
       "genres": [
-        "Western",
-        "History"
+        "Drama",
+        "Thriller"
       ]
     }
   ]

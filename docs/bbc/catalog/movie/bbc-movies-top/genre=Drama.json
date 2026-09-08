@@ -221,6 +221,18 @@
       ]
     },
     {
+      "id": "tt19770238",
+      "type": "movie",
+      "name": "Aftersun",
+      "poster": "https://image.tmdb.org/t/p/w342/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
+      "description": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0090163",
       "type": "movie",
       "name": "Threads",
@@ -235,15 +247,17 @@
       ]
     },
     {
-      "id": "tt19770238",
+      "id": "tt0249462",
       "type": "movie",
-      "name": "Aftersun",
-      "poster": "https://image.tmdb.org/t/p/w342/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4jdduww9j5RyzO4ITRcuBFhqNN1.jpg",
-      "description": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
-      "releaseInfo": "2022",
+      "name": "Billy Elliot",
+      "poster": "https://image.tmdb.org/t/p/w342/mYtqgWCJiXpDeZwjVcC3OQGD8IR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/urzflyf41uySpgciGHdQzpcaMOY.jpg",
+      "description": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
+      "releaseInfo": "2000",
       "genres": [
-        "Drama"
+        "Drama",
+        "Comedy",
+        "Music"
       ]
     },
     {
@@ -258,20 +272,6 @@
         "Drama",
         "Comedy",
         "Romance"
-      ]
-    },
-    {
-      "id": "tt0249462",
-      "type": "movie",
-      "name": "Billy Elliot",
-      "poster": "https://image.tmdb.org/t/p/w342/mYtqgWCJiXpDeZwjVcC3OQGD8IR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/urzflyf41uySpgciGHdQzpcaMOY.jpg",
-      "description": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
-      "releaseInfo": "2000",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Music"
       ]
     },
     {
@@ -319,7 +319,7 @@
       "id": "tt27714581",
       "type": "movie",
       "name": "Sentimental Value",
-      "poster": "https://image.tmdb.org/t/p/w342/AcbS8VMysrTpG9r4dgK1oyLsKYn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
       "background": "https://image.tmdb.org/t/p/w780/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "description": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
       "releaseInfo": "2025",
@@ -393,6 +393,20 @@
       "genres": [
         "Crime",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt0416320",
+      "type": "movie",
+      "name": "Match Point",
+      "poster": "https://image.tmdb.org/t/p/w342/vHjEVTD8ucuwKSFOZJeyAnTZYli.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yUJf20GQ5vifhk9QDxUGotAEaLz.jpg",
+      "description": "Chris, a former tennis pro, takes a job as an instructor and befriends his wealthy young student, Tom. After being introduced to his family, Chris is soon engaged to Tom's sister, Chloe. Despite the professional and financial advantages that this relationship affords him, Chris becomes obsessed with Tom's fiancee, American actress Nola.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
       ]
     },
     {
@@ -513,20 +527,6 @@
       "releaseInfo": "1996",
       "genres": [
         "Drama"
-      ]
-    },
-    {
-      "id": "tt0416320",
-      "type": "movie",
-      "name": "Match Point",
-      "poster": "https://image.tmdb.org/t/p/w342/vHjEVTD8ucuwKSFOZJeyAnTZYli.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yUJf20GQ5vifhk9QDxUGotAEaLz.jpg",
-      "description": "Chris, a former tennis pro, takes a job as an instructor and befriends his wealthy young student, Tom. After being introduced to his family, Chris is soon engaged to Tom's sister, Chloe. Despite the professional and financial advantages that this relationship affords him, Chris becomes obsessed with Tom's fiancee, American actress Nola.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Thriller"
       ]
     },
     {
@@ -919,19 +919,6 @@
       ]
     },
     {
-      "id": "tt0465551",
-      "type": "movie",
-      "name": "Notes on a Scandal",
-      "poster": "https://image.tmdb.org/t/p/w342/ymFybaA0r7MpwWnmUCFHYAT6Djb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/cn1AjfcI8B2CxekvYYZWkLf5muE.jpg",
-      "description": "A veteran high school teacher befriends a younger art teacher, who is having an affair with one of her 15-year-old students. However, her intentions with this new \"friend\" also go well beyond platonic friendship.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
       "id": "tt0099949",
       "type": "movie",
       "name": "Korczak",
@@ -957,6 +944,19 @@
         "War",
         "Drama",
         "History"
+      ]
+    },
+    {
+      "id": "tt0465551",
+      "type": "movie",
+      "name": "Notes on a Scandal",
+      "poster": "https://image.tmdb.org/t/p/w342/ymFybaA0r7MpwWnmUCFHYAT6Djb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cn1AjfcI8B2CxekvYYZWkLf5muE.jpg",
+      "description": "A veteran high school teacher befriends a younger art teacher, who is having an affair with one of her 15-year-old students. However, her intentions with this new \"friend\" also go well beyond platonic friendship.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
+        "Romance"
       ]
     },
     {
@@ -1037,19 +1037,6 @@
       ]
     },
     {
-      "id": "tt0959337",
-      "type": "movie",
-      "name": "Revolutionary Road",
-      "poster": "https://image.tmdb.org/t/p/w342/cvkD3yiVXLg3as8EAG3LaTycONQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ra9aXj8PpUbUHwwTRSl5zsL6WHM.jpg",
-      "description": "A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children. Based on a novel by Richard Yates.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
       "id": "tt0117991",
       "type": "movie",
       "name": "Twelfth Night",
@@ -1087,6 +1074,19 @@
       "releaseInfo": "1966",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt0959337",
+      "type": "movie",
+      "name": "Revolutionary Road",
+      "poster": "https://image.tmdb.org/t/p/w342/cvkD3yiVXLg3as8EAG3LaTycONQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ra9aXj8PpUbUHwwTRSl5zsL6WHM.jpg",
+      "description": "A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children. Based on a novel by Richard Yates.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama",
+        "Romance"
       ]
     },
     {
@@ -1197,19 +1197,6 @@
       ]
     },
     {
-      "id": "tt3385524",
-      "type": "movie",
-      "name": "Stan & Ollie",
-      "poster": "https://image.tmdb.org/t/p/w342/8qDBDXA8Od8gc4IQMnoXUKyj8Pf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6oyC0KcZPx9aqA1WkXtkfA1txXU.jpg",
-      "description": "With their golden era long behind them, comedy duo Stan Laurel and Oliver Hardy embark on a variety hall tour of Britain and Ireland. Despite the pressures of a hectic schedule, and with the support of their wives Lucille and Ida – a formidable double act in their own right – the pair's love of performing, as well as for each other, endures as they secure their place in the hearts of their adoring public",
-      "releaseInfo": "2018",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt30444418",
       "type": "movie",
       "name": "Santosh",
@@ -1220,6 +1207,19 @@
       "genres": [
         "Thriller",
         "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt3385524",
+      "type": "movie",
+      "name": "Stan & Ollie",
+      "poster": "https://image.tmdb.org/t/p/w342/8qDBDXA8Od8gc4IQMnoXUKyj8Pf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6oyC0KcZPx9aqA1WkXtkfA1txXU.jpg",
+      "description": "With their golden era long behind them, comedy duo Stan Laurel and Oliver Hardy embark on a variety hall tour of Britain and Ireland. Despite the pressures of a hectic schedule, and with the support of their wives Lucille and Ida – a formidable double act in their own right – the pair's love of performing, as well as for each other, endures as they secure their place in the hearts of their adoring public",
+      "releaseInfo": "2018",
+      "genres": [
+        "Comedy",
         "Drama"
       ]
     },

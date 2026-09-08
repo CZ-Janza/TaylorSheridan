@@ -30,21 +30,6 @@
       ]
     },
     {
-      "id": "tt0120004",
-      "type": "movie",
-      "name": "The Relic",
-      "poster": "https://image.tmdb.org/t/p/w342/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg",
-      "description": "A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.",
-      "releaseInfo": "1997",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller",
-        "Sci-Fi"
-      ]
-    },
-    {
       "id": "tt3168230",
       "type": "movie",
       "name": "Mr. Holmes",
@@ -61,7 +46,7 @@
       "id": "tt3155298",
       "type": "movie",
       "name": "Luther: The Fallen Sun",
-      "poster": "https://image.tmdb.org/t/p/w342/xsW7M4b4gawgFKCzcXHL2MSeswj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/tvX2JltXjmpHLQ7BBijyVc9STv4.jpg",
       "background": "https://image.tmdb.org/t/p/w780/6oxnVw91yzv9fYwGaz941Mwlwbv.jpg",
       "description": "A gruesome serial killer is terrorizing London while brilliant but disgraced detective John Luther sits behind bars. Haunted by his failure to capture the cyber psychopath who now taunts him, Luther decides to break out of prison to finish the job by any means necessary.",
       "releaseInfo": "2023",
@@ -69,6 +54,21 @@
         "Crime",
         "Mystery",
         "Thriller"
+      ]
+    },
+    {
+      "id": "tt0120004",
+      "type": "movie",
+      "name": "The Relic",
+      "poster": "https://image.tmdb.org/t/p/w342/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg",
+      "description": "A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Sci-Fi"
       ]
     },
     {
@@ -86,6 +86,20 @@
       ]
     },
     {
+      "id": "tt1797469",
+      "type": "movie",
+      "name": "Page Eight",
+      "poster": "https://image.tmdb.org/t/p/w342/69q0ZufQqPCjFbyuTxXRtqQtDd6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vH6TWGAgQaLSibGU7tz26JLb0Cp.jpg",
+      "description": "Johnny is a long-serving MI5 officer. His boss dies suddenly, leaving behind an inexplicable file which threatens the stability of the organisation.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt3845232",
       "type": "movie",
       "name": "Sherlock: The Abominable Bride",
@@ -95,20 +109,6 @@
       "releaseInfo": "2016",
       "genres": [
         "Crime",
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt21810682",
-      "type": "movie",
-      "name": "The End We Start From",
-      "poster": "https://image.tmdb.org/t/p/w342/S9U0axheNakD9LQusEpFijDgSe.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nmU3WgYuv7TyCrImrVtYG2VB6U6.jpg",
-      "description": "As London is submerged below floodwaters, a woman gives birth to her first child. Days later, she and her baby are forced to leave their home in search of safety. They head north through a newly dangerous country seeking refuge from place to place.",
-      "releaseInfo": "2023",
-      "genres": [
         "Drama",
         "Mystery",
         "Thriller"
@@ -128,30 +128,17 @@
       ]
     },
     {
-      "id": "tt1797469",
+      "id": "tt21810682",
       "type": "movie",
-      "name": "Page Eight",
-      "poster": "https://image.tmdb.org/t/p/w342/69q0ZufQqPCjFbyuTxXRtqQtDd6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vH6TWGAgQaLSibGU7tz26JLb0Cp.jpg",
-      "description": "Johnny is a long-serving MI5 officer. His boss dies suddenly, leaving behind an inexplicable file which threatens the stability of the organisation.",
-      "releaseInfo": "2011",
+      "name": "The End We Start From",
+      "poster": "https://image.tmdb.org/t/p/w342/S9U0axheNakD9LQusEpFijDgSe.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nmU3WgYuv7TyCrImrVtYG2VB6U6.jpg",
+      "description": "As London is submerged below floodwaters, a woman gives birth to her first child. Days later, she and her baby are forced to leave their home in search of safety. They head north through a newly dangerous country seeking refuge from place to place.",
+      "releaseInfo": "2023",
       "genres": [
+        "Drama",
         "Mystery",
-        "Thriller",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt4827986",
-      "type": "movie",
-      "name": "The Sense of an Ending",
-      "poster": "https://image.tmdb.org/t/p/w342/gvW0Ki7pEv4iZYbtGwgcvqR6s1c.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9IAYhWW3bsggQcnQ2SBZD2V1999.jpg",
-      "description": "A man becomes haunted by his past and is presented with a mysterious legacy that causes him to re-think his current situation in life.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Mystery",
-        "Drama"
+        "Thriller"
       ]
     },
     {
@@ -164,36 +151,6 @@
       "releaseInfo": "2022",
       "genres": [
         "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt4271918",
-      "type": "movie",
-      "name": "An Inspector Calls",
-      "poster": "https://image.tmdb.org/t/p/w342/qZLDqf9poquJwY5uY6ZWK1yqsSb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/x7i70dfvEXuV6o7nN9J8P4KCM6K.jpg",
-      "description": "Northern England, 1912. The dinner of a wealthy family is interrupted by Inspector Goole, who only announces that a young woman has committed suicide. Then, he simply asks everyone present, one by one, if they knew her.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt7464188",
-      "type": "movie",
-      "name": "In Fabric",
-      "poster": "https://image.tmdb.org/t/p/w342/puGJX5Ko9KUMWM5cGqPZ5nyxa8c.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/97NFoAp9JdgXqBQG6aoUprF6zbS.jpg",
-      "description": "A haunting ghost story set against the backdrop of a busy winter sales period in a department store, following the life of a cursed dress as it passes from person to person, with devastating consequences.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Horror",
-        "Fantasy",
-        "Comedy",
         "Mystery"
       ]
     },
@@ -213,6 +170,34 @@
       ]
     },
     {
+      "id": "tt4827986",
+      "type": "movie",
+      "name": "The Sense of an Ending",
+      "poster": "https://image.tmdb.org/t/p/w342/gvW0Ki7pEv4iZYbtGwgcvqR6s1c.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9IAYhWW3bsggQcnQ2SBZD2V1999.jpg",
+      "description": "A man becomes haunted by his past and is presented with a mysterious legacy that causes him to re-think his current situation in life.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt4271918",
+      "type": "movie",
+      "name": "An Inspector Calls",
+      "poster": "https://image.tmdb.org/t/p/w342/qZLDqf9poquJwY5uY6ZWK1yqsSb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x7i70dfvEXuV6o7nN9J8P4KCM6K.jpg",
+      "description": "Northern England, 1912. The dinner of a wealthy family is interrupted by Inspector Goole, who only announces that a young woman has committed suicide. Then, he simply asks everyone present, one by one, if they knew her.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt1034302",
       "type": "movie",
       "name": "The Cry of the Owl",
@@ -224,20 +209,6 @@
         "Drama",
         "Mystery",
         "Thriller"
-      ]
-    },
-    {
-      "id": "tt0170266",
-      "type": "movie",
-      "name": "Miss Marple: The Murder at the Vicarage",
-      "poster": "https://image.tmdb.org/t/p/w342/wkJZURN8E8w7wBj4IzeGUUtsaC7.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/y8c2N0JT9Q7OvD6GMxhhDIaZWx3.jpg",
-      "description": "Faced with two false confessions and numerous suspects after a despised civil magistrate is found shot in the local vicarage, Detective Inspector Slack reluctantly accepts help from Miss Marple.",
-      "releaseInfo": "1986",
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Crime"
       ]
     },
     {
@@ -256,18 +227,32 @@
       ]
     },
     {
-      "id": "tt0109374",
+      "id": "tt7464188",
       "type": "movie",
-      "name": "Captives",
-      "poster": "https://image.tmdb.org/t/p/w342/7rOOxUNrTLZMT6KAdBd8WMnElsd.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/lKQRcvbhRFMew82Vj0CtLBS9UWw.jpg",
-      "description": "A beautiful young dentist working in a tough British prison starts to become attracted to a violent inmate after the break-up of her marriage, and embarks upon an illicit affair with him, with terrible consequences for all.",
-      "releaseInfo": "1994",
+      "name": "In Fabric",
+      "poster": "https://image.tmdb.org/t/p/w342/puGJX5Ko9KUMWM5cGqPZ5nyxa8c.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/97NFoAp9JdgXqBQG6aoUprF6zbS.jpg",
+      "description": "A haunting ghost story set against the backdrop of a busy winter sales period in a department store, following the life of a cursed dress as it passes from person to person, with devastating consequences.",
+      "releaseInfo": "2018",
       "genres": [
-        "Drama",
-        "Thriller",
+        "Horror",
+        "Fantasy",
+        "Comedy",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0170266",
+      "type": "movie",
+      "name": "Miss Marple: The Murder at the Vicarage",
+      "poster": "https://image.tmdb.org/t/p/w342/wkJZURN8E8w7wBj4IzeGUUtsaC7.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/y8c2N0JT9Q7OvD6GMxhhDIaZWx3.jpg",
+      "description": "Faced with two false confessions and numerous suspects after a despised civil magistrate is found shot in the local vicarage, Detective Inspector Slack reluctantly accepts help from Miss Marple.",
+      "releaseInfo": "1986",
+      "genres": [
         "Mystery",
-        "Romance"
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -284,31 +269,18 @@
       ]
     },
     {
-      "id": "tt0322622",
+      "id": "tt0109374",
       "type": "movie",
-      "name": "The Hound of the Baskervilles",
-      "poster": "https://image.tmdb.org/t/p/w342/fVC7KS1LSKJ18yGqk8a6CfGOCuY.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nb7SjAaXbUKIPiZpgDGMETvwR4S.jpg",
-      "description": "Sherlock Holmes and Dr. Watson are called in to unravel a mysterious curse that has plagued the Baskerville family for generations. When Sir Charles Baskerville is found dead, his heir, Sir Henry, begs Holmes to save him from the terrifying supernatural hound that has brought fear and death to his household.",
-      "releaseInfo": "2002",
+      "name": "Captives",
+      "poster": "https://image.tmdb.org/t/p/w342/7rOOxUNrTLZMT6KAdBd8WMnElsd.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/lKQRcvbhRFMew82Vj0CtLBS9UWw.jpg",
+      "description": "A beautiful young dentist working in a tough British prison starts to become attracted to a violent inmate after the break-up of her marriage, and embarks upon an illicit affair with him, with terrible consequences for all.",
+      "releaseInfo": "1994",
       "genres": [
+        "Drama",
         "Thriller",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt6874254",
-      "type": "movie",
-      "name": "Out of Blue",
-      "poster": "https://image.tmdb.org/t/p/w342/k74DaMtAhnjeOGX6LIXsvwMStfK.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8nsk04y7BH6cvft5UPjbjEu8MAw.jpg",
-      "description": "Mike Hoolihan is an unconventional New Orleans cop investigating the murder of renowned astrophysicist Jennifer Rockwell, a black hole expert found shot to death in her observatory.  As Mike tumbles down the rabbit hole of the disturbing, labyrinthine case, she finds herself grappling with increasingly existential questions of quantum mechanics, parallel universes, and exploding stars. The hunt for a killer draws a detective into an even larger mystery: the nature of the universe itself.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
+        "Mystery",
+        "Romance"
       ]
     },
     {
@@ -326,17 +298,17 @@
       ]
     },
     {
-      "id": "tt1172571",
+      "id": "tt6874254",
       "type": "movie",
-      "name": "The Children",
-      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
-      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
-      "releaseInfo": "2008",
+      "name": "Out of Blue",
+      "poster": "https://image.tmdb.org/t/p/w342/k74DaMtAhnjeOGX6LIXsvwMStfK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8nsk04y7BH6cvft5UPjbjEu8MAw.jpg",
+      "description": "Mike Hoolihan is an unconventional New Orleans cop investigating the murder of renowned astrophysicist Jennifer Rockwell, a black hole expert found shot to death in her observatory.  As Mike tumbles down the rabbit hole of the disturbing, labyrinthine case, she finds herself grappling with increasingly existential questions of quantum mechanics, parallel universes, and exploding stars. The hunt for a killer draws a detective into an even larger mystery: the nature of the universe itself.",
+      "releaseInfo": "2019",
       "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
+        "Drama",
+        "Crime",
+        "Mystery"
       ]
     },
     {
@@ -353,15 +325,15 @@
       ]
     },
     {
-      "id": "tt3294200",
+      "id": "tt1172571",
       "type": "movie",
-      "name": "The Falling",
-      "poster": "https://image.tmdb.org/t/p/w342/hjlU6vSDD5fdJenWhUKE5l672rb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pvn9CqsQFIzK4j1rrgQcpV3T6UJ.jpg",
-      "description": "England, 1969. The fascinating Abbie and the troubled Lydia are great friends. After an unexpected tragedy occurs in the strict girls' school they attend, a mysterious epidemic of fainting breaks out that threatens the mental sanity and beliefs of the tormented people involved, both teachers and students.",
-      "releaseInfo": "2015",
+      "name": "The Children",
+      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
+      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
+      "releaseInfo": "2008",
       "genres": [
-        "Drama",
+        "Horror",
         "Mystery",
         "Thriller"
       ]
@@ -384,18 +356,31 @@
       ]
     },
     {
-      "id": "tt4788734",
+      "id": "tt0322622",
       "type": "movie",
-      "name": "Homebound",
-      "poster": "https://image.tmdb.org/t/p/w342/8ceAveKWI7PoYGGOFz2WW7xjtYF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pCyGiGkf960FIzfgXRyxz47htVl.jpg",
-      "description": "A young woman arrives at the home of her new husband's estranged family to find the children behaving in increasingly unnerving ways.",
-      "releaseInfo": "2022",
+      "name": "The Hound of the Baskervilles",
+      "poster": "https://image.tmdb.org/t/p/w342/fVC7KS1LSKJ18yGqk8a6CfGOCuY.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nb7SjAaXbUKIPiZpgDGMETvwR4S.jpg",
+      "description": "Sherlock Holmes and Dr. Watson are called in to unravel a mysterious curse that has plagued the Baskerville family for generations. When Sir Charles Baskerville is found dead, his heir, Sir Henry, begs Holmes to save him from the terrifying supernatural hound that has brought fear and death to his household.",
+      "releaseInfo": "2002",
       "genres": [
-        "Mystery",
         "Thriller",
         "Drama",
-        "Horror"
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt3294200",
+      "type": "movie",
+      "name": "The Falling",
+      "poster": "https://image.tmdb.org/t/p/w342/hjlU6vSDD5fdJenWhUKE5l672rb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pvn9CqsQFIzK4j1rrgQcpV3T6UJ.jpg",
+      "description": "England, 1969. The fascinating Abbie and the troubled Lydia are great friends. After an unexpected tragedy occurs in the strict girls' school they attend, a mysterious epidemic of fainting breaks out that threatens the mental sanity and beliefs of the tormented people involved, both teachers and students.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
       ]
     },
     {
@@ -428,87 +413,14 @@
       ]
     },
     {
-      "id": "tt1337072",
+      "id": "tt2951888",
       "type": "movie",
-      "name": "Doctor Who: Planet of the Dead",
-      "poster": "https://image.tmdb.org/t/p/w342/9qKoF7XjkcbWYwekBCKt7W7rDHc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/umWItKKGIVcI9iq2IlIrQp0s9F4.jpg",
-      "description": "A meeting in a London bus with jewel thief Lady Christina takes a turn for the worse for the Doctor when the bus takes a detour to a desert-like planet, where the deadly Swarm awaits.",
-      "releaseInfo": "2009",
+      "name": "The Thirteenth Tale",
+      "poster": "https://image.tmdb.org/t/p/w342/o3lWdFzIPFaNkwCDszhmmJ4d8LE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aHzJY3QgtlzZytFCHN3ETHXsfFJ.jpg",
+      "description": "Biographer Margaret Lea travels to the isolated rural mansion of the famous writer Vida Winter, who asks her to write her biography. Although initially she is reluctant, as Vida is known for constantly distorting the facts of her life, Margaret soon becomes fascinated with the story of a dark childhood, a disturbing tale that leads her to finally confront the traumas of her own past.",
+      "releaseInfo": "2013",
       "genres": [
-        "Sci-Fi",
-        "Thriller",
-        "Fantasy",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0913262",
-      "type": "movie",
-      "name": "The Shadow in the North",
-      "poster": "https://image.tmdb.org/t/p/w342/ptDvV42gIkdKbYLtPrhOpUks9os.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kq0zwccbh7WcdNxGcH67cMwhjBN.jpg",
-      "description": "Sally Lockhart crosses paths with the nefarious industrialist Axel Bellman, the richest and most powerful man in Europe. She's determined to prove him guilty of corruption and fraud, whilst Bellman will stop at nothing to destroy her case.",
-      "releaseInfo": "2007",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0429032",
-      "type": "movie",
-      "name": "Sherlock Holmes and the Case of the Silk Stocking",
-      "poster": "https://image.tmdb.org/t/p/w342/jsl7wdtyzhU3KdTyPtiZNCcTIda.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/av3wawycT7eSW2MHN1nKFfQuK4d.jpg",
-      "description": "The corpse of a shabbily dressed young woman has been discovered in the mud flats of the Thames at low tide. Police assume she's a prostitute, but Dr. Watson suspects something more and goes to his old friend Holmes, now retired and at very loose ends.",
-      "releaseInfo": "2004",
-      "genres": [
-        "Mystery",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt14773478",
-      "type": "movie",
-      "name": "Medusa Deluxe",
-      "poster": "https://image.tmdb.org/t/p/w342/hcuNu3dXNHjWOtcy0WtKU1rSW3Y.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2Yy6GdTEJAmVeXf1GApD70nrZq.jpg",
-      "description": "Talented and cutthroat hairstylists at a competition find one of their own murdered before judging can begin. Winding through neon-lit halls, competitors unspool long-simmering resentments and lies as they search for the killer among them.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Comedy",
-        "Mystery",
-        "Thriller",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0363143",
-      "type": "movie",
-      "name": "Trauma",
-      "poster": "https://image.tmdb.org/t/p/w342/k9uFGgQYmyhGFhwRM9jZuIlYAiu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/puVSkJbKz0iiaI3l1yOFkO7kwEH.jpg",
-      "description": "Awaking from a coma to discover his wife has been killed in a car accident, Ben's world may as well have come to an end. A few weeks later, Ben's out of hospital and, attempting to start a new life, he moves home and is befriended by a beautiful young neighbour Charlotte. His life may be turning around but all is not what it seems and, haunted by visions of his dead wife, Ben starts to lose his grip on reality.",
-      "releaseInfo": "2004",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller",
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt0217821",
-      "type": "movie",
-      "name": "Stigma",
-      "poster": "https://image.tmdb.org/t/p/w342/ztCjyRwwKiJsZ5IOu4YgYBGyU29.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1OckvCZbTXLDJVhwhlbZxMisBQF.jpg",
-      "description": "A young couple move into a remote country house in the middle of a stone circle. They employ workmen who disturb an ancient menhir, unleashing a supernatural force.",
-      "releaseInfo": "1977",
-      "genres": [
-        "Horror",
         "Drama",
         "Mystery"
       ]
@@ -528,6 +440,35 @@
       ]
     },
     {
+      "id": "tt0913262",
+      "type": "movie",
+      "name": "The Shadow in the North",
+      "poster": "https://image.tmdb.org/t/p/w342/ptDvV42gIkdKbYLtPrhOpUks9os.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kq0zwccbh7WcdNxGcH67cMwhjBN.jpg",
+      "description": "Sally Lockhart crosses paths with the nefarious industrialist Axel Bellman, the richest and most powerful man in Europe. She's determined to prove him guilty of corruption and fraud, whilst Bellman will stop at nothing to destroy her case.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt14773478",
+      "type": "movie",
+      "name": "Medusa Deluxe",
+      "poster": "https://image.tmdb.org/t/p/w342/hcuNu3dXNHjWOtcy0WtKU1rSW3Y.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2Yy6GdTEJAmVeXf1GApD70nrZq.jpg",
+      "description": "Talented and cutthroat hairstylists at a competition find one of their own murdered before judging can begin. Winding through neon-lit halls, competitors unspool long-simmering resentments and lies as they search for the killer among them.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt1587299",
       "type": "movie",
       "name": "The Ruby in the Smoke",
@@ -539,6 +480,78 @@
         "Drama",
         "Mystery",
         "Crime"
+      ]
+    },
+    {
+      "id": "tt4788734",
+      "type": "movie",
+      "name": "Homebound",
+      "poster": "https://image.tmdb.org/t/p/w342/8ceAveKWI7PoYGGOFz2WW7xjtYF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pCyGiGkf960FIzfgXRyxz47htVl.jpg",
+      "description": "A young woman arrives at the home of her new husband's estranged family to find the children behaving in increasingly unnerving ways.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Drama",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0429032",
+      "type": "movie",
+      "name": "Sherlock Holmes and the Case of the Silk Stocking",
+      "poster": "https://image.tmdb.org/t/p/w342/jsl7wdtyzhU3KdTyPtiZNCcTIda.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/av3wawycT7eSW2MHN1nKFfQuK4d.jpg",
+      "description": "The corpse of a shabbily dressed young woman has been discovered in the mud flats of the Thames at low tide. Police assume she's a prostitute, but Dr. Watson suspects something more and goes to his old friend Holmes, now retired and at very loose ends.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Mystery",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt1337072",
+      "type": "movie",
+      "name": "Doctor Who: Planet of the Dead",
+      "poster": "https://image.tmdb.org/t/p/w342/9qKoF7XjkcbWYwekBCKt7W7rDHc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/umWItKKGIVcI9iq2IlIrQp0s9F4.jpg",
+      "description": "A meeting in a London bus with jewel thief Lady Christina takes a turn for the worse for the Doctor when the bus takes a detour to a desert-like planet, where the deadly Swarm awaits.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Sci-Fi",
+        "Thriller",
+        "Fantasy",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0220969",
+      "type": "movie",
+      "name": "All the King's Men",
+      "poster": "https://image.tmdb.org/t/p/w342/v4makVAdIDDfBcAiQFENxIzUDMD.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1sdmiqdM9yM2W0zKV7cheIMSue6.jpg",
+      "description": "Feature-length drama about the mystery of Sandringham Company, which disappeared in action at Gallipoli in 1915. Commanded by Captain Frank Beck, their estate manager, the men advanced into battle, were enveloped in a strange mist and never seen again.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Drama",
+        "War",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0363143",
+      "type": "movie",
+      "name": "Trauma",
+      "poster": "https://image.tmdb.org/t/p/w342/k9uFGgQYmyhGFhwRM9jZuIlYAiu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/puVSkJbKz0iiaI3l1yOFkO7kwEH.jpg",
+      "description": "Awaking from a coma to discover his wife has been killed in a car accident, Ben's world may as well have come to an end. A few weeks later, Ben's out of hospital and, attempting to start a new life, he moves home and is befriended by a beautiful young neighbour Charlotte. His life may be turning around but all is not what it seems and, haunted by visions of his dead wife, Ben starts to lose his grip on reality.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller",
+        "Horror"
       ]
     },
     {
@@ -555,19 +568,6 @@
       ]
     },
     {
-      "id": "tt2951888",
-      "type": "movie",
-      "name": "The Thirteenth Tale",
-      "poster": "https://image.tmdb.org/t/p/w342/o3lWdFzIPFaNkwCDszhmmJ4d8LE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/aHzJY3QgtlzZytFCHN3ETHXsfFJ.jpg",
-      "description": "Biographer Margaret Lea travels to the isolated rural mansion of the famous writer Vida Winter, who asks her to write her biography. Although initially she is reluctant, as Vida is known for constantly distorting the facts of her life, Margaret soon becomes fascinated with the story of a dark childhood, a disturbing tale that leads her to finally confront the traumas of her own past.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt1321969",
       "type": "movie",
       "name": "Doctor Who: The Next Doctor",
@@ -580,35 +580,6 @@
         "Mystery",
         "Adventure",
         "Fantasy"
-      ]
-    },
-    {
-      "id": "tt1061123",
-      "type": "movie",
-      "name": "Doctor Who: Voyage of the Damned",
-      "poster": "https://image.tmdb.org/t/p/w342/kYezMPWGBrlNGEok6mEizkl4HUU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iQI6H6X2cmltgtzPrrXgnV7CwsF.jpg",
-      "description": "When disaster hits the Titanic, the Doctor uncovers a threat to the whole human race. Battling alongside aliens, saboteurs, robot Angels and a new friend called Astrid, can he stop the Christmas inferno?",
-      "releaseInfo": "2007",
-      "genres": [
-        "Sci-Fi",
-        "Mystery",
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt0220969",
-      "type": "movie",
-      "name": "All the King's Men",
-      "poster": "https://image.tmdb.org/t/p/w342/v4makVAdIDDfBcAiQFENxIzUDMD.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1sdmiqdM9yM2W0zKV7cheIMSue6.jpg",
-      "description": "Feature-length drama about the mystery of Sandringham Company, which disappeared in action at Gallipoli in 1915. Commanded by Captain Frank Beck, their estate manager, the men advanced into battle, were enveloped in a strange mist and never seen again.",
-      "releaseInfo": "1999",
-      "genres": [
-        "Drama",
-        "War",
-        "Mystery"
       ]
     },
     {
@@ -638,6 +609,35 @@
         "Thriller",
         "Mystery",
         "Horror"
+      ]
+    },
+    {
+      "id": "tt0217821",
+      "type": "movie",
+      "name": "Stigma",
+      "poster": "https://image.tmdb.org/t/p/w342/ztCjyRwwKiJsZ5IOu4YgYBGyU29.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1OckvCZbTXLDJVhwhlbZxMisBQF.jpg",
+      "description": "A young couple move into a remote country house in the middle of a stone circle. They employ workmen who disturb an ancient menhir, unleashing a supernatural force.",
+      "releaseInfo": "1977",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1061123",
+      "type": "movie",
+      "name": "Doctor Who: Voyage of the Damned",
+      "poster": "https://image.tmdb.org/t/p/w342/kYezMPWGBrlNGEok6mEizkl4HUU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iQI6H6X2cmltgtzPrrXgnV7CwsF.jpg",
+      "description": "When disaster hits the Titanic, the Doctor uncovers a threat to the whole human race. Battling alongside aliens, saboteurs, robot Angels and a new friend called Astrid, can he stop the Christmas inferno?",
+      "releaseInfo": "2007",
+      "genres": [
+        "Sci-Fi",
+        "Mystery",
+        "Drama",
+        "Thriller"
       ]
     },
     {
@@ -685,19 +685,6 @@
       ]
     },
     {
-      "id": "tt0216888",
-      "type": "movie",
-      "name": "Lost Hearts",
-      "poster": "https://image.tmdb.org/t/p/w342/tfIki2YLYG3nFXxOpO2Ho82EGGS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hXa4FXJok8MZWIzI4wHSrCQRSHb.jpg",
-      "description": "A young orphan, Stephen, is sent to go and live with his strange, much older cousin at his remote country house. Once there, Stephen experiences terrible dreams in which he sees a young girl and boy who are missing their hearts.",
-      "releaseInfo": "1973",
-      "genres": [
-        "Horror",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt0216553",
       "type": "movie",
       "name": "The Ash Tree",
@@ -708,6 +695,19 @@
       "genres": [
         "Mystery",
         "Horror"
+      ]
+    },
+    {
+      "id": "tt0216888",
+      "type": "movie",
+      "name": "Lost Hearts",
+      "poster": "https://image.tmdb.org/t/p/w342/tfIki2YLYG3nFXxOpO2Ho82EGGS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hXa4FXJok8MZWIzI4wHSrCQRSHb.jpg",
+      "description": "A young orphan, Stephen, is sent to go and live with his strange, much older cousin at his remote country house. Once there, Stephen experiences terrible dreams in which he sees a young girl and boy who are missing their hearts.",
+      "releaseInfo": "1973",
+      "genres": [
+        "Horror",
+        "Mystery"
       ]
     }
   ]

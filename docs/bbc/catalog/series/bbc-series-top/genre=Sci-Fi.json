@@ -1,17 +1,20 @@
 {
   "metas": [
     {
-      "id": "tt11379026",
+      "id": "tt2674806",
       "type": "series",
-      "name": "Ghosts",
-      "poster": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
-      "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
-      "releaseInfo": "2021",
+      "name": "Inside No. 9",
+      "poster": "https://image.tmdb.org/t/p/w342/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/99W2xN8v9eAukGWzZN4zUsslQBo.jpg",
+      "description": "An anthology of darkly comic twisted tales, each one taking place behind a door marked 'number 9'.",
+      "releaseInfo": "2014",
       "genres": [
         "Comedy",
+        "Mystery",
+        "Crime",
         "Sci-Fi",
-        "Fantasy"
+        "Fantasy",
+        "Drama"
       ]
     },
     {
@@ -29,20 +32,17 @@
       ]
     },
     {
-      "id": "tt2674806",
+      "id": "tt11379026",
       "type": "series",
-      "name": "Inside No. 9",
-      "poster": "https://image.tmdb.org/t/p/w342/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/99W2xN8v9eAukGWzZN4zUsslQBo.jpg",
-      "description": "An anthology of darkly comic twisted tales, each one taking place behind a door marked 'number 9'.",
-      "releaseInfo": "2014",
+      "name": "Ghosts",
+      "poster": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+      "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
+      "releaseInfo": "2021",
       "genres": [
         "Comedy",
-        "Mystery",
-        "Crime",
         "Sci-Fi",
-        "Fantasy",
-        "Drama"
+        "Fantasy"
       ]
     },
     {
@@ -408,20 +408,6 @@
       ]
     },
     {
-      "id": "tt1772379",
-      "type": "series",
-      "name": "The Fades",
-      "poster": "https://image.tmdb.org/t/p/w342/6YEXq1g6QQ3k5rEaeocMNk3eGcF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rB7DzIP7KgRkb8xrZed4m9lTiog.jpg",
-      "description": "Seventeen-year old Paul can see the spirits of the dead. When one of these restless spirits crosses back into the living world, he is forced into a fight to prevent the apocalypse.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt7573024",
       "type": "series",
       "name": "Creeped Out",
@@ -433,6 +419,20 @@
         "Sci-Fi",
         "Fantasy",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt1772379",
+      "type": "series",
+      "name": "The Fades",
+      "poster": "https://image.tmdb.org/t/p/w342/6YEXq1g6QQ3k5rEaeocMNk3eGcF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rB7DzIP7KgRkb8xrZed4m9lTiog.jpg",
+      "description": "Seventeen-year old Paul can see the spirits of the dead. When one of these restless spirits crosses back into the living world, he is forced into a fight to prevent the apocalypse.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
