@@ -46,19 +46,18 @@
       ]
     },
     {
-      "id": "tt1199099",
+      "id": "tt10405370",
       "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
+      "name": "SAS Rogue Heroes",
+      "poster": "https://image.tmdb.org/t/p/w342/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hGdTq9BX3DB2gwGGFMLTdipCBPk.jpg",
+      "description": "The dramatised account of how the world’s greatest Special Forces unit, the SAS, was formed under extraordinary circumstances in the darkest days of World War Two.",
+      "releaseInfo": "2022",
       "genres": [
-        "Action",
-        "Adventure",
         "Drama",
-        "Sci-Fi",
-        "Fantasy"
+        "War",
+        "Action",
+        "Adventure"
       ]
     },
     {
@@ -78,18 +77,19 @@
       ]
     },
     {
-      "id": "tt10405370",
+      "id": "tt1199099",
       "type": "series",
-      "name": "SAS Rogue Heroes",
-      "poster": "https://image.tmdb.org/t/p/w342/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hGdTq9BX3DB2gwGGFMLTdipCBPk.jpg",
-      "description": "The dramatised account of how the world’s greatest Special Forces unit, the SAS, was formed under extraordinary circumstances in the darkest days of World War Two.",
-      "releaseInfo": "2022",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+      "releaseInfo": "2008",
       "genres": [
-        "Drama",
-        "War",
         "Action",
-        "Adventure"
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -218,6 +218,20 @@
       ]
     },
     {
+      "id": "tt2733252",
+      "type": "series",
+      "name": "The Musketeers",
+      "poster": "https://image.tmdb.org/t/p/w342/6kOMlk4hlavwO5L82eLdklN0fm5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nkPWqWZQ84WtbUY5RktSPPrNdWO.jpg",
+      "description": "Set in 17th century Paris, musketeers Athos, Porthos, Aramis and D'Artagnan are members of an elite band of soldiers who fight for what is just. They are heroes in the truest and most abiding sense – men that can be trusted and believed in to do the right thing, regardless of personal risk.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
       "id": "tt1349938",
       "type": "series",
       "name": "Being Human",
@@ -232,23 +246,6 @@
         "Mystery",
         "Action",
         "Adventure"
-      ]
-    },
-    {
-      "id": "tt2303367",
-      "type": "series",
-      "name": "Dirk Gently",
-      "poster": "https://image.tmdb.org/t/p/w342/nbliUzKVtuLpRIDapKOycoySqpX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qphUmcQ2GPBN7jQCantjj87hA1v.jpg",
-      "description": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
       ]
     },
     {
@@ -268,17 +265,20 @@
       ]
     },
     {
-      "id": "tt2733252",
+      "id": "tt2303367",
       "type": "series",
-      "name": "The Musketeers",
-      "poster": "https://image.tmdb.org/t/p/w342/6kOMlk4hlavwO5L82eLdklN0fm5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nkPWqWZQ84WtbUY5RktSPPrNdWO.jpg",
-      "description": "Set in 17th century Paris, musketeers Athos, Porthos, Aramis and D'Artagnan are members of an elite band of soldiers who fight for what is just. They are heroes in the truest and most abiding sense – men that can be trusted and believed in to do the right thing, regardless of personal risk.",
-      "releaseInfo": "2014",
+      "name": "Dirk Gently",
+      "poster": "https://image.tmdb.org/t/p/w342/nbliUzKVtuLpRIDapKOycoySqpX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qphUmcQ2GPBN7jQCantjj87hA1v.jpg",
+      "description": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
+      "releaseInfo": "2012",
       "genres": [
-        "Drama",
         "Action",
-        "Adventure"
+        "Adventure",
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
       ]
     },
     {

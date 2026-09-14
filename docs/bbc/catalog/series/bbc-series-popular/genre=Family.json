@@ -59,18 +59,15 @@
       ]
     },
     {
-      "id": "tt0181199",
+      "id": "tt0969007",
       "type": "series",
-      "name": "Arabian Nights",
-      "poster": "https://image.tmdb.org/t/p/w342/oMLISBzw6QDo60h2C1NGUL00puS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3asUkvbzieSJI7EcRESfrCISexZ.jpg",
-      "description": "Targeted for assassination by his first wife and his evil brother, a young sultan must marry by the next full moon or he will lose his kingdom. His uncertainty over his newfound bride causes her to stall the sultan with a series of fantastic stories to ease the tension and stall her impending execution.",
-      "releaseInfo": "2000",
+      "name": "Mistresses",
+      "poster": "https://image.tmdb.org/t/p/w342/diTnk44w1bZWktB3cEZ78X5XXyz.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sZy7ksxRX1uK5L6Nad5W9kixcnD.jpg",
+      "description": "Follows the lives of four female friends and their involvement in an array of marital and extramarital relationships.",
+      "releaseInfo": "2008",
       "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Action",
-        "Adventure",
+        "Drama",
         "Family"
       ]
     },
@@ -103,19 +100,6 @@
       ]
     },
     {
-      "id": "tt0969007",
-      "type": "series",
-      "name": "Mistresses",
-      "poster": "https://image.tmdb.org/t/p/w342/diTnk44w1bZWktB3cEZ78X5XXyz.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sZy7ksxRX1uK5L6Nad5W9kixcnD.jpg",
-      "description": "Follows the lives of four female friends and their involvement in an array of marital and extramarital relationships.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Drama",
-        "Family"
-      ]
-    },
-    {
       "id": "tt3620824",
       "type": "series",
       "name": "Our Zoo",
@@ -125,6 +109,22 @@
       "releaseInfo": "2014",
       "genres": [
         "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0181199",
+      "type": "series",
+      "name": "Arabian Nights",
+      "poster": "https://image.tmdb.org/t/p/w342/oMLISBzw6QDo60h2C1NGUL00puS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3asUkvbzieSJI7EcRESfrCISexZ.jpg",
+      "description": "Targeted for assassination by his first wife and his evil brother, a young sultan must marry by the next full moon or he will lose his kingdom. His uncertainty over his newfound bride causes her to stall the sultan with a series of fantastic stories to ease the tension and stall her impending execution.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Action",
+        "Adventure",
         "Family"
       ]
     }

@@ -57,6 +57,20 @@
       ]
     },
     {
+      "id": "tt17521612",
+      "type": "movie",
+      "name": "Starve Acre",
+      "poster": "https://image.tmdb.org/t/p/w342/5j37QHXuNygzEa2X54RMlOb6hj3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/f74BDYMlNCYf797Wj0guOzDXFyz.jpg",
+      "description": "When their son starts acting strangely, a couple unwittingly allow dark and sinister forces into their home, awakening a long-dormant ancient evil rooted deep in the countryside.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt8508734",
       "type": "movie",
       "name": "His House",
@@ -70,17 +84,17 @@
       ]
     },
     {
-      "id": "tt17521612",
+      "id": "tt1172571",
       "type": "movie",
-      "name": "Starve Acre",
-      "poster": "https://image.tmdb.org/t/p/w342/5j37QHXuNygzEa2X54RMlOb6hj3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/f74BDYMlNCYf797Wj0guOzDXFyz.jpg",
-      "description": "When their son starts acting strangely, a couple unwittingly allow dark and sinister forces into their home, awakening a long-dormant ancient evil rooted deep in the countryside.",
-      "releaseInfo": "2024",
+      "name": "The Children",
+      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
+      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
+      "releaseInfo": "2008",
       "genres": [
         "Horror",
-        "Drama",
-        "Fantasy"
+        "Mystery",
+        "Thriller"
       ]
     },
     {
@@ -99,17 +113,18 @@
       ]
     },
     {
-      "id": "tt0075882",
+      "id": "tt0286594",
       "type": "movie",
-      "name": "Count Dracula",
-      "poster": "https://image.tmdb.org/t/p/w342/pZqlsK4A5vAH7kKwsWZ9Fjh9Aeq.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2LLMJoUdgkorU0Cz99ObEyPm5Jp.jpg",
-      "description": "Jonathan Harker visits the Count in Transylvania to help him with preparations to move to England. Harker becomes Dracula's prisoner and discovers Dracula's true nature. After Dracula makes his way to England, Harker becomes involved in an effort to track down and destroy the Count, eventually chasing the vampire back to his castle.",
-      "releaseInfo": "1977",
+      "name": "Doctor Sleep",
+      "poster": "https://image.tmdb.org/t/p/w342/eBRcmhQakzeYPU6AWLP1DtAoLtC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ahrY6isV4vfPUzpIF0CO96pjuMw.jpg",
+      "description": "While treating a policewoman for smoking, hypnotherapist Michael Strother has a telepathic vision of a young girl floating beneath the surface of a stream. The escaped victim of a ritualistic serial killer, the girl has become mute, and Michael is called upon by Scotland Yard to unlock the secrets she holds in order to catch a man who believes he has discovered the key to immortality.",
+      "releaseInfo": "2002",
       "genres": [
+        "Crime",
         "Horror",
         "Thriller",
-        "Drama"
+        "Mystery"
       ]
     },
     {
@@ -128,17 +143,45 @@
       ]
     },
     {
-      "id": "tt1172571",
+      "id": "tt4788734",
       "type": "movie",
-      "name": "The Children",
-      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
-      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
-      "releaseInfo": "2008",
+      "name": "Homebound",
+      "poster": "https://image.tmdb.org/t/p/w342/8ceAveKWI7PoYGGOFz2WW7xjtYF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/h0DNUAuZjfuyaQj5KDzuwnCSa7c.jpg",
+      "description": "A young woman arrives at the home of her new husband's estranged family to find the children behaving in increasingly unnerving ways.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Drama",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt1100053",
+      "type": "movie",
+      "name": "Tormented",
+      "poster": "https://image.tmdb.org/t/p/w342/jPaZJjxfJM4cIHeDS9Isfqyat6l.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6n2rXlZavOgZAOCmY6GSA0w2Kpj.jpg",
+      "description": "Driven to suicide by relentless bullying and neglect, a resurrected teenager returns from the dead to exact lethal revenge on his former tormentors.",
+      "releaseInfo": "2009",
       "genres": [
         "Horror",
-        "Mystery",
-        "Thriller"
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0075882",
+      "type": "movie",
+      "name": "Count Dracula",
+      "poster": "https://image.tmdb.org/t/p/w342/pZqlsK4A5vAH7kKwsWZ9Fjh9Aeq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2LLMJoUdgkorU0Cz99ObEyPm5Jp.jpg",
+      "description": "Jonathan Harker visits the Count in Transylvania to help him with preparations to move to England. Harker becomes Dracula's prisoner and discovers Dracula's true nature. After Dracula makes his way to England, Harker becomes involved in an effort to track down and destroy the Count, eventually chasing the vampire back to his castle.",
+      "releaseInfo": "1977",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
       ]
     },
     {
@@ -152,62 +195,6 @@
       "genres": [
         "Drama",
         "Thriller",
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt1100053",
-      "type": "movie",
-      "name": "Tormented",
-      "poster": "https://image.tmdb.org/t/p/w342/jPaZJjxfJM4cIHeDS9Isfqyat6l.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6n2rXlZavOgZAOCmY6GSA0w2Kpj.jpg",
-      "description": "Darren Mullet, a bullied asthmatic, is driven to suicide by his tormented life - ignored by his parents, ridiculed by his teachers and bullied at school. He returns from the dead to pay his teenage tormentors a final visit.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Horror",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0286594",
-      "type": "movie",
-      "name": "Doctor Sleep",
-      "poster": "https://image.tmdb.org/t/p/w342/eBRcmhQakzeYPU6AWLP1DtAoLtC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ahrY6isV4vfPUzpIF0CO96pjuMw.jpg",
-      "description": "While treating a policewoman for smoking, hypnotherapist Michael Strother has a telepathic vision of a young girl floating beneath the surface of a stream. The escaped victim of a ritualistic serial killer, the girl has become mute, and Michael is called upon by Scotland Yard to unlock the secrets she holds in order to catch a man who believes he has discovered the key to immortality.",
-      "releaseInfo": "2002",
-      "genres": [
-        "Crime",
-        "Horror",
-        "Thriller",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0847161",
-      "type": "movie",
-      "name": "Dracula",
-      "poster": "https://image.tmdb.org/t/p/w342/d3f2Be6nIIrdu7B9yl5jup2ZL8w.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/voeohYDmWCmkzg5XDnh9hQe9FO0.jpg",
-      "description": "The Romanian count known as Dracula is summoned to London by Arthur Holmwood, a young Lord who is one the verge of being wed. Unknown to Arthur's future bride Lucy, her future husband is infected with syphilis and therefore cannot consummate their marriage. Arthur has laid his hopes of being cured on the enigmatic count; as it is said that Dracula has extraordinary powers. But these supernatural powers have sinister origins. The Count is a vampire. Soon Arthur realizes his serious mistake as all hell breaks loose and the Count infects others with his ancient curse. But Dracula has not counted on the young Lord acquiring the assistance of the Dutch Vampire expert Prof. Abraham Van Helsing.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Drama",
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt4788734",
-      "type": "movie",
-      "name": "Homebound",
-      "poster": "https://image.tmdb.org/t/p/w342/8ceAveKWI7PoYGGOFz2WW7xjtYF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pCyGiGkf960FIzfgXRyxz47htVl.jpg",
-      "description": "A young woman arrives at the home of her new husband's estranged family to find the children behaving in increasingly unnerving ways.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Mystery",
-        "Thriller",
-        "Drama",
         "Horror"
       ]
     },
@@ -227,6 +214,19 @@
       ]
     },
     {
+      "id": "tt0847161",
+      "type": "movie",
+      "name": "Dracula",
+      "poster": "https://image.tmdb.org/t/p/w342/d3f2Be6nIIrdu7B9yl5jup2ZL8w.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/voeohYDmWCmkzg5XDnh9hQe9FO0.jpg",
+      "description": "The Romanian count known as Dracula is summoned to London by Arthur Holmwood, a young Lord who is one the verge of being wed. Unknown to Arthur's future bride Lucy, her future husband is infected with syphilis and therefore cannot consummate their marriage. Arthur has laid his hopes of being cured on the enigmatic count; as it is said that Dracula has extraordinary powers. But these supernatural powers have sinister origins. The Count is a vampire. Soon Arthur realizes his serious mistake as all hell breaks loose and the Count infects others with his ancient curse. But Dracula has not counted on the young Lord acquiring the assistance of the Dutch Vampire expert Prof. Abraham Van Helsing.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
+        "Horror"
+      ]
+    },
+    {
       "id": "tt0200659",
       "type": "movie",
       "name": "Ghostwatch",
@@ -236,63 +236,6 @@
       "releaseInfo": "1992",
       "genres": [
         "Horror",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt1577883",
-      "type": "movie",
-      "name": "The Turn of the Screw",
-      "poster": "https://image.tmdb.org/t/p/w342/gU6VIBiClt3YwElPd0YEV5fqPmW.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hGDhlnat9Ti4eTmQeLvDuw8Wu4l.jpg",
-      "description": "In a mid-19th century Essex country house, a young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Horror",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0810892",
-      "type": "movie",
-      "name": "The Haunted Airman",
-      "poster": "https://image.tmdb.org/t/p/w342/71PbHyrUdowV9HhW7fixWAPwH2l.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mUZfZf8Doaxka3hsQDOqDUUWL0g.jpg",
-      "description": "An injured RAF pilot, confined to a wheelchair is committed to an eerie hospital where he starts to lose his mind.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt2183152",
-      "type": "movie",
-      "name": "The Lady Vanishes",
-      "poster": "https://image.tmdb.org/t/p/w342/AuLuO1pEy8yAYTIROv0uH6cuXa9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/43oduu4qhXLkpRk0SVRP0FcWvFA.jpg",
-      "description": "Young socialite Iris Carr befriends an older woman while traveling solo by train. When Iris wakes from a nap, the woman is gone and other passengers claim she never existed.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Thriller",
-        "Mystery",
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt0217821",
-      "type": "movie",
-      "name": "Stigma",
-      "poster": "https://image.tmdb.org/t/p/w342/ztCjyRwwKiJsZ5IOu4YgYBGyU29.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1OckvCZbTXLDJVhwhlbZxMisBQF.jpg",
-      "description": "A young couple move into a remote country house in the middle of a stone circle. They employ workmen who disturb an ancient menhir, unleashing a supernatural force.",
-      "releaseInfo": "1977",
-      "genres": [
-        "Horror",
-        "Drama",
         "Mystery"
       ]
     },
@@ -313,6 +256,87 @@
       ]
     },
     {
+      "id": "tt2183152",
+      "type": "movie",
+      "name": "The Lady Vanishes",
+      "poster": "https://image.tmdb.org/t/p/w342/AuLuO1pEy8yAYTIROv0uH6cuXa9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/43oduu4qhXLkpRk0SVRP0FcWvFA.jpg",
+      "description": "Young socialite Iris Carr befriends an older woman while traveling solo by train. When Iris wakes from a nap, the woman is gone and other passengers claim she never existed.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt1577883",
+      "type": "movie",
+      "name": "The Turn of the Screw",
+      "poster": "https://image.tmdb.org/t/p/w342/gU6VIBiClt3YwElPd0YEV5fqPmW.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hGDhlnat9Ti4eTmQeLvDuw8Wu4l.jpg",
+      "description": "In a mid-19th century Essex country house, a young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1297298",
+      "type": "movie",
+      "name": "Salvage",
+      "poster": "https://image.tmdb.org/t/p/w342/vFFDNBxaXGN57NgqNUk0kqDijLD.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xiW0dA9Q62dKIWW7IyiVzJIlmMr.jpg",
+      "description": "When a container washes ashore the residents of a sleepy cul-de-sac are plunged into violence, terror and paranoia. Ring fenced by the military a single mother must overcome all the odds to save her daughter.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0810892",
+      "type": "movie",
+      "name": "The Haunted Airman",
+      "poster": "https://image.tmdb.org/t/p/w342/71PbHyrUdowV9HhW7fixWAPwH2l.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mUZfZf8Doaxka3hsQDOqDUUWL0g.jpg",
+      "description": "An injured RAF pilot, confined to a wheelchair is committed to an eerie hospital where he starts to lose his mind.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt11197444",
+      "type": "movie",
+      "name": "The Fall",
+      "poster": "https://image.tmdb.org/t/p/w342/ltZj6zkzsTjKOA6XK1mlW0bxGrs.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/i8WHMVgsF6FRnoXVA3l3ryjgHMZ.jpg",
+      "description": "A mob's punishment of a lone man proves cruel and unusual.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0217821",
+      "type": "movie",
+      "name": "Stigma",
+      "poster": "https://image.tmdb.org/t/p/w342/ztCjyRwwKiJsZ5IOu4YgYBGyU29.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1OckvCZbTXLDJVhwhlbZxMisBQF.jpg",
+      "description": "A young couple move into a remote country house in the middle of a stone circle. They employ workmen who disturb an ancient menhir, unleashing a supernatural force.",
+      "releaseInfo": "1977",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt1795050",
       "type": "movie",
       "name": "Whistle and I'll Come to You",
@@ -325,17 +349,43 @@
       ]
     },
     {
-      "id": "tt0286049",
+      "id": "tt0216888",
       "type": "movie",
-      "name": "Schalcken the Painter",
-      "poster": "https://image.tmdb.org/t/p/w342/h5l75RLmMiVHlb6K5DMnybNgmdR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/AsDDOgHe9TEKY4xp0t6kp3jkjqR.jpg",
-      "description": "Can Schalcken save his love, Rose, from the clutches of a ghastly suitor before it is too late?",
-      "releaseInfo": "1979",
+      "name": "Lost Hearts",
+      "poster": "https://image.tmdb.org/t/p/w342/tfIki2YLYG3nFXxOpO2Ho82EGGS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hXa4FXJok8MZWIzI4wHSrCQRSHb.jpg",
+      "description": "A young orphan, Stephen, is sent to go and live with his strange, much older cousin at his remote country house. Once there, Stephen experiences terrible dreams in which he sees a young girl and boy who are missing their hearts.",
+      "releaseInfo": "1973",
       "genres": [
-        "Drama",
-        "Fantasy",
-        "Horror"
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0069316",
+      "type": "movie",
+      "name": "The Stone Tape",
+      "poster": "https://image.tmdb.org/t/p/w342/oNa0LrdaOCZUFmSJZviBHBoXepZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2b7lkEJ38ZHzYUaF6RIvN4L76XT.jpg",
+      "description": "A research team from an electronics company move into an old Victorian house to start work on finding a new recording medium. When team member Jill Greeley witnesses a ghost, team director Peter Brock decides not only to analyse the apparition, which he believes is a psychic impression trapped in a stone wall (dubbed a \"stone tape\"), but to exorcise it too - with terrifying results...",
+      "releaseInfo": "1972",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0217142",
+      "type": "movie",
+      "name": "A Warning to the Curious",
+      "poster": "https://image.tmdb.org/t/p/w342/k3le6NswckzmGYAa7vl3XiCLNSC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7dLvII34af471uCYsI39se4WLjd.jpg",
+      "description": "Paxton, an amateur archeologist, travels to the town of Seaburgh and inadvertently stumbles across one of the lost crowns of Anglia, which, according to legend, protect the county from invasion. On digging the crown up, Paxton is stalked by its supernatural guardian.",
+      "releaseInfo": "1972",
+      "genres": [
+        "Horror",
+        "Drama"
       ]
     },
     {
@@ -354,54 +404,15 @@
       ]
     },
     {
-      "id": "tt11197444",
+      "id": "tt0063381",
       "type": "movie",
-      "name": "The Fall",
-      "poster": "https://image.tmdb.org/t/p/w342/ltZj6zkzsTjKOA6XK1mlW0bxGrs.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/i8WHMVgsF6FRnoXVA3l3ryjgHMZ.jpg",
-      "description": "A mob's punishment of a lone man proves cruel and unusual.",
-      "releaseInfo": "2019",
+      "name": "Whistle and I'll Come to You",
+      "poster": "https://image.tmdb.org/t/p/w342/4xEEqlG2vLQvd9s8ljUBHD1OPaK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rdv5d9n5lluVWHcfpeyGCejWCF2.jpg",
+      "description": "A university professor, confident that everything which occurs in life has a rational explanation, finds his beliefs severely challenged when, during a vacation to a remote coastal village in Norfolk, he blows through an ancient whistle discovered on a beach, awakening horrors beyond human understanding.",
+      "releaseInfo": "1968",
       "genres": [
         "Horror"
-      ]
-    },
-    {
-      "id": "tt0069316",
-      "type": "movie",
-      "name": "The Stone Tape",
-      "poster": "https://image.tmdb.org/t/p/w342/oNa0LrdaOCZUFmSJZviBHBoXepZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2b7lkEJ38ZHzYUaF6RIvN4L76XT.jpg",
-      "description": "A research team from an electronics company move into an old Victorian house to start work on finding a new recording medium. When team member Jill Greeley witnesses a ghost, team director Peter Brock decides not only to analyse the apparition, which he believes is a psychic impression trapped in a stone wall (dubbed a \"stone tape\"), but to exorcise it too - with terrifying results...",
-      "releaseInfo": "1972",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1297298",
-      "type": "movie",
-      "name": "Salvage",
-      "poster": "https://image.tmdb.org/t/p/w342/vFFDNBxaXGN57NgqNUk0kqDijLD.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xiW0dA9Q62dKIWW7IyiVzJIlmMr.jpg",
-      "description": "When a container washes ashore the residents of a sleepy cul-de-sac are plunged into violence, terror and paranoia. Ring fenced by the military a single mother must overcome all the odds to save her daughter.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt0217142",
-      "type": "movie",
-      "name": "A Warning to the Curious",
-      "poster": "https://image.tmdb.org/t/p/w342/k3le6NswckzmGYAa7vl3XiCLNSC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7dLvII34af471uCYsI39se4WLjd.jpg",
-      "description": "Paxton, an amateur archeologist, travels to the town of Seaburgh and inadvertently stumbles across one of the lost crowns of Anglia, which, according to legend, protect the county from invasion. On digging the crown up, Paxton is stalked by its supernatural guardian.",
-      "releaseInfo": "1972",
-      "genres": [
-        "Horror",
-        "Drama"
       ]
     },
     {
@@ -413,6 +424,20 @@
       "description": "A traveller comes across a signalman stationed by the exit of a railway tunnel in a deep cutting. The traveller becomes familiar with the signalman, and finds that he is troubled by an apparition which appears by the tunnel.",
       "releaseInfo": "1976",
       "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0286049",
+      "type": "movie",
+      "name": "Schalcken the Painter",
+      "poster": "https://image.tmdb.org/t/p/w342/h5l75RLmMiVHlb6K5DMnybNgmdR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/AsDDOgHe9TEKY4xp0t6kp3jkjqR.jpg",
+      "description": "Can Schalcken save his love, Rose, from the clutches of a ghastly suitor before it is too late?",
+      "releaseInfo": "1979",
+      "genres": [
+        "Drama",
+        "Fantasy",
         "Horror"
       ]
     },
@@ -438,31 +463,6 @@
       "releaseInfo": "1975",
       "genres": [
         "Mystery",
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt0216888",
-      "type": "movie",
-      "name": "Lost Hearts",
-      "poster": "https://image.tmdb.org/t/p/w342/tfIki2YLYG3nFXxOpO2Ho82EGGS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hXa4FXJok8MZWIzI4wHSrCQRSHb.jpg",
-      "description": "A young orphan, Stephen, is sent to go and live with his strange, much older cousin at his remote country house. Once there, Stephen experiences terrible dreams in which he sees a young girl and boy who are missing their hearts.",
-      "releaseInfo": "1973",
-      "genres": [
-        "Horror",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0063381",
-      "type": "movie",
-      "name": "Whistle and I'll Come to You",
-      "poster": "https://image.tmdb.org/t/p/w342/4xEEqlG2vLQvd9s8ljUBHD1OPaK.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rdv5d9n5lluVWHcfpeyGCejWCF2.jpg",
-      "description": "A university professor, confident that everything which occurs in life has a rational explanation, finds his beliefs severely challenged when, during a vacation to a remote coastal village in Norfolk, he blows through an ancient whistle discovered on a beach, awakening horrors beyond human understanding.",
-      "releaseInfo": "1968",
-      "genres": [
         "Horror"
       ]
     }

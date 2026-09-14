@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt11379026",
+      "type": "series",
+      "name": "Ghosts",
+      "poster": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+      "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt2674806",
       "type": "series",
       "name": "Inside No. 9",
@@ -32,20 +46,6 @@
       ]
     },
     {
-      "id": "tt11379026",
-      "type": "series",
-      "name": "Ghosts",
-      "poster": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
-      "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt1869454",
       "type": "series",
       "name": "Good Omens",
@@ -56,6 +56,20 @@
       "genres": [
         "Comedy",
         "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0081874",
+      "type": "series",
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "poster": "https://image.tmdb.org/t/p/w342/yKiH7IIbo23uA72MmY318mXorjw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
+      "description": "Don't Panic! The story of Arthur Dent, an average Englishman whose life was spared by his friend, who turned out to be an alien, while the planet Earth is destroyed. His friend tells him about the Hitchhiker's Guide to the Galaxy, a guide with anything you ever needed, and wanted to know. They travel across the galaxy, meeting friendly, and not so friendly characters in order to find the great question (the answer being 42).",
+      "releaseInfo": "1981",
+      "genres": [
+        "Comedy",
         "Sci-Fi",
         "Fantasy"
       ]
@@ -89,20 +103,6 @@
         "Fantasy",
         "Drama",
         "Mystery"
-      ]
-    },
-    {
-      "id": "tt0081874",
-      "type": "series",
-      "name": "The Hitchhiker's Guide to the Galaxy",
-      "poster": "https://image.tmdb.org/t/p/w342/yKiH7IIbo23uA72MmY318mXorjw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
-      "description": "Don't Panic! The story of Arthur Dent, an average Englishman whose life was spared by his friend, who turned out to be an alien, while the planet Earth is destroyed. His friend tells him about the Hitchhiker's Guide to the Galaxy, a guide with anything you ever needed, and wanted to know. They travel across the galaxy, meeting friendly, and not so friendly characters in order to find the great question (the answer being 42).",
-      "releaseInfo": "1981",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
       ]
     },
     {
@@ -150,22 +150,6 @@
       ]
     },
     {
-      "id": "tt1199099",
-      "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt2234222",
       "type": "series",
       "name": "Orphan Black",
@@ -193,6 +177,22 @@
         "Drama",
         "Action",
         "Adventure"
+      ]
+    },
+    {
+      "id": "tt1199099",
+      "type": "series",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -408,20 +408,6 @@
       ]
     },
     {
-      "id": "tt7573024",
-      "type": "series",
-      "name": "Creeped Out",
-      "poster": "https://image.tmdb.org/t/p/w342/5TFYkGC8eSUlIz2TMqL4IKPUbBK.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9YrrHB7LIiuMElYpgeLbXi0uZj9.jpg",
-      "description": "A masked figure known as \"The Curious\" collects tales of dark magic, otherworldly encounters and twisted technology in this kids anthology series.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt1772379",
       "type": "series",
       "name": "The Fades",
@@ -466,16 +452,17 @@
       ]
     },
     {
-      "id": "tt0080242",
+      "id": "tt7573024",
       "type": "series",
-      "name": "The Martian Chronicles",
-      "poster": "https://image.tmdb.org/t/p/w342/vBq5qOxBKnhGZNcW36b2Qq6cLDG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kb8obptHWmfaG7ZhP1IeracmW9o.jpg",
-      "description": "The Martian Chronicles deals with the exploration of Mars and the inhabitants there.",
-      "releaseInfo": "1980",
+      "name": "Creeped Out",
+      "poster": "https://image.tmdb.org/t/p/w342/5TFYkGC8eSUlIz2TMqL4IKPUbBK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9YrrHB7LIiuMElYpgeLbXi0uZj9.jpg",
+      "description": "A masked figure known as \"The Curious\" collects tales of dark magic, otherworldly encounters and twisted technology in this kids anthology series.",
+      "releaseInfo": "2017",
       "genres": [
         "Sci-Fi",
-        "Fantasy"
+        "Fantasy",
+        "Mystery"
       ]
     },
     {
@@ -496,20 +483,18 @@
       ]
     },
     {
-      "id": "tt2303367",
+      "id": "tt0080242",
       "type": "series",
-      "name": "Dirk Gently",
-      "poster": "https://image.tmdb.org/t/p/w342/nbliUzKVtuLpRIDapKOycoySqpX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qphUmcQ2GPBN7jQCantjj87hA1v.jpg",
-      "description": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
-      "releaseInfo": "2012",
+      "name": "The Martian Chronicles",
+      "poster": "https://image.tmdb.org/t/p/w342/vBq5qOxBKnhGZNcW36b2Qq6cLDG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kb8obptHWmfaG7ZhP1IeracmW9o.jpg",
+      "description": "The Martian Chronicles deals with the exploration of Mars and the inhabitants there.",
+      "releaseInfo": "1980",
       "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
         "Sci-Fi",
         "Fantasy",
-        "Drama"
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -536,6 +521,23 @@
       "description": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
       "releaseInfo": "2008",
       "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2303367",
+      "type": "series",
+      "name": "Dirk Gently",
+      "poster": "https://image.tmdb.org/t/p/w342/nbliUzKVtuLpRIDapKOycoySqpX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qphUmcQ2GPBN7jQCantjj87hA1v.jpg",
+      "description": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
         "Sci-Fi",
         "Fantasy",
         "Drama"
@@ -746,6 +748,20 @@
       ]
     },
     {
+      "id": "tt5079788",
+      "type": "series",
+      "name": "Class",
+      "poster": "https://image.tmdb.org/t/p/w342/qC6c8Bx5LiWuZ5t9v3Iyn0818FL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4XcOdRYPTdNyu5C1iDnFHDqI9QN.jpg",
+      "description": "Coal Hill School has been a feature of Doctor Who since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt31433814",
       "type": "series",
       "name": "Doctor Who",
@@ -756,20 +772,6 @@
       "genres": [
         "Action",
         "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt5079788",
-      "type": "series",
-      "name": "Class",
-      "poster": "https://image.tmdb.org/t/p/w342/qC6c8Bx5LiWuZ5t9v3Iyn0818FL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4XcOdRYPTdNyu5C1iDnFHDqI9QN.jpg",
-      "description": "Coal Hill School has been a feature of Doctor Who since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.",
-      "releaseInfo": "2016",
-      "genres": [
         "Drama",
         "Sci-Fi",
         "Fantasy"

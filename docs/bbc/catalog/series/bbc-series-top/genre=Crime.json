@@ -99,19 +99,6 @@
       ]
     },
     {
-      "id": "tt1430509",
-      "type": "series",
-      "name": "Inspector George Gently",
-      "poster": "https://image.tmdb.org/t/p/w342/3xfuZKWVxNnXhL8C6wVSnfM9Uj9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1P6x7gNgnFvlZTcRIak0HQadZbx.jpg",
-      "description": "Crime drama set in the 1960s about an old-school detective trying to come to terms with a time when the lines between the police and criminals have become blurred.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Mystery",
-        "Crime"
-      ]
-    },
-    {
       "id": "tt3428912",
       "type": "series",
       "name": "Happy Valley",
@@ -123,6 +110,19 @@
         "Crime",
         "Drama",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt1430509",
+      "type": "series",
+      "name": "Inspector George Gently",
+      "poster": "https://image.tmdb.org/t/p/w342/3xfuZKWVxNnXhL8C6wVSnfM9Uj9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1P6x7gNgnFvlZTcRIak0HQadZbx.jpg",
+      "description": "Crime drama set in the 1960s about an old-school detective trying to come to terms with a time when the lines between the police and criminals have become blurred.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Mystery",
+        "Crime"
       ]
     },
     {
@@ -384,19 +384,6 @@
       ]
     },
     {
-      "id": "tt14466018",
-      "type": "series",
-      "name": "Blue Lights",
-      "poster": "https://image.tmdb.org/t/p/w342/7sBx40gwTCSiZ9NI8WWARjQq1hm.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/csIri4ZCBDWg8cYrNHV7oheJ1O6.jpg",
-      "description": "Follows rookie police officers working in Belfast, a city in which being a frontline response cop comes with unique pressures and dangers.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt1188927",
       "type": "series",
       "name": "Criminal Justice",
@@ -451,17 +438,16 @@
       ]
     },
     {
-      "id": "tt0088833",
+      "id": "tt14466018",
       "type": "series",
-      "name": "Miss Marple: The Body in the Library",
-      "poster": "https://image.tmdb.org/t/p/w342/4Dno08EMEqEOV2BxLp3oBKjp1fp.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/80MO31EkV2TZecRiVlBht1Qp9Sm.jpg",
-      "description": "Amateur detective Miss Jane Marple investigates the murder of a young woman whose body is found in the library at Gossington Hall, home of Colonel and Mrs. Arthur Bantry.",
-      "releaseInfo": "1984",
+      "name": "Blue Lights",
+      "poster": "https://image.tmdb.org/t/p/w342/7sBx40gwTCSiZ9NI8WWARjQq1hm.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/csIri4ZCBDWg8cYrNHV7oheJ1O6.jpg",
+      "description": "Follows rookie police officers working in Belfast, a city in which being a frontline response cop comes with unique pressures and dangers.",
+      "releaseInfo": "2023",
       "genres": [
         "Crime",
-        "Drama",
-        "Mystery"
+        "Drama"
       ]
     },
     {
@@ -472,6 +458,20 @@
       "background": "https://image.tmdb.org/t/p/w780/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
       "description": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
       "releaseInfo": "2013",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0088833",
+      "type": "series",
+      "name": "Miss Marple: The Body in the Library",
+      "poster": "https://image.tmdb.org/t/p/w342/4Dno08EMEqEOV2BxLp3oBKjp1fp.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/80MO31EkV2TZecRiVlBht1Qp9Sm.jpg",
+      "description": "Amateur detective Miss Jane Marple investigates the murder of a young woman whose body is found in the library at Gossington Hall, home of Colonel and Mrs. Arthur Bantry.",
+      "releaseInfo": "1984",
       "genres": [
         "Crime",
         "Drama",
@@ -534,6 +534,20 @@
       ]
     },
     {
+      "id": "tt0362192",
+      "type": "series",
+      "name": "State of Play",
+      "poster": "https://image.tmdb.org/t/p/w342/qjgtpbPdj0sfhiCa79M5pS1pydT.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iRHtu9gEyYhyJW6VoIBvK0oqxu5.jpg",
+      "description": "The murder of Sonia Baker, a young political researcher, leads journalist Cal McCaffrey to uncover complex links between government and big business.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
       "id": "tt28118211",
       "type": "series",
       "name": "A Good Girl's Guide to Murder",
@@ -548,17 +562,43 @@
       ]
     },
     {
-      "id": "tt0362192",
+      "id": "tt26314987",
       "type": "series",
-      "name": "State of Play",
-      "poster": "https://image.tmdb.org/t/p/w342/qjgtpbPdj0sfhiCa79M5pS1pydT.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iRHtu9gEyYhyJW6VoIBvK0oqxu5.jpg",
-      "description": "The murder of Sonia Baker, a young political researcher, leads journalist Cal McCaffrey to uncover complex links between government and big business.",
-      "releaseInfo": "2003",
+      "name": "Moonflower Murders",
+      "poster": "https://image.tmdb.org/t/p/w342/9Nvf4U5dba5Un1RlYemhD2sxZBN.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/GYAAyszjti7jF3qVy7sWGUypF2.jpg",
+      "description": "Susan has left publishing and is living in Crete with her long-time boyfriend, Andreas. But her idyll is disturbed by the shadow of a murder committed at a British country hotel eight years ago. Alan Conway visited the hotel and wrote a novel based on what happened there. Cecily MacNeil, the young woman who helps run the hotel, read the book and believed the wrong man had been arrested. Now she has disappeared. Can Susan uncover the secret hidden in the book and find Cecily before it is too late?",
+      "releaseInfo": "2024",
+      "genres": [
+        "Mystery",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0249301",
+      "type": "series",
+      "name": "Messiah",
+      "poster": "https://image.tmdb.org/t/p/w342/iPUUeDTrCj2RF0z5prSPjKkBLi6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ctoGOA3Nd0fNpDMqr61kAtebw7U.jpg",
+      "description": "Crime drama series following the investigations of DCI Red Metcalfe.",
+      "releaseInfo": "2001",
       "genres": [
         "Mystery",
         "Drama",
         "Crime"
+      ]
+    },
+    {
+      "id": "tt0091618",
+      "type": "series",
+      "name": "Miss Marple: Nemesis",
+      "poster": "https://image.tmdb.org/t/p/w342/jV9kbTaxO9tLVORhT37Qnb1D39I.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3Tqihc1KXmYKDPQ4Mf2lwbDdx6C.jpg",
+      "description": "Mr Jason Rafiel seeks Miss Marple's help to solve a crime but he does gives her any details. In fact, he can't be sure that a crime was committed at all.",
+      "releaseInfo": "1987",
+      "genres": [
+        "Crime",
+        "Mystery"
       ]
     },
     {
@@ -590,17 +630,17 @@
       ]
     },
     {
-      "id": "tt0249301",
+      "id": "tt11646832",
       "type": "series",
-      "name": "Messiah",
-      "poster": "https://image.tmdb.org/t/p/w342/iPUUeDTrCj2RF0z5prSPjKkBLi6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ctoGOA3Nd0fNpDMqr61kAtebw7U.jpg",
-      "description": "Crime drama series following the investigations of DCI Red Metcalfe.",
-      "releaseInfo": "2001",
+      "name": "The Outlaws",
+      "poster": "https://image.tmdb.org/t/p/w342/s8vp0S0iz2nPb7TpOpV0rHbm1er.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qQcI42QcZk9Eo4IqexsUwaRhusx.jpg",
+      "description": "Seven strangers from different walks of life - people who would never normally interact - are forced to work together to renovate a derelict community centre. They resent the menial physical labour and they resent each other. But when one of their number gets dragged into a dangerous world of organised crime, they unite in ways none of them thought possible.",
+      "releaseInfo": "2021",
       "genres": [
-        "Mystery",
-        "Drama",
-        "Crime"
+        "Comedy",
+        "Crime",
+        "Drama"
       ]
     },
     {
@@ -610,19 +650,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/tJfM3M0D5BO7cRoTEe5uWpHU08q.jpg",
       "background": "https://image.tmdb.org/t/p/w780/pmssGs7ab5ccmi4zQ5i0rWuXZFL.jpg",
       "description": "There's a murder at the elegant hotel where Miss Marple is staying and international adventurer Bess Sedgwick is the prime suspect.",
-      "releaseInfo": "1987",
-      "genres": [
-        "Crime",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0091618",
-      "type": "series",
-      "name": "Miss Marple: Nemesis",
-      "poster": "https://image.tmdb.org/t/p/w342/jV9kbTaxO9tLVORhT37Qnb1D39I.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3Tqihc1KXmYKDPQ4Mf2lwbDdx6C.jpg",
-      "description": "Mr Jason Rafiel seeks Miss Marple's help to solve a crime but he does gives her any details. In fact, he can't be sure that a crime was committed at all.",
       "releaseInfo": "1987",
       "genres": [
         "Crime",
@@ -641,20 +668,6 @@
         "Drama",
         "Mystery",
         "Crime"
-      ]
-    },
-    {
-      "id": "tt11646832",
-      "type": "series",
-      "name": "The Outlaws",
-      "poster": "https://image.tmdb.org/t/p/w342/s8vp0S0iz2nPb7TpOpV0rHbm1er.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qQcI42QcZk9Eo4IqexsUwaRhusx.jpg",
-      "description": "Seven strangers from different walks of life - people who would never normally interact - are forced to work together to renovate a derelict community centre. They resent the menial physical labour and they resent each other. But when one of their number gets dragged into a dangerous world of organised crime, they unite in ways none of them thought possible.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Comedy",
-        "Crime",
-        "Drama"
       ]
     },
     {
@@ -678,33 +691,6 @@
       "background": "https://image.tmdb.org/t/p/w780/sryK4G2U27mWAiuKk7v63uSbmto.jpg",
       "description": "Respected police officer John River, a gifted cop with a troubled mind, struggles to come to terms with the recent loss of a colleague, and chases a suspect across London - with tragic consequences. Now at odds with the authorities, River ends up in a precarious position as he seeks to bring closure to the mother of murdered teenager, who blames him for failing to keep his promise.",
       "releaseInfo": "2015",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt26314987",
-      "type": "series",
-      "name": "Moonflower Murders",
-      "poster": "https://image.tmdb.org/t/p/w342/9Nvf4U5dba5Un1RlYemhD2sxZBN.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/GYAAyszjti7jF3qVy7sWGUypF2.jpg",
-      "description": "Susan has left publishing and is living in Crete with her long-time boyfriend, Andreas. But her idyll is disturbed by the shadow of a murder committed at a British country hotel eight years ago. Alan Conway visited the hotel and wrote a novel based on what happened there. Cecily MacNeil, the young woman who helps run the hotel, read the book and believed the wrong man had been arrested. Now she has disappeared. Can Susan uncover the secret hidden in the book and find Cecily before it is too late?",
-      "releaseInfo": "2024",
-      "genres": [
-        "Mystery",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt0087924",
-      "type": "series",
-      "name": "Miss Marple: A Pocketful of Rye",
-      "poster": "https://image.tmdb.org/t/p/w342/y4o4QI5cBMNlhZFIOhPpbK9fFaF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nGiNHReDNOcuJdxYGCPQ8TZ1qk4.jpg",
-      "description": "When a handful of grain is found in the pocket of a murdered businessman, Miss Marple seeks a murderer with a penchant for nursery rhymes.",
-      "releaseInfo": "1985",
       "genres": [
         "Crime",
         "Drama",
@@ -777,6 +763,20 @@
       "genres": [
         "Crime",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt0087924",
+      "type": "series",
+      "name": "Miss Marple: A Pocketful of Rye",
+      "poster": "https://image.tmdb.org/t/p/w342/y4o4QI5cBMNlhZFIOhPpbK9fFaF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nGiNHReDNOcuJdxYGCPQ8TZ1qk4.jpg",
+      "description": "When a handful of grain is found in the pocket of a murdered businessman, Miss Marple seeks a murderer with a penchant for nursery rhymes.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -861,16 +861,16 @@
       ]
     },
     {
-      "id": "tt6271042",
+      "id": "tt13592494",
       "type": "series",
-      "name": "McMafia",
-      "poster": "https://image.tmdb.org/t/p/w342/jdt7RFfVCGWrNnrxeQ0Us9kGhJu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8uJPiVNMjjVUHgnCb3de1nSv0L5.jpg",
-      "description": "Alex Godman, the English-raised son of Russian mafia exiles, has spent his life trying to escape the shadow of their past, building his own legitimate business and forging a life with his girlfriend Rebecca. But when a murder forces his family's past to return to threaten them, Alex is drawn into the criminal underworld and must confront his values to protect those he loves.",
-      "releaseInfo": "2018",
+      "name": "The Bombing of Pan Am 103",
+      "poster": "https://image.tmdb.org/t/p/w342/jWMG8htFNfc4eeu9UcPszql3Xa6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5ZgPQjEsJqCwRtx6vsBBISxn389.jpg",
+      "description": "On December 21, 1988, Pan Am Flight 103 exploded over the small Scottish town of Lockerbie, killing 270 people. What followed was the largest murder investigation in the history of Scottish policing, into the deadliest act of terrorism on British soil.",
+      "releaseInfo": "2025",
       "genres": [
-        "Crime",
-        "Drama"
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -887,16 +887,16 @@
       ]
     },
     {
-      "id": "tt13592494",
+      "id": "tt6271042",
       "type": "series",
-      "name": "The Bombing of Pan Am 103",
-      "poster": "https://image.tmdb.org/t/p/w342/jWMG8htFNfc4eeu9UcPszql3Xa6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5ZgPQjEsJqCwRtx6vsBBISxn389.jpg",
-      "description": "On December 21, 1988, Pan Am Flight 103 exploded over the small Scottish town of Lockerbie, killing 270 people. What followed was the largest murder investigation in the history of Scottish policing, into the deadliest act of terrorism on British soil.",
-      "releaseInfo": "2025",
+      "name": "McMafia",
+      "poster": "https://image.tmdb.org/t/p/w342/jdt7RFfVCGWrNnrxeQ0Us9kGhJu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8uJPiVNMjjVUHgnCb3de1nSv0L5.jpg",
+      "description": "Alex Godman, the English-raised son of Russian mafia exiles, has spent his life trying to escape the shadow of their past, building his own legitimate business and forging a life with his girlfriend Rebecca. But when a murder forces his family's past to return to threaten them, Alex is drawn into the criminal underworld and must confront his values to protect those he loves.",
+      "releaseInfo": "2018",
       "genres": [
-        "Drama",
-        "Crime"
+        "Crime",
+        "Drama"
       ]
     },
     {
@@ -914,20 +914,6 @@
       ]
     },
     {
-      "id": "tt3877200",
-      "type": "series",
-      "name": "The Missing",
-      "poster": "https://image.tmdb.org/t/p/w342/yZnR6EccMv4Evcady5M8MSzAmuq.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6LNiGx7KfdTPrIkkl6MjAXaDHmJ.jpg",
-      "description": "A gripping anthological relationship thriller series exploring the emotional fallout of a child's abduction not only on the family but on the wider community, told over two time frames.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt2575968",
       "type": "series",
       "name": "Hinterland",
@@ -935,6 +921,34 @@
       "background": "https://image.tmdb.org/t/p/w780/aPtygCQY7FOBO0Ns3bKhafR9HrI.jpg",
       "description": "Tom Mathias comes to Aberystwyth having abandoned his life in London. He's a brilliant but troubled man. Despite his faults he is an excellent detective, who knows that the key to solving the crime lies not in where you look for truth, but how you look.",
       "releaseInfo": "2013",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0423651",
+      "type": "series",
+      "name": "Fingersmith",
+      "poster": "https://image.tmdb.org/t/p/w342/jrPoKY5xDOeUyZ9NrswP37PWAAM.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jT8IYK7rvMRgk1bMJZvJMo0g88I.jpg",
+      "description": "A young woman is hired as a maid to an heiress who lives a secluded life on a large countryside estate with her domineering uncle. But, the maid has a secret: she is a pickpocket recruited by a swindler posing as a gentleman to help him seduce the heiress to elope with him, rob her of her fortune, and lock her up in a madhouse. The plan seems to proceed according to plan until the women discover some unexpected emotions.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt3877200",
+      "type": "series",
+      "name": "The Missing",
+      "poster": "https://image.tmdb.org/t/p/w342/yZnR6EccMv4Evcady5M8MSzAmuq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6LNiGx7KfdTPrIkkl6MjAXaDHmJ.jpg",
+      "description": "A gripping anthological relationship thriller series exploring the emotional fallout of a child's abduction not only on the family but on the wider community, told over two time frames.",
+      "releaseInfo": "2014",
       "genres": [
         "Crime",
         "Drama",
@@ -978,20 +992,6 @@
       "releaseInfo": "2021",
       "genres": [
         "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt0423651",
-      "type": "series",
-      "name": "Fingersmith",
-      "poster": "https://image.tmdb.org/t/p/w342/jrPoKY5xDOeUyZ9NrswP37PWAAM.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jT8IYK7rvMRgk1bMJZvJMo0g88I.jpg",
-      "description": "A young woman is hired as a maid to an heiress who lives a secluded life on a large countryside estate with her domineering uncle. But, the maid has a secret: she is a pickpocket recruited by a swindler posing as a gentleman to help him seduce the heiress to elope with him, rob her of her fortune, and lock her up in a madhouse. The plan seems to proceed according to plan until the women discover some unexpected emotions.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Drama",
-        "Mystery",
         "Crime"
       ]
     },
@@ -1042,19 +1042,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/d960SZCKOXrHQLFRlaGhlPUFEOR.jpg",
       "background": "https://image.tmdb.org/t/p/w780/cI4P2GaNJ9Hh40wiWKY91v34vOY.jpg",
       "description": "The Code is a drama series which tells tells the story of two brothers who discover some information that those at the highest levels of political power are determined to keep secret.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt3956604",
-      "type": "series",
-      "name": "The Driver",
-      "poster": "https://image.tmdb.org/t/p/w342/jeveGKPiqqUbWptQLmsGpbDZk4c.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tkxn0YuwcA26IHK1fLcOSYcGbJf.jpg",
-      "description": "The Driver is a three-part British crime drama serial aired on BBC One between 23 September and 7 October 2014. Written by Danny Brocklehurst and directed by Jamie Payne, it stars David Morrissey as despondent cab driver Vince McKee, whose life is turned upside down when he agrees to be the driver for a criminal gang.",
       "releaseInfo": "2014",
       "genres": [
         "Crime",
@@ -1119,6 +1106,19 @@
       ]
     },
     {
+      "id": "tt3956604",
+      "type": "series",
+      "name": "The Driver",
+      "poster": "https://image.tmdb.org/t/p/w342/jeveGKPiqqUbWptQLmsGpbDZk4c.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tkxn0YuwcA26IHK1fLcOSYcGbJf.jpg",
+      "description": "The Driver is a three-part British crime drama serial aired on BBC One between 23 September and 7 October 2014. Written by Danny Brocklehurst and directed by Jamie Payne, it stars David Morrissey as despondent cab driver Vince McKee, whose life is turned upside down when he agrees to be the driver for a criminal gang.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt7768192",
       "type": "series",
       "name": "Dublin Murders",
@@ -1152,20 +1152,6 @@
       "background": "https://image.tmdb.org/t/p/w780/rFJgVRXoktTCI42AS4dTrZEIF2y.jpg",
       "description": "How far would you go to protect those you love? Divided loyalties test the ties of family and friends—because secrets always have consequences.",
       "releaseInfo": "2021",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt4513868",
-      "type": "series",
-      "name": "New Blood",
-      "poster": "https://image.tmdb.org/t/p/w342/zBD5YNIZTODl2E73ebe2Te7wD4k.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pqs9KtsXfD3hmpu6nc0iXzjGM5E.jpg",
-      "description": "Two junior investigators come together against a new breed of criminal, the uber rich and powerful corporations, individuals and governments who hide behind legitimate facades.",
-      "releaseInfo": "2016",
       "genres": [
         "Crime",
         "Drama",
@@ -1224,6 +1210,20 @@
         "Comedy",
         "Drama",
         "Crime"
+      ]
+    },
+    {
+      "id": "tt4513868",
+      "type": "series",
+      "name": "New Blood",
+      "poster": "https://image.tmdb.org/t/p/w342/zBD5YNIZTODl2E73ebe2Te7wD4k.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pqs9KtsXfD3hmpu6nc0iXzjGM5E.jpg",
+      "description": "Two junior investigators come together against a new breed of criminal, the uber rich and powerful corporations, individuals and governments who hide behind legitimate facades.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
       ]
     },
     {

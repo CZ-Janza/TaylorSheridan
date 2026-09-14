@@ -402,7 +402,7 @@
       "name": "Man Up",
       "poster": "https://image.tmdb.org/t/p/w342/tJskXY0qQcc21UzkGPyiGRKw2md.jpg",
       "background": "https://image.tmdb.org/t/p/w780/znc4p9S2177ClNnTlJHr1CSOIkB.jpg",
-      "description": "A 34 year old single woman, Nancy, hung-over again, exhausted by the endless fruitless set ups by her friends, traveling across London to toast another 10 years of her parent's successful happy magical marriage runs in with a 40 year old divorcee, Jack, who mistakes her for his 24 year old blind date. Nancy, deciding to go with it, happens to hop on the most chaotic yet hilarious journey of her life which neither of them will ever forget.",
+      "description": "A 34 year old single woman, Nancy, hung-over again, exhausted by the endless fruitless set ups by her friends, traveling across London to toast another 10 years of her parents' successful happy magical marriage runs in with a 40 year old divorcee, Jack, who mistakes her for his 24 year old blind date. Nancy, deciding to go with it, happens to hop on the most chaotic yet hilarious journey of her life which neither of them will ever forget.",
       "releaseInfo": "2015",
       "genres": [
         "Romance",
@@ -788,6 +788,20 @@
       "genres": [
         "Drama",
         "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt3381878",
+      "type": "movie",
+      "name": "Sherlock: Many Happy Returns",
+      "poster": "https://image.tmdb.org/t/p/w342/h6qj6GFwt3nR6ecMFlTfFiBmTIQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mDIOqiwDYrdxing3sTSd3OLWq1S.jpg",
+      "description": "John and Lestrade try to move on with their lives after Sherlock's apparent death. However, Anderson believes he is still alive.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -1294,19 +1308,6 @@
         "Drama",
         "Sci-Fi",
         "Romance"
-      ]
-    },
-    {
-      "id": "tt1242460",
-      "type": "movie",
-      "name": "We Need to Talk About Kevin",
-      "poster": "https://image.tmdb.org/t/p/w342/AtdYbs1SqYwFOLyi2v6ldVTawbn.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/k7lwdrpZ92BDahx6TLdkPE65cpJ.jpg",
-      "description": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Drama",
-        "Thriller"
       ]
     }
   ]

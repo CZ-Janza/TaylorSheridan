@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0249462",
-      "type": "movie",
-      "name": "Billy Elliot",
-      "poster": "https://image.tmdb.org/t/p/w342/mYtqgWCJiXpDeZwjVcC3OQGD8IR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/urzflyf41uySpgciGHdQzpcaMOY.jpg",
-      "description": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
-      "releaseInfo": "2000",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Music"
-      ]
-    },
-    {
       "id": "tt31851518",
       "type": "movie",
       "name": "The Choral",
@@ -25,6 +11,20 @@
       "genres": [
         "Comedy",
         "Drama",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt0249462",
+      "type": "movie",
+      "name": "Billy Elliot",
+      "poster": "https://image.tmdb.org/t/p/w342/mYtqgWCJiXpDeZwjVcC3OQGD8IR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/urzflyf41uySpgciGHdQzpcaMOY.jpg",
+      "description": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Drama",
+        "Comedy",
         "Music"
       ]
     },
@@ -57,43 +57,14 @@
       ]
     },
     {
-      "id": "tt9892094",
+      "id": "tt0480827",
       "type": "movie",
-      "name": "Mogul Mowgli",
-      "poster": "https://image.tmdb.org/t/p/w342/n65YDWlWUoNFOYGdFIAs3TlyWo3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2ORCF7OtyRsTd1O2WcI63WzDKG6.jpg",
-      "description": "Zed, a young British rapper, is about to start his first world tour, when a crippling illness strikes him down, forcing him to move back in with his family. He tries to find himself between an international music career and Pakistani family traditions.",
-      "releaseInfo": "2020",
+      "name": "Michael Jackson: Live in Bucharest - The Dangerous Tour",
+      "poster": "https://image.tmdb.org/t/p/w342/4BieRMMCQP9v2kR0JI1grmhVmr5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/251FHBelhcSYgxWbHkG6K1eJaev.jpg",
+      "description": "Michael Jackson's \"Dangerous Tour\" still sets the bar high for every touring artist today. Outdoing himself with the \"Bad Tour\", which was already considered the ultimate, the gigantic stage setting consisting of 20 trucks and a lavish arsenal of personnel took almost three days to set up - that alone is a logistical superlative for a worldwide tour with 69 concert stops and 3.5 million fans. The highlights of the show included pyrotechnic effects, several stage illusions and a stuntman. True to his aim of spreading love around the world, Jackson donated the proceeds from the tour (over $100 million) to charity. On October 1, 1992, the image and sound recordings that are hotly sought after by Jackson fans around the world were also made. The concert recording, which was broadcast on the HBO channel, picked up in 60 countries and also transmitted by countless radio stations, still inspires people around the globe.",
+      "releaseInfo": "1992",
       "genres": [
-        "Music",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0319829",
-      "type": "movie",
-      "name": "Masked and Anonymous",
-      "poster": "https://image.tmdb.org/t/p/w342/zKxB2Ivm1717Hbnuvvy2lONC4R1.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9zoo6uzFiewyzQxW9SXcE1ErM23.jpg",
-      "description": "A nation wracked with civil war and social unrest anticipates a giant charity concert, organized by deceptive promoter Uncle Sweetheart, who plans on raking in huge sums for himself from the event. Headlining is legendary musician Jack Fate, whose prison time is cut short with Sweetheart's help. Meanwhile, journalist Tom Friend investigates the corrupt concert and sets out to unmask the truth to the public.",
-      "releaseInfo": "2003",
-      "genres": [
-        "Drama",
-        "Music"
-      ]
-    },
-    {
-      "id": "tt0479760",
-      "type": "movie",
-      "name": "Sweeney Todd",
-      "poster": "https://image.tmdb.org/t/p/w342/40ntPvTqjqEJlME1AtBEzwVUPHC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/d118NiMInfjuMRGmEmfF5qif9Wf.jpg",
-      "description": "A BBC adaptation of the Victorian \"penny dreadful\" tale of 19th century \"demon barber\" Sweeney Todd, of Fleet Street, who cuts the throats of unsuspecting clients in his London shop.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Drama",
-        "Horror",
-        "Thriller",
         "Music"
       ]
     },
@@ -125,6 +96,47 @@
       ]
     },
     {
+      "id": "tt0479760",
+      "type": "movie",
+      "name": "Sweeney Todd",
+      "poster": "https://image.tmdb.org/t/p/w342/40ntPvTqjqEJlME1AtBEzwVUPHC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/d118NiMInfjuMRGmEmfF5qif9Wf.jpg",
+      "description": "A BBC adaptation of the Victorian \"penny dreadful\" tale of 19th century \"demon barber\" Sweeney Todd, of Fleet Street, who cuts the throats of unsuspecting clients in his London shop.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt9892094",
+      "type": "movie",
+      "name": "Mogul Mowgli",
+      "poster": "https://image.tmdb.org/t/p/w342/n65YDWlWUoNFOYGdFIAs3TlyWo3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2ORCF7OtyRsTd1O2WcI63WzDKG6.jpg",
+      "description": "Zed, a young British rapper, is about to start his first world tour, when a crippling illness strikes him down, forcing him to move back in with his family. He tries to find himself between an international music career and Pakistani family traditions.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Music",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0319829",
+      "type": "movie",
+      "name": "Masked and Anonymous",
+      "poster": "https://image.tmdb.org/t/p/w342/zKxB2Ivm1717Hbnuvvy2lONC4R1.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9zoo6uzFiewyzQxW9SXcE1ErM23.jpg",
+      "description": "A nation wracked with civil war and social unrest anticipates a giant charity concert, organized by deceptive promoter Uncle Sweetheart, who plans on raking in huge sums for himself from the event. Headlining is legendary musician Jack Fate, whose prison time is cut short with Sweetheart's help. Meanwhile, journalist Tom Friend investigates the corrupt concert and sets out to unmask the truth to the public.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Drama",
+        "Music"
+      ]
+    },
+    {
       "id": "tt1920945",
       "type": "movie",
       "name": "Good Vibrations",
@@ -138,15 +150,17 @@
       ]
     },
     {
-      "id": "tt0480827",
+      "id": "tt0061937",
       "type": "movie",
-      "name": "Michael Jackson: Live in Bucharest - The Dangerous Tour",
-      "poster": "https://image.tmdb.org/t/p/w342/4BieRMMCQP9v2kR0JI1grmhVmr5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/251FHBelhcSYgxWbHkG6K1eJaev.jpg",
-      "description": "Michael Jackson's \"Dangerous Tour\" still sets the bar high for every touring artist today. Outdoing himself with the \"Bad Tour\", which was already considered the ultimate, the gigantic stage setting consisting of 20 trucks and a lavish arsenal of personnel took almost three days to set up - that alone is a logistical superlative for a worldwide tour with 69 concert stops and 3.5 million fans. The highlights of the show included pyrotechnic effects, several stage illusions and a stuntman. True to his aim of spreading love around the world, Jackson donated the proceeds from the tour (over $100 million) to charity. On October 1, 1992, the image and sound recordings that are hotly sought after by Jackson fans around the world were also made. The concert recording, which was broadcast on the HBO channel, picked up in 60 countries and also transmitted by countless radio stations, still inspires people around the globe.",
-      "releaseInfo": "1992",
+      "name": "Magical Mystery Tour",
+      "poster": "https://image.tmdb.org/t/p/w342/uJSqSXCeK407l7t4zTXaYSJH0gL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/az5L3ksvP0e3y8AsfwVfE3MCdMy.jpg",
+      "description": "While on a coach tour, The Beatles and a few dozen friends experience strange happenings caused by magicians.",
+      "releaseInfo": "1967",
       "genres": [
-        "Music"
+        "Music",
+        "Comedy",
+        "Fantasy"
       ]
     },
     {
@@ -175,20 +189,6 @@
         "Comedy",
         "Drama",
         "Music"
-      ]
-    },
-    {
-      "id": "tt0061937",
-      "type": "movie",
-      "name": "Magical Mystery Tour",
-      "poster": "https://image.tmdb.org/t/p/w342/uJSqSXCeK407l7t4zTXaYSJH0gL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/az5L3ksvP0e3y8AsfwVfE3MCdMy.jpg",
-      "description": "While on a coach tour, The Beatles and a few dozen friends experience strange happenings caused by magicians.",
-      "releaseInfo": "1967",
-      "genres": [
-        "Music",
-        "Comedy",
-        "Fantasy"
       ]
     },
     {
@@ -231,19 +231,6 @@
       ]
     },
     {
-      "id": "tt0440004",
-      "type": "movie",
-      "name": "AD/BC: A Rock Opera",
-      "poster": "https://image.tmdb.org/t/p/w342/pxL7LiKtYwpj4zpPINUxxZ4PAa3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/42Jyvr5O4WOgqZ3mnyF8qLaTeaH.jpg",
-      "description": "An all-singing, all-dancing, star-spangled musical leap around the biblical story of the Nativity, set in 1972. With a comic twist, this familiar story is brought to life through the eyes of the innkeeper. Despairing after a bad year, he contemplates suicide but his attempt is stalled by a voice from above who points out that King Herod is coming to town.",
-      "releaseInfo": "2004",
-      "genres": [
-        "Comedy",
-        "Music"
-      ]
-    },
-    {
       "id": "tt6352564",
       "type": "movie",
       "name": "Peter Pan Goes Wrong",
@@ -254,6 +241,19 @@
       "genres": [
         "Comedy",
         "Family",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt0440004",
+      "type": "movie",
+      "name": "AD/BC: A Rock Opera",
+      "poster": "https://image.tmdb.org/t/p/w342/pxL7LiKtYwpj4zpPINUxxZ4PAa3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/42Jyvr5O4WOgqZ3mnyF8qLaTeaH.jpg",
+      "description": "An all-singing, all-dancing, star-spangled musical leap around the biblical story of the Nativity, set in 1972. With a comic twist, this familiar story is brought to life through the eyes of the innkeeper. Despairing after a bad year, he contemplates suicide but his attempt is stalled by a voice from above who points out that King Herod is coming to town.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Comedy",
         "Music"
       ]
     },
@@ -271,18 +271,6 @@
       ]
     },
     {
-      "id": "tt12748016",
-      "type": "movie",
-      "name": "Strasbourg 1518",
-      "poster": "https://image.tmdb.org/t/p/w342/uMKUZOtfjcWqOzWSJZoK24kctg.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xl1qwCGckM7lCYcCenYnuvZr2J1.jpg",
-      "description": "Inspired by a powerful involuntary mania which took hold of citizens in the city of Strasbourg just over five hundred years ago, this film is a collaboration in isolation with some of the greatest dancers working today.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Music"
-      ]
-    },
-    {
       "id": "tt0441324",
       "type": "movie",
       "name": "Jerry Springer: The Opera",
@@ -292,6 +280,18 @@
       "releaseInfo": "2005",
       "genres": [
         "Comedy",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt12748016",
+      "type": "movie",
+      "name": "Strasbourg 1518",
+      "poster": "https://image.tmdb.org/t/p/w342/uMKUZOtfjcWqOzWSJZoK24kctg.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xl1qwCGckM7lCYcCenYnuvZr2J1.jpg",
+      "description": "Inspired by a powerful involuntary mania which took hold of citizens in the city of Strasbourg just over five hundred years ago, this film is a collaboration in isolation with some of the greatest dancers working today.",
+      "releaseInfo": "2020",
+      "genres": [
         "Music"
       ]
     }
