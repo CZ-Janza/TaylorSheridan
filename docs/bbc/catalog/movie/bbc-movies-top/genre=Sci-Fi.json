@@ -27,19 +27,6 @@
       ]
     },
     {
-      "id": "tt6968542",
-      "type": "movie",
-      "name": "Doctor Who: Twice Upon a Time",
-      "poster": "https://image.tmdb.org/t/p/w342/lyJzCfbTlzSkaXWqFd0SffeRH2R.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8CEvvYU4XlN1mSiSPAgWiyfeyz4.jpg",
-      "description": "As the Twelfth Doctor nears regeneration, he stumbles on his first incarnation, also refusing to change. It takes a captain, a glass avatar and a familiar face to convince the Doctors the universe still needs them.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Sci-Fi",
-        "Adventure"
-      ]
-    },
-    {
       "id": "tt3332546",
       "type": "movie",
       "name": "Doctor Who: The Night of the Doctor",
@@ -51,6 +38,19 @@
         "Adventure",
         "Sci-Fi",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt6968542",
+      "type": "movie",
+      "name": "Doctor Who: Twice Upon a Time",
+      "poster": "https://image.tmdb.org/t/p/w342/lyJzCfbTlzSkaXWqFd0SffeRH2R.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8CEvvYU4XlN1mSiSPAgWiyfeyz4.jpg",
+      "description": "As the Twelfth Doctor nears regeneration, he stumbles on his first incarnation, also refusing to change. It takes a captain, a glass avatar and a familiar face to convince the Doctors the universe still needs them.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Sci-Fi",
+        "Adventure"
       ]
     },
     {
@@ -238,19 +238,6 @@
       ]
     },
     {
-      "id": "tt14473100",
-      "type": "movie",
-      "name": "Nineteen Eighty-Four",
-      "poster": "https://image.tmdb.org/t/p/w342/w6fHgUpUA3aRwv8MrmxfuYlKoCJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/egiZUdhhWutp0VDchQfjq56ePJU.jpg",
-      "description": "A man who works for 'The Party' (an all powerful empire led by a man known only as 'Big Brother') begins to have thoughts of rebellion and love for a fellow member. Together they look to help bring down the party.",
-      "releaseInfo": "1954",
-      "genres": [
-        "Drama",
-        "Sci-Fi"
-      ]
-    },
-    {
       "id": "tt0081874",
       "type": "movie",
       "name": "The Hitch Hikers Guide to the Galaxy",
@@ -261,6 +248,19 @@
       "genres": [
         "Adventure",
         "Comedy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt14473100",
+      "type": "movie",
+      "name": "Nineteen Eighty-Four",
+      "poster": "https://image.tmdb.org/t/p/w342/w6fHgUpUA3aRwv8MrmxfuYlKoCJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/egiZUdhhWutp0VDchQfjq56ePJU.jpg",
+      "description": "A man who works for 'The Party' (an all powerful empire led by a man known only as 'Big Brother') begins to have thoughts of rebellion and love for a fellow member. Together they look to help bring down the party.",
+      "releaseInfo": "1954",
+      "genres": [
+        "Drama",
         "Sci-Fi"
       ]
     },
@@ -389,20 +389,6 @@
       ]
     },
     {
-      "id": "tt0302739",
-      "type": "movie",
-      "name": "The Lost World",
-      "poster": "https://image.tmdb.org/t/p/w342/22PtJeHtI19j15nkQiM561Ng7cH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kENpaFN3dKuAcsESuwXRwGrSRZk.jpg",
-      "description": "This Lost World is a splendid BBC TV dramatisation of Sir Arthur Conan Doyle's famous adventure story. Bob Hoskins makes an unusually genial Professor Challenger, far less of a bully than Doyle's character, but his slightly stereotyped companions are nicely filled out by a solid cast. James Fox is Challenger's more timid but still covertly adventurous rival, Tom Ward is the moustachioed big game hunter who faces an Allosaurus with an elephant gun, and Matthew Rhys plays the tagalong reporter hoping to impress his faithless fiancée.",
-      "releaseInfo": "2001",
-      "genres": [
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi"
-      ]
-    },
-    {
       "id": "tt0120004",
       "type": "movie",
       "name": "The Relic",
@@ -414,6 +400,20 @@
         "Horror",
         "Mystery",
         "Thriller",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0302739",
+      "type": "movie",
+      "name": "The Lost World",
+      "poster": "https://image.tmdb.org/t/p/w342/22PtJeHtI19j15nkQiM561Ng7cH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kENpaFN3dKuAcsESuwXRwGrSRZk.jpg",
+      "description": "This Lost World is a splendid BBC TV dramatisation of Sir Arthur Conan Doyle's famous adventure story. Bob Hoskins makes an unusually genial Professor Challenger, far less of a bully than Doyle's character, but his slightly stereotyped companions are nicely filled out by a solid cast. James Fox is Challenger's more timid but still covertly adventurous rival, Tom Ward is the moustachioed big game hunter who faces an Allosaurus with an elephant gun, and Matthew Rhys plays the tagalong reporter hoping to impress his faithless fiancée.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Adventure",
+        "Fantasy",
         "Sci-Fi"
       ]
     },
