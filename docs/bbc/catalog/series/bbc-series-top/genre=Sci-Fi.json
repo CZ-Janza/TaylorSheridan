@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt11379026",
-      "type": "series",
-      "name": "Ghosts",
-      "poster": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
-      "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt2674806",
       "type": "series",
       "name": "Inside No. 9",
@@ -32,6 +18,20 @@
       ]
     },
     {
+      "id": "tt0094535",
+      "type": "series",
+      "name": "Red Dwarf",
+      "poster": "https://image.tmdb.org/t/p/w342/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gBeHadaylDePYy6Gy2xyDVeYLkP.jpg",
+      "description": "The adventures of the last human alive and his friends, stranded three million years into deep space on the mining ship Red Dwarf.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt0081874",
       "type": "series",
       "name": "The Hitchhiker's Guide to the Galaxy",
@@ -46,13 +46,13 @@
       ]
     },
     {
-      "id": "tt0094535",
+      "id": "tt11379026",
       "type": "series",
-      "name": "Red Dwarf",
-      "poster": "https://image.tmdb.org/t/p/w342/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gBeHadaylDePYy6Gy2xyDVeYLkP.jpg",
-      "description": "The adventures of the last human alive and his friends, stranded three million years into deep space on the mining ship Red Dwarf.",
-      "releaseInfo": "1988",
+      "name": "Ghosts",
+      "poster": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+      "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
+      "releaseInfo": "2021",
       "genres": [
         "Comedy",
         "Sci-Fi",
@@ -75,6 +75,21 @@
       ]
     },
     {
+      "id": "tt2321596",
+      "type": "series",
+      "name": "Wolfblood",
+      "poster": "https://image.tmdb.org/t/p/w342/rYFKm38ClVGVe6Bj3RUYf67Vc9E.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sC9OILuFOlZon1XQFrSDBUlGLkI.jpg",
+      "description": "Being a teenager is hard enough. Being a Wolfblood teenager is ten times more complicated. 14 year old Maddy loves her abilities - heightened senses, being faster, stronger and more graceful - but hates the secrets that come with them.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt0876219",
       "type": "series",
       "name": "Young Dracula",
@@ -88,21 +103,6 @@
         "Comedy",
         "Sci-Fi",
         "Fantasy"
-      ]
-    },
-    {
-      "id": "tt2321596",
-      "type": "series",
-      "name": "Wolfblood",
-      "poster": "https://image.tmdb.org/t/p/w342/rYFKm38ClVGVe6Bj3RUYf67Vc9E.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sC9OILuFOlZon1XQFrSDBUlGLkI.jpg",
-      "description": "Being a teenager is hard enough. Being a Wolfblood teenager is ten times more complicated. 14 year old Maddy loves her abilities - heightened senses, being faster, stronger and more graceful - but hates the secrets that come with them.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama",
-        "Mystery"
       ]
     },
     {
@@ -150,22 +150,6 @@
       ]
     },
     {
-      "id": "tt1199099",
-      "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt2234222",
       "type": "series",
       "name": "Orphan Black",
@@ -196,19 +180,34 @@
       ]
     },
     {
-      "id": "tt0478942",
+      "id": "tt1199099",
       "type": "series",
-      "name": "Life on Mars",
-      "poster": "https://image.tmdb.org/t/p/w342/eoZzXx2DW8XeaIS8iYs0ePxH3DG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tlN8MGKlGZmJqYpwoqCB5YwLqBx.jpg",
-      "description": "A detective chief inspector from 2006 is investigating a serial killer when he is knocked over by a speeding car. Waking up, he finds himself mysteriously transported back in time to 1973. Initially struggling to come to terms with his situation, he has to come to terms with the old-fashioned technology and attitude of the day, while figuring out how he came to be trapped in the past.",
-      "releaseInfo": "2006",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+      "releaseInfo": "2008",
       "genres": [
-        "Crime",
+        "Action",
+        "Adventure",
         "Drama",
-        "Mystery",
         "Sci-Fi",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tt4047038",
+      "type": "series",
+      "name": "Dirk Gently's Holistic Detective Agency",
+      "poster": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
+      "description": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
+        "Crime"
       ]
     },
     {
@@ -229,18 +228,35 @@
       ]
     },
     {
-      "id": "tt4047038",
+      "id": "tt0478942",
       "type": "series",
-      "name": "Dirk Gently's Holistic Detective Agency",
-      "poster": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
-      "description": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
-      "releaseInfo": "2016",
+      "name": "Life on Mars",
+      "poster": "https://image.tmdb.org/t/p/w342/eoZzXx2DW8XeaIS8iYs0ePxH3DG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tlN8MGKlGZmJqYpwoqCB5YwLqBx.jpg",
+      "description": "A detective chief inspector from 2006 is investigating a serial killer when he is knocked over by a speeding car. Waking up, he finds himself mysteriously transported back in time to 1973. Initially struggling to come to terms with his situation, he has to come to terms with the old-fashioned technology and attitude of the day, while figuring out how he came to be trapped in the past.",
+      "releaseInfo": "2006",
       "genres": [
-        "Comedy",
+        "Crime",
+        "Drama",
+        "Mystery",
         "Sci-Fi",
-        "Fantasy",
-        "Crime"
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0436992",
+      "type": "series",
+      "name": "Doctor Who",
+      "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+      "description": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -267,22 +283,6 @@
       "releaseInfo": "2004",
       "genres": [
         "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0436992",
-      "type": "series",
-      "name": "Doctor Who",
-      "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-      "description": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
         "Sci-Fi",
         "Fantasy"
       ]
@@ -349,17 +349,17 @@
       ]
     },
     {
-      "id": "tt0076987",
+      "id": "tt5194792",
       "type": "series",
-      "name": "Blake's 7",
-      "poster": "https://image.tmdb.org/t/p/w342/7Q0hgpABuPQrH0RjvQfneEcMz6S.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/unpZZJuzV7j6h8vOjfIvrzI3QE7.jpg",
-      "description": "A group of convicts and outcasts fight a guerrilla war against the totalitarian Terran Federation from a highly advanced alien spaceship.",
-      "releaseInfo": "1978",
+      "name": "NOS4A2",
+      "poster": "https://image.tmdb.org/t/p/w342/gnosVTTRTCqooJuipwU6C0bgOGf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/enRS7bE43q7VmurYqlyroOeZLGa.jpg",
+      "description": "A young Victoria \"Vic\" McQueen discovers she has the power to unlock portals that help her find lost objects. As she delves further into this hidden universe, she encounters many other \"inscape travelers\" - some benevolent, and some who have been corrupted by their power. When Vic encounters Charlie Manx, an immortal who stays that way by feeding off of the souls of children, she makes a sworn enemy of Manx.",
+      "releaseInfo": "2019",
       "genres": [
-        "Drama",
         "Sci-Fi",
-        "Fantasy"
+        "Fantasy",
+        "Drama"
       ]
     },
     {
@@ -379,61 +379,17 @@
       ]
     },
     {
-      "id": "tt5194792",
+      "id": "tt0076987",
       "type": "series",
-      "name": "NOS4A2",
-      "poster": "https://image.tmdb.org/t/p/w342/gnosVTTRTCqooJuipwU6C0bgOGf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/enRS7bE43q7VmurYqlyroOeZLGa.jpg",
-      "description": "A young Victoria \"Vic\" McQueen discovers she has the power to unlock portals that help her find lost objects. As she delves further into this hidden universe, she encounters many other \"inscape travelers\" - some benevolent, and some who have been corrupted by their power. When Vic encounters Charlie Manx, an immortal who stays that way by feeding off of the souls of children, she makes a sworn enemy of Manx.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0106014",
-      "type": "series",
-      "name": "Goodnight Sweetheart",
-      "poster": "https://image.tmdb.org/t/p/w342/wjAlo4Xac1sMq6mAMJTvkPxbOON.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pCoOFcXcwf1BsI2nJ82gx16b2MW.jpg",
-      "description": "Gary Sparrow is an ordinary bloke in 1990s Britain, married to the ambitious Yvonne and working as a TV repairman. Then his whole world changes when he stumbles upon a portal to WWII-era London and begins a dual life as an accidental time traveler.",
-      "releaseInfo": "1993",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1772379",
-      "type": "series",
-      "name": "The Fades",
-      "poster": "https://image.tmdb.org/t/p/w342/6YEXq1g6QQ3k5rEaeocMNk3eGcF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rB7DzIP7KgRkb8xrZed4m9lTiog.jpg",
-      "description": "Seventeen-year old Paul can see the spirits of the dead. When one of these restless spirits crosses back into the living world, he is forced into a fight to prevent the apocalypse.",
-      "releaseInfo": "2011",
+      "name": "Blake's 7",
+      "poster": "https://image.tmdb.org/t/p/w342/7Q0hgpABuPQrH0RjvQfneEcMz6S.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/unpZZJuzV7j6h8vOjfIvrzI3QE7.jpg",
+      "description": "A group of convicts and outcasts fight a guerrilla war against the totalitarian Terran Federation from a highly advanced alien spaceship.",
+      "releaseInfo": "1978",
       "genres": [
         "Drama",
         "Sci-Fi",
         "Fantasy"
-      ]
-    },
-    {
-      "id": "tt1140939",
-      "type": "series",
-      "name": "Apparitions",
-      "poster": "https://image.tmdb.org/t/p/w342/jpd7vaCQo2059Ju0yfxL1Ibo6Or.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dLWTG3G54ngP7xUf2FyW1ZdOfKq.jpg",
-      "description": "Apparitions is a BBC drama about Father Jacob Myers, a priest of the Roman Catholic Church, played by Martin Shaw, who examines evidence of miracles to be used in canonisation but also performs exorcisms. As he learns, Jacob's duties run deeper than just sending demons back to Hell; he later must prevent them all from escaping.\n\nUnlike most portrayals of exorcism and spirit possession in fiction, Apparitions is more religiously accurate and fact-based, incorporating the nature of demonic possession as described by the Church. It also recounts historical events associated with Christianity and other Abrahamic religions, which may have been caused by Heaven or Hell, indicating that the War described in the Bible may not have fully concluded.\n\nThe series is written by Joe Ahearne.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Mystery",
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
       ]
     },
     {
@@ -466,6 +422,67 @@
       ]
     },
     {
+      "id": "tt1772379",
+      "type": "series",
+      "name": "The Fades",
+      "poster": "https://image.tmdb.org/t/p/w342/6YEXq1g6QQ3k5rEaeocMNk3eGcF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rB7DzIP7KgRkb8xrZed4m9lTiog.jpg",
+      "description": "Seventeen-year old Paul can see the spirits of the dead. When one of these restless spirits crosses back into the living world, he is forced into a fight to prevent the apocalypse.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt1140939",
+      "type": "series",
+      "name": "Apparitions",
+      "poster": "https://image.tmdb.org/t/p/w342/jpd7vaCQo2059Ju0yfxL1Ibo6Or.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dLWTG3G54ngP7xUf2FyW1ZdOfKq.jpg",
+      "description": "Apparitions is a BBC drama about Father Jacob Myers, a priest of the Roman Catholic Church, played by Martin Shaw, who examines evidence of miracles to be used in canonisation but also performs exorcisms. As he learns, Jacob's duties run deeper than just sending demons back to Hell; he later must prevent them all from escaping.\n\nUnlike most portrayals of exorcism and spirit possession in fiction, Apparitions is more religiously accurate and fact-based, incorporating the nature of demonic possession as described by the Church. It also recounts historical events associated with Christianity and other Abrahamic religions, which may have been caused by Heaven or Hell, indicating that the War described in the Bible may not have fully concluded.\n\nThe series is written by Joe Ahearne.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0106014",
+      "type": "series",
+      "name": "Goodnight Sweetheart",
+      "poster": "https://image.tmdb.org/t/p/w342/wjAlo4Xac1sMq6mAMJTvkPxbOON.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pCoOFcXcwf1BsI2nJ82gx16b2MW.jpg",
+      "description": "Gary Sparrow is an ordinary bloke in 1990s Britain, married to the ambitious Yvonne and working as a TV repairman. Then his whole world changes when he stumbles upon a portal to WWII-era London and begins a dual life as an accidental time traveler.",
+      "releaseInfo": "1993",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2303367",
+      "type": "series",
+      "name": "Dirk Gently",
+      "poster": "https://image.tmdb.org/t/p/w342/nbliUzKVtuLpRIDapKOycoySqpX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qphUmcQ2GPBN7jQCantjj87hA1v.jpg",
+      "description": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt1349938",
       "type": "series",
       "name": "Being Human",
@@ -480,6 +497,20 @@
         "Mystery",
         "Action",
         "Adventure"
+      ]
+    },
+    {
+      "id": "tt1258189",
+      "type": "series",
+      "name": "Survivors",
+      "poster": "https://image.tmdb.org/t/p/w342/qw1veNeQzzN0FD2DJyemxO7hPPE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rulrZar942TxA7vn6OPjOEd7clR.jpg",
+      "description": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
       ]
     },
     {
@@ -513,34 +544,17 @@
       ]
     },
     {
-      "id": "tt1258189",
+      "id": "tt6109562",
       "type": "series",
-      "name": "Survivors",
-      "poster": "https://image.tmdb.org/t/p/w342/qw1veNeQzzN0FD2DJyemxO7hPPE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rulrZar942TxA7vn6OPjOEd7clR.jpg",
-      "description": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
-      "releaseInfo": "2008",
+      "name": "Wellington Paranormal",
+      "poster": "https://image.tmdb.org/t/p/w342/eaGpAP4bKMjVlMIoGqKzMRJ2OIG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bsL4ODNxisyQ4Bl2dTOoVvzcgoN.jpg",
+      "description": "New Zealand's capital is a hotbed of supernatural activity... so Officers Minogue and O'Leary, who featured in the vampire documentary What We Do In The Shadows, take to the streets to investigate all manner of paranormal phenomena.",
+      "releaseInfo": "2018",
       "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2303367",
-      "type": "series",
-      "name": "Dirk Gently",
-      "poster": "https://image.tmdb.org/t/p/w342/nbliUzKVtuLpRIDapKOycoySqpX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qphUmcQ2GPBN7jQCantjj87hA1v.jpg",
-      "description": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Action",
-        "Adventure",
         "Comedy",
         "Sci-Fi",
-        "Fantasy",
-        "Drama"
+        "Fantasy"
       ]
     },
     {
@@ -558,20 +572,6 @@
         "Comedy",
         "Action",
         "Adventure"
-      ]
-    },
-    {
-      "id": "tt6109562",
-      "type": "series",
-      "name": "Wellington Paranormal",
-      "poster": "https://image.tmdb.org/t/p/w342/eaGpAP4bKMjVlMIoGqKzMRJ2OIG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bsL4ODNxisyQ4Bl2dTOoVvzcgoN.jpg",
-      "description": "New Zealand's capital is a hotbed of supernatural activity... so Officers Minogue and O'Leary, who featured in the vampire documentary What We Do In The Shadows, take to the streets to investigate all manner of paranormal phenomena.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
       ]
     },
     {
@@ -691,20 +691,6 @@
       ]
     },
     {
-      "id": "tt0081850",
-      "type": "series",
-      "name": "The Day of the Triffids",
-      "poster": "https://image.tmdb.org/t/p/w342/pDGJW9qlHQwnhNhlj9gQReM4NVi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yaZ1j4zfeOq5pS1LYgPdqNjlK6B.jpg",
-      "description": "After an unusual meteor shower leaves most of the human population blind, a merchant navy officer must find a way to conquer tall, aggressive plants which are feeding on people and animals.",
-      "releaseInfo": "1981",
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt0481449",
       "type": "series",
       "name": "Hyperdrive",
@@ -733,16 +719,15 @@
       ]
     },
     {
-      "id": "tt2705602",
+      "id": "tt0081850",
       "type": "series",
-      "name": "Atlantis",
-      "poster": "https://image.tmdb.org/t/p/w342/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nMdyDnHiRpJ2sfqk3JfUb3CvME4.jpg",
-      "description": "A fantasy drama set in a world of legendary heroes and mythical creatures. Far from home and desperate for answers, Jason washes up on the shores of an ancient land. A mysterious place; a world of bull leaping, of snake haired goddesses and of palaces so vast it was said they were built by giants - this is the city of Atlantis. Aided by his two new friends, Pythagoras and Hercules, Jason embarks on a voyage of discovery, and salvation, which sees him brush shoulders with Medusa, come face to face with the Minotaur and even do battle with the dead.",
-      "releaseInfo": "2013",
+      "name": "The Day of the Triffids",
+      "poster": "https://image.tmdb.org/t/p/w342/pDGJW9qlHQwnhNhlj9gQReM4NVi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yaZ1j4zfeOq5pS1LYgPdqNjlK6B.jpg",
+      "description": "After an unusual meteor shower leaves most of the human population blind, a merchant navy officer must find a way to conquer tall, aggressive plants which are feeding on people and animals.",
+      "releaseInfo": "1981",
       "genres": [
-        "Action",
-        "Adventure",
+        "Drama",
         "Sci-Fi",
         "Fantasy"
       ]
@@ -773,6 +758,21 @@
       "releaseInfo": "2016",
       "genres": [
         "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt2705602",
+      "type": "series",
+      "name": "Atlantis",
+      "poster": "https://image.tmdb.org/t/p/w342/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nMdyDnHiRpJ2sfqk3JfUb3CvME4.jpg",
+      "description": "A fantasy drama set in a world of legendary heroes and mythical creatures. Far from home and desperate for answers, Jason washes up on the shores of an ancient land. A mysterious place; a world of bull leaping, of snake haired goddesses and of palaces so vast it was said they were built by giants - this is the city of Atlantis. Aided by his two new friends, Pythagoras and Hercules, Jason embarks on a voyage of discovery, and salvation, which sees him brush shoulders with Medusa, come face to face with the Minotaur and even do battle with the dead.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Action",
+        "Adventure",
         "Sci-Fi",
         "Fantasy"
       ]

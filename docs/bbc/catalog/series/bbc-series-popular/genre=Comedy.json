@@ -30,6 +30,19 @@
       ]
     },
     {
+      "id": "tt0362357",
+      "type": "series",
+      "name": "New Tricks",
+      "poster": "https://image.tmdb.org/t/p/w342/mCXWTVOF0DVQvxwhtWWtDYyU7ei.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nsHoeUGwtjFHWE6guvbdcBKu2f.jpg",
+      "description": "New Tricks is a British comedy-drama that follows the work of the fictional Unsolved Crime and Open Case Squad of the Metropolitan Police Service. Originally led by Detective Superintendent Sandra Pullman, it is made up of retired police officers who have been recruited to reinvestigate unsolved crimes.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt0108756",
       "type": "series",
       "name": "Due South",
@@ -56,32 +69,6 @@
       ]
     },
     {
-      "id": "tt0362357",
-      "type": "series",
-      "name": "New Tricks",
-      "poster": "https://image.tmdb.org/t/p/w342/mCXWTVOF0DVQvxwhtWWtDYyU7ei.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nsHoeUGwtjFHWE6guvbdcBKu2f.jpg",
-      "description": "New Tricks is a British comedy-drama that follows the work of the fictional Unsolved Crime and Open Case Squad of the Metropolitan Police Service. Originally led by Detective Superintendent Sandra Pullman, it is made up of retired police officers who have been recruited to reinvestigate unsolved crimes.",
-      "releaseInfo": "2004",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt5687612",
-      "type": "series",
-      "name": "Fleabag",
-      "poster": "https://image.tmdb.org/t/p/w342/vFn0nLPcIggPH5LTWWaJ2hcsGlc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hXdQ4MWsEOX6qg6VydKrLb3YJ4g.jpg",
-      "description": "A portrait into the mind of a dry-witted, sexual, angry, porn-watching, grief-riddled woman, trying to make sense of the world. As she hurls herself headlong at modern living, Fleabag is thrown roughly up against the walls of contemporary London, with all its frenetic energy, late nights, and bright lights.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0379632",
       "type": "series",
       "name": "Hustle",
@@ -94,6 +81,75 @@
         "Crime",
         "Drama",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt7526498",
+      "type": "series",
+      "name": "Shakespeare & Hathaway - Private Investigators",
+      "poster": "https://image.tmdb.org/t/p/w342/s3NOaMERvhLD88SLKYRUs7HmM1i.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/anx7BeEtPjH38EoNKTXyx0B67WX.jpg",
+      "description": "Frank Hathaway, a hardboiled private investigator, and his rookie sidekick Lu Shakespeare form the unlikeliest of partnerships as they investigate the secrets of rural Warwickshire's residents.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0084988",
+      "type": "series",
+      "name": "Blackadder",
+      "poster": "https://image.tmdb.org/t/p/w342/y3rXOeklqhZ7BTBveW5WLJqyjgU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ArLn4fRjLqqMtyPTB22qaTK4Cxt.jpg",
+      "description": "Blackadder traces the deeply cynical and self-serving lineage of various Edmund Blackadders throughout British history, from the muck of the Middle Ages to the frontline of The Great War.",
+      "releaseInfo": "1983",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0094535",
+      "type": "series",
+      "name": "Red Dwarf",
+      "poster": "https://image.tmdb.org/t/p/w342/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gBeHadaylDePYy6Gy2xyDVeYLkP.jpg",
+      "description": "The adventures of the last human alive and his friends, stranded three million years into deep space on the mining ship Red Dwarf.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt2674806",
+      "type": "series",
+      "name": "Inside No. 9",
+      "poster": "https://image.tmdb.org/t/p/w342/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/99W2xN8v9eAukGWzZN4zUsslQBo.jpg",
+      "description": "An anthology of darkly comic twisted tales, each one taking place behind a door marked 'number 9'.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Crime",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0862614",
+      "type": "series",
+      "name": "Not Going Out",
+      "poster": "https://image.tmdb.org/t/p/w342/gRDWAJiWKOPQrxO6BzSwdnOgK4R.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5AnDKToJGeEo73OohBB1O0kdWkx.jpg",
+      "description": "Lee is a childish northerner who lives in a fancy penthouse apartment in London who goes through a variety of jobs such as a janitor and ice cream man, as well as attempting relationships with female flatmates. His best mate, Daily Mail reading, middle-class citizen Tim is always there to stop Lee from getting in trouble, or not? Mayhem is never far away with cleaner Barbara who has never done an honest day's work in her life.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comedy"
       ]
     },
     {
@@ -125,20 +181,17 @@
       ]
     },
     {
-      "id": "tt2674806",
+      "id": "tt0090477",
       "type": "series",
-      "name": "Inside No. 9",
-      "poster": "https://image.tmdb.org/t/p/w342/lbHTsN5x7h6aCt7DqPQN4kYHfky.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/99W2xN8v9eAukGWzZN4zUsslQBo.jpg",
-      "description": "An anthology of darkly comic twisted tales, each one taking place behind a door marked 'number 9'.",
-      "releaseInfo": "2014",
+      "name": "Lovejoy",
+      "poster": "https://image.tmdb.org/t/p/w342/d433J9jLaOI3T99mPIudkW6b9RO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qLarafHjS9IPRgqVGU97prD9x3d.jpg",
+      "description": "The adventures of the eponymous Lovejoy, a likeable but roguish antiques dealer based in East Anglia. Within the trade, he has a reputation as a “divvie”, a person with an almost supernatural powers for recognising exceptional items as well as distinguishing genuine antique from clever fakes or forgeries.",
+      "releaseInfo": "1986",
       "genres": [
         "Comedy",
-        "Mystery",
-        "Crime",
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -157,32 +210,6 @@
       ]
     },
     {
-      "id": "tt0094535",
-      "type": "series",
-      "name": "Red Dwarf",
-      "poster": "https://image.tmdb.org/t/p/w342/cU9RFlyvJXbzyCzCGRqRmZrTDZU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gBeHadaylDePYy6Gy2xyDVeYLkP.jpg",
-      "description": "The adventures of the last human alive and his friends, stranded three million years into deep space on the mining ship Red Dwarf.",
-      "releaseInfo": "1988",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0084988",
-      "type": "series",
-      "name": "Blackadder",
-      "poster": "https://image.tmdb.org/t/p/w342/y3rXOeklqhZ7BTBveW5WLJqyjgU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ArLn4fRjLqqMtyPTB22qaTK4Cxt.jpg",
-      "description": "Blackadder traces the deeply cynical and self-serving lineage of various Edmund Blackadders throughout British history, from the muck of the Middle Ages to the frontline of The Great War.",
-      "releaseInfo": "1983",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt0096545",
       "type": "series",
       "name": "Birds of a Feather",
@@ -196,15 +223,17 @@
       ]
     },
     {
-      "id": "tt0862614",
+      "id": "tt11646832",
       "type": "series",
-      "name": "Not Going Out",
-      "poster": "https://image.tmdb.org/t/p/w342/mzOriVp3DtlEZxh0plXZWBvzWB9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vdQqBYaOS9qO9xQuajcaqDKvvJ7.jpg",
-      "description": "Lee is a childish northerner who lives in a fancy penthouse apartment in London who goes through a variety of jobs such as a janitor and ice cream man, as well as attempting relationships with female flatmates. His best mate, Daily Mail reading, middle-class citizen Tim is always there to stop Lee from getting in trouble, or not? Mayhem is never far away with cleaner Barbara who has never done an honest day's work in her life.",
-      "releaseInfo": "2006",
+      "name": "The Outlaws",
+      "poster": "https://image.tmdb.org/t/p/w342/s8vp0S0iz2nPb7TpOpV0rHbm1er.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qQcI42QcZk9Eo4IqexsUwaRhusx.jpg",
+      "description": "Seven strangers from different walks of life - people who would never normally interact - are forced to work together to renovate a derelict community centre. They resent the menial physical labour and they resent each other. But when one of their number gets dragged into a dangerous world of organised crime, they unite in ways none of them thought possible.",
+      "releaseInfo": "2021",
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Crime",
+        "Drama"
       ]
     },
     {
@@ -222,38 +251,13 @@
       ]
     },
     {
-      "id": "tt0086659",
+      "id": "tt0290978",
       "type": "series",
-      "name": "'Allo 'Allo!",
-      "poster": "https://image.tmdb.org/t/p/w342/m42lb4UxkpaFil4bw0bqqjlWCY4.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pnyulr7wX1vEfyzScMRDAdxCwMc.jpg",
-      "description": "The misadventures of hapless cafe owner René Artois and his escapades with the Resistance in occupied France.",
-      "releaseInfo": "1984",
-      "genres": [
-        "Comedy",
-        "War"
-      ]
-    },
-    {
-      "id": "tt1582350",
-      "type": "series",
-      "name": "Episodes",
-      "poster": "https://image.tmdb.org/t/p/w342/yyaU6cayJQCr555VgYYETbDHu1E.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wpCRj1a2K6szwrPrE0J1guMUbYz.jpg",
-      "description": "A British husband-and-wife comedy writing team travel to Hollywood to remake their successful British TV series, with disastrous results.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0105929",
-      "type": "series",
-      "name": "Absolutely Fabulous",
-      "poster": "https://image.tmdb.org/t/p/w342/s6HrSQwSwtzLlJYq2yeur3J5iR9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/Ahc9QBI1oTHkQMDza2Rr4JQWiup.jpg",
-      "description": "Set in the world of fashion and PR, immature fun-loving mother Edina Monsoon and her best friend Patsy drive Eddie's sensible daughter, Saffron, up the wall with their constant drug abuse and outrageous selfishness. Numerous in-jokes and heavy doses of cruel humour have made this series a cult hit in the UK and abroad.",
-      "releaseInfo": "1992",
+      "name": "The Office",
+      "poster": "https://image.tmdb.org/t/p/w342/oX2JKE1RzAONMbYlujHx0hRAJo1.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9GWU1AyNqUYIUl1tU7CvXEHUVs9.jpg",
+      "description": "Nightmare boss. Tedious colleagues. Pointless tasks. Welcome to Wernham Hogg. Fancy a tea break with David Brent? Classic comedy from the archive.",
+      "releaseInfo": "2001",
       "genres": [
         "Comedy"
       ]
@@ -273,17 +277,133 @@
       ]
     },
     {
-      "id": "tt7526498",
+      "id": "tt0105929",
       "type": "series",
-      "name": "Shakespeare & Hathaway - Private Investigators",
-      "poster": "https://image.tmdb.org/t/p/w342/s3NOaMERvhLD88SLKYRUs7HmM1i.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/anx7BeEtPjH38EoNKTXyx0B67WX.jpg",
-      "description": "Frank Hathaway, a hardboiled private investigator, and his rookie sidekick Lu Shakespeare form the unlikeliest of partnerships as they investigate the secrets of rural Warwickshire's residents.",
-      "releaseInfo": "2018",
+      "name": "Absolutely Fabulous",
+      "poster": "https://image.tmdb.org/t/p/w342/s6HrSQwSwtzLlJYq2yeur3J5iR9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/Ahc9QBI1oTHkQMDza2Rr4JQWiup.jpg",
+      "description": "Set in the world of fashion and PR, immature fun-loving mother Edina Monsoon and her best friend Patsy drive Eddie's sensible daughter, Saffron, up the wall with their constant drug abuse and outrageous selfishness. Numerous in-jokes and heavy doses of cruel humour have made this series a cult hit in the UK and abroad.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0086659",
+      "type": "series",
+      "name": "'Allo 'Allo!",
+      "poster": "https://image.tmdb.org/t/p/w342/m42lb4UxkpaFil4bw0bqqjlWCY4.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pnyulr7wX1vEfyzScMRDAdxCwMc.jpg",
+      "description": "The misadventures of hapless cafe owner René Artois and his escapades with the Resistance in occupied France.",
+      "releaseInfo": "1984",
       "genres": [
         "Comedy",
+        "War"
+      ]
+    },
+    {
+      "id": "tt5687612",
+      "type": "series",
+      "name": "Fleabag",
+      "poster": "https://image.tmdb.org/t/p/w342/vFn0nLPcIggPH5LTWWaJ2hcsGlc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hXdQ4MWsEOX6qg6VydKrLb3YJ4g.jpg",
+      "description": "A portrait into the mind of a dry-witted, sexual, angry, porn-watching, grief-riddled woman, trying to make sense of the world. As she hurls herself headlong at modern living, Fleabag is thrown roughly up against the walls of contemporary London, with all its frenetic energy, late nights, and bright lights.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1582350",
+      "type": "series",
+      "name": "Episodes",
+      "poster": "https://image.tmdb.org/t/p/w342/yyaU6cayJQCr555VgYYETbDHu1E.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wpCRj1a2K6szwrPrE0J1guMUbYz.jpg",
+      "description": "A British husband-and-wife comedy writing team travel to Hollywood to remake their successful British TV series, with disastrous results.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt1400819",
+      "type": "series",
+      "name": "Horrible Histories",
+      "poster": "https://image.tmdb.org/t/p/w342/fwj7zkWHtveXUaB9cwrQIMvmgeQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1HtR6sISptKbZeLuZS8K7eoMU8W.jpg",
+      "description": "Based on the best-selling children's books and liberally splattered with guts, blood and poo, a group of British comedians offer an anarchic and unconventional take on some of history's most gruesome and funny moments, with topics including the Stone Age, the Middle Ages, the Egyptians and the Romans, among others.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Family",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt4047038",
+      "type": "series",
+      "name": "Dirk Gently's Holistic Detective Agency",
+      "poster": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
+      "description": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt2222352",
+      "type": "series",
+      "name": "Cuckoo",
+      "poster": "https://image.tmdb.org/t/p/w342/eFBfQIouobewXiw5g1fWwwNt7t0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fx3ee9lS4LbHOBu8Vk0I7BKH3Bx.jpg",
+      "description": "Cuckoo is every parent's worst nightmare - a slacker full of outlandish, New Age ideas. Ken is the over-protective father of a girl who's impulsively married an American hippie on her gap year.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0098837",
+      "type": "series",
+      "name": "Keeping Up Appearances",
+      "poster": "https://image.tmdb.org/t/p/w342/s1efxAPGvVlvWuHOgNXW2rRXEcG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7PVrAFtg3eAkRhfXzCE00j6XtKn.jpg",
+      "description": "A snobbish housewife is determined to climb the social ladder, in spite of her family's working class connections and the constant chagrin of her long suffering husband.",
+      "releaseInfo": "1990",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0787985",
+      "type": "series",
+      "name": "Robin Hood",
+      "poster": "https://image.tmdb.org/t/p/w342/wz0CSuIiUpvHtpbPxVhMQWKtLTG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/GElmmVU8N0hl05WBcd0y3E8b6f.jpg",
+      "description": "Robin of Loxley returns to England after 5 years of fighting in the crusades alongside King Richard. After losing his estates and being branded an outlaw, he takes on the title of Robin Hood and assembles a ragtag band of outlaw companions. Together they steal from the rich and give to the poor - all the while avoiding and outwitting their enemies Sir Guy of Gisborne and the evil Sheriff of Nottingham.",
+      "releaseInfo": "2006",
+      "genres": [
         "Drama",
-        "Mystery"
+        "Action",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0358856",
+      "type": "series",
+      "name": "Little Britain",
+      "poster": "https://image.tmdb.org/t/p/w342/d8ss1109kLq2Z4K1eO9575CCKBe.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5GMxq17cOxKrzQypbHAVQWZ0eMD.jpg",
+      "description": "A zany comedy show with Matt Lucas and David Walliams, featuring characters from all over Little Britain.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Comedy"
       ]
     },
     {
@@ -312,26 +432,25 @@
       ]
     },
     {
-      "id": "tt1400819",
+      "id": "tt0063929",
       "type": "series",
-      "name": "Horrible Histories",
-      "poster": "https://image.tmdb.org/t/p/w342/fwj7zkWHtveXUaB9cwrQIMvmgeQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1HtR6sISptKbZeLuZS8K7eoMU8W.jpg",
-      "description": "Based on the best-selling children's books and liberally splattered with guts, blood and poo, a group of British comedians offer an anarchic and unconventional take on some of history's most gruesome and funny moments, with topics including the Stone Age, the Middle Ages, the Egyptians and the Romans, among others.",
-      "releaseInfo": "2009",
+      "name": "Monty Python's Flying Circus",
+      "poster": "https://image.tmdb.org/t/p/w342/hZtMtL8Pqv9FAMljN9911U4qBhI.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9GybuKLYceOhgV09BQ60MKTT5nN.jpg",
+      "description": "A British sketch comedy series with the shows being composed of surreality, risqué or innuendo-laden humour, sight gags and observational sketches without punchlines.",
+      "releaseInfo": "1969",
       "genres": [
-        "Family",
         "Comedy"
       ]
     },
     {
-      "id": "tt0098837",
+      "id": "tt0083505",
       "type": "series",
-      "name": "Keeping Up Appearances",
-      "poster": "https://image.tmdb.org/t/p/w342/s1efxAPGvVlvWuHOgNXW2rRXEcG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7PVrAFtg3eAkRhfXzCE00j6XtKn.jpg",
-      "description": "A snobbish housewife is determined to climb the social ladder, in spite of her family's working class connections and the constant chagrin of her long suffering husband.",
-      "releaseInfo": "1990",
+      "name": "The Young Ones",
+      "poster": "https://image.tmdb.org/t/p/w342/9BQCGkKkVUxw6zF1P2BF1gHSMXB.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nCGsDvCvDaY2IU2Qf7TgUO2UNNp.jpg",
+      "description": "The misadventures of four lunatic students who live in a shared student house. There's Rick, the overblown political one addicted to Cliff Richard, Vyvyan the experimental scientific one/part-time anarchist, Neil the worried hippy, and Mike the ladies' man (at least he is in his mind).",
+      "releaseInfo": "1982",
       "genres": [
         "Comedy"
       ]
@@ -349,46 +468,6 @@
       ]
     },
     {
-      "id": "tt2222352",
-      "type": "series",
-      "name": "Cuckoo",
-      "poster": "https://image.tmdb.org/t/p/w342/eFBfQIouobewXiw5g1fWwwNt7t0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fx3ee9lS4LbHOBu8Vk0I7BKH3Bx.jpg",
-      "description": "Cuckoo is every parent's worst nightmare - a slacker full of outlandish, New Age ideas. Ken is the over-protective father of a girl who's impulsively married an American hippie on her gap year.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt4047038",
-      "type": "series",
-      "name": "Dirk Gently's Holistic Detective Agency",
-      "poster": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
-      "description": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt0063929",
-      "type": "series",
-      "name": "Monty Python's Flying Circus",
-      "poster": "https://image.tmdb.org/t/p/w342/hZtMtL8Pqv9FAMljN9911U4qBhI.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9GybuKLYceOhgV09BQ60MKTT5nN.jpg",
-      "description": "A British sketch comedy series with the shows being composed of surreality, risqué or innuendo-laden humour, sight gags and observational sketches without punchlines.",
-      "releaseInfo": "1969",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt0081912",
       "type": "series",
       "name": "Only Fools and Horses",
@@ -398,72 +477,6 @@
       "releaseInfo": "1981",
       "genres": [
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt0358856",
-      "type": "series",
-      "name": "Little Britain",
-      "poster": "https://image.tmdb.org/t/p/w342/d8ss1109kLq2Z4K1eO9575CCKBe.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5GMxq17cOxKrzQypbHAVQWZ0eMD.jpg",
-      "description": "A zany comedy show with Matt Lucas and David Walliams, featuring characters from all over Little Britain.",
-      "releaseInfo": "2003",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0106014",
-      "type": "series",
-      "name": "Goodnight Sweetheart",
-      "poster": "https://image.tmdb.org/t/p/w342/wjAlo4Xac1sMq6mAMJTvkPxbOON.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pCoOFcXcwf1BsI2nJ82gx16b2MW.jpg",
-      "description": "Gary Sparrow is an ordinary bloke in 1990s Britain, married to the ambitious Yvonne and working as a TV repairman. Then his whole world changes when he stumbles upon a portal to WWII-era London and begins a dual life as an accidental time traveler.",
-      "releaseInfo": "1993",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt11646832",
-      "type": "series",
-      "name": "The Outlaws",
-      "poster": "https://image.tmdb.org/t/p/w342/s8vp0S0iz2nPb7TpOpV0rHbm1er.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qQcI42QcZk9Eo4IqexsUwaRhusx.jpg",
-      "description": "Seven strangers from different walks of life - people who would never normally interact - are forced to work together to renovate a derelict community centre. They resent the menial physical labour and they resent each other. But when one of their number gets dragged into a dangerous world of organised crime, they unite in ways none of them thought possible.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Comedy",
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0459159",
-      "type": "series",
-      "name": "The Thick of It",
-      "poster": "https://image.tmdb.org/t/p/w342/xuOz95tUuXclfnlOID7ejtREYqf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rReAn187hBmmk5YoWA7I3amfaUK.jpg",
-      "description": "Set in the corridors of power and spin, the Minister for Social Affairs is continually harassed by Number 10's policy enforcer and dependent on his not-so-reliable team of civil servants.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0062552",
-      "type": "series",
-      "name": "Dad's Army",
-      "poster": "https://image.tmdb.org/t/p/w342/8MujdHdJaQKML59PNP9jFXlclBn.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/AfzpsVEOzThowOcG0w6vj2ho0Wg.jpg",
-      "description": "Introducing the Walmington-On-Sea home guard. During WW2, in a fictional British seaside town, a ragtag group of Home Guard local defense volunteers prepare for an imminent German invasion.",
-      "releaseInfo": "1968",
-      "genres": [
-        "Comedy",
-        "War"
       ]
     },
     {
@@ -479,46 +492,17 @@
       ]
     },
     {
-      "id": "tt0090477",
+      "id": "tt0233084",
       "type": "series",
-      "name": "Lovejoy",
-      "poster": "https://image.tmdb.org/t/p/w342/d433J9jLaOI3T99mPIudkW6b9RO.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qLarafHjS9IPRgqVGU97prD9x3d.jpg",
-      "description": "The adventures of the eponymous Lovejoy, a likeable but roguish antiques dealer based in East Anglia. Within the trade, he has a reputation as a “divvie”, a person with an almost supernatural powers for recognising exceptional items as well as distinguishing genuine antique from clever fakes or forgeries.",
-      "releaseInfo": "1986",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0416394",
-      "type": "series",
-      "name": "The Mighty Boosh",
-      "poster": "https://image.tmdb.org/t/p/w342/dKlYEo7mc1XLN2PutYlRuTLUXlC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/91cTQeEKxpV6ysdPO3VWn66pehc.jpg",
-      "description": "A British comic fantasy containing humour and pop-culture references.  Episodes often featured elaborate musical numbers in different genres, such as electro, heavy metal, funk, and rap. The show has been known for popularising a style called \"crimping\"; short acappella songs which are present throughout all three series.",
-      "releaseInfo": "2004",
+      "name": "My Hero",
+      "poster": "https://image.tmdb.org/t/p/w342/ultFCYTFjTudEsCrGLFr4Sugdbf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rtEMlcl7d76dNKmZSr7bmWWtRqz.jpg",
+      "description": "My Hero is a BBC sitcom created by Paul Mendelson. The programme ran for six series, first broadcast in February 2000, and concluding in September 2006. The series follows the antics of the dim-witted superhero \"Thermoman\", portrayed by Ardal O'Hanlon in series one to five and by James Dreyfus in the final series. The series was regularly directed by John Stroud. In the UK, the digital channel Gold regularly re-runs the programme, although the last series has yet to appear on the channel. In the United States it was shown on PBS and, briefly, BBC America. In Australia, UKTV offered re-runs of the first three series, while BBC Entertainment provided repeats for Scandinavia.",
+      "releaseInfo": "2000",
       "genres": [
         "Comedy",
         "Sci-Fi",
         "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0787985",
-      "type": "series",
-      "name": "Robin Hood",
-      "poster": "https://image.tmdb.org/t/p/w342/wz0CSuIiUpvHtpbPxVhMQWKtLTG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/GElmmVU8N0hl05WBcd0y3E8b6f.jpg",
-      "description": "Robin of Loxley returns to England after 5 years of fighting in the crusades alongside King Richard. After losing his estates and being branded an outlaw, he takes on the title of Robin Hood and assembles a ragtag band of outlaw companions. Together they steal from the rich and give to the poor - all the while avoiding and outwitting their enemies Sir Guy of Gisborne and the evil Sheriff of Nottingham.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure",
-        "Comedy"
       ]
     },
     {
@@ -546,25 +530,25 @@
       ]
     },
     {
-      "id": "tt0083505",
+      "id": "tt0459159",
       "type": "series",
-      "name": "The Young Ones",
-      "poster": "https://image.tmdb.org/t/p/w342/9BQCGkKkVUxw6zF1P2BF1gHSMXB.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nCGsDvCvDaY2IU2Qf7TgUO2UNNp.jpg",
-      "description": "The misadventures of four lunatic students who live in a shared student house. There's Rick, the overblown political one addicted to Cliff Richard, Vyvyan the experimental scientific one/part-time anarchist, Neil the worried hippy, and Mike the ladies' man (at least he is in his mind).",
-      "releaseInfo": "1982",
+      "name": "The Thick of It",
+      "poster": "https://image.tmdb.org/t/p/w342/xuOz95tUuXclfnlOID7ejtREYqf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rReAn187hBmmk5YoWA7I3amfaUK.jpg",
+      "description": "Set in the corridors of power and spin, the Minister for Social Affairs is continually harassed by Number 10's policy enforcer and dependent on his not-so-reliable team of civil servants.",
+      "releaseInfo": "2005",
       "genres": [
         "Comedy"
       ]
     },
     {
-      "id": "tt0290978",
+      "id": "tt0072500",
       "type": "series",
-      "name": "The Office",
-      "poster": "https://image.tmdb.org/t/p/w342/oX2JKE1RzAONMbYlujHx0hRAJo1.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9GWU1AyNqUYIUl1tU7CvXEHUVs9.jpg",
-      "description": "Nightmare boss. Tedious colleagues. Pointless tasks. Welcome to Wernham Hogg. Fancy a tea break with David Brent? Classic comedy from the archive.",
-      "releaseInfo": "2001",
+      "name": "Fawlty Towers",
+      "poster": "https://image.tmdb.org/t/p/w342/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3G1uNDOGJWLNTOzjkdVphVlRmli.jpg",
+      "description": "Owner Basil Fawlty, his wife Sybil, a chambermaid Polly, and Spanish waiter Manuel attempt to run their hotel amidst farcical situations and an array of demanding guests.",
+      "releaseInfo": "1975",
       "genres": [
         "Comedy"
       ]
@@ -586,63 +570,64 @@
       ]
     },
     {
-      "id": "tt0111960",
+      "id": "tt0062552",
       "type": "series",
-      "name": "The Final Cut",
-      "poster": "https://image.tmdb.org/t/p/w342/7lQ6roAFARdKe9qGPF0KigYPASZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6Jg3QcWXxALsZG9qcZZFTf8Wo4Z.jpg",
-      "description": "Seasoned politician Francis Urquhart tries to establish his legacy before retirement by negotiating an end to the Cyprus, but the island hides secrets from his past that could destroy him.",
-      "releaseInfo": "1995",
+      "name": "Dad's Army",
+      "poster": "https://image.tmdb.org/t/p/w342/8MujdHdJaQKML59PNP9jFXlclBn.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/AfzpsVEOzThowOcG0w6vj2ho0Wg.jpg",
+      "description": "Introducing the Walmington-On-Sea home guard. During WW2, in a fictional British seaside town, a ragtag group of Home Guard local defense volunteers prepare for an imminent German invasion.",
+      "releaseInfo": "1968",
       "genres": [
-        "Drama",
         "Comedy",
         "War"
       ]
     },
     {
-      "id": "tt0072500",
+      "id": "tt0066721",
       "type": "series",
-      "name": "Fawlty Towers",
-      "poster": "https://image.tmdb.org/t/p/w342/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3G1uNDOGJWLNTOzjkdVphVlRmli.jpg",
-      "description": "Owner Basil Fawlty, his wife Sybil, a chambermaid Polly, and Spanish waiter Manuel attempt to run their hotel amidst farcical situations and an array of demanding guests.",
-      "releaseInfo": "1975",
+      "name": "The Two Ronnies",
+      "poster": "https://image.tmdb.org/t/p/w342/ern7LiQ5IdU67IXU6yw397j0cKZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rLpdFUTxjShLbh1yiCl17RB6wq9.jpg",
+      "description": "The Two Ronnies is a British sketch show which aired on BBC1 from 1971 to 1987. It featured the double act of Ronnie Barker and Ronnie Corbett, the \"Two Ronnies\" of the title.",
+      "releaseInfo": "1971",
       "genres": [
         "Comedy"
       ]
     },
     {
-      "id": "tt0065296",
+      "id": "tt2342652",
       "type": "series",
-      "name": "The Goodies",
-      "poster": "https://image.tmdb.org/t/p/w342/gNpIKitxIioFlHU0JxOuEMLW4A9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dIZTnaK3341UJav7jDRDBwmSDOS.jpg",
-      "description": "A British television comedy series of the 1970s and early 1980s, combining surreal sketches and situation comedy.",
-      "releaseInfo": "1970",
+      "name": "Getting On",
+      "poster": "https://image.tmdb.org/t/p/w342/3QZcTGSu3txafurQ2zEcYK03WFJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dkWZpnqlcMRQ4mwbvnrMm4fNGdO.jpg",
+      "description": "Set in a geriatric extended care wing of a down-at-the-heels hospital, Getting On follows put-upon nurses, anxious doctors and administrators as they struggle with the darkly comic, brutally honest and quietly compassionate realities of caring for the elderly.",
+      "releaseInfo": "2013",
       "genres": [
         "Comedy"
       ]
     },
     {
-      "id": "tt0068040",
+      "id": "tt0416394",
       "type": "series",
-      "name": "Are You Being Served?",
-      "poster": "https://image.tmdb.org/t/p/w342/4rQHn58WwUENWyrFhoZjLUkYpxT.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/oO9lSt8AxrrZbvJODJtJltdXd37.jpg",
-      "description": "This comedy series, which follows the exploits of employees at London's fictional \"Grace Brothers\" department store, is full of sexual innuendo, slapstick, visual gags, and double entendres. Much of the show's humor parodies Britain's class system, and many of the show's characters are based on stereotypes of the period, including the effeminate Mr. Humphries and the rich, but stingy, store owner.",
-      "releaseInfo": "1972",
+      "name": "The Mighty Boosh",
+      "poster": "https://image.tmdb.org/t/p/w342/dKlYEo7mc1XLN2PutYlRuTLUXlC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/91cTQeEKxpV6ysdPO3VWn66pehc.jpg",
+      "description": "A British comic fantasy containing humour and pop-culture references.  Episodes often featured elaborate musical numbers in different genres, such as electro, heavy metal, funk, and rap. The show has been known for popularising a style called \"crimping\"; short acappella songs which are present throughout all three series.",
+      "releaseInfo": "2004",
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
-      "id": "tt0101049",
+      "id": "tt0401995",
       "type": "series",
-      "name": "A Bit of Fry & Laurie",
-      "poster": "https://image.tmdb.org/t/p/w342/x2BeuxXkbOoiUCyECb0AdUHxw0y.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mV0uKtO5KbD1cRlOqRVfSnR0SVi.jpg",
-      "description": "A British comedy television series with turns of phrase and elaborate wordplay, written by and starring former Cambridge Footlights members Stephen Fry and Hugh Laurie.",
-      "releaseInfo": "1989",
+      "name": "The Worst Week of My Life",
+      "poster": "https://image.tmdb.org/t/p/w342/kEDdTSq0YDd0PveNE6CSmyNrvxL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cXyYeINNp5XarOYG8k7624l9X12.jpg",
+      "description": "Mel and Howard's wedding is one week away. Howard experiences a series of humiliating disasters in the week leading up to the ceremony.",
+      "releaseInfo": "2004",
       "genres": [
         "Comedy"
       ]
@@ -660,43 +645,15 @@
       ]
     },
     {
-      "id": "tt6109562",
+      "id": "tt0096565",
       "type": "series",
-      "name": "Wellington Paranormal",
-      "poster": "https://image.tmdb.org/t/p/w342/eaGpAP4bKMjVlMIoGqKzMRJ2OIG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bsL4ODNxisyQ4Bl2dTOoVvzcgoN.jpg",
-      "description": "New Zealand's capital is a hotbed of supernatural activity... so Officers Minogue and O'Leary, who featured in the vampire documentary What We Do In The Shadows, take to the streets to investigate all manner of paranormal phenomena.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0066721",
-      "type": "series",
-      "name": "The Two Ronnies",
-      "poster": "https://image.tmdb.org/t/p/w342/ern7LiQ5IdU67IXU6yw397j0cKZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rLpdFUTxjShLbh1yiCl17RB6wq9.jpg",
-      "description": "The Two Ronnies is a British sketch show which aired on BBC1 from 1971 to 1987. It featured the double act of Ronnie Barker and Ronnie Corbett, the \"Two Ronnies\" of the title.",
-      "releaseInfo": "1971",
+      "name": "The Detectives",
+      "poster": "https://image.tmdb.org/t/p/w342/5JWALQsJZs23Tx36K8FGa1mnMfa.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dVo5MhmQ7XMcOOJN6s7oy0quxrE.jpg",
+      "description": "The absurd adventures of two defective detectives, who - despite unbelievable incompetence - somehow manage to solve their cases (or be nearby when the cases are solved) and retain their jobs.",
+      "releaseInfo": "1993",
       "genres": [
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt0233084",
-      "type": "series",
-      "name": "My Hero",
-      "poster": "https://image.tmdb.org/t/p/w342/ultFCYTFjTudEsCrGLFr4Sugdbf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rtEMlcl7d76dNKmZSr7bmWWtRqz.jpg",
-      "description": "My Hero is a BBC sitcom created by Paul Mendelson. The programme ran for six series, first broadcast in February 2000, and concluding in September 2006. The series follows the antics of the dim-witted superhero \"Thermoman\", portrayed by Ardal O'Hanlon in series one to five and by James Dreyfus in the final series. The series was regularly directed by John Stroud. In the UK, the digital channel Gold regularly re-runs the programme, although the last series has yet to appear on the channel. In the United States it was shown on PBS and, briefly, BBC America. In Australia, UKTV offered re-runs of the first three series, while BBC Entertainment provided repeats for Scandinavia.",
-      "releaseInfo": "2000",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
       ]
     },
     {
@@ -707,30 +664,6 @@
       "background": "https://image.tmdb.org/t/p/w780/dyZThM0dYT4s0MXp2KK3Zj2D0v8.jpg",
       "description": "Two lovers are reunited after decades apart following a mutual misunderstanding.",
       "releaseInfo": "1992",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt1698441",
-      "type": "series",
-      "name": "The Trip",
-      "poster": "https://image.tmdb.org/t/p/w342/tjyH4hjgYAKT5TDEAtgSj7uQ2X0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bTsOxyYcypnKl6eGCw5Czm2WGKx.jpg",
-      "description": "Steve agrees to review six restaurants and takes Rob with him.",
-      "releaseInfo": "2010",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0108981",
-      "type": "series",
-      "name": "The Vicar of Dibley",
-      "poster": "https://image.tmdb.org/t/p/w342/oSMljUndA07O8eMCSwaal4kcWoq.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wYTv1Zy3WFNi63lxwpBQ61Yrgj0.jpg",
-      "description": "Reverend Granger is assigned as the Vicar of the rural parish of Dibley, but she is not quite what the villagers expected.",
-      "releaseInfo": "1994",
       "genres": [
         "Comedy"
       ]
@@ -748,37 +681,52 @@
       ]
     },
     {
-      "id": "tt0096565",
+      "id": "tt0106014",
       "type": "series",
-      "name": "The Detectives",
-      "poster": "https://image.tmdb.org/t/p/w342/5JWALQsJZs23Tx36K8FGa1mnMfa.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dVo5MhmQ7XMcOOJN6s7oy0quxrE.jpg",
-      "description": "The absurd adventures of two defective detectives, who - despite unbelievable incompetence - somehow manage to solve their cases (or be nearby when the cases are solved) and retain their jobs.",
+      "name": "Goodnight Sweetheart",
+      "poster": "https://image.tmdb.org/t/p/w342/wjAlo4Xac1sMq6mAMJTvkPxbOON.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pCoOFcXcwf1BsI2nJ82gx16b2MW.jpg",
+      "description": "Gary Sparrow is an ordinary bloke in 1990s Britain, married to the ambitious Yvonne and working as a TV repairman. Then his whole world changes when he stumbles upon a portal to WWII-era London and begins a dual life as an accidental time traveler.",
       "releaseInfo": "1993",
       "genres": [
-        "Comedy"
+        "Sci-Fi",
+        "Fantasy",
+        "Comedy",
+        "Drama"
       ]
     },
     {
-      "id": "tt0124218",
+      "id": "tt0068040",
       "type": "series",
-      "name": "You Rang, M'Lord?",
-      "poster": "https://image.tmdb.org/t/p/w342/qjRTXFlicxz6z1MHhMdb340sZ2c.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jyLwH4VKQnyJt5T0Ky5wahrLcio.jpg",
-      "description": "You Rang, M'Lord? is a British comedy series written by Jimmy Perry and David Croft, the creators of Dad's Army, It Ain't Half Hot Mum and Hi-de-Hi! It was broadcast between 1990 and 1993 on the BBC. The show was a comedy set in the house of an aristocratic family in the 1920s, contrasting the upper-class family and their servants in a house in London, along the same lines as the popular drama Upstairs, Downstairs.\n\nThe series featured many actors who had also appeared in their earlier series, notably Paul Shane, Jeffrey Holland and Su Pollard, all of whom had previously been in Perry and Croft's holiday camp sitcom, Hi-de-Hi!. Also featured were Donald Hewlett and Michael Knowles from Perry and Croft's It Ain't Half Hot Mum, and Bill Pertwee and occasionally Frank Williams from Dad's Army. The memorable 1920s-style theme tune was sung by Bob Monkhouse.",
-      "releaseInfo": "1990",
+      "name": "Are You Being Served?",
+      "poster": "https://image.tmdb.org/t/p/w342/4rQHn58WwUENWyrFhoZjLUkYpxT.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/oO9lSt8AxrrZbvJODJtJltdXd37.jpg",
+      "description": "This comedy series, which follows the exploits of employees at London's fictional \"Grace Brothers\" department store, is full of sexual innuendo, slapstick, visual gags, and double entendres. Much of the show's humor parodies Britain's class system, and many of the show's characters are based on stereotypes of the period, including the effeminate Mr. Humphries and the rich, but stingy, store owner.",
+      "releaseInfo": "1972",
       "genres": [
         "Comedy"
       ]
     },
     {
-      "id": "tt2342652",
+      "id": "tt0065296",
       "type": "series",
-      "name": "Getting On",
-      "poster": "https://image.tmdb.org/t/p/w342/3QZcTGSu3txafurQ2zEcYK03WFJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dkWZpnqlcMRQ4mwbvnrMm4fNGdO.jpg",
-      "description": "Set in a geriatric extended care wing of a down-at-the-heels hospital, Getting On follows put-upon nurses, anxious doctors and administrators as they struggle with the darkly comic, brutally honest and quietly compassionate realities of caring for the elderly.",
-      "releaseInfo": "2013",
+      "name": "The Goodies",
+      "poster": "https://image.tmdb.org/t/p/w342/gNpIKitxIioFlHU0JxOuEMLW4A9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dIZTnaK3341UJav7jDRDBwmSDOS.jpg",
+      "description": "A British television comedy series of the 1970s and early 1980s, combining surreal sketches and situation comedy.",
+      "releaseInfo": "1970",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0101049",
+      "type": "series",
+      "name": "A Bit of Fry & Laurie",
+      "poster": "https://image.tmdb.org/t/p/w342/x2BeuxXkbOoiUCyECb0AdUHxw0y.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mV0uKtO5KbD1cRlOqRVfSnR0SVi.jpg",
+      "description": "A British comedy television series with turns of phrase and elaborate wordplay, written by and starring former Cambridge Footlights members Stephen Fry and Hugh Laurie.",
+      "releaseInfo": "1989",
       "genres": [
         "Comedy"
       ]
@@ -797,6 +745,30 @@
       ]
     },
     {
+      "id": "tt0063869",
+      "type": "series",
+      "name": "The Benny Hill Show",
+      "poster": "https://image.tmdb.org/t/p/w342/y3mGj6YAy7CRWMq06gjsXf3rIJ1.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bp30imMTFKAcxrZMi4hjBwY91A6.jpg",
+      "description": "The Benny Hill Show is a British comedy television show that starred Benny Hill and aired in various incarnations between 15 January 1955 and 30 May 1991 in over 140 countries. The show focused on sketches that were full of slapstick, mime, parody, and double-entendre. Thames Television cancelled production of the show in 1989 due to declining ratings and large production costs at £450,000 per show.",
+      "releaseInfo": "1969",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt8129450",
+      "type": "series",
+      "name": "Breeders",
+      "poster": "https://image.tmdb.org/t/p/w342/cTz7gZuCd6wtvXWt55ALWlTqYc6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2MWBk5oKfn1w0Z7a7KdGq00Zxea.jpg",
+      "description": "Exposing the parental-paradox that it is possible, in the very same moment, to love your child to the horizon of the universe, while being apoplectically angry enough to want to send them there.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt12369754",
       "type": "series",
       "name": "Staged",
@@ -809,18 +781,6 @@
       ]
     },
     {
-      "id": "tt0237123",
-      "type": "series",
-      "name": "Coupling",
-      "poster": "https://image.tmdb.org/t/p/w342/cfHQwmPUrCbm6XAPnuuBAVZpC94.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/uYwXRytQ99XQKq31JFGqrnlIyhh.jpg",
-      "description": "Six friends in their thirties navigate dating, sexual adventures,  and mishaps on their quest to find love.",
-      "releaseInfo": "2000",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt0090402",
       "type": "series",
       "name": "Bread",
@@ -828,18 +788,6 @@
       "background": "https://image.tmdb.org/t/p/w780/hjWlEYHdC1BY3GlygxQ4E471mzE.jpg",
       "description": "Bread is a British television sitcom, written by Carla Lane, produced by the BBC and screened on BBC1 from 1 May 1986 to 3 November 1991.\n\nThe series focused on the devoutly-Catholic and extended Boswell family of Liverpool, in the district of Dingle, led by its matriarch Nellie through a number of ups and downs as they tried to make their way through life in Thatcher's Britain with no visible means of support. The street shown at the start of each programme is Elswick Street. A family called Boswell had also featured in Lane's earlier sitcom The Liver Birds and Lane admitted in interviews that the two families were probably related.\n\nNellie's feckless and estranged husband, Freddie, left her for another woman known as 'Lilo Lill'. Her children Joey, Jack, Adrian, Aveline and Billy continued to live in the family home in Kelsall Street and contributed money to the central family fund, largely through benefit fraud and the sale of stolen goods.",
       "releaseInfo": "1986",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0063869",
-      "type": "series",
-      "name": "The Benny Hill Show",
-      "poster": "https://image.tmdb.org/t/p/w342/y3mGj6YAy7CRWMq06gjsXf3rIJ1.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bp30imMTFKAcxrZMi4hjBwY91A6.jpg",
-      "description": "The Benny Hill Show is a British comedy television show that starred Benny Hill and aired in various incarnations between 15 January 1955 and 30 May 1991 in over 140 countries. The show focused on sketches that were full of slapstick, mime, parody, and double-entendre. Thames Television cancelled production of the show in 1989 due to declining ratings and large production costs at £450,000 per show.",
-      "releaseInfo": "1969",
       "genres": [
         "Comedy"
       ]
@@ -858,6 +806,31 @@
       ]
     },
     {
+      "id": "tt0101032",
+      "type": "series",
+      "name": "2Point4 Children",
+      "poster": "https://image.tmdb.org/t/p/w342/mCQh5bOzSEsRS3zXaRLfZTfgawA.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/geydxZs7Z1LzjxubhoiLvl8Es3.jpg",
+      "description": "They're just your average family. Stressed mum Bill, daft dad Ben, and two troublesome teens. Plus just a few crazy ideas, escapades and mishaps. The classic 90s sitcom.",
+      "releaseInfo": "1991",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt1086191",
+      "type": "series",
+      "name": "Outnumbered",
+      "poster": "https://image.tmdb.org/t/p/w342/h8uJc3UALqeAEXzckKykoke0VoU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/d9OoIg7Ekz8Uwab9ByEAsiuI7DH.jpg",
+      "description": "Partly-improvised sitcom looking at the trials and tribulations of bringing up three young children - a regal five-year-old girl with a talent for interrogation, a seven-year-old boy who could fib for Britain and an 11-year-old who is gearing up for his scary first day at secondary school.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
       "id": "tt0129690",
       "type": "series",
       "name": "I'm Alan Partridge",
@@ -865,129 +838,6 @@
       "background": "https://image.tmdb.org/t/p/w780/8zMRVkDWcVDIdjEeMza9vqrujuY.jpg",
       "description": "The fortunes of a former chat show host who is reduced to a lowly slot on Radio Norwich. Alan Partridge is divorced, living in a travel tavern, and desperate for a return to television.",
       "releaseInfo": "1997",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0098882",
-      "type": "series",
-      "name": "One Foot in the Grave",
-      "poster": "https://image.tmdb.org/t/p/w342/xIZp37UllliXAUsVk8MCjmbGzYr.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ft9yNXkFvdUjtL0s2oIPtD2c7XB.jpg",
-      "description": "One Foot in the Grave is a BBC television sitcom series. The series features the exploits of Victor Meldrew and his long-suffering wife, Margaret. The programmes invariably deal with Meldrew's battle against the problems he creates for himself. Living in a typical household in an unnamed English suburb, Victor takes involuntary early retirement. His various efforts to keep himself busy, while encountering various misfortunes and misunderstandings are the themes of the sitcom. Despite its traditional production, the series supplants its domestic sitcom setting with elements of black humour and surrealism.",
-      "releaseInfo": "1990",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt12994356",
-      "type": "series",
-      "name": "The Cleaner",
-      "poster": "https://image.tmdb.org/t/p/w342/zEWFux3hrOjisaehbDUBvzeSJ4o.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/k1huLkUD5pjYW3k1hLHfVWXHU2z.jpg",
-      "description": "After CSI have done their stuff, the cleaner mops up the grisly remains. For Wicky, a bloodbath and the pub is all in a day's work.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt4793190",
-      "type": "series",
-      "name": "Upstart Crow",
-      "poster": "https://image.tmdb.org/t/p/w342/aaCefKIYilykJ8e7HA04wyo4RIw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mu6TpbM5uNSwLO61djH4XmHuyoz.jpg",
-      "description": "Comedy about the life and times of William Shakespeare as he starts to make a name for himself in London, whilst also trying to balance life as a husband and father for his family in Stratford-upon-Avon.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0278251",
-      "type": "series",
-      "name": "Two Pints of Lager and a Packet of Crisps",
-      "poster": "https://image.tmdb.org/t/p/w342/fohuobXrEo8l2TdI1oNAl8uLdeT.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/x08J1s2PRMexZf9usYVp4G3oY38.jpg",
-      "description": "The lives of five loveable, 20-somethings are followed in the northern town of Runcorn in Cheshire, England, where the friends meet often at a local pub to chat about life and love.",
-      "releaseInfo": "2001",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt8129450",
-      "type": "series",
-      "name": "Breeders",
-      "poster": "https://image.tmdb.org/t/p/w342/cTz7gZuCd6wtvXWt55ALWlTqYc6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2MWBk5oKfn1w0Z7a7KdGq00Zxea.jpg",
-      "description": "Exposing the parental-paradox that it is possible, in the very same moment, to love your child to the horizon of the universe, while being apoplectically angry enough to want to send them there.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt8681148",
-      "type": "series",
-      "name": "This Is Going to Hurt",
-      "poster": "https://image.tmdb.org/t/p/w342/pzr43c48eKRTfHCkspWia2J35Fw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/icgOrvpT7ANec2rBdzZQPwB7Ykj.jpg",
-      "description": "The unvarnished truth of life as a doctor working in obstetrics and gynaecology.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0103376",
-      "type": "series",
-      "name": "Bottom",
-      "poster": "https://image.tmdb.org/t/p/w342/bOrajiWj3Rax8KZ4ZZWcw2KpJD6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hS2xAK3X1oWiaA8OX5Bow2SF6KN.jpg",
-      "description": "Richie Richard (socially awkward, sexually inexperienced) and Eddie Hitler (carefree alcoholic ) are two social outcasts living on the dole. Trapped together in a squalid flat in Hammersmith, London they are perpetually skint, bored and sexually frustrated. They spend their days scheming, bickering, and being nasty and sadistic to each other.",
-      "releaseInfo": "1991",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt11447470",
-      "type": "series",
-      "name": "Welcome to Flatch",
-      "poster": "https://image.tmdb.org/t/p/w342/ztJqyTocc1pylks84ZpiRorC8kr.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8Rv1sPRmYXIWZNgW8tdpqKzCsvs.jpg",
-      "description": "When a documentary crew sets out to explore the lives of residents in a small American town – their dreams, their concerns – they stumble upon the midwestern town of Flatch, which is made up of many eccentric personalities. It’s a place you want to visit and maybe even stay. If there was a decent motel. Which there is not.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0908454",
-      "type": "series",
-      "name": "Gavin & Stacey",
-      "poster": "https://image.tmdb.org/t/p/w342/jNpySE7Rwq1DlhHadMZnGquralv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/u0TtCgIEHdZAX0Ta5V3YbyvDK5D.jpg",
-      "description": "Essex and Wales collide when Gavin and Stacey fall in love - bringing their friends, family and baggage with them.",
-      "releaseInfo": "2007",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0060035",
-      "type": "series",
-      "name": "Till Death Us Do Part",
-      "poster": "https://image.tmdb.org/t/p/w342/5r8enLaWs3SnVoInZYsOLZgboki.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jeP3It0ZPY3SKW3632qwLkkIZv3.jpg",
-      "description": "This English follows the East End working-class Garnett family, headed by patriarch Alf, a reactionary working-class man who wields racist and anti-Socialist views. His long-suffering wife Else manages to keep things in control... for the most part. Their progressive daughter Rita lives with them, as does her Irish husband Mike, who, with an array of liberal worldviews, often quarrels with his father-in-law. It inspired the American show \"All In The Family\" and several other international variations on the same theme.",
-      "releaseInfo": "1966",
       "genres": [
         "Comedy"
       ]
@@ -1007,13 +857,112 @@
       ]
     },
     {
-      "id": "tt0101032",
+      "id": "tt6109562",
       "type": "series",
-      "name": "2Point4 Children",
-      "poster": "https://image.tmdb.org/t/p/w342/mCQh5bOzSEsRS3zXaRLfZTfgawA.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/geydxZs7Z1LzjxubhoiLvl8Es3.jpg",
-      "description": "They're just your average family. Stressed mum Bill, daft dad Ben, and two troublesome teens. Plus just a few crazy ideas, escapades and mishaps. The classic 90s sitcom.",
+      "name": "Wellington Paranormal",
+      "poster": "https://image.tmdb.org/t/p/w342/eaGpAP4bKMjVlMIoGqKzMRJ2OIG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bsL4ODNxisyQ4Bl2dTOoVvzcgoN.jpg",
+      "description": "New Zealand's capital is a hotbed of supernatural activity... so Officers Minogue and O'Leary, who featured in the vampire documentary What We Do In The Shadows, take to the streets to investigate all manner of paranormal phenomena.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0124218",
+      "type": "series",
+      "name": "You Rang, M'Lord?",
+      "poster": "https://image.tmdb.org/t/p/w342/qjRTXFlicxz6z1MHhMdb340sZ2c.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jyLwH4VKQnyJt5T0Ky5wahrLcio.jpg",
+      "description": "You Rang, M'Lord? is a British comedy series written by Jimmy Perry and David Croft, the creators of Dad's Army, It Ain't Half Hot Mum and Hi-de-Hi! It was broadcast between 1990 and 1993 on the BBC. The show was a comedy set in the house of an aristocratic family in the 1920s, contrasting the upper-class family and their servants in a house in London, along the same lines as the popular drama Upstairs, Downstairs.\n\nThe series featured many actors who had also appeared in their earlier series, notably Paul Shane, Jeffrey Holland and Su Pollard, all of whom had previously been in Perry and Croft's holiday camp sitcom, Hi-de-Hi!. Also featured were Donald Hewlett and Michael Knowles from Perry and Croft's It Ain't Half Hot Mum, and Bill Pertwee and occasionally Frank Williams from Dad's Army. The memorable 1920s-style theme tune was sung by Bob Monkhouse.",
+      "releaseInfo": "1990",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt12994356",
+      "type": "series",
+      "name": "The Cleaner",
+      "poster": "https://image.tmdb.org/t/p/w342/zEWFux3hrOjisaehbDUBvzeSJ4o.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/k1huLkUD5pjYW3k1hLHfVWXHU2z.jpg",
+      "description": "After CSI have done their stuff, the cleaner mops up the grisly remains. For Wicky, a bloodbath and the pub is all in a day's work.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0237123",
+      "type": "series",
+      "name": "Coupling",
+      "poster": "https://image.tmdb.org/t/p/w342/cfHQwmPUrCbm6XAPnuuBAVZpC94.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/uYwXRytQ99XQKq31JFGqrnlIyhh.jpg",
+      "description": "Six friends in their thirties navigate dating, sexual adventures,  and mishaps on their quest to find love.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0103376",
+      "type": "series",
+      "name": "Bottom",
+      "poster": "https://image.tmdb.org/t/p/w342/bOrajiWj3Rax8KZ4ZZWcw2KpJD6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hS2xAK3X1oWiaA8OX5Bow2SF6KN.jpg",
+      "description": "Richie Richard (socially awkward, sexually inexperienced) and Eddie Hitler (carefree alcoholic ) are two social outcasts living on the dole. Trapped together in a squalid flat in Hammersmith, London they are perpetually skint, bored and sexually frustrated. They spend their days scheming, bickering, and being nasty and sadistic to each other.",
       "releaseInfo": "1991",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0057785",
+      "type": "series",
+      "name": "Steptoe and Son",
+      "poster": "https://image.tmdb.org/t/p/w342/sC48BBKDlGeZqdCamr7XHklQ3RG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4fGIL8dpuaXUmAlwnpVXyNjM2bx.jpg",
+      "description": "A father and son who work as rag-and-bone men live together in Shepherd's Bush, London. While Albert is content with their way of life, Harold aspires to better himself and build a life of his own, but his attempts are repeatedly thwarted by his father, leading to frequent clashes between the two.",
+      "releaseInfo": "1962",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0908454",
+      "type": "series",
+      "name": "Gavin & Stacey",
+      "poster": "https://image.tmdb.org/t/p/w342/jNpySE7Rwq1DlhHadMZnGquralv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/u0TtCgIEHdZAX0Ta5V3YbyvDK5D.jpg",
+      "description": "Essex and Wales collide when Gavin and Stacey fall in love - bringing their friends, family and baggage with them.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0108981",
+      "type": "series",
+      "name": "The Vicar of Dibley",
+      "poster": "https://image.tmdb.org/t/p/w342/oSMljUndA07O8eMCSwaal4kcWoq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wYTv1Zy3WFNi63lxwpBQ61Yrgj0.jpg",
+      "description": "Reverend Granger is assigned as the Vicar of the rural parish of Dibley, but she is not quite what the villagers expected.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt4082744",
+      "type": "series",
+      "name": "Detectorists",
+      "poster": "https://image.tmdb.org/t/p/w342/5BCQaZ8HrLjq6diLsIQxZuzXqiK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/AcwI0dQaPEiU4a4l3kQqUI1070.jpg",
+      "description": "The lives of two eccentric metal detectorists, who spend their days plodding along ploughed tracks and open fields, hoping to disturb the tedium by unearthing the fortune of a lifetime.",
+      "releaseInfo": "2014",
       "genres": [
         "Comedy"
       ]
@@ -1032,65 +981,89 @@
       ]
     },
     {
-      "id": "tt37022512",
+      "id": "tt8681148",
       "type": "series",
-      "name": "The Other Bennet Sister",
-      "poster": "https://image.tmdb.org/t/p/w342/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ff6y85mMOnsLPcgUS0q3zX1N7WO.jpg",
-      "description": "Mary isn't your typical period drama heroine. She is awkward, anxious, preachy, full of facts, a terrible singer, overlooked by her mother and seemingly destined to an empty dance card for the rest of her life… until Mary takes matters into her own hands.",
-      "releaseInfo": "2026",
+      "name": "This Is Going to Hurt",
+      "poster": "https://image.tmdb.org/t/p/w342/pzr43c48eKRTfHCkspWia2J35Fw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/icgOrvpT7ANec2rBdzZQPwB7Ykj.jpg",
+      "description": "The unvarnished truth of life as a doctor working in obstetrics and gynaecology.",
+      "releaseInfo": "2022",
       "genres": [
-        "Drama",
-        "Comedy"
+        "Comedy",
+        "Drama"
       ]
     },
     {
-      "id": "tt10692232",
+      "id": "tt0278251",
       "type": "series",
-      "name": "Mandy",
-      "poster": "https://image.tmdb.org/t/p/w342/d8kM8CzRwrwkjqGGdKjSpgvxO8R.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/43XrVdGcj5bhor5SPMPtFfCLYQT.jpg",
-      "description": "Mandy is a woman with dreams. Big dreams. Most of all she dreams of breeding Doberman Pinchers. But there are hurdles to overcome before that dream can become a reality. In the series we'll see her go on a health kick, rent out her small back bedroom on Airbnb and attempt a series of short-lived jobs in the modern gig economy.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0129711",
-      "type": "series",
-      "name": "The Royle Family",
-      "poster": "https://image.tmdb.org/t/p/w342/bx0JJyMiMnYJdCtryxQCrRe2aen.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/h7qobus8Ic3vBqF5kefMP7o0jrh.jpg",
-      "description": "The Royle Family is a British sitcom created by Caroline Aherne and Craig Cash, and produced by Granada Television for BBC Two (series 1) and BBC One (series 2 and 3). It centres on the lives of a television-fixated Manchester family, the Royles, comprising lazy patriarch Jim, his hard-working wife Barbara, their entitled daughter Denise, their put-upon son Antony, and Denise's lad fiancé–later husband–David.",
-      "releaseInfo": "1998",
+      "name": "Two Pints of Lager and a Packet of Crisps",
+      "poster": "https://image.tmdb.org/t/p/w342/fohuobXrEo8l2TdI1oNAl8uLdeT.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x08J1s2PRMexZf9usYVp4G3oY38.jpg",
+      "description": "The lives of five loveable, 20-somethings are followed in the northern town of Runcorn in Cheshire, England, where the friends meet often at a local pub to chat about life and love.",
+      "releaseInfo": "2001",
       "genres": [
         "Comedy"
       ]
     },
     {
-      "id": "tt2216156",
+      "id": "tt4793190",
       "type": "series",
-      "name": "Last Tango in Halifax",
-      "poster": "https://image.tmdb.org/t/p/w342/kpIubS7v8ClGhlW3pciGnvzMQYP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/YKgdWUNXopY7ik2h4neFKtM2Hp.jpg",
-      "description": "Celia and Alan are both widowed and in their seventies. When their respective grandsons put their details on Facebook, they rediscover a passionate relationship that started over sixty years ago.",
-      "releaseInfo": "2012",
+      "name": "Upstart Crow",
+      "poster": "https://image.tmdb.org/t/p/w342/aaCefKIYilykJ8e7HA04wyo4RIw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mu6TpbM5uNSwLO61djH4XmHuyoz.jpg",
+      "description": "Comedy about the life and times of William Shakespeare as he starts to make a name for himself in London, whilst also trying to balance life as a husband and father for his family in Stratford-upon-Avon.",
+      "releaseInfo": "2016",
       "genres": [
-        "Drama",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0101054",
+      "type": "series",
+      "name": "The Brittas Empire",
+      "poster": "https://image.tmdb.org/t/p/w342/uPtzc6MbPxeFdIO55Kd6QiiEIdH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8o8nHTvlgdIBiOfBZ44K3JOntA9.jpg",
+      "description": "The Brittas Empire is a British sitcom created and originally written by Andrew Norriss and Richard Fegen. Chris Barrie plays Gordon Brittas, the well-meaning but incompetent manager of Whitbury New Town Leisure Centre.\n\nThe show ran for seven series and 53 episodes — including two Christmas specials — from 1991 to 1997 on BBC1. Norriss and Fegen wrote the first five series, after which they left the show.\n\nThe Brittas Empire enjoyed a long and successful run throughout the 1990s, and gained itself large mainstream audiences. In 2004 the show came 47th on the BBC's Britain's Best Sitcom poll, and all series have been released on DVD.\n\nThe creators Andrew Norriss and Richard Fegen often combine farce with either surreal or dramatic elements in episodes. For example in the first series, the leisure centre prepares for a royal visit, only for the doors to seal, the boiler room to flood and a visitor to become electrocuted. Unlike the traditional sitcom, deaths were quite common in The Brittas Empire.",
+      "releaseInfo": "1991",
+      "genres": [
         "Comedy"
       ]
     },
     {
-      "id": "tt0080253",
+      "id": "tt0060035",
       "type": "series",
-      "name": "Not the Nine O'Clock News",
-      "poster": "https://image.tmdb.org/t/p/w342/i2HPl3FFf38Ofg6Y0rkEcsthUZS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/t6UpcYiPvQF47IwhYb5zqiTcMXw.jpg",
-      "description": "Classic sketch comedy show satirising the news and culture of the late 70s and early 80s which introduced Rowan Atkinson, Mel Smith, Griff Rhys Jones and Pamela Stephenson.",
-      "releaseInfo": "1979",
+      "name": "Till Death Us Do Part",
+      "poster": "https://image.tmdb.org/t/p/w342/5r8enLaWs3SnVoInZYsOLZgboki.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jeP3It0ZPY3SKW3632qwLkkIZv3.jpg",
+      "description": "This English follows the East End working-class Garnett family, headed by patriarch Alf, a reactionary working-class man who wields racist and anti-Socialist views. His long-suffering wife Else manages to keep things in control... for the most part. Their progressive daughter Rita lives with them, as does her Irish husband Mike, who, with an array of liberal worldviews, often quarrels with his father-in-law. It inspired the American show \"All In The Family\" and several other international variations on the same theme.",
+      "releaseInfo": "1966",
       "genres": [
         "Comedy"
+      ]
+    },
+    {
+      "id": "tt1678749",
+      "type": "series",
+      "name": "Mongrels",
+      "poster": "https://image.tmdb.org/t/p/w342/7hLk9hC4QJmmeq5iwrITM9jHirl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/d2RkG8wLNymsMwtoZsUH1IMd78G.jpg",
+      "description": "Nelson 'the urbane fox' and his anthropomorphic animal friends navigate the urban jungle from their home in London's East End in a puppet sitcom for adults.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt1588221",
+      "type": "series",
+      "name": "Rev.",
+      "poster": "https://image.tmdb.org/t/p/w342/rapm6NKOuFPhP7O5CgsCA9rt7MB.jpg",
+      "description": "Sitcom about a former rural parish vicar trying to cope with the varied demands of running an inner-city church.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Comedy",
+        "Drama"
       ]
     },
     {
@@ -1108,28 +1081,64 @@
       ]
     },
     {
-      "id": "tt0101054",
+      "id": "tt0098882",
       "type": "series",
-      "name": "The Brittas Empire",
-      "poster": "https://image.tmdb.org/t/p/w342/uPtzc6MbPxeFdIO55Kd6QiiEIdH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8o8nHTvlgdIBiOfBZ44K3JOntA9.jpg",
-      "description": "The Brittas Empire is a British sitcom created and originally written by Andrew Norriss and Richard Fegen. Chris Barrie plays Gordon Brittas, the well-meaning but incompetent manager of Whitbury New Town Leisure Centre.\n\nThe show ran for seven series and 53 episodes — including two Christmas specials — from 1991 to 1997 on BBC1. Norriss and Fegen wrote the first five series, after which they left the show.\n\nThe Brittas Empire enjoyed a long and successful run throughout the 1990s, and gained itself large mainstream audiences. In 2004 the show came 47th on the BBC's Britain's Best Sitcom poll, and all series have been released on DVD.\n\nThe creators Andrew Norriss and Richard Fegen often combine farce with either surreal or dramatic elements in episodes. For example in the first series, the leisure centre prepares for a royal visit, only for the doors to seal, the boiler room to flood and a visitor to become electrocuted. Unlike the traditional sitcom, deaths were quite common in The Brittas Empire.",
-      "releaseInfo": "1991",
+      "name": "One Foot in the Grave",
+      "poster": "https://image.tmdb.org/t/p/w342/xIZp37UllliXAUsVk8MCjmbGzYr.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ft9yNXkFvdUjtL0s2oIPtD2c7XB.jpg",
+      "description": "One Foot in the Grave is a BBC television sitcom series. The series features the exploits of Victor Meldrew and his long-suffering wife, Margaret. The programmes invariably deal with Meldrew's battle against the problems he creates for himself. Living in a typical household in an unnamed English suburb, Victor takes involuntary early retirement. His various efforts to keep himself busy, while encountering various misfortunes and misunderstandings are the themes of the sitcom. Despite its traditional production, the series supplants its domestic sitcom setting with elements of black humour and surrealism.",
+      "releaseInfo": "1990",
       "genres": [
         "Comedy"
       ]
     },
     {
-      "id": "tt0086831",
+      "id": "tt0069655",
       "type": "series",
-      "name": "Yes, Prime Minister",
-      "poster": "https://image.tmdb.org/t/p/w342/n0QRcx4P9ZJFGnTBbNt359MvUh0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vnTUrfmi1BEJ6nQbxgNdns9isP2.jpg",
-      "description": "James Hacker MP the Government's bumbling minister  for Administrative Affairs is propelled along the corridors of power to the very pinnacle of politics - No. 10.  Could this have possibly have been managed by his trusted Permanent Private Secretary, the formidably political Sir Humphrey Appleby who must move to the “Top Job” in Downing Street to support him, together with his much put upon PPS Bernard Wolley. \n\nWhat could possibly go wrong?",
-      "releaseInfo": "1986",
+      "name": "Whatever Happened to the Likely Lads?",
+      "poster": "https://image.tmdb.org/t/p/w342/n9F822PC6D3rpbN89ztZPBDTeWf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/uwDpjQDl8agkdvsTnD08mmIFUIk.jpg",
+      "description": "Whatever Happened to the Likely Lads? is a British sitcom which was broadcast between 9 January 1973 and 9 April 1974 on BBC1. It was the colour sequel to the mid-1960s hit The Likely Lads. It was created and written, as was its predecessor, by Dick Clement and Ian La Frenais. There were 26 television episodes over two series; and a subsequent 45-minute Christmas special was aired on 24 December 1974.\n\nThe cast were reunited in 1975 for a BBC radio adaptation of series 1, transmitted on Radio 4 from July to October that year. In 1976, a feature film spin-off was made. Around the time of its release, however, Rodney Bewes and James Bolam fell out over a misunderstanding involving the press and have not spoken since. This long-suspected situation was finally confirmed by Bewes while promoting his autobiography in 2005. Unlike Bewes, Bolam is consistently reluctant to talk about the show, and has vetoed any attempt to revive his character.",
+      "releaseInfo": "1973",
       "genres": [
-        "Comedy",
-        "War"
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt37022512",
+      "type": "series",
+      "name": "The Other Bennet Sister",
+      "poster": "https://image.tmdb.org/t/p/w342/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ff6y85mMOnsLPcgUS0q3zX1N7WO.jpg",
+      "description": "Mary isn't your typical period drama heroine. She is awkward, anxious, preachy, full of facts, a terrible singer, overlooked by her mother and seemingly destined to an empty dance card for the rest of her life… until Mary takes matters into her own hands.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0108771",
+      "type": "series",
+      "name": "The Fast Show",
+      "poster": "https://image.tmdb.org/t/p/w342/v7qGNeI1lEFFTUCPUsxf5WMlist.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sd6rmyVkO3qmrnzCGz43zAKZ8ve.jpg",
+      "description": "The Fast Show is a multi BAFTA award winning sketch comedy show written and produced by Paul Whitehouse and Charlie Higson.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0080253",
+      "type": "series",
+      "name": "Not the Nine O'Clock News",
+      "poster": "https://image.tmdb.org/t/p/w342/i2HPl3FFf38Ofg6Y0rkEcsthUZS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/t6UpcYiPvQF47IwhYb5zqiTcMXw.jpg",
+      "description": "Classic sketch comedy show satirising the news and culture of the late 70s and early 80s which introduced Rowan Atkinson, Mel Smith, Griff Rhys Jones and Pamela Stephenson.",
+      "releaseInfo": "1979",
+      "genres": [
+        "Comedy"
       ]
     },
     {
@@ -1145,53 +1154,25 @@
       ]
     },
     {
-      "id": "tt3159736",
+      "id": "tt3610926",
       "type": "series",
-      "name": "The Game",
-      "poster": "https://image.tmdb.org/t/p/w342/xhdl84crUXv0Jc5LXEQaArsRF7N.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iIvJ5NYpqcfr6tJ10m3Upt733wd.jpg",
-      "description": "\"The Game\" is a 1970s Cold War spy thriller set in the world of espionage. It tells the story of the invisible war fought by MI5 as it battles to protect the nation from the threats of the Cold War.",
-      "releaseInfo": "2014",
-      "genres": [
-        "War",
-        "Drama",
-        "Crime",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt4082744",
-      "type": "series",
-      "name": "Detectorists",
-      "poster": "https://image.tmdb.org/t/p/w342/5BCQaZ8HrLjq6diLsIQxZuzXqiK.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/AcwI0dQaPEiU4a4l3kQqUI1070.jpg",
-      "description": "The lives of two eccentric metal detectorists, who spend their days plodding along ploughed tracks and open fields, hoping to disturb the tedium by unearthing the fortune of a lifetime.",
+      "name": "W1A",
+      "poster": "https://image.tmdb.org/t/p/w342/dHnXjiXL9YCxRFlgUCVADAKq8AM.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kmBwTyoI7yQ31iGKb0vJ0AREr0Q.jpg",
+      "description": "The follow-up to 'Twenty Twelve' as Ian Fletcher takes up the position of 'Head of Values' at the BBC. His task is to clarify, define, or re-define the core purpose of the BBC across all its functions and to position it confidently for the future, in particular for Licence Fee Renegotiation and Charter Renewal in 2016 and 2017 respectively.",
       "releaseInfo": "2014",
       "genres": [
         "Comedy"
       ]
     },
     {
-      "id": "tt1305562",
+      "id": "tt10692232",
       "type": "series",
-      "name": "Psychoville",
-      "poster": "https://image.tmdb.org/t/p/w342/iGAdkXpbangnl2FoKdZQvJRkU0R.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/irMQGGIGogje2If5PiQ9Z5qaBOa.jpg",
-      "description": "Five strangers receive blackmail notes from an anonymous source, leading them on a dark and surreal journey as their lives unravel, featuring bizarre characters like a man-child, a one-handed clown, and a blind millionaire.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Comedy",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0184135",
-      "type": "series",
-      "name": "The League of Gentlemen",
-      "poster": "https://image.tmdb.org/t/p/w342/wLAWxtYXvqUo4uVwiVsU7ACui6w.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/88wq0JNtS4ru1tpcWnp7QB2pWx0.jpg",
-      "description": "The League of Gentlemen is a British sitcom broadcast on BBC Two over three series from 1999 to 2002. In the fictional Northern England town of Royston Vasey—based on Bacup, Lancashire—the lives are explored of dozens of bizarre citizens, much of whom are played by three of the show's four writers—Mark Gatiss, Steve Pemberton, and Reece Shearsmith—who, along with Jeremy Dyson, formed the titular comedy troupe in 1995.\n\nThe programme was followed by a film in 2005, and a three-part revival miniseries in December 2017 to celebrate the group's 20th anniversary.",
-      "releaseInfo": "1999",
+      "name": "Mandy",
+      "poster": "https://image.tmdb.org/t/p/w342/d8kM8CzRwrwkjqGGdKjSpgvxO8R.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/43XrVdGcj5bhor5SPMPtFfCLYQT.jpg",
+      "description": "Mandy is a woman with dreams. Big dreams. Most of all she dreams of breeding Doberman Pinchers. But there are hurdles to overcome before that dream can become a reality. In the series we'll see her go on a health kick, rent out her small back bedroom on Airbnb and attempt a series of short-lived jobs in the modern gig economy.",
+      "releaseInfo": "2020",
       "genres": [
         "Comedy"
       ]
@@ -1209,75 +1190,88 @@
       ]
     },
     {
-      "id": "tt0281491",
+      "id": "tt10193026",
       "type": "series",
-      "name": "Still Game",
-      "poster": "https://image.tmdb.org/t/p/w342/b5O5zTFlaiwXb8FrqqTA0sihJPO.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/eeNX1xshEAZ663DZgiHdh4xSNhF.jpg",
-      "description": "Cult Scottish comedy about the lives of two OAP's (Old Age Pensioners) Jack and Victor and their views on how it used to be in the old days and how bad it is now in the fictional town of Craiglang.",
+      "name": "The Office",
+      "poster": "https://image.tmdb.org/t/p/w342/wVS8a4sJmD9sP4NOo6qr4PTnlF9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sjqFcCmTVuhz7bFxzmKrA0ZvvKZ.jpg",
+      "description": "Hannah Howard is the managing director of packaging company Flinley Craddick. When she gets news from Head Office that her branch will be shut down and everyone will go remote, she goes into survival mode, making promises she can't keep in order to keep her \"work family\" together.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt11447470",
+      "type": "series",
+      "name": "Welcome to Flatch",
+      "poster": "https://image.tmdb.org/t/p/w342/ztJqyTocc1pylks84ZpiRorC8kr.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8Rv1sPRmYXIWZNgW8tdpqKzCsvs.jpg",
+      "description": "When a documentary crew sets out to explore the lives of residents in a small American town – their dreams, their concerns – they stumble upon the midwestern town of Flatch, which is made up of many eccentric personalities. It’s a place you want to visit and maybe even stay. If there was a decent motel. Which there is not.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0358323",
+      "type": "series",
+      "name": "Look Around You",
+      "poster": "https://image.tmdb.org/t/p/w342/vQ8AYbYF8VmVaDZMu924SjbTgPe.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5B4XRq7zAQkW1f3bDcc8WRXSVoX.jpg",
+      "description": "LOOK AROUND YOU. Look around you. Just look around you. What do you see? A tree. A weather-vane. A discarded lollipop-wrapper. A traffic shop. All of these things, and any other things you may care to mention, have one thing in common. Can you work out what it is?",
       "releaseInfo": "2002",
       "genres": [
         "Comedy"
       ]
     },
     {
-      "id": "tt0057785",
+      "id": "tt6006350",
       "type": "series",
-      "name": "Steptoe and Son",
-      "poster": "https://image.tmdb.org/t/p/w342/sC48BBKDlGeZqdCamr7XHklQ3RG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4fGIL8dpuaXUmAlwnpVXyNjM2bx.jpg",
-      "description": "A father and son who work as rag-and-bone men live together in Shepherd's Bush, London. While Albert is content with their way of life, Harold aspires to better himself and build a life of his own, but his attempts are repeatedly thwarted by his father, leading to frequent clashes between the two.",
-      "releaseInfo": "1962",
+      "name": "Motherland",
+      "poster": "https://image.tmdb.org/t/p/w342/n7usotT9Vc3is9Hw3dLsnTzLDxP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ai77rdQbRyqPxtrjh1QTYq2IV4z.jpg",
+      "description": "Sitcom about navigating the trials and traumas of middle-class motherhood, looking at the competitive and unromantic side of parenting.",
+      "releaseInfo": "2017",
       "genres": [
         "Comedy"
       ]
     },
     {
-      "id": "tt1819022",
+      "id": "tt1861225",
       "type": "series",
-      "name": "Mrs Brown's Boys",
-      "poster": "https://image.tmdb.org/t/p/w342/jtralJyoicwsclBrFrN1ks8DHuS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6Xs66lR1C9j9F7obCfzCMFfHiy.jpg",
-      "description": "Mrs. Brown's Boys is a British-Irish award winning sitcom created by and starring writer and performer Brendan O'Carroll. The show is based on O'Carroll's stage plays about the character Agnes Browne, which were developed from books and straight-to-DVD films. The sitcom continues the stories of Agnes, now with the shortened surname \"Brown\", and her family who are played by real life close friends and family of O'Carroll's. After being slated by critics, the show has become a ratings success in both Ireland, where it is set, and the United Kingdom, where it is recorded. On 29 December 2012 the show began its third series. Mrs Brown's Boys is a co-production among BBC Scotland, BocPix and RTÉ.",
+      "name": "Twenty Twelve",
+      "poster": "https://image.tmdb.org/t/p/w342/5O9uEXosgtvNmZyOYYh0DCdiHGY.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/AhiTWVsJA65IMgmMuKwYiOTK3Dz.jpg",
+      "description": "A mock-documentary following the challenges - both personal and professional - faced by the team responsible for delivering the biggest show on Earth: the 2012 Olympics. From getting a busload of non-English speaking Brazilians from A to B, who to appoint to run the Cultural Olympiad and what to do when the much-vaunted wind turbines won't turn because there's no wind, it's all in a day's work for the men and women whose job it is to stage the greatest sporting event in the world.",
       "releaseInfo": "2011",
       "genres": [
         "Comedy"
       ]
     },
     {
-      "id": "tt0088475",
+      "id": "tt3425318",
       "type": "series",
-      "name": "Alas Smith and Jones",
-      "poster": "https://image.tmdb.org/t/p/w342/nBOcE8rzWngAo4lTGJGXRu0vipE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tmh4l2LnUi8F2VgwFldJSZuPHL0.jpg",
-      "description": "A British comedy sketch television series featuring Mel Smith and Griff Rhys Jones that ran on BBC One and BBC Two from 31 January 1984 to 14 October 1998. From series 5 in 1989 the 'Alas' title was dropped and became simply Smith and Jones.",
-      "releaseInfo": "1984",
+      "name": "Still Open All Hours",
+      "poster": "https://image.tmdb.org/t/p/w342/bZQrBtXd5hcrjJExJ41UpEtKuua.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iZkDyhoFf98cXAbX7RkVIDUfOml.jpg",
+      "description": "Still Open All Hours is a sitcom set in a grocer's shop. It is a sequel to the series Open All Hours, written by original series writer Roy Clarke and featuring several of the permanent cast members of the original series",
+      "releaseInfo": "2014",
       "genres": [
         "Comedy"
       ]
     },
     {
-      "id": "tt1533435",
+      "id": "tt1305562",
       "type": "series",
-      "name": "Miranda",
-      "poster": "https://image.tmdb.org/t/p/w342/uaqKf7WehmY40HgomvWUpEzrj1s.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9W3Unw6mXX5gSuAt0xCZVAGUW0m.jpg",
-      "description": "Socially inept Miranda always gets into awkward situations; working in her joke shop with best friend Stevie, being hounded by her pushy mother, and especially when she's around her crush Gary.",
+      "name": "Psychoville",
+      "poster": "https://image.tmdb.org/t/p/w342/iGAdkXpbangnl2FoKdZQvJRkU0R.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/irMQGGIGogje2If5PiQ9Z5qaBOa.jpg",
+      "description": "Five strangers receive blackmail notes from an anonymous source, leading them on a dark and surreal journey as their lives unravel, featuring bizarre characters like a man-child, a one-handed clown, and a blind millionaire.",
       "releaseInfo": "2009",
       "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt1678749",
-      "type": "series",
-      "name": "Mongrels",
-      "poster": "https://image.tmdb.org/t/p/w342/7hLk9hC4QJmmeq5iwrITM9jHirl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/d2RkG8wLNymsMwtoZsUH1IMd78G.jpg",
-      "description": "Nelson 'the urbane fox' and his anthropomorphic animal friends navigate the urban jungle from their home in London's East End in a puppet sitcom for adults.",
-      "releaseInfo": "2010",
-      "genres": [
-        "Comedy"
+        "Comedy",
+        "Mystery"
       ]
     }
   ]

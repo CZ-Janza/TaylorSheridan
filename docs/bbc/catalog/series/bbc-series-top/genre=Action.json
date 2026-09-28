@@ -46,19 +46,18 @@
       ]
     },
     {
-      "id": "tt1199099",
+      "id": "tt10405370",
       "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
+      "name": "SAS Rogue Heroes",
+      "poster": "https://image.tmdb.org/t/p/w342/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hGdTq9BX3DB2gwGGFMLTdipCBPk.jpg",
+      "description": "The dramatised account of how the world’s greatest Special Forces unit, the SAS, was formed under extraordinary circumstances in the darkest days of World War Two.",
+      "releaseInfo": "2022",
       "genres": [
-        "Action",
-        "Adventure",
         "Drama",
-        "Sci-Fi",
-        "Fantasy"
+        "War",
+        "Action",
+        "Adventure"
       ]
     },
     {
@@ -78,33 +77,19 @@
       ]
     },
     {
-      "id": "tt10405370",
+      "id": "tt1199099",
       "type": "series",
-      "name": "SAS Rogue Heroes",
-      "poster": "https://image.tmdb.org/t/p/w342/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hGdTq9BX3DB2gwGGFMLTdipCBPk.jpg",
-      "description": "The dramatised account of how the world’s greatest Special Forces unit, the SAS, was formed under extraordinary circumstances in the darkest days of World War Two.",
-      "releaseInfo": "2022",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+      "releaseInfo": "2008",
       "genres": [
-        "Drama",
-        "War",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt0160904",
-      "type": "series",
-      "name": "Spooks",
-      "poster": "https://image.tmdb.org/t/p/w342/5kODxCYihuM49oQWke6GfHdsRT6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/w0PRJ5uOsfSGVrwxUhPmc6qIO8t.jpg",
-      "description": "Tense drama series about the different challenges faced by the British Security Service as they work against the clock to safeguard the nation. The title is a popular colloquialism for spies, and the series follows the work of a group of MI5 officers based at the service's Thames House headquarters, in a highly secure suite of offices known as The Grid.",
-      "releaseInfo": "2002",
-      "genres": [
-        "Drama",
         "Action",
         "Adventure",
-        "Crime"
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -125,6 +110,21 @@
       ]
     },
     {
+      "id": "tt0160904",
+      "type": "series",
+      "name": "Spooks",
+      "poster": "https://image.tmdb.org/t/p/w342/5kODxCYihuM49oQWke6GfHdsRT6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/w0PRJ5uOsfSGVrwxUhPmc6qIO8t.jpg",
+      "description": "Tense drama series about the different challenges faced by the British Security Service as they work against the clock to safeguard the nation. The title is a popular colloquialism for spies, and the series follows the work of a group of MI5 officers based at the service's Thames House headquarters, in a highly secure suite of offices known as The Grid.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure",
+        "Crime"
+      ]
+    },
+    {
       "id": "tt0436992",
       "type": "series",
       "name": "Doctor Who",
@@ -141,20 +141,6 @@
       ]
     },
     {
-      "id": "tt27557666",
-      "type": "series",
-      "name": "Lord of the Flies",
-      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
-      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
       "id": "tt0094500",
       "type": "series",
       "name": "The Chronicles of Narnia",
@@ -166,6 +152,20 @@
         "Drama",
         "Sci-Fi",
         "Fantasy",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt27557666",
+      "type": "series",
+      "name": "Lord of the Flies",
+      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
         "Action",
         "Adventure"
       ]
@@ -218,37 +218,6 @@
       ]
     },
     {
-      "id": "tt2733252",
-      "type": "series",
-      "name": "The Musketeers",
-      "poster": "https://image.tmdb.org/t/p/w342/6kOMlk4hlavwO5L82eLdklN0fm5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nkPWqWZQ84WtbUY5RktSPPrNdWO.jpg",
-      "description": "Set in 17th century Paris, musketeers Athos, Porthos, Aramis and D'Artagnan are members of an elite band of soldiers who fight for what is just. They are heroes in the truest and most abiding sense – men that can be trusted and believed in to do the right thing, regardless of personal risk.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt1349938",
-      "type": "series",
-      "name": "Being Human",
-      "poster": "https://image.tmdb.org/t/p/w342/rlDefnxVHcXwwm2bxPHknNRl4l.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yEooPSWqMM72xHh7HGwSAM8GpUc.jpg",
-      "description": "Deciding to turn over a new leaf, a group of friends who also happen to be vampires and werewolves move into a house together, only to find that it is haunted by ghosts of people who have been killed under mysterious circumstances. As they deal with the challenges of being supernatural creatures, their desire to be human bonds them.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama",
-        "Mystery",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
       "id": "tt3574152",
       "type": "series",
       "name": "Partners in Crime",
@@ -262,6 +231,20 @@
         "Adventure",
         "Drama",
         "Crime"
+      ]
+    },
+    {
+      "id": "tt2733252",
+      "type": "series",
+      "name": "The Musketeers",
+      "poster": "https://image.tmdb.org/t/p/w342/6kOMlk4hlavwO5L82eLdklN0fm5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nkPWqWZQ84WtbUY5RktSPPrNdWO.jpg",
+      "description": "Set in 17th century Paris, musketeers Athos, Porthos, Aramis and D'Artagnan are members of an elite band of soldiers who fight for what is just. They are heroes in the truest and most abiding sense – men that can be trusted and believed in to do the right thing, regardless of personal risk.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
       ]
     },
     {
@@ -282,18 +265,18 @@
       ]
     },
     {
-      "id": "tt0197154",
+      "id": "tt1349938",
       "type": "series",
-      "name": "Gormenghast",
-      "poster": "https://image.tmdb.org/t/p/w342/zuz0jt4VZOilIV7Lh4MINZXKdjX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xCYZIsH4r5LlVjleSi717ZSdCJN.jpg",
-      "description": "At the Castle of Gormenghast, the Groan family has ruled with dusty ceremony for more than seventy generations. A clever and ambitious new kitchen boy, Steerpike, begins to insinuate himself into the affections of Lady Fuchsia Groan and to murder his way to power.",
-      "releaseInfo": "2000",
+      "name": "Being Human",
+      "poster": "https://image.tmdb.org/t/p/w342/rlDefnxVHcXwwm2bxPHknNRl4l.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yEooPSWqMM72xHh7HGwSAM8GpUc.jpg",
+      "description": "Deciding to turn over a new leaf, a group of friends who also happen to be vampires and werewolves move into a house together, only to find that it is haunted by ghosts of people who have been killed under mysterious circumstances. As they deal with the challenges of being supernatural creatures, their desire to be human bonds them.",
+      "releaseInfo": "2009",
       "genres": [
         "Sci-Fi",
         "Fantasy",
+        "Drama",
         "Mystery",
-        "Comedy",
         "Action",
         "Adventure"
       ]
@@ -308,6 +291,23 @@
       "releaseInfo": "2020",
       "genres": [
         "Drama",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt0197154",
+      "type": "series",
+      "name": "Gormenghast",
+      "poster": "https://image.tmdb.org/t/p/w342/zuz0jt4VZOilIV7Lh4MINZXKdjX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xCYZIsH4r5LlVjleSi717ZSdCJN.jpg",
+      "description": "At the Castle of Gormenghast, the Groan family has ruled with dusty ceremony for more than seventy generations. A clever and ambitious new kitchen boy, Steerpike, begins to insinuate himself into the affections of Lady Fuchsia Groan and to murder his way to power.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Mystery",
+        "Comedy",
         "Action",
         "Adventure"
       ]
@@ -357,21 +357,6 @@
       ]
     },
     {
-      "id": "tt2705602",
-      "type": "series",
-      "name": "Atlantis",
-      "poster": "https://image.tmdb.org/t/p/w342/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nMdyDnHiRpJ2sfqk3JfUb3CvME4.jpg",
-      "description": "A fantasy drama set in a world of legendary heroes and mythical creatures. Far from home and desperate for answers, Jason washes up on the shores of an ancient land. A mysterious place; a world of bull leaping, of snake haired goddesses and of palaces so vast it was said they were built by giants - this is the city of Atlantis. Aided by his two new friends, Pythagoras and Hercules, Jason embarks on a voyage of discovery, and salvation, which sees him brush shoulders with Medusa, come face to face with the Minotaur and even do battle with the dead.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt31433814",
       "type": "series",
       "name": "Doctor Who",
@@ -383,6 +368,21 @@
         "Action",
         "Adventure",
         "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt2705602",
+      "type": "series",
+      "name": "Atlantis",
+      "poster": "https://image.tmdb.org/t/p/w342/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nMdyDnHiRpJ2sfqk3JfUb3CvME4.jpg",
+      "description": "A fantasy drama set in a world of legendary heroes and mythical creatures. Far from home and desperate for answers, Jason washes up on the shores of an ancient land. A mysterious place; a world of bull leaping, of snake haired goddesses and of palaces so vast it was said they were built by giants - this is the city of Atlantis. Aided by his two new friends, Pythagoras and Hercules, Jason embarks on a voyage of discovery, and salvation, which sees him brush shoulders with Medusa, come face to face with the Minotaur and even do battle with the dead.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Action",
+        "Adventure",
         "Sci-Fi",
         "Fantasy"
       ]
