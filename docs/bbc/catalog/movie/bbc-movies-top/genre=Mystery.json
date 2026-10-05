@@ -89,21 +89,6 @@
       ]
     },
     {
-      "id": "tt4271918",
-      "type": "movie",
-      "name": "An Inspector Calls",
-      "poster": "https://image.tmdb.org/t/p/w342/qZLDqf9poquJwY5uY6ZWK1yqsSb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/x7i70dfvEXuV6o7nN9J8P4KCM6K.jpg",
-      "description": "Northern England, 1912. The dinner of a wealthy family is interrupted by Inspector Goole, who only announces that a young woman has committed suicide. Then, he simply asks everyone present, one by one, if they knew her.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt1321969",
       "type": "movie",
       "name": "Doctor Who: The Next Doctor",
@@ -116,6 +101,21 @@
         "Mystery",
         "Adventure",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tt4271918",
+      "type": "movie",
+      "name": "An Inspector Calls",
+      "poster": "https://image.tmdb.org/t/p/w342/qZLDqf9poquJwY5uY6ZWK1yqsSb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x7i70dfvEXuV6o7nN9J8P4KCM6K.jpg",
+      "description": "Northern England, 1912. The dinner of a wealthy family is interrupted by Inspector Goole, who only announces that a young woman has committed suicide. Then, he simply asks everyone present, one by one, if they knew her.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Mystery"
       ]
     },
     {
@@ -160,19 +160,6 @@
       ]
     },
     {
-      "id": "tt0097015",
-      "type": "movie",
-      "name": "Miss Marple: A Caribbean Mystery",
-      "poster": "https://image.tmdb.org/t/p/w342/jFN090M13cF2nnOq40F6fNz0HJN.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vyf0iEHJJQSPpm3j8gXFZ3GE31j.jpg",
-      "description": "While on vacation at a resort hotel in the West Indies, Miss Marple correctly suspects that the apparently natural death of a retired British major is actually the work of a murderer planning yet another killing.",
-      "releaseInfo": "1989",
-      "genres": [
-        "Mystery",
-        "Crime"
-      ]
-    },
-    {
       "id": "tt0170266",
       "type": "movie",
       "name": "Miss Marple: The Murder at the Vicarage",
@@ -183,6 +170,19 @@
       "genres": [
         "Mystery",
         "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0097015",
+      "type": "movie",
+      "name": "Miss Marple: A Caribbean Mystery",
+      "poster": "https://image.tmdb.org/t/p/w342/jFN090M13cF2nnOq40F6fNz0HJN.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vyf0iEHJJQSPpm3j8gXFZ3GE31j.jpg",
+      "description": "While on vacation at a resort hotel in the West Indies, Miss Marple correctly suspects that the apparently natural death of a retired British major is actually the work of a murderer planning yet another killing.",
+      "releaseInfo": "1989",
+      "genres": [
+        "Mystery",
         "Crime"
       ]
     },
@@ -242,19 +242,6 @@
       ]
     },
     {
-      "id": "tt3168230",
-      "type": "movie",
-      "name": "Mr. Holmes",
-      "poster": "https://image.tmdb.org/t/p/w342/iNnHMoj2oldH7O9uL08iGhfHzh.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dqRwVrZeRKzRQZI5keNilDpDklS.jpg",
-      "description": "In 1947, long-retired and near the end of his life, Sherlock Holmes grapples with an unreliable memory and must rely on his housekeeper's son as he revisits the still-unsolved case that led to his retirement.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt2951888",
       "type": "movie",
       "name": "The Thirteenth Tale",
@@ -262,6 +249,33 @@
       "background": "https://image.tmdb.org/t/p/w780/aHzJY3QgtlzZytFCHN3ETHXsfFJ.jpg",
       "description": "Biographer Margaret Lea travels to the isolated rural mansion of the famous writer Vida Winter, who asks her to write her biography. Although initially she is reluctant, as Vida is known for constantly distorting the facts of her life, Margaret soon becomes fascinated with the story of a dark childhood, a disturbing tale that leads her to finally confront the traumas of her own past.",
       "releaseInfo": "2013",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1282016",
+      "type": "movie",
+      "name": "The 39 Steps",
+      "poster": "https://image.tmdb.org/t/p/w342/8N537ufRENaGUEJR0JTrRoK93rR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2hMqrgSN10iwOZJyl1ZIt6b4Zdb.jpg",
+      "description": "Richard Hannay, a mining engineer on holiday from the African colonies, finds London socialite life terribly dull. Yet it's more than he bargained for when a secret agent bursts into his room and entrusts him with a coded notebook, concerning the impending start of World War I. In no time both German agents and the British law are chasing him, ruthlessly coveting the Roman numerals code, which Hannay believes he must personally crack.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt3168230",
+      "type": "movie",
+      "name": "Mr. Holmes",
+      "poster": "https://image.tmdb.org/t/p/w342/iNnHMoj2oldH7O9uL08iGhfHzh.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dqRwVrZeRKzRQZI5keNilDpDklS.jpg",
+      "description": "In 1947, long-retired and near the end of his life, Sherlock Holmes grapples with an unreliable memory and must rely on his housekeeper's son as he revisits the still-unsolved case that led to his retirement.",
+      "releaseInfo": "2015",
       "genres": [
         "Drama",
         "Mystery"
@@ -280,34 +294,6 @@
         "Drama",
         "Mystery",
         "Thriller"
-      ]
-    },
-    {
-      "id": "tt1282016",
-      "type": "movie",
-      "name": "The 39 Steps",
-      "poster": "https://image.tmdb.org/t/p/w342/8N537ufRENaGUEJR0JTrRoK93rR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2hMqrgSN10iwOZJyl1ZIt6b4Zdb.jpg",
-      "description": "Richard Hannay, a mining engineer on holiday from the African colonies, finds London socialite life terribly dull. Yet it's more than he bargained for when a secret agent bursts into his room and entrusts him with a coded notebook, concerning the impending start of World War I. In no time both German agents and the British law are chasing him, ruthlessly coveting the Roman numerals code, which Hannay believes he must personally crack.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Thriller",
-        "Mystery",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt1687901",
-      "type": "movie",
-      "name": "The Awakening",
-      "poster": "https://image.tmdb.org/t/p/w342/txmiJkl8su0jkEABLIHZBqVHrTj.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1Rw3KOjmKY4QrJ9MKugIo3F5FjO.jpg",
-      "description": "In post–War England, a writer and sometime-ghost hunter investigates a reported haunting at a boys boarding school.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Mystery"
       ]
     },
     {
@@ -335,6 +321,20 @@
       "genres": [
         "Mystery",
         "Crime"
+      ]
+    },
+    {
+      "id": "tt1687901",
+      "type": "movie",
+      "name": "The Awakening",
+      "poster": "https://image.tmdb.org/t/p/w342/txmiJkl8su0jkEABLIHZBqVHrTj.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1Rw3KOjmKY4QrJ9MKugIo3F5FjO.jpg",
+      "description": "In post–War England, a writer and sometime-ghost hunter investigates a reported haunting at a boys boarding school.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
       ]
     },
     {
@@ -407,6 +407,21 @@
       ]
     },
     {
+      "id": "tt0120004",
+      "type": "movie",
+      "name": "The Relic",
+      "poster": "https://image.tmdb.org/t/p/w342/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg",
+      "description": "A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Sci-Fi"
+      ]
+    },
+    {
       "id": "tt0107146",
       "type": "movie",
       "name": "The Hour of the Pig",
@@ -424,21 +439,6 @@
       ]
     },
     {
-      "id": "tt0120004",
-      "type": "movie",
-      "name": "The Relic",
-      "poster": "https://image.tmdb.org/t/p/w342/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg",
-      "description": "A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.",
-      "releaseInfo": "1997",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller",
-        "Sci-Fi"
-      ]
-    },
-    {
       "id": "tt14773478",
       "type": "movie",
       "name": "Medusa Deluxe",
@@ -451,20 +451,6 @@
         "Mystery",
         "Thriller",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt1172571",
-      "type": "movie",
-      "name": "The Children",
-      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
-      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
       ]
     },
     {
@@ -492,6 +478,20 @@
         "Horror",
         "Mystery",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt1172571",
+      "type": "movie",
+      "name": "The Children",
+      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
+      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
       ]
     },
     {

@@ -1,6 +1,37 @@
 {
   "metas": [
     {
+      "id": "tt1349938",
+      "type": "series",
+      "name": "Being Human",
+      "poster": "https://image.tmdb.org/t/p/w342/rlDefnxVHcXwwm2bxPHknNRl4l.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yEooPSWqMM72xHh7HGwSAM8GpUc.jpg",
+      "description": "Deciding to turn over a new leaf, a group of friends who also happen to be vampires and werewolves move into a house together, only to find that it is haunted by ghosts of people who have been killed under mysterious circumstances. As they deal with the challenges of being supernatural creatures, their desire to be human bonds them.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama",
+        "Mystery",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt1258189",
+      "type": "series",
+      "name": "Survivors",
+      "poster": "https://image.tmdb.org/t/p/w342/qw1veNeQzzN0FD2DJyemxO7hPPE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rulrZar942TxA7vn6OPjOEd7clR.jpg",
+      "description": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0487189",
       "type": "series",
       "name": "Waterloo Road",
@@ -25,33 +56,6 @@
       ]
     },
     {
-      "id": "tt0085037",
-      "type": "series",
-      "name": "Jane Eyre",
-      "poster": "https://image.tmdb.org/t/p/w342/nPl4tm54apPRIwkBda1pogWprAv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7GvyqztUEwXZ2klDAAEyRtVr2WE.jpg",
-      "description": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meets the dark, cold, and abrupt master of the house, Edward Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Rochester's terrible secret be about to destroy it forever?",
-      "releaseInfo": "1983",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0080242",
-      "type": "series",
-      "name": "The Martian Chronicles",
-      "poster": "https://image.tmdb.org/t/p/w342/vBq5qOxBKnhGZNcW36b2Qq6cLDG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kb8obptHWmfaG7ZhP1IeracmW9o.jpg",
-      "description": "The Martian Chronicles deals with the exploration of Mars and the inhabitants there.",
-      "releaseInfo": "1980",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt0051305",
       "type": "series",
       "name": "Quatermass and the Pit",
@@ -67,16 +71,30 @@
       ]
     },
     {
-      "id": "tt11899030",
+      "id": "tt0427042",
       "type": "series",
-      "name": "The Responder",
-      "poster": "https://image.tmdb.org/t/p/w342/mU51EB4OSEL7oxMIub1Rl7N0xFB.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9TEWo6dVn9cHGuegR2gXkf3J7jI.jpg",
-      "description": "Under pressure, fraying at the edges. In relentless night-time Liverpool, copper Chris is paired with a rookie. Will they save or destroy each other?",
-      "releaseInfo": "2022",
+      "name": "Casanova",
+      "poster": "https://image.tmdb.org/t/p/w342/bvjiITAnOZoLxfLmni1sazcbeWu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jwiQpxw8yTTnkgQ9k0zT0zFvTNy.jpg",
+      "description": "Castle Dux, Bohemia, 1798. Casanova, now a penniless librarian in his seventies, tells Edith, a young kitchen maid in the castle, his remarkable life story, and about falling in love with Henriette.",
+      "releaseInfo": "2005",
       "genres": [
         "Drama",
-        "Crime"
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt2103085",
+      "type": "series",
+      "name": "Top of the Lake",
+      "poster": "https://image.tmdb.org/t/p/w342/AdJGimYaqSXINsa6pfx1L7yBsvr.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2byYEDTx5J8BiHpCJMU6Cd1fdkC.jpg",
+      "description": "A woman haunted by her past, Detective Robin Griffin, investigates complex and unsettling cases.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -117,20 +135,6 @@
       "genres": [
         "Crime",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt9139220",
-      "type": "series",
-      "name": "Dracula",
-      "poster": "https://image.tmdb.org/t/p/w342/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/v3cpyhytwXXbAr7Wycn5LEwonuL.jpg",
-      "description": "Transylvania, 1897. The blood-drinking Count Dracula is drawing his plans against Victorian London. And be warned: the dead travel fast.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
       ]
     },
     {
@@ -220,20 +224,6 @@
       ]
     },
     {
-      "id": "tt2103085",
-      "type": "series",
-      "name": "Top of the Lake",
-      "poster": "https://image.tmdb.org/t/p/w342/AdJGimYaqSXINsa6pfx1L7yBsvr.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2byYEDTx5J8BiHpCJMU6Cd1fdkC.jpg",
-      "description": "A woman haunted by her past, Detective Robin Griffin, investigates complex and unsettling cases.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt1127876",
       "type": "series",
       "name": "Birdsong",
@@ -273,19 +263,6 @@
       ]
     },
     {
-      "id": "tt0427042",
-      "type": "series",
-      "name": "Casanova",
-      "poster": "https://image.tmdb.org/t/p/w342/bvjiITAnOZoLxfLmni1sazcbeWu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jwiQpxw8yTTnkgQ9k0zT0zFvTNy.jpg",
-      "description": "Castle Dux, Bohemia, 1798. Casanova, now a penniless librarian in his seventies, tells Edith, a young kitchen maid in the castle, his remarkable life story, and about falling in love with Henriette.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt0081831",
       "type": "series",
       "name": "Bergerac",
@@ -310,17 +287,30 @@
       ]
     },
     {
-      "id": "tt5834256",
+      "id": "tt11899030",
       "type": "series",
-      "name": "The Witness for the Prosecution",
-      "poster": "https://image.tmdb.org/t/p/w342/n6i4LpDcyiwGbZg3to3Z8puyS1F.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mQFFHTwytuBrd4euSQ6sC8dUGe5.jpg",
-      "description": "The hunt is on to find the murderer of a wealthy glamorous heiress who is found dead in her London townhouse. Based on the short story by Agatha Christie.",
-      "releaseInfo": "2016",
+      "name": "The Responder",
+      "poster": "https://image.tmdb.org/t/p/w342/mU51EB4OSEL7oxMIub1Rl7N0xFB.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9TEWo6dVn9cHGuegR2gXkf3J7jI.jpg",
+      "description": "Under pressure, fraying at the edges. In relentless night-time Liverpool, copper Chris is paired with a rookie. Will they save or destroy each other?",
+      "releaseInfo": "2022",
       "genres": [
-        "Crime",
         "Drama",
-        "Mystery"
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt9139220",
+      "type": "series",
+      "name": "Dracula",
+      "poster": "https://image.tmdb.org/t/p/w342/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/v3cpyhytwXXbAr7Wycn5LEwonuL.jpg",
+      "description": "Transylvania, 1897. The blood-drinking Count Dracula is drawing his plans against Victorian London. And be warned: the dead travel fast.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
       ]
     },
     {
@@ -367,18 +357,6 @@
       ]
     },
     {
-      "id": "tt11997646",
-      "type": "series",
-      "name": "Conversations with Friends",
-      "poster": "https://image.tmdb.org/t/p/w342/kk6kXltSgeAA1yWiRaZ1sOexm1V.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1R4HDyLrvOBTvIJLXaY3iCL6bCc.jpg",
-      "description": "Two college students, Frances and Bobbi, forge a strange and unexpected relationship with a married couple.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt11403434",
       "type": "series",
       "name": "Showtrial",
@@ -417,6 +395,20 @@
       ]
     },
     {
+      "id": "tt5834256",
+      "type": "series",
+      "name": "The Witness for the Prosecution",
+      "poster": "https://image.tmdb.org/t/p/w342/n6i4LpDcyiwGbZg3to3Z8puyS1F.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mQFFHTwytuBrd4euSQ6sC8dUGe5.jpg",
+      "description": "The hunt is on to find the murderer of a wealthy glamorous heiress who is found dead in her London townhouse. Based on the short story by Agatha Christie.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt4513868",
       "type": "series",
       "name": "New Blood",
@@ -442,6 +434,20 @@
         "Drama",
         "Crime",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt3484180",
+      "type": "series",
+      "name": "Remember Me",
+      "poster": "https://image.tmdb.org/t/p/w342/2YH1gywyt5mGOcM6ar7cgOqKRH2.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/k3v8dyyvnA7aikOdM0jr5rb2toD.jpg",
+      "description": "Tom Parfitt fakes an injury in order to escape from his monotonous lifestyle and head to a care center. However, upon his arrival, the staff experiences several strange instances, including a murder.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Crime"
       ]
     },
     {
@@ -522,6 +528,32 @@
       ]
     },
     {
+      "id": "tt11997646",
+      "type": "series",
+      "name": "Conversations with Friends",
+      "poster": "https://image.tmdb.org/t/p/w342/kk6kXltSgeAA1yWiRaZ1sOexm1V.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1R4HDyLrvOBTvIJLXaY3iCL6bCc.jpg",
+      "description": "Two college students, Frances and Bobbi, forge a strange and unexpected relationship with a married couple.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt10394886",
+      "type": "series",
+      "name": "The Salisbury Poisonings",
+      "poster": "https://image.tmdb.org/t/p/w342/80CObOtHNCdROSPuPNfETW4OOyA.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/japHBMqYYKKiTc2XjEbbEPWROfH.jpg",
+      "description": "In March 2018 Salisbury became the site of an unprecedented national emergency. This three-part dramatisation focuses on the extraordinary heroism shown by the local community.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt35562988",
       "type": "series",
       "name": "The Guest",
@@ -575,19 +607,6 @@
       ]
     },
     {
-      "id": "tt11847842",
-      "type": "series",
-      "name": "The Tourist",
-      "poster": "https://image.tmdb.org/t/p/w342/3jLF76FYBh5YHb4n1mQz1ayjDD4.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/i2u22f5fSujYLF2xbUrE8imEtuz.jpg",
-      "description": "When a man wakes up in the Australian outback with no memory, he must use the few clues he has to discover his identity before his past catches up with him.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt3464896",
       "type": "series",
       "name": "Small Axe",
@@ -597,20 +616,6 @@
       "releaseInfo": "2020",
       "genres": [
         "Drama"
-      ]
-    },
-    {
-      "id": "tt10394886",
-      "type": "series",
-      "name": "The Salisbury Poisonings",
-      "poster": "https://image.tmdb.org/t/p/w342/80CObOtHNCdROSPuPNfETW4OOyA.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/japHBMqYYKKiTc2XjEbbEPWROfH.jpg",
-      "description": "In March 2018 Salisbury became the site of an unprecedented national emergency. This three-part dramatisation focuses on the extraordinary heroism shown by the local community.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
       ]
     },
     {
@@ -687,33 +692,6 @@
       "releaseInfo": "2017",
       "genres": [
         "Drama"
-      ]
-    },
-    {
-      "id": "tt3484180",
-      "type": "series",
-      "name": "Remember Me",
-      "poster": "https://image.tmdb.org/t/p/w342/2YH1gywyt5mGOcM6ar7cgOqKRH2.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/k3v8dyyvnA7aikOdM0jr5rb2toD.jpg",
-      "description": "Tom Parfitt fakes an injury in order to escape from his monotonous lifestyle and head to a care center. However, upon his arrival, the staff experiences several strange instances, including a murder.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt2199618",
-      "type": "series",
-      "name": "The Politician's Husband",
-      "poster": "https://image.tmdb.org/t/p/w342/kG5mhhIZrpYDySz1tLGtVx1muO.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5pp1JTvkvfiGqrscmDkXkwq1Mkz.jpg",
-      "description": "A drama about the shifting power in a marriage when the personal and political collide.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Drama",
-        "War"
       ]
     },
     {
@@ -794,6 +772,46 @@
       ]
     },
     {
+      "id": "tt11847842",
+      "type": "series",
+      "name": "The Tourist",
+      "poster": "https://image.tmdb.org/t/p/w342/3jLF76FYBh5YHb4n1mQz1ayjDD4.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/i2u22f5fSujYLF2xbUrE8imEtuz.jpg",
+      "description": "When a man wakes up in the Australian outback with no memory, he must use the few clues he has to discover his identity before his past catches up with him.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2199618",
+      "type": "series",
+      "name": "The Politician's Husband",
+      "poster": "https://image.tmdb.org/t/p/w342/kG5mhhIZrpYDySz1tLGtVx1muO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5pp1JTvkvfiGqrscmDkXkwq1Mkz.jpg",
+      "description": "A drama about the shifting power in a marriage when the personal and political collide.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "tt32059608",
+      "type": "series",
+      "name": "Return to Paradise",
+      "poster": "https://image.tmdb.org/t/p/w342/7Hx7H3MndGK4c4joXKeEW9GIeqs.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5vcVf5hDtnKQVmHj9RSIaVwwvlx.jpg",
+      "description": "DI Mackenzie Clarke is forced to leave London under a cloud of suspicion and return to the last place she ever wanted to be, her hometown of Dolphin Cove, Australia where her tenacity and work ethic helps her solve murder mysteries.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt23805744",
       "type": "series",
       "name": "This Town",
@@ -854,19 +872,6 @@
       "releaseInfo": "2019",
       "genres": [
         "War",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt9204128",
-      "type": "series",
-      "name": "The Mallorca Files",
-      "poster": "https://image.tmdb.org/t/p/w342/jrOSijpP34R1LgbRgxae2aMyzXk.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7zI2O0IzxzXcd2JPmgWqVf72fXU.jpg",
-      "description": "Amongst the vibrant international community of the eponymous Spanish island, a British and a German detective with very different approaches to policing have a clash of personalities. Despite - or perhaps because of - their very different approaches, the sleuths form a perfect complementary partnership as they seek to solve a new crime on the island each week.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Crime",
         "Drama"
       ]
     },
@@ -933,18 +938,6 @@
       ]
     },
     {
-      "id": "tt2763296",
-      "type": "series",
-      "name": "The Great Train Robbery",
-      "poster": "https://image.tmdb.org/t/p/w342/rUbTniOTYkXjIUFh8QlTNEjbkpn.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vQdntflhWi6TA9e7sVMrnVTbj5c.jpg",
-      "description": "8 August 1963: Britain wakes up to news of the biggest robbery in the country’s history. A train has been hijacked and robbed, 35 miles from its arrival in central London. The country is stunned. Who could be behind it? How did they pull off such an audacious raid?",
-      "releaseInfo": "2013",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt2163315",
       "type": "series",
       "name": "Dancing on the Edge",
@@ -980,21 +973,6 @@
       "genres": [
         "Crime",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt1319690",
-      "type": "series",
-      "name": "Defying Gravity",
-      "poster": "https://image.tmdb.org/t/p/w342/cH8U50mHJ9JkhF5lJktHOvV30pP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6m21SM3KFOD0gaSmaInN0lQNzqO.jpg",
-      "description": "In the very near future, a team of eight astronauts embarking on a six-year journey to explore Venus and other planets in the solar system, find their lives and destinies intertwined and carefully directed, not only by Mission Control officials on Earth, but also by an unseen force which is much closer and far more powerful.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Sci-Fi",
-        "Fantasy"
       ]
     },
     {
@@ -1039,16 +1017,42 @@
       ]
     },
     {
-      "id": "tt32059608",
+      "id": "tt1319690",
       "type": "series",
-      "name": "Return to Paradise",
-      "poster": "https://image.tmdb.org/t/p/w342/7Hx7H3MndGK4c4joXKeEW9GIeqs.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5vcVf5hDtnKQVmHj9RSIaVwwvlx.jpg",
-      "description": "DI Mackenzie Clarke is forced to leave London under a cloud of suspicion and return to the last place she ever wanted to be, her hometown of Dolphin Cove, Australia where her tenacity and work ethic helps her solve murder mysteries.",
-      "releaseInfo": "2024",
+      "name": "Defying Gravity",
+      "poster": "https://image.tmdb.org/t/p/w342/cH8U50mHJ9JkhF5lJktHOvV30pP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6m21SM3KFOD0gaSmaInN0lQNzqO.jpg",
+      "description": "In the very near future, a team of eight astronauts embarking on a six-year journey to explore Venus and other planets in the solar system, find their lives and destinies intertwined and carefully directed, not only by Mission Control officials on Earth, but also by an unseen force which is much closer and far more powerful.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt2763296",
+      "type": "series",
+      "name": "The Great Train Robbery",
+      "poster": "https://image.tmdb.org/t/p/w342/rUbTniOTYkXjIUFh8QlTNEjbkpn.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vQdntflhWi6TA9e7sVMrnVTbj5c.jpg",
+      "description": "8 August 1963: Britain wakes up to news of the biggest robbery in the country’s history. A train has been hijacked and robbed, 35 miles from its arrival in central London. The country is stunned. Who could be behind it? How did they pull off such an audacious raid?",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt9204128",
+      "type": "series",
+      "name": "The Mallorca Files",
+      "poster": "https://image.tmdb.org/t/p/w342/jrOSijpP34R1LgbRgxae2aMyzXk.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7zI2O0IzxzXcd2JPmgWqVf72fXU.jpg",
+      "description": "Amongst the vibrant international community of the eponymous Spanish island, a British and a German detective with very different approaches to policing have a clash of personalities. Despite - or perhaps because of - their very different approaches, the sleuths form a perfect complementary partnership as they seek to solve a new crime on the island each week.",
+      "releaseInfo": "2019",
       "genres": [
         "Crime",
-        "Mystery",
         "Drama"
       ]
     },
@@ -1242,6 +1246,31 @@
       ]
     },
     {
+      "id": "tt1065309",
+      "type": "series",
+      "name": "Oliver Twist",
+      "poster": "https://image.tmdb.org/t/p/w342/tKq8lSVNVq0ybaLMcNGK6P6YuZx.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qEjAfXE0qlaWt8dhA9nbVMfd5Qv.jpg",
+      "description": "An orphan endures a harsh life in a workhouse before fleeing to London, where he falls in with a gang of juvenile pickpockets led by the criminal Fagin, and eventually finds a better life, exposing the cruelties of poverty and child labor in Victorian England.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1956017",
+      "type": "series",
+      "name": "Parade's End",
+      "poster": "https://image.tmdb.org/t/p/w342/te0SB1kyYlzHZEXL3jpcU6oHELy.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/eOj8VBBWokxlQgiEkYoPRuza428.jpg",
+      "description": "The story of a love triangle between a conservative English aristocrat, his mean socialite wife and a young suffragette in the midst of World War I and a Europe on the brink of profound change.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drama",
+        "War"
+      ]
+    },
+    {
       "id": "tt32409123",
       "type": "series",
       "name": "Death Valley",
@@ -1263,31 +1292,6 @@
       "background": "https://image.tmdb.org/t/p/w780/iKWGJvafghmJM6Z3rpI9Jtmq4kg.jpg",
       "description": "Miss Austen takes a literary mystery – Cassandra Austen notoriously burning her famous sister Jane’s letters – and reimagines it as a fascinating, witty and heart-breaking story of sisterly love, while creating in Cassandra a character as captivating as any Austen heroine.",
       "releaseInfo": "2025",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt11116780",
-      "type": "series",
-      "name": "Rebus",
-      "poster": "https://image.tmdb.org/t/p/w342/5zOMfiVSgJieF5hA2Tqh2i0Kzil.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kxXlSEdo8lYrjpMYEf5O1jANs7w.jpg",
-      "description": "Iconic character John Rebus is reimagined as a younger Detective Sergeant, drawn into a violent criminal conflict that turns personal when his brother Michael, a former soldier, crosses the line into criminality.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt17001504",
-      "type": "series",
-      "name": "The Diplomat",
-      "poster": "https://image.tmdb.org/t/p/w342/ePknauaRbj3fSzyVRt9CIs6So7y.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iN9kJ2hIjw2wSrcm2Avxjgzsj3P.jpg",
-      "description": "The six-part series follows Laura Simmonds and her Barcelona Consul colleague and friend Alba Ortiz as they fight to protect British nationals who find themselves in trouble in the Catalan city.",
-      "releaseInfo": "2023",
       "genres": [
         "Drama"
       ]

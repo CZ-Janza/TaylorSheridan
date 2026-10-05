@@ -70,20 +70,6 @@
       ]
     },
     {
-      "id": "tt0302739",
-      "type": "movie",
-      "name": "The Lost World",
-      "poster": "https://image.tmdb.org/t/p/w342/22PtJeHtI19j15nkQiM561Ng7cH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kENpaFN3dKuAcsESuwXRwGrSRZk.jpg",
-      "description": "This Lost World is a splendid BBC TV dramatisation of Sir Arthur Conan Doyle's famous adventure story. Bob Hoskins makes an unusually genial Professor Challenger, far less of a bully than Doyle's character, but his slightly stereotyped companions are nicely filled out by a solid cast. James Fox is Challenger's more timid but still covertly adventurous rival, Tom Ward is the moustachioed big game hunter who faces an Allosaurus with an elephant gun, and Matthew Rhys plays the tagalong reporter hoping to impress his faithless fiancée.",
-      "releaseInfo": "2001",
-      "genres": [
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi"
-      ]
-    },
-    {
       "id": "tt7464188",
       "type": "movie",
       "name": "In Fabric",
@@ -99,6 +85,32 @@
       ]
     },
     {
+      "id": "tt0109781",
+      "type": "movie",
+      "name": "Faust",
+      "poster": "https://image.tmdb.org/t/p/w342/mdCj8IANhA3zOnsaW4yLeYYsmDG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qiGF1b2vH38WRWQooLp3q9LS7m2.jpg",
+      "description": "A very free adaptation of Marlowe's \"Doctor Faustus\", Goethe's \"Faust\" and various other treatments of the old legend of the man who sold his soul to the devil. A nondescript man is lured by a strange map into a sinister puppet theatre, where he finds himself immersed in an indescribably weird version of the play, blending live actors, clay animation and giant puppets.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0302739",
+      "type": "movie",
+      "name": "The Lost World",
+      "poster": "https://image.tmdb.org/t/p/w342/22PtJeHtI19j15nkQiM561Ng7cH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kENpaFN3dKuAcsESuwXRwGrSRZk.jpg",
+      "description": "This Lost World is a splendid BBC TV dramatisation of Sir Arthur Conan Doyle's famous adventure story. Bob Hoskins makes an unusually genial Professor Challenger, far less of a bully than Doyle's character, but his slightly stereotyped companions are nicely filled out by a solid cast. James Fox is Challenger's more timid but still covertly adventurous rival, Tom Ward is the moustachioed big game hunter who faces an Allosaurus with an elephant gun, and Matthew Rhys plays the tagalong reporter hoping to impress his faithless fiancée.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ]
+    },
+    {
       "id": "tt1337072",
       "type": "movie",
       "name": "Doctor Who: Planet of the Dead",
@@ -111,6 +123,65 @@
         "Thriller",
         "Fantasy",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt0103129",
+      "type": "movie",
+      "name": "Truly Madly Deeply",
+      "poster": "https://image.tmdb.org/t/p/w342/jjLEXLTXfJPYtl31knRS8bjclf0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/GFi1vzXUncFnxfUITfxVBDv8N4.jpg",
+      "description": "Nina is totally heartbroken at the death of her boyfriend Jamie, but is even more unprepared for his return as a ghost. At first it's almost as good as it used to be – hey, even the rats that infested her house have disappeared. But Jamie starts bringing ghostly friends home and behaving more and more oddly.",
+      "releaseInfo": "1991",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0061937",
+      "type": "movie",
+      "name": "Magical Mystery Tour",
+      "poster": "https://image.tmdb.org/t/p/w342/uJSqSXCeK407l7t4zTXaYSJH0gL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/NHuM9aazjbtewxp7K8n89qrSzm.jpg",
+      "description": "While on a coach tour, The Beatles and a few dozen friends experience strange happenings caused by magicians.",
+      "releaseInfo": "1967",
+      "genres": [
+        "Music",
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt1321969",
+      "type": "movie",
+      "name": "Doctor Who: The Next Doctor",
+      "poster": "https://image.tmdb.org/t/p/w342/3jc2spp0w3a50drKFCHgdyj4u0d.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/lbjFL4zFzloqZPySgoIDuWgLzto.jpg",
+      "description": "The Doctor arrives in Victorian London. It's Christmas, but snow isn't the only thing descending on the tranquil and jubilant civilization, as familiar silver giants from an alternate reality are amassing in numbers. The Cybermen are on the move again, and the only beings who can stop them are the Doctor and... another Doctor?",
+      "releaseInfo": "2008",
+      "genres": [
+        "Sci-Fi",
+        "Mystery",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt1975269",
+      "type": "movie",
+      "name": "The Borrowers",
+      "poster": "https://image.tmdb.org/t/p/w342/xSf4LFN2BKaWQmq5ZZBCVgdtMcj.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/b841rM761pmMg0yqCgtTI6j7Dxh.jpg",
+      "description": "Family adventure based on Mary Norton's classic children's books about a race of tiny people who live under the floorboards, resourcefully surviving by borrowing bits and pieces from the large residents who dwell above.  After being discovered by 'human beans', borrower Arrietty and her parents are forced to leave their home while attempting to evade the clutches of obsessive scientist Professor Mildeye.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy"
       ]
     },
     {
@@ -141,35 +212,6 @@
       ]
     },
     {
-      "id": "tt1321969",
-      "type": "movie",
-      "name": "Doctor Who: The Next Doctor",
-      "poster": "https://image.tmdb.org/t/p/w342/3jc2spp0w3a50drKFCHgdyj4u0d.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/lbjFL4zFzloqZPySgoIDuWgLzto.jpg",
-      "description": "The Doctor arrives in Victorian London. It's Christmas, but snow isn't the only thing descending on the tranquil and jubilant civilization, as familiar silver giants from an alternate reality are amassing in numbers. The Cybermen are on the move again, and the only beings who can stop them are the Doctor and... another Doctor?",
-      "releaseInfo": "2008",
-      "genres": [
-        "Sci-Fi",
-        "Mystery",
-        "Adventure",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0061937",
-      "type": "movie",
-      "name": "Magical Mystery Tour",
-      "poster": "https://image.tmdb.org/t/p/w342/uJSqSXCeK407l7t4zTXaYSJH0gL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/az5L3ksvP0e3y8AsfwVfE3MCdMy.jpg",
-      "description": "While on a coach tour, The Beatles and a few dozen friends experience strange happenings caused by magicians.",
-      "releaseInfo": "1967",
-      "genres": [
-        "Music",
-        "Comedy",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt0094500",
       "type": "movie",
       "name": "The Chronicles of Narnia: The Lion, the Witch & the Wardrobe",
@@ -184,45 +226,16 @@
       ]
     },
     {
-      "id": "tt0109781",
+      "id": "tt0106961",
       "type": "movie",
-      "name": "Faust",
-      "poster": "https://image.tmdb.org/t/p/w342/mdCj8IANhA3zOnsaW4yLeYYsmDG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qiGF1b2vH38WRWQooLp3q9LS7m2.jpg",
-      "description": "A very free adaptation of Marlowe's \"Doctor Faustus\", Goethe's \"Faust\" and various other treatments of the old legend of the man who sold his soul to the devil. A nondescript man is lured by a strange map into a sinister puppet theatre, where he finds himself immersed in an indescribably weird version of the play, blending live actors, clay animation and giant puppets.",
-      "releaseInfo": "1994",
+      "name": "Franz Kafka's It's a Wonderful Life",
+      "poster": "https://image.tmdb.org/t/p/w342/r7yZIRgIHYXvsmUaYiIrAJOpG1g.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/p3qHZbOavitb5XFa95DH34qmU9t.jpg",
+      "description": "Franz Kafka is working on his Metamorphosis, but he's suffering from writer's block; he can't get off on the right track. While trying to decide what Gregor Samsa is going to wake up as, he is constantly interrupted by door-to-door salesmen, young women, and his own inexplicable hallucinations.",
+      "releaseInfo": "1995",
       "genres": [
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt1975269",
-      "type": "movie",
-      "name": "The Borrowers",
-      "poster": "https://image.tmdb.org/t/p/w342/xSf4LFN2BKaWQmq5ZZBCVgdtMcj.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/b841rM761pmMg0yqCgtTI6j7Dxh.jpg",
-      "description": "Family adventure based on Mary Norton's classic children's books about a race of tiny people who live under the floorboards, resourcefully surviving by borrowing bits and pieces from the large residents who dwell above.  After being discovered by 'human beans', borrower Arrietty and her parents are forced to leave their home while attempting to evade the clutches of obsessive scientist Professor Mildeye.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Family",
         "Comedy",
-        "Adventure",
         "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0103129",
-      "type": "movie",
-      "name": "Truly Madly Deeply",
-      "poster": "https://image.tmdb.org/t/p/w342/jjLEXLTXfJPYtl31knRS8bjclf0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/GFi1vzXUncFnxfUITfxVBDv8N4.jpg",
-      "description": "Nina is totally heartbroken at the death of her boyfriend Jamie, but is even more unprepared for his return as a ghost. At first it's almost as good as it used to be – hey, even the rats that infested her house have disappeared. But Jamie starts bringing ghostly friends home and behaving more and more oddly.",
-      "releaseInfo": "1991",
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Comedy",
-        "Romance"
       ]
     },
     {
@@ -240,19 +253,6 @@
       ]
     },
     {
-      "id": "tt0106961",
-      "type": "movie",
-      "name": "Franz Kafka's It's a Wonderful Life",
-      "poster": "https://image.tmdb.org/t/p/w342/r7yZIRgIHYXvsmUaYiIrAJOpG1g.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/p3qHZbOavitb5XFa95DH34qmU9t.jpg",
-      "description": "Franz Kafka is working on his Metamorphosis, but he's suffering from writer's block; he can't get off on the right track. While trying to decide what Gregor Samsa is going to wake up as, he is constantly interrupted by door-to-door salesmen, young women, and his own inexplicable hallucinations.",
-      "releaseInfo": "1995",
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt0060089",
       "type": "movie",
       "name": "Alice in Wonderland",
@@ -266,17 +266,16 @@
       ]
     },
     {
-      "id": "tt0286049",
+      "id": "tt12289900",
       "type": "movie",
-      "name": "Schalcken the Painter",
-      "poster": "https://image.tmdb.org/t/p/w342/h5l75RLmMiVHlb6K5DMnybNgmdR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/AsDDOgHe9TEKY4xp0t6kp3jkjqR.jpg",
-      "description": "Can Schalcken save his love, Rose, from the clutches of a ghastly suitor before it is too late?",
-      "releaseInfo": "1979",
+      "name": "Good Omens: Lockdown",
+      "poster": "https://image.tmdb.org/t/p/w342/5hawLdQq2OIzteShCg4dwOw13Tu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/p32OyIAsAWoIHUoBeQjBfhaJmqF.jpg",
+      "description": "Aziraphale and Crowley talk over the phone about how they're dealing with the lockdown during the COVID-19 pandemic.",
+      "releaseInfo": "2020",
       "genres": [
-        "Drama",
-        "Fantasy",
-        "Horror"
+        "Comedy",
+        "Fantasy"
       ]
     },
     {
@@ -292,16 +291,17 @@
       ]
     },
     {
-      "id": "tt12289900",
+      "id": "tt0286049",
       "type": "movie",
-      "name": "Good Omens: Lockdown",
-      "poster": "https://image.tmdb.org/t/p/w342/5hawLdQq2OIzteShCg4dwOw13Tu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/p32OyIAsAWoIHUoBeQjBfhaJmqF.jpg",
-      "description": "Aziraphale and Crowley talk over the phone about how they're dealing with the lockdown during the COVID-19 pandemic.",
-      "releaseInfo": "2020",
+      "name": "Schalcken the Painter",
+      "poster": "https://image.tmdb.org/t/p/w342/h5l75RLmMiVHlb6K5DMnybNgmdR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/AsDDOgHe9TEKY4xp0t6kp3jkjqR.jpg",
+      "description": "Can Schalcken save his love, Rose, from the clutches of a ghastly suitor before it is too late?",
+      "releaseInfo": "1979",
       "genres": [
-        "Comedy",
-        "Fantasy"
+        "Drama",
+        "Fantasy",
+        "Horror"
       ]
     }
   ]

@@ -14,19 +14,6 @@
       ]
     },
     {
-      "id": "tt13991232",
-      "type": "series",
-      "name": "1883",
-      "poster": "https://image.tmdb.org/t/p/w342/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
-      "description": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America’s promised land — Montana.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama",
-        "Western"
-      ]
-    },
-    {
       "id": "tt16358384",
       "type": "series",
       "name": "Tulsa King",
@@ -36,20 +23,21 @@
       "releaseInfo": "2022",
       "genres": [
         "Crime",
-        "Drama"
+        "Drama",
+        "Comedy"
       ]
     },
     {
-      "id": "tt4236770",
+      "id": "tt13111078",
       "type": "series",
-      "name": "Yellowstone",
-      "poster": "https://image.tmdb.org/t/p/w342/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "description": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
-      "releaseInfo": "2018",
+      "name": "Lioness",
+      "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "releaseInfo": "2023",
       "genres": [
-        "Western",
-        "Drama"
+        "Drama",
+        "War"
       ]
     },
     {
@@ -66,16 +54,29 @@
       ]
     },
     {
-      "id": "tt13111078",
+      "id": "tt13991232",
       "type": "series",
-      "name": "Lioness",
-      "poster": "https://image.tmdb.org/t/p/w342/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "releaseInfo": "2023",
+      "name": "1883",
+      "poster": "https://image.tmdb.org/t/p/w342/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
+      "description": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America’s promised land — Montana.",
+      "releaseInfo": "2021",
       "genres": [
         "Drama",
-        "War"
+        "Western"
+      ]
+    },
+    {
+      "id": "tt4236770",
+      "type": "series",
+      "name": "Yellowstone",
+      "poster": "https://image.tmdb.org/t/p/w342/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+      "description": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Western",
+        "Drama"
       ]
     },
     {

@@ -17,7 +17,7 @@
       "type": "movie",
       "name": "An Awfully Big Adventure",
       "poster": "https://image.tmdb.org/t/p/w342/tfXBuRBMbyu9IF9KCFz3kXeWQDT.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jCMX5qTsYKxCHYBywCH8vzATLfU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6TEwh5BlOkaW9wgXatGlwQr9Lfg.jpg",
       "description": "Liverpool. 1947. Right after World War II, a star struck naive teenage girl joins a shabby theatre troupe in Liverpool. During a winter production of Peter Pan, the play quickly turns into a dark metaphor for youth as she becomes drawn into a web of sexual politics and intrigue and learns about the grown-up world of the theater.",
       "releaseInfo": "1995",
       "genres": [
@@ -53,19 +53,6 @@
       ]
     },
     {
-      "id": "tt0110889",
-      "type": "movie",
-      "name": "Priest",
-      "poster": "https://image.tmdb.org/t/p/w342/yCZ2eGJb78HzaYthNwVF8R0G6BG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7kxUMxyE3uTVRUEOmnxsmyEQp64.jpg",
-      "description": "The deeply held religious convictions of an idealistic young priest are challenged when he must face extraordinary events within his own congregation.",
-      "releaseInfo": "1995",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
       "id": "tt0112701",
       "type": "movie",
       "name": "Cold Comfort Farm",
@@ -75,6 +62,19 @@
       "releaseInfo": "1995",
       "genres": [
         "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0110889",
+      "type": "movie",
+      "name": "Priest",
+      "poster": "https://image.tmdb.org/t/p/w342/yCZ2eGJb78HzaYthNwVF8R0G6BG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7kxUMxyE3uTVRUEOmnxsmyEQp64.jpg",
+      "description": "The deeply held religious convictions of an idealistic young priest are challenged when he must face extraordinary events within his own congregation.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Drama",
         "Romance"
       ]
     },
@@ -845,7 +845,7 @@
       "type": "movie",
       "name": "Magical Mystery Tour",
       "poster": "https://image.tmdb.org/t/p/w342/uJSqSXCeK407l7t4zTXaYSJH0gL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/az5L3ksvP0e3y8AsfwVfE3MCdMy.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/NHuM9aazjbtewxp7K8n89qrSzm.jpg",
       "description": "While on a coach tour, The Beatles and a few dozen friends experience strange happenings caused by magicians.",
       "releaseInfo": "1967",
       "genres": [

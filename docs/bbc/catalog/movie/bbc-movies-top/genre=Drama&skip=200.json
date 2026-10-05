@@ -1,32 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0482552",
-      "type": "movie",
-      "name": "My Family and Other Animals",
-      "poster": "https://image.tmdb.org/t/p/w342/g53Z9aFT02lgSn2h3hX910DjS4f.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1Vrp1NCeFXnvkbOse80mRtwYgw8.jpg",
-      "description": "Escaping the dreary wet weather of 1930s England, an eccentric family uproot and ship themselves to the sunnier climes of the Greek island of Corfu.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Family"
-      ]
-    },
-    {
-      "id": "tt0487907",
-      "type": "movie",
-      "name": "Gideon's Daughter",
-      "poster": "https://image.tmdb.org/t/p/w342/7QNYM2gCTBEWuW5KqOJ8wS2dABb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iYzeI1DxZliyYv4Xab06MIaDwLf.jpg",
-      "description": "Bill Nighy and Miranda Richardson star in a story of grief and celebrity, set in the intense spring and summer of New Labour's election victory and Diana's death. Nighy is a PR guru who has to stop and re-evaluate his world when his daughter threatens to leave his life, perhaps as revenge for his serial infidelities. Richardson plays a mother trying to bury her grief in an unconventional way after the loss of her young son.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0366777",
       "type": "movie",
       "name": "Millions",
@@ -39,19 +13,6 @@
         "Crime",
         "Drama",
         "Family"
-      ]
-    },
-    {
-      "id": "tt0280778",
-      "type": "movie",
-      "name": "Iris",
-      "poster": "https://image.tmdb.org/t/p/w342/sm1ve46SuxDVywnvVEg2XvhvlK8.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xoLuu4u6CpiL72n5nLo2f4H9613.jpg",
-      "description": "True story of the lifelong romance between novelist Iris Murdoch and her husband John Bayley, from their student days through her battle with Alzheimer's disease.",
-      "releaseInfo": "2001",
-      "genres": [
-        "Drama",
-        "Romance"
       ]
     },
     {
@@ -81,15 +42,55 @@
       ]
     },
     {
+      "id": "tt0477095",
+      "type": "movie",
+      "name": "Starter for 10",
+      "poster": "https://image.tmdb.org/t/p/w342/m0NU3kgn87iNffUUDeItUXZKUKl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1aIM2oiOBH5TJsvjcdU6ca9zwQX.jpg",
+      "description": "In 1985, against the backdrop of Thatcherism, Brian Jackson enrolls in the University of Bristol, a scholarship boy from seaside Essex with a love of knowledge for its own sake and a childhood spent watching University Challenge, a college quiz show. At Bristol he tries out for the Challenge team and falls under the spell of Alice, a lovely blond with an extensive sexual past.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0280778",
+      "type": "movie",
+      "name": "Iris",
+      "poster": "https://image.tmdb.org/t/p/w342/sm1ve46SuxDVywnvVEg2XvhvlK8.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xoLuu4u6CpiL72n5nLo2f4H9613.jpg",
+      "description": "True story of the lifelong romance between novelist Iris Murdoch and her husband John Bayley, from their student days through her battle with Alzheimer's disease.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
       "id": "tt9892094",
       "type": "movie",
       "name": "Mogul Mowgli",
-      "poster": "https://image.tmdb.org/t/p/w342/n65YDWlWUoNFOYGdFIAs3TlyWo3.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/OjYSteqzkGTeJp6FIuc3CUxAcE.jpg",
       "background": "https://image.tmdb.org/t/p/w780/2ORCF7OtyRsTd1O2WcI63WzDKG6.jpg",
       "description": "Zed, a young British rapper, is about to start his first world tour, when a crippling illness strikes him down, forcing him to move back in with his family. He tries to find himself between an international music career and Pakistani family traditions.",
       "releaseInfo": "2020",
       "genres": [
         "Music",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2967006",
+      "type": "movie",
+      "name": "The Trip to Italy",
+      "poster": "https://image.tmdb.org/t/p/w342/gbdN1MGJI2vIV9yKqDkAsazWQIT.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bUskzsM9bRSo7nVBxzRzEfRWZVF.jpg",
+      "description": "Years after their successful restaurant review tour of Northern England, Steve Coogan and Rob Brydon are commissioned for a new tour in Italy.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Comedy",
         "Drama"
       ]
     },
@@ -103,6 +104,19 @@
       "releaseInfo": "2017",
       "genres": [
         "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1760967",
+      "type": "movie",
+      "name": "Ill Manors",
+      "poster": "https://image.tmdb.org/t/p/w342/qhN0X6sDUalPxoNRfuUIBR6QmSO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nWJPW8Z2fZr9vmBzqlLh2o5vOac.jpg",
+      "description": "Ensemble film revolving around characters living in Forest Gate, London. Over the course of a few days, six inter-linking stories explore issues of drug use, prostitution and urban poverty.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Crime",
         "Drama"
       ]
     },
@@ -131,20 +145,6 @@
         "Drama",
         "Family",
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt2904626",
-      "type": "movie",
-      "name": "Salting the Battlefield",
-      "poster": "https://image.tmdb.org/t/p/w342/2K38pRnuSWEW4VnEDCk65GZin5h.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gUp091KVfT6rVXzcQ3QSSQ4eysf.jpg",
-      "description": "David Hare concludes his trilogy of films about MI5 renegade Johnny Worricker with another fugue on power, secrets and the British establishment. Johnny Worricker goes on the run with Margot Tyrell across Europe, and with the net closing in, the former MI5 man knows his only chance of resolving his problems is to return home and confront prime minister Alec Beasley.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Action",
-        "Drama",
-        "Crime"
       ]
     },
     {
@@ -203,19 +203,6 @@
       ]
     },
     {
-      "id": "tt1760967",
-      "type": "movie",
-      "name": "Ill Manors",
-      "poster": "https://image.tmdb.org/t/p/w342/qhN0X6sDUalPxoNRfuUIBR6QmSO.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nWJPW8Z2fZr9vmBzqlLh2o5vOac.jpg",
-      "description": "Ensemble film revolving around characters living in Forest Gate, London. Over the course of a few days, six inter-linking stories explore issues of drug use, prostitution and urban poverty.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0926380",
       "type": "movie",
       "name": "The Boys Are Back",
@@ -238,19 +225,6 @@
       "genres": [
         "Drama",
         "Family"
-      ]
-    },
-    {
-      "id": "tt0412536",
-      "type": "movie",
-      "name": "Brideshead Revisited",
-      "poster": "https://image.tmdb.org/t/p/w342/yCkPDr0Yv8HdrHzKxqToUsZqFLt.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yXF89vOhQeGl4ayy1jez67zTPHd.jpg",
-      "description": "Befriended by aristocrat Sebastian Flyte, Oxford student Charles Ryder finds that the power and privilege experienced by the family is seductive. On a visit to the ancestral home, Brideshead, he falls in love with his friend's sister, Julia.  However, as his ties to the Flytes deepen, Ryder finds himself at odds with their strong Roman Catholicism.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Drama",
-        "Romance"
       ]
     },
     {
@@ -426,6 +400,74 @@
       ]
     },
     {
+      "id": "tt2904626",
+      "type": "movie",
+      "name": "Salting the Battlefield",
+      "poster": "https://image.tmdb.org/t/p/w342/2K38pRnuSWEW4VnEDCk65GZin5h.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gUp091KVfT6rVXzcQ3QSSQ4eysf.jpg",
+      "description": "David Hare concludes his trilogy of films about MI5 renegade Johnny Worricker with another fugue on power, secrets and the British establishment. Johnny Worricker goes on the run with Margot Tyrell across Europe, and with the net closing in, the former MI5 man knows his only chance of resolving his problems is to return home and confront prime minister Alec Beasley.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Action",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0412536",
+      "type": "movie",
+      "name": "Brideshead Revisited",
+      "poster": "https://image.tmdb.org/t/p/w342/yCkPDr0Yv8HdrHzKxqToUsZqFLt.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yXF89vOhQeGl4ayy1jez67zTPHd.jpg",
+      "description": "Befriended by aristocrat Sebastian Flyte, Oxford student Charles Ryder finds that the power and privilege experienced by the family is seductive. On a visit to the ancestral home, Brideshead, he falls in love with his friend's sister, Julia.  However, as his ties to the Flytes deepen, Ryder finds himself at odds with their strong Roman Catholicism.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0119942",
+      "type": "movie",
+      "name": "Primary Colors",
+      "poster": "https://image.tmdb.org/t/p/w342/RXEgVSEBkMnV8LkEGkBpuz3mkD.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8S0fdn8FumgyqEN2yQDeVfBFOk1.jpg",
+      "description": "In this adaptation of the best-selling roman à clef about Bill Clinton's 1992 run for the White House, the young and gifted Henry Burton is tapped to oversee the presidential campaign of Governor Jack Stanton. Burton is pulled into the politician's colorful world and looks on as Stanton -- who has a wandering eye that could be his downfall -- contends with his ambitious wife, Susan, and an outspoken adviser, Richard Jemmons.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt1718903",
+      "type": "movie",
+      "name": "StreetDance 2",
+      "poster": "https://image.tmdb.org/t/p/w342/bwg8qnQKAbT3EJubK8qyWfi9hTl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iV3FuoJa6d6LtYVteQxLgoW19X.jpg",
+      "description": "After suffering humiliation by the crew Invincible, street dancer Ash looks to gather the best dancers from around the world for a rematch.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Music",
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2908856",
+      "type": "movie",
+      "name": "My Old Lady",
+      "poster": "https://image.tmdb.org/t/p/w342/hPLAUrmJkXdv1sEtIqk9EwXvmbH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/coQ2NtQbLEmrIVE2CnzCr5j3hYK.jpg",
+      "description": "Mathias Gold is a down-on-his-luck New Yorker who inherits a Parisian apartment from his estranged father. But when he arrives in France to sell the vast domicile, he's shocked to discover a live-in tenant who is not prepared to budge. His apartment is a viager—an ancient French real estate system with complex rules pertaining to its resale—and the feisty Englishwoman Mathilde Girard, who has lived in the apartment with her daughter Chloé for many years, can by contract collect monthly payments from Mathias until her death.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt28366692",
       "type": "movie",
       "name": "Janet Planet",
@@ -446,20 +488,6 @@
       "description": "One fateful night in a small English regional theatre during World War II a troupe of touring actors stage a production of Shakespeares King Lear. Bombs are falling, sirens are wailing, the curtain is up in an hour but the actor/manager Sir who is playing Lear is nowhere to be seen. His dresser Norman must scramble to keep the production alive but will Sir turn up in time and if he does will he be able to perform that night? The Dresser is a wickedly funny and deeply moving story of friendship and loyalty as Sir reflects on his lifelong accomplishments and seeks to reconcile his turbulent friendships with those in his employ before the final curtain.",
       "releaseInfo": "2015",
       "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2908856",
-      "type": "movie",
-      "name": "My Old Lady",
-      "poster": "https://image.tmdb.org/t/p/w342/hPLAUrmJkXdv1sEtIqk9EwXvmbH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/coQ2NtQbLEmrIVE2CnzCr5j3hYK.jpg",
-      "description": "Mathias Gold is a down-on-his-luck New Yorker who inherits a Parisian apartment from his estranged father. But when he arrives in France to sell the vast domicile, he's shocked to discover a live-in tenant who is not prepared to budge. His apartment is a viager—an ancient French real estate system with complex rules pertaining to its resale—and the feisty Englishwoman Mathilde Girard, who has lived in the apartment with her daughter Chloé for many years, can by contract collect monthly payments from Mathias until her death.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Romance",
-        "Comedy",
         "Drama"
       ]
     },
@@ -489,20 +517,6 @@
       ]
     },
     {
-      "id": "tt1718903",
-      "type": "movie",
-      "name": "StreetDance 2",
-      "poster": "https://image.tmdb.org/t/p/w342/bwg8qnQKAbT3EJubK8qyWfi9hTl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iV3FuoJa6d6LtYVteQxLgoW19X.jpg",
-      "description": "After suffering humiliation by the crew Invincible, street dancer Ash looks to gather the best dancers from around the world for a rematch.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Music",
-        "Romance",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt1429313",
       "type": "movie",
       "name": "Africa United",
@@ -514,33 +528,6 @@
         "Drama",
         "Comedy",
         "Adventure"
-      ]
-    },
-    {
-      "id": "tt0819714",
-      "type": "movie",
-      "name": "The Edge of Love",
-      "poster": "https://image.tmdb.org/t/p/w342/uo7ZDvipL2OZu6G44hDP0sjDZ9n.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fiRxDoAHRLko3ycPtw1EeWaKxTQ.jpg",
-      "description": "When the Welsh poet Dylan Thomas and his flirtatious wife Caitlin sweep into war-torn London, the last thing they expect is to bump into Dylan's childhood sweetheart Vera. Despite her joy at seeing Dylan after so many years, Vera is swept off her feet by a dashing officer, William Killick, and finds herself torn between the open adoration of her new found beau and the wily charms of the exotic Welshman.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Drama",
-        "History",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tt0382189",
-      "type": "movie",
-      "name": "My Summer of Love",
-      "poster": "https://image.tmdb.org/t/p/w342/47eozMel2wZgEASToUzScsPVpDs.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yyD97jO6qJDKuI016aD3a0nTpml.jpg",
-      "description": "In the Yorkshire countryside, working-class tomboy Mona meets the exotic, pampered Tamsin. To seal their friendship, Mona introduces Tamsin to her born-again Christian brother and helps her spy on her adulterous father. Bound together by their secrets, the two girls see their friendship deepen and enter into dangerous waters.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Drama",
-        "Romance"
       ]
     },
     {
@@ -612,19 +599,6 @@
       ]
     },
     {
-      "id": "tt0119942",
-      "type": "movie",
-      "name": "Primary Colors",
-      "poster": "https://image.tmdb.org/t/p/w342/RXEgVSEBkMnV8LkEGkBpuz3mkD.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8S0fdn8FumgyqEN2yQDeVfBFOk1.jpg",
-      "description": "In this adaptation of the best-selling roman à clef about Bill Clinton's 1992 run for the White House, the young and gifted Henry Burton is tapped to oversee the presidential campaign of Governor Jack Stanton. Burton is pulled into the politician's colorful world and looks on as Stanton -- who has a wandering eye that could be his downfall -- contends with his ambitious wife, Susan, and an outspoken adviser, Richard Jemmons.",
-      "releaseInfo": "1998",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt0116594",
       "type": "movie",
       "name": "I Shot Andy Warhol",
@@ -680,15 +654,69 @@
       ]
     },
     {
-      "id": "tt13610344",
+      "id": "tt0105316",
       "type": "movie",
-      "name": "Harvest",
-      "poster": "https://image.tmdb.org/t/p/w342/semdbWe02N2vfUYsJ2gAPmlQTpS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ctjt6UKyTDV3UqEaVt6bcjaOg19.jpg",
-      "description": "Over seven hallucinatory days, a village with no name, in an undefined time and place, disappears.",
-      "releaseInfo": "2025",
+      "name": "Sarafina!",
+      "poster": "https://image.tmdb.org/t/p/w342/jAbU0p1hQErFIErJPmUG3n91xgn.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/lsKlPoqRy0nzquK3Iv8jOY0FnaO.jpg",
+      "description": "A Soweto schoolgirl named Sarafina is galvanized to protest apartheid after her teacher is arrested for her activism, leading her to join the student resistance movement.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Music",
+        "Drama",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0819714",
+      "type": "movie",
+      "name": "The Edge of Love",
+      "poster": "https://image.tmdb.org/t/p/w342/uo7ZDvipL2OZu6G44hDP0sjDZ9n.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fiRxDoAHRLko3ycPtw1EeWaKxTQ.jpg",
+      "description": "When the Welsh poet Dylan Thomas and his flirtatious wife Caitlin sweep into war-torn London, the last thing they expect is to bump into Dylan's childhood sweetheart Vera. Despite her joy at seeing Dylan after so many years, Vera is swept off her feet by a dashing officer, William Killick, and finds herself torn between the open adoration of her new found beau and the wily charms of the exotic Welshman.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0382189",
+      "type": "movie",
+      "name": "My Summer of Love",
+      "poster": "https://image.tmdb.org/t/p/w342/47eozMel2wZgEASToUzScsPVpDs.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yyD97jO6qJDKuI016aD3a0nTpml.jpg",
+      "description": "In the Yorkshire countryside, working-class tomboy Mona meets the exotic, pampered Tamsin. To seal their friendship, Mona introduces Tamsin to her born-again Christian brother and helps her spy on her adulterous father. Bound together by their secrets, the two girls see their friendship deepen and enter into dangerous waters.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt2132485",
+      "type": "movie",
+      "name": "The Girl",
+      "poster": "https://image.tmdb.org/t/p/w342/3LKSvrDqOWGvbE3JPleBrQeo0jO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hA9PSz23iaYt0ZtPC45UnROT6SA.jpg",
+      "description": "Director Alfred Hitchcock is revered as one of the greatest creative minds in the history of cinema. Known for his psychological thrillers, Hitchcock’s leading ladies were cool, beautiful and preferably blonde. One such actress was Tippi Hedren, an unknown fashion model given her big break when Hitchcock’s wife saw her on a TV commercial. Brought to Universal Studios, Hedren was shocked when the director, at the peak of his career, quickly cast her to star in his next feature, 1963’s The Birds. Little did Hedren know that as ambitious and terrifying as the production would be to shoot, the most daunting aspect of the film ended up coming from behind the camera.",
+      "releaseInfo": "2012",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt1667321",
+      "type": "movie",
+      "name": "On Chesil Beach",
+      "poster": "https://image.tmdb.org/t/p/w342/7uRdd5NawI9iTQ5oWIKYjqNkyc1.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/lX3ag7lRucBnplL2nQiYkOyssbj.jpg",
+      "description": "In 1962 England, a young couple finds their idyllic romance colliding with issues of sexual freedom and societal pressure, leading to an awkward and fateful wedding night.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Romance"
       ]
     },
     {
@@ -759,13 +787,13 @@
       ]
     },
     {
-      "id": "tt1667321",
+      "id": "tt6920356",
       "type": "movie",
-      "name": "On Chesil Beach",
-      "poster": "https://image.tmdb.org/t/p/w342/7uRdd5NawI9iTQ5oWIKYjqNkyc1.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/lX3ag7lRucBnplL2nQiYkOyssbj.jpg",
-      "description": "In 1962 England, a young couple finds their idyllic romance colliding with issues of sexual freedom and societal pressure, leading to an awkward and fateful wedding night.",
-      "releaseInfo": "2018",
+      "name": "The Souvenir",
+      "poster": "https://image.tmdb.org/t/p/w342/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kIu6aYaUxBUUfJ0l0sLNW1qh45u.jpg",
+      "description": "A shy but ambitious film student falls into an intense, emotionally fraught relationship with a charismatic but untrustworthy older man.",
+      "releaseInfo": "2019",
       "genres": [
         "Drama",
         "Romance"
@@ -781,18 +809,6 @@
       "releaseInfo": "2014",
       "genres": [
         "Romance",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2132485",
-      "type": "movie",
-      "name": "The Girl",
-      "poster": "https://image.tmdb.org/t/p/w342/3LKSvrDqOWGvbE3JPleBrQeo0jO.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hA9PSz23iaYt0ZtPC45UnROT6SA.jpg",
-      "description": "Director Alfred Hitchcock is revered as one of the greatest creative minds in the history of cinema. Known for his psychological thrillers, Hitchcock’s leading ladies were cool, beautiful and preferably blonde. One such actress was Tippi Hedren, an unknown fashion model given her big break when Hitchcock’s wife saw her on a TV commercial. Brought to Universal Studios, Hedren was shocked when the director, at the peak of his career, quickly cast her to star in his next feature, 1963’s The Birds. Little did Hedren know that as ambitious and terrifying as the production would be to shoot, the most daunting aspect of the film ended up coming from behind the camera.",
-      "releaseInfo": "2012",
-      "genres": [
         "Drama"
       ]
     },
@@ -892,20 +908,6 @@
       ]
     },
     {
-      "id": "tt0105316",
-      "type": "movie",
-      "name": "Sarafina!",
-      "poster": "https://image.tmdb.org/t/p/w342/jAbU0p1hQErFIErJPmUG3n91xgn.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/lsKlPoqRy0nzquK3Iv8jOY0FnaO.jpg",
-      "description": "A Soweto schoolgirl named Sarafina is galvanized to protest apartheid after her teacher is arrested for her activism, leading her to join the student resistance movement.",
-      "releaseInfo": "1992",
-      "genres": [
-        "Music",
-        "Drama",
-        "Family"
-      ]
-    },
-    {
       "id": "tt0069316",
       "type": "movie",
       "name": "The Stone Tape",
@@ -920,79 +922,15 @@
       ]
     },
     {
-      "id": "tt17521612",
+      "id": "tt13610344",
       "type": "movie",
-      "name": "Starve Acre",
-      "poster": "https://image.tmdb.org/t/p/w342/5j37QHXuNygzEa2X54RMlOb6hj3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/f74BDYMlNCYf797Wj0guOzDXFyz.jpg",
-      "description": "When their son starts acting strangely, a couple unwittingly allow dark and sinister forces into their home, awakening a long-dormant ancient evil rooted deep in the countryside.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Horror",
-        "Drama",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt14397058",
-      "type": "movie",
-      "name": "Aisha",
-      "poster": "https://image.tmdb.org/t/p/w342/5tazlFOBWLxsFLdJbpZkRMwrMNz.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tqw3TdWNb6pvI4P4ysoejt84A7e.jpg",
-      "description": "Aisha lives at a centre for asylum-seekers in Ireland in a state of ongoing uncertainty. Having fled Nigeria after a violent gang murdered members of her family, she is desperately trying to find some degree of permanency, where she and her mother can be reunited and live without fear. As she navigates the complex legal system to seek settlement in Ireland, she sparks an unlikely friendship with Conor, a new guard at the centre. A former prisoner, Conor’s life experience and calming presence resonate with Aisha, allowing for a tentative romance to begin. But the bond between the pair comes under strain as the threat of deportation looms ever larger.",
-      "releaseInfo": "2022",
+      "name": "Harvest",
+      "poster": "https://image.tmdb.org/t/p/w342/semdbWe02N2vfUYsJ2gAPmlQTpS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ctjt6UKyTDV3UqEaVt6bcjaOg19.jpg",
+      "description": "Over seven hallucinatory days, a village with no name, in an undefined time and place, disappears.",
+      "releaseInfo": "2025",
       "genres": [
         "Drama"
-      ]
-    },
-    {
-      "id": "tt6920356",
-      "type": "movie",
-      "name": "The Souvenir",
-      "poster": "https://image.tmdb.org/t/p/w342/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kIu6aYaUxBUUfJ0l0sLNW1qh45u.jpg",
-      "description": "A shy but ambitious film student falls into an intense, emotionally fraught relationship with a charismatic but untrustworthy older man.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tt7473890",
-      "type": "movie",
-      "name": "King Lear",
-      "poster": "https://image.tmdb.org/t/p/w342/dHd0YS1PGxjfZCVbYi9Hetg7zZd.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rxYjrlnDWTE8OdhthCfUrEHpUBe.jpg",
-      "description": "An aging King invites disaster, when he abdicates to his corrupt, toadying daughters, and rejects his loving and honest one.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2115295",
-      "type": "movie",
-      "name": "Ginger & Rosa",
-      "poster": "https://image.tmdb.org/t/p/w342/5EmQri2RwjN5zELdAtUY52k71pN.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg",
-      "description": "A look at the lives of two teenage girls - inseparable friends Ginger and Rosa -- growing up in 1960s London as the Cuban Missile Crisis looms, and the pivotal event the comes to redefine their relationship.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1744825",
-      "type": "movie",
-      "name": "Atlantis: End of a World, Birth of a Legend",
-      "poster": "https://image.tmdb.org/t/p/w342/kUeKPNHU3ESdStA1Oy2hGHbTPva.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5DS25KiQfqReYLsy1FhSoO5KFGC.jpg",
-      "description": "Tells the story of the greatest natural disaster of the ancient world, an event that experts believe inspired the legend of Atlantis.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Drama",
-        "History"
       ]
     },
     {
@@ -1008,6 +946,43 @@
         "Drama",
         "History",
         "Thriller"
+      ]
+    },
+    {
+      "id": "tt14397058",
+      "type": "movie",
+      "name": "Aisha",
+      "poster": "https://image.tmdb.org/t/p/w342/5tazlFOBWLxsFLdJbpZkRMwrMNz.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tqw3TdWNb6pvI4P4ysoejt84A7e.jpg",
+      "description": "Aisha lives at a centre for asylum-seekers in Ireland in a state of ongoing uncertainty. Having fled Nigeria after a violent gang murdered members of her family, she is desperately trying to find some degree of permanency, where she and her mother can be reunited and live without fear. As she navigates the complex legal system to seek settlement in Ireland, she sparks an unlikely friendship with Conor, a new guard at the centre. A former prisoner, Conor’s life experience and calming presence resonate with Aisha, allowing for a tentative romance to begin. But the bond between the pair comes under strain as the threat of deportation looms ever larger.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt7473890",
+      "type": "movie",
+      "name": "King Lear",
+      "poster": "https://image.tmdb.org/t/p/w342/dHd0YS1PGxjfZCVbYi9Hetg7zZd.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rxYjrlnDWTE8OdhthCfUrEHpUBe.jpg",
+      "description": "An aging King invites disaster, when he abdicates to his corrupt, toadying daughters, and rejects his loving and honest one.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1744825",
+      "type": "movie",
+      "name": "Atlantis: End of a World, Birth of a Legend",
+      "poster": "https://image.tmdb.org/t/p/w342/kUeKPNHU3ESdStA1Oy2hGHbTPva.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5DS25KiQfqReYLsy1FhSoO5KFGC.jpg",
+      "description": "Tells the story of the greatest natural disaster of the ancient world, an event that experts believe inspired the legend of Atlantis.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "History"
       ]
     },
     {
@@ -1106,19 +1081,6 @@
       ]
     },
     {
-      "id": "tt0136244",
-      "type": "movie",
-      "name": "Hideous Kinky",
-      "poster": "https://image.tmdb.org/t/p/w342/c1uprmmhS6LFt5GDcUuugcTBqDw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/k6KrLaa1QogrCBQB47wcRu2iVPC.jpg",
-      "description": "In 1972, disenchanted about the dreary conventions of English life, 25-year-old Julia heads for Morocco with her daughters, six-year-old Lucy and precocious eight-year-old Bea.",
-      "releaseInfo": "1999",
-      "genres": [
-        "Romance",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0126810",
       "type": "movie",
       "name": "Bedrooms and Hallways",
@@ -1160,6 +1122,59 @@
       ]
     },
     {
+      "id": "tt2115295",
+      "type": "movie",
+      "name": "Ginger & Rosa",
+      "poster": "https://image.tmdb.org/t/p/w342/5EmQri2RwjN5zELdAtUY52k71pN.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/c53IsqiV0cFPSvnDWjrTPqBA2Nj.jpg",
+      "description": "A look at the lives of two teenage girls - inseparable friends Ginger and Rosa -- growing up in 1960s London as the Cuban Missile Crisis looms, and the pivotal event the comes to redefine their relationship.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt17521612",
+      "type": "movie",
+      "name": "Starve Acre",
+      "poster": "https://image.tmdb.org/t/p/w342/5j37QHXuNygzEa2X54RMlOb6hj3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/f74BDYMlNCYf797Wj0guOzDXFyz.jpg",
+      "description": "When their son starts acting strangely, a couple unwittingly allow dark and sinister forces into their home, awakening a long-dormant ancient evil rooted deep in the countryside.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt3319730",
+      "type": "movie",
+      "name": "The Mercy",
+      "poster": "https://image.tmdb.org/t/p/w342/51qWwl16Mb0hqorgffCtyENwTPP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/acKU4LlCFgcbjsL2IjtD4mPzlq7.jpg",
+      "description": "In 1968, Donald Crowhurst, an amateur sailor, endangers the fate of his family and business, and his own life, blinded by his ambition to compete in the Sunday Times Golden Globe Race, attempting to become the first person in history to single-handedly circumnavigate the world without making any stopover.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt1700845",
+      "type": "movie",
+      "name": "The Invisible Woman",
+      "poster": "https://image.tmdb.org/t/p/w342/1qurTmuj36prAz4BG71hC9r2n02.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3CXIH1cc3Da9Ubk5Xgzqh5a88QS.jpg",
+      "description": "In 1857, at the height of his fame and fortune, novelist and social critic Charles Dickens meets and falls in love with teenage stage actress Nelly Ternan. As she becomes the focus of his heart and mind, as well as his muse, painful secrecy is the price both must pay.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ]
+    },
+    {
       "id": "tt18235146",
       "type": "movie",
       "name": "Club Zero",
@@ -1188,19 +1203,6 @@
       ]
     },
     {
-      "id": "tt3319730",
-      "type": "movie",
-      "name": "The Mercy",
-      "poster": "https://image.tmdb.org/t/p/w342/51qWwl16Mb0hqorgffCtyENwTPP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/acKU4LlCFgcbjsL2IjtD4mPzlq7.jpg",
-      "description": "In 1968, Donald Crowhurst, an amateur sailor, endangers the fate of his family and business, and his own life, blinded by his ambition to compete in the Sunday Times Golden Globe Race, attempting to become the first person in history to single-handedly circumnavigate the world without making any stopover.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Adventure"
-      ]
-    },
-    {
       "id": "tt4590930",
       "type": "movie",
       "name": "The Gamechangers",
@@ -1210,20 +1212,6 @@
       "releaseInfo": "2015",
       "genres": [
         "Drama"
-      ]
-    },
-    {
-      "id": "tt1700845",
-      "type": "movie",
-      "name": "The Invisible Woman",
-      "poster": "https://image.tmdb.org/t/p/w342/1qurTmuj36prAz4BG71hC9r2n02.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3CXIH1cc3Da9Ubk5Xgzqh5a88QS.jpg",
-      "description": "In 1857, at the height of his fame and fortune, novelist and social critic Charles Dickens meets and falls in love with teenage stage actress Nelly Ternan. As she becomes the focus of his heart and mind, as well as his muse, painful secrecy is the price both must pay.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Drama",
-        "History",
-        "Romance"
       ]
     },
     {
@@ -1265,6 +1253,19 @@
       ]
     },
     {
+      "id": "tt0136244",
+      "type": "movie",
+      "name": "Hideous Kinky",
+      "poster": "https://image.tmdb.org/t/p/w342/c1uprmmhS6LFt5GDcUuugcTBqDw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/k6KrLaa1QogrCBQB47wcRu2iVPC.jpg",
+      "description": "In 1972, disenchanted about the dreary conventions of English life, 25-year-old Julia heads for Morocco with her daughters, six-year-old Lucy and precocious eight-year-old Bea.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt1963768",
       "type": "movie",
       "name": "The Lost Language of Cranes",
@@ -1274,6 +1275,46 @@
       "releaseInfo": "1992",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt1372686",
+      "type": "movie",
+      "name": "Coriolanus",
+      "poster": "https://image.tmdb.org/t/p/w342/6W6In8IUJMkxB8aBipulho6QLDd.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jl4AOwQ6nxt8yXfVJvjHsKSaV7a.jpg",
+      "description": "Caius Martius, aka Coriolanus, is an arrogant and fearsome general who has built a career on protecting Rome from its enemies. Pushed by his ambitious mother to seek the position of consul, Coriolanus is at odds with the masses and unpopular with certain colleagues. When a riot results in his expulsion from Rome, Coriolanus seeks out his sworn enemy, Tullus Aufidius. Together, the pair vow to destroy the great city.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt2402105",
+      "type": "movie",
+      "name": "Dom Hemingway",
+      "poster": "https://image.tmdb.org/t/p/w342/hvrUPdZUDlSn1S4KCW5IdIMGS5D.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kBenhxySFb2NhRJjCVLRCiTqYPr.jpg",
+      "description": "After spending 12 years in prison for keeping his mouth shut, notorious safe-cracker Dom Hemingway is back on the streets of London looking to collect what he's owed.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt1789074",
+      "type": "movie",
+      "name": "The Night Watch",
+      "poster": "https://image.tmdb.org/t/p/w342/ioEzgZFFZZGnrhI2rsIy7R0a4WI.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ggWV74vWCNjyBaa4dd8SBPMnxzp.jpg",
+      "description": "Four Londoners are inseparably linked by their wartime experiences. In a time when the barriers of sexuality and social convention have been broken down, they enjoy a freedom never experienced before.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "War"
       ]
     },
     {
@@ -1288,45 +1329,6 @@
         "Drama",
         "Mystery",
         "Thriller"
-      ]
-    },
-    {
-      "id": "tt14640242",
-      "type": "movie",
-      "name": "Together",
-      "poster": "https://image.tmdb.org/t/p/w342/oeocQg0Bhmy0pqqRy50wEo0iwFB.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gEVeQNyfGzwV010MAGkBCmpwU7i.jpg",
-      "description": "A husband and wife are forced to re-evaluate themselves and their relationship through the reality of the Covid-19 lockdown.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt4177018",
-      "type": "movie",
-      "name": "VS.",
-      "poster": "https://image.tmdb.org/t/p/w342/ecOR5ZFE05lmsQoQ861OkfsnEif.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dk1tIUKWPXQXdkAxx9zKyfRuvdz.jpg",
-      "description": "VS. is an urban rites of passage drama set in the hostile and exciting UK rap battle scene.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Music"
-      ]
-    },
-    {
-      "id": "tt5862902",
-      "type": "movie",
-      "name": "Yardie",
-      "poster": "https://image.tmdb.org/t/p/w342/toK5rixhrjA98ENLb2wSOV10eJw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vj0hnbPo4QM4Oh8ixTX0SEhvTse.jpg",
-      "description": "Jamaica, 1973. When a young boy witnesses his brother’s assassination, a powerful Don gives him a home. But 10 years later, when he’s sent to London, his past catches up to him.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Crime",
-        "Drama"
       ]
     }
   ]

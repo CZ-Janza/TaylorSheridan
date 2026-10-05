@@ -59,19 +59,6 @@
       ]
     },
     {
-      "id": "tt4761112",
-      "type": "movie",
-      "name": "The Mauritanian",
-      "poster": "https://image.tmdb.org/t/p/w342/lIADEa6oH74uUapjsPbNRzxus8M.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dXQLVJxvScwtUtORAiaAxgikmtC.jpg",
-      "description": "The true story of the Mauritanian Mohamedou Ould Slahi, who was held at the U.S military's Guantanamo Bay detention center without charges for over a decade and sought help from a defense attorney for his release.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt4271918",
       "type": "movie",
       "name": "An Inspector Calls",
@@ -84,6 +71,19 @@
         "Crime",
         "Thriller",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt4761112",
+      "type": "movie",
+      "name": "The Mauritanian",
+      "poster": "https://image.tmdb.org/t/p/w342/lIADEa6oH74uUapjsPbNRzxus8M.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dXQLVJxvScwtUtORAiaAxgikmtC.jpg",
+      "description": "The true story of the Mauritanian Mohamedou Ould Slahi, who was held at the U.S military's Guantanamo Bay detention center without charges for over a decade and sought help from a defense attorney for his release.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Thriller"
       ]
     },
     {
@@ -101,20 +101,6 @@
       ]
     },
     {
-      "id": "tt2421662",
-      "type": "movie",
-      "name": "The Challenger Disaster",
-      "poster": "https://image.tmdb.org/t/p/w342/ltSiY7rORMGlSHGI7Lr0sgI8D6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tvzGlFkOHApPOckWN7PSNScGDbx.jpg",
-      "description": "When the space shuttle Challenger blew up in 1986, it was the most shocking event in the history of American spaceflight. The deaths of seven astronauts, including the first teacher in space Christa McAuliffe, were watched live on television by millions of viewers. But what was more shocking was that the cause of the disaster might never be uncovered. The Challenger is the story of how Richard Feynman, one of America's most famous scientists, helped to discover the cause of a tragedy that stunned America.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Thriller",
-        "Drama",
-        "History"
-      ]
-    },
-    {
       "id": "tt0765443",
       "type": "movie",
       "name": "Eastern Promises",
@@ -126,6 +112,20 @@
         "Thriller",
         "Crime",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt2421662",
+      "type": "movie",
+      "name": "The Challenger Disaster",
+      "poster": "https://image.tmdb.org/t/p/w342/ltSiY7rORMGlSHGI7Lr0sgI8D6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tvzGlFkOHApPOckWN7PSNScGDbx.jpg",
+      "description": "When the space shuttle Challenger blew up in 1986, it was the most shocking event in the history of American spaceflight. The deaths of seven astronauts, including the first teacher in space Christa McAuliffe, were watched live on television by millions of viewers. But what was more shocking was that the cause of the disaster might never be uncovered. The Challenger is the story of how Richard Feynman, one of America's most famous scientists, helped to discover the cause of a tragedy that stunned America.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "History"
       ]
     },
     {
@@ -227,21 +227,6 @@
       ]
     },
     {
-      "id": "tt1226273",
-      "type": "movie",
-      "name": "Edge of Darkness",
-      "poster": "https://image.tmdb.org/t/p/w342/pvHjp1vEFmp5FquSCPQ2O95tIZJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8srpvfRNT9qenQZACPTXDZYXitL.jpg",
-      "description": "As a seasoned homicide detective, Thomas Craven has seen the bleakest side of humanity. But nothing prepares him for the toughest investigation of his life: the search for his only daughter Emma's killer. Now, he is on a personal mission to uncover the disturbing secrets surrounding her murder, including corporate corruption, government collusion and Emma's own mysterious life.",
-      "releaseInfo": "2010",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt1282016",
       "type": "movie",
       "name": "The 39 Steps",
@@ -269,17 +254,31 @@
       ]
     },
     {
-      "id": "tt1687901",
+      "id": "tt1226273",
       "type": "movie",
-      "name": "The Awakening",
-      "poster": "https://image.tmdb.org/t/p/w342/txmiJkl8su0jkEABLIHZBqVHrTj.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1Rw3KOjmKY4QrJ9MKugIo3F5FjO.jpg",
-      "description": "In post–War England, a writer and sometime-ghost hunter investigates a reported haunting at a boys boarding school.",
-      "releaseInfo": "2011",
+      "name": "Edge of Darkness",
+      "poster": "https://image.tmdb.org/t/p/w342/pvHjp1vEFmp5FquSCPQ2O95tIZJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8srpvfRNT9qenQZACPTXDZYXitL.jpg",
+      "description": "As a seasoned homicide detective, Thomas Craven has seen the bleakest side of humanity. But nothing prepares him for the toughest investigation of his life: the search for his only daughter Emma's killer. Now, he is on a personal mission to uncover the disturbing secrets surrounding her murder, including corporate corruption, government collusion and Emma's own mysterious life.",
+      "releaseInfo": "2010",
       "genres": [
-        "Horror",
-        "Thriller",
-        "Mystery"
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0120610",
+      "type": "movie",
+      "name": "Black Dog",
+      "poster": "https://image.tmdb.org/t/p/w342/8hvt4L3EXWq3ANutok32ODQIGwV.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/g3OIqGPv36wGfe86NPjzWpAmQ7Y.jpg",
+      "description": "An ex-con takes a job driving a truck cross country. What he doesn't know is that the truck is filled with illegal weapons and now he must fight to survive and save his family.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Action",
+        "Thriller"
       ]
     },
     {
@@ -297,16 +296,17 @@
       ]
     },
     {
-      "id": "tt0120610",
+      "id": "tt1687901",
       "type": "movie",
-      "name": "Black Dog",
-      "poster": "https://image.tmdb.org/t/p/w342/8hvt4L3EXWq3ANutok32ODQIGwV.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/g3OIqGPv36wGfe86NPjzWpAmQ7Y.jpg",
-      "description": "An ex-con takes a job driving a truck cross country. What he doesn't know is that the truck is filled with illegal weapons and now he must fight to survive and save his family.",
-      "releaseInfo": "1998",
+      "name": "The Awakening",
+      "poster": "https://image.tmdb.org/t/p/w342/txmiJkl8su0jkEABLIHZBqVHrTj.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1Rw3KOjmKY4QrJ9MKugIo3F5FjO.jpg",
+      "description": "In post–War England, a writer and sometime-ghost hunter investigates a reported haunting at a boys boarding school.",
+      "releaseInfo": "2011",
       "genres": [
-        "Action",
-        "Thriller"
+        "Horror",
+        "Thriller",
+        "Mystery"
       ]
     },
     {
@@ -395,6 +395,21 @@
       ]
     },
     {
+      "id": "tt0120004",
+      "type": "movie",
+      "name": "The Relic",
+      "poster": "https://image.tmdb.org/t/p/w342/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg",
+      "description": "A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Sci-Fi"
+      ]
+    },
+    {
       "id": "tt0107146",
       "type": "movie",
       "name": "The Hour of the Pig",
@@ -409,21 +424,6 @@
         "Crime",
         "Romance",
         "Mystery"
-      ]
-    },
-    {
-      "id": "tt0120004",
-      "type": "movie",
-      "name": "The Relic",
-      "poster": "https://image.tmdb.org/t/p/w342/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg",
-      "description": "A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.",
-      "releaseInfo": "1997",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller",
-        "Sci-Fi"
       ]
     },
     {
@@ -456,20 +456,6 @@
       ]
     },
     {
-      "id": "tt1172571",
-      "type": "movie",
-      "name": "The Children",
-      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
-      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt0427157",
       "type": "movie",
       "name": "Dirty War",
@@ -497,6 +483,35 @@
       ]
     },
     {
+      "id": "tt1172571",
+      "type": "movie",
+      "name": "The Children",
+      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
+      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt1319694",
+      "type": "movie",
+      "name": "Glorious 39",
+      "poster": "https://image.tmdb.org/t/p/w342/kYXMRksWR7R2G7LEuEeVWhWgEY4.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gL6OWNNUIBJvknyonhnyHmQdAq0.jpg",
+      "description": "A mysterious tale set around a traditional British family on the eve of World War Two. Oblivious to the looming shadow of World War II, the wealthy Keyes maintain a confident façade in the British countryside until daughter Anne becomes an unexpected pawn. Her accidental discovery of secret recordings creates a rift in the family.",
+      "releaseInfo": "2009",
+      "genres": [
+        "War",
+        "Drama",
+        "History",
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt4126438",
       "type": "movie",
       "name": "The Ones Below",
@@ -519,21 +534,6 @@
       "genres": [
         "Thriller",
         "Action"
-      ]
-    },
-    {
-      "id": "tt1319694",
-      "type": "movie",
-      "name": "Glorious 39",
-      "poster": "https://image.tmdb.org/t/p/w342/kYXMRksWR7R2G7LEuEeVWhWgEY4.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gL6OWNNUIBJvknyonhnyHmQdAq0.jpg",
-      "description": "A mysterious tale set around a traditional British family on the eve of World War Two. Oblivious to the looming shadow of World War II, the wealthy Keyes maintain a confident façade in the British countryside until daughter Anne becomes an unexpected pawn. Her accidental discovery of secret recordings creates a rift in the family.",
-      "releaseInfo": "2009",
-      "genres": [
-        "War",
-        "Drama",
-        "History",
-        "Thriller"
       ]
     },
     {
@@ -578,6 +578,18 @@
       ]
     },
     {
+      "id": "tt1770734",
+      "type": "movie",
+      "name": "Shadow Dancer",
+      "poster": "https://image.tmdb.org/t/p/w342/ihkceEMJK4XtHXgw97ggsrE3ExP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pi6H83hc192nBTEDJbpNkm8TCZE.jpg",
+      "description": "In 1990s Belfast, a woman is forced to betray all she believes in for the sake of her son.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt18235146",
       "type": "movie",
       "name": "Club Zero",
@@ -607,18 +619,6 @@
       ]
     },
     {
-      "id": "tt1770734",
-      "type": "movie",
-      "name": "Shadow Dancer",
-      "poster": "https://image.tmdb.org/t/p/w342/ihkceEMJK4XtHXgw97ggsrE3ExP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pi6H83hc192nBTEDJbpNkm8TCZE.jpg",
-      "description": "In 1990s Belfast, a woman is forced to betray all she believes in for the sake of her son.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt0120696",
       "type": "movie",
       "name": "Hard Rain",
@@ -633,6 +633,19 @@
       ]
     },
     {
+      "id": "tt1372686",
+      "type": "movie",
+      "name": "Coriolanus",
+      "poster": "https://image.tmdb.org/t/p/w342/6W6In8IUJMkxB8aBipulho6QLDd.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jl4AOwQ6nxt8yXfVJvjHsKSaV7a.jpg",
+      "description": "Caius Martius, aka Coriolanus, is an arrogant and fearsome general who has built a career on protecting Rome from its enemies. Pushed by his ambitious mother to seek the position of consul, Coriolanus is at odds with the masses and unpopular with certain colleagues. When a riot results in his expulsion from Rome, Coriolanus seeks out his sworn enemy, Tullus Aufidius. Together, the pair vow to destroy the great city.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt21810682",
       "type": "movie",
       "name": "The End We Start From",
@@ -643,19 +656,6 @@
       "genres": [
         "Drama",
         "Mystery",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt1372686",
-      "type": "movie",
-      "name": "Coriolanus",
-      "poster": "https://image.tmdb.org/t/p/w342/6W6In8IUJMkxB8aBipulho6QLDd.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jl4AOwQ6nxt8yXfVJvjHsKSaV7a.jpg",
-      "description": "Caius Martius, aka Coriolanus, is an arrogant and fearsome general who has built a career on protecting Rome from its enemies. Pushed by his ambitious mother to seek the position of consul, Coriolanus is at odds with the masses and unpopular with certain colleagues. When a riot results in his expulsion from Rome, Coriolanus seeks out his sworn enemy, Tullus Aufidius. Together, the pair vow to destroy the great city.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Drama",
         "Thriller"
       ]
     },

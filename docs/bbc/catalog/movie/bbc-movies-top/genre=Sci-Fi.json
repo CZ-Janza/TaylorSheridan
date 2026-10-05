@@ -238,20 +238,6 @@
       ]
     },
     {
-      "id": "tt0084315",
-      "type": "movie",
-      "name": "Time Masters",
-      "poster": "https://image.tmdb.org/t/p/w342/4ktdTOrJnSk7iCtX6Q2QR0sR9Je.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/eOgq3wNremNJ5V3hxapQop7JXvP.jpg",
-      "description": "On planet Perdide, an attack of giant hornets leaves young Piel alone in a wrecked car with his dying father. A mayday message reaches their friend Jaffar, an adventurer travelling through space. Onboard Jaffar’s shuttle are the renegade Prince Matton, his fiancée, and Silbad, who knows Perdide well. Thus begins an incredible race across space to save Piel.",
-      "releaseInfo": "1982",
-      "genres": [
-        "Animation",
-        "Sci-Fi",
-        "Adventure"
-      ]
-    },
-    {
       "id": "tt0081874",
       "type": "movie",
       "name": "The Hitch Hikers Guide to the Galaxy",
@@ -276,6 +262,20 @@
       "genres": [
         "Drama",
         "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0084315",
+      "type": "movie",
+      "name": "Time Masters",
+      "poster": "https://image.tmdb.org/t/p/w342/4ktdTOrJnSk7iCtX6Q2QR0sR9Je.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/eOgq3wNremNJ5V3hxapQop7JXvP.jpg",
+      "description": "On planet Perdide, an attack of giant hornets leaves young Piel alone in a wrecked car with his dying father. A mayday message reaches their friend Jaffar, an adventurer travelling through space. Onboard Jaffar’s shuttle are the renegade Prince Matton, his fiancée, and Silbad, who knows Perdide well. Thus begins an incredible race across space to save Piel.",
+      "releaseInfo": "1982",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Adventure"
       ]
     },
     {
@@ -404,19 +404,6 @@
       ]
     },
     {
-      "id": "tt0116118",
-      "type": "movie",
-      "name": "Doctor Who",
-      "poster": "https://image.tmdb.org/t/p/w342/cwae2p7JcRNtz1CvNCzpX5ad96V.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/26MVKVGQf1J0yrzJx97Ww4DLslV.jpg",
-      "description": "The Seventh Doctor becomes the Eighth. And on the streets of San Francisco – alongside new ally Grace Holloway - he battles the Master.",
-      "releaseInfo": "1996",
-      "genres": [
-        "Adventure",
-        "Sci-Fi"
-      ]
-    },
-    {
       "id": "tt0120004",
       "type": "movie",
       "name": "The Relic",
@@ -428,6 +415,19 @@
         "Horror",
         "Mystery",
         "Thriller",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0116118",
+      "type": "movie",
+      "name": "Doctor Who",
+      "poster": "https://image.tmdb.org/t/p/w342/cwae2p7JcRNtz1CvNCzpX5ad96V.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/26MVKVGQf1J0yrzJx97Ww4DLslV.jpg",
+      "description": "The Seventh Doctor becomes the Eighth. And on the streets of San Francisco – alongside new ally Grace Holloway - he battles the Master.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Adventure",
         "Sci-Fi"
       ]
     },

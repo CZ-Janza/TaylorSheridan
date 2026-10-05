@@ -1,6 +1,34 @@
 {
   "metas": [
     {
+      "id": "tt11379026",
+      "type": "series",
+      "name": "Ghosts",
+      "poster": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+      "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0081874",
+      "type": "series",
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "poster": "https://image.tmdb.org/t/p/w342/yKiH7IIbo23uA72MmY318mXorjw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
+      "description": "Don't Panic! The story of Arthur Dent, an average Englishman whose life was spared by his friend, who turned out to be an alien, while the planet Earth is destroyed. His friend tells him about the Hitchhiker's Guide to the Galaxy, a guide with anything you ever needed, and wanted to know. They travel across the galaxy, meeting friendly, and not so friendly characters in order to find the great question (the answer being 42).",
+      "releaseInfo": "1981",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt2674806",
       "type": "series",
       "name": "Inside No. 9",
@@ -25,34 +53,6 @@
       "background": "https://image.tmdb.org/t/p/w780/gBeHadaylDePYy6Gy2xyDVeYLkP.jpg",
       "description": "The adventures of the last human alive and his friends, stranded three million years into deep space on the mining ship Red Dwarf.",
       "releaseInfo": "1988",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0081874",
-      "type": "series",
-      "name": "The Hitchhiker's Guide to the Galaxy",
-      "poster": "https://image.tmdb.org/t/p/w342/yKiH7IIbo23uA72MmY318mXorjw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
-      "description": "Don't Panic! The story of Arthur Dent, an average Englishman whose life was spared by his friend, who turned out to be an alien, while the planet Earth is destroyed. His friend tells him about the Hitchhiker's Guide to the Galaxy, a guide with anything you ever needed, and wanted to know. They travel across the galaxy, meeting friendly, and not so friendly characters in order to find the great question (the answer being 42).",
-      "releaseInfo": "1981",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt11379026",
-      "type": "series",
-      "name": "Ghosts",
-      "poster": "https://image.tmdb.org/t/p/w342/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
-      "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
-      "releaseInfo": "2021",
       "genres": [
         "Comedy",
         "Sci-Fi",
@@ -196,6 +196,22 @@
       ]
     },
     {
+      "id": "tt0478942",
+      "type": "series",
+      "name": "Life on Mars",
+      "poster": "https://image.tmdb.org/t/p/w342/eoZzXx2DW8XeaIS8iYs0ePxH3DG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tlN8MGKlGZmJqYpwoqCB5YwLqBx.jpg",
+      "description": "A detective chief inspector from 2006 is investigating a serial killer when he is knocked over by a speeding car. Waking up, he finds himself mysteriously transported back in time to 1973. Initially struggling to come to terms with his situation, he has to come to terms with the old-fashioned technology and attitude of the day, while figuring out how he came to be trapped in the past.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt4047038",
       "type": "series",
       "name": "Dirk Gently's Holistic Detective Agency",
@@ -228,22 +244,6 @@
       ]
     },
     {
-      "id": "tt0478942",
-      "type": "series",
-      "name": "Life on Mars",
-      "poster": "https://image.tmdb.org/t/p/w342/eoZzXx2DW8XeaIS8iYs0ePxH3DG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tlN8MGKlGZmJqYpwoqCB5YwLqBx.jpg",
-      "description": "A detective chief inspector from 2006 is investigating a serial killer when he is knocked over by a speeding car. Waking up, he finds himself mysteriously transported back in time to 1973. Initially struggling to come to terms with his situation, he has to come to terms with the old-fashioned technology and attitude of the day, while figuring out how he came to be trapped in the past.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt0436992",
       "type": "series",
       "name": "Doctor Who",
@@ -257,20 +257,6 @@
         "Drama",
         "Sci-Fi",
         "Fantasy"
-      ]
-    },
-    {
-      "id": "tt30645193",
-      "type": "series",
-      "name": "The War Between the Land and the Sea",
-      "poster": "https://image.tmdb.org/t/p/w342/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
-      "description": "When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
       ]
     },
     {
@@ -301,6 +287,20 @@
         "Fantasy",
         "Action",
         "Adventure"
+      ]
+    },
+    {
+      "id": "tt30645193",
+      "type": "series",
+      "name": "The War Between the Land and the Sea",
+      "poster": "https://image.tmdb.org/t/p/w342/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
+      "description": "When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
       ]
     },
     {
@@ -349,20 +349,6 @@
       ]
     },
     {
-      "id": "tt5194792",
-      "type": "series",
-      "name": "NOS4A2",
-      "poster": "https://image.tmdb.org/t/p/w342/gnosVTTRTCqooJuipwU6C0bgOGf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/enRS7bE43q7VmurYqlyroOeZLGa.jpg",
-      "description": "A young Victoria \"Vic\" McQueen discovers she has the power to unlock portals that help her find lost objects. As she delves further into this hidden universe, she encounters many other \"inscape travelers\" - some benevolent, and some who have been corrupted by their power. When Vic encounters Charlie Manx, an immortal who stays that way by feeding off of the souls of children, she makes a sworn enemy of Manx.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0485301",
       "type": "series",
       "name": "Torchwood",
@@ -379,6 +365,20 @@
       ]
     },
     {
+      "id": "tt5194792",
+      "type": "series",
+      "name": "NOS4A2",
+      "poster": "https://image.tmdb.org/t/p/w342/gnosVTTRTCqooJuipwU6C0bgOGf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/enRS7bE43q7VmurYqlyroOeZLGa.jpg",
+      "description": "A young Victoria \"Vic\" McQueen discovers she has the power to unlock portals that help her find lost objects. As she delves further into this hidden universe, she encounters many other \"inscape travelers\" - some benevolent, and some who have been corrupted by their power. When Vic encounters Charlie Manx, an immortal who stays that way by feeding off of the souls of children, she makes a sworn enemy of Manx.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0076987",
       "type": "series",
       "name": "Blake's 7",
@@ -390,21 +390,6 @@
         "Drama",
         "Sci-Fi",
         "Fantasy"
-      ]
-    },
-    {
-      "id": "tt14644726",
-      "type": "series",
-      "name": "Silverpoint",
-      "poster": "https://image.tmdb.org/t/p/w342/i5iY5D0qtZDIaHy6JSdbUHU8jzf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/x559sLIPU9NiLWkAzW4PftCagAJ.jpg",
-      "description": "The series follows a group of kids at an adventure camp who discover a strange artefact, while also drawn to the fate of four children who mysteriously disappeared twenty years ago.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Family",
-        "Sci-Fi",
-        "Fantasy",
-        "Mystery"
       ]
     },
     {
@@ -466,6 +451,49 @@
       ]
     },
     {
+      "id": "tt0086818",
+      "type": "series",
+      "name": "The Tripods",
+      "poster": "https://image.tmdb.org/t/p/w342/dSWuAbqOsUZEhfdxIS3VgCqDR3Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/63OdGahD8m0gcf7KkZd7mhNN7Eq.jpg",
+      "description": "In the year 2089, an alien race stalks the land in towering machines known as Tripods. They have taken over the earth and enslaved mankind with a mind-controlling device, ceremoniously implanted at adolescence. Will Parker, desperate to escape this ritual, leaves the village with his cousin, Henry and attempts to link up with the human resistance movement.",
+      "releaseInfo": "1984",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt14644726",
+      "type": "series",
+      "name": "Silverpoint",
+      "poster": "https://image.tmdb.org/t/p/w342/i5iY5D0qtZDIaHy6JSdbUHU8jzf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x559sLIPU9NiLWkAzW4PftCagAJ.jpg",
+      "description": "The series follows a group of kids at an adventure camp who discover a strange artefact, while also drawn to the fate of four children who mysteriously disappeared twenty years ago.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Family",
+        "Sci-Fi",
+        "Fantasy",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0080242",
+      "type": "series",
+      "name": "The Martian Chronicles",
+      "poster": "https://image.tmdb.org/t/p/w342/vBq5qOxBKnhGZNcW36b2Qq6cLDG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kb8obptHWmfaG7ZhP1IeracmW9o.jpg",
+      "description": "The Martian Chronicles deals with the exploration of Mars and the inhabitants there.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt2303367",
       "type": "series",
       "name": "Dirk Gently",
@@ -511,21 +539,6 @@
         "Sci-Fi",
         "Fantasy",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt0080242",
-      "type": "series",
-      "name": "The Martian Chronicles",
-      "poster": "https://image.tmdb.org/t/p/w342/vBq5qOxBKnhGZNcW36b2Qq6cLDG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kb8obptHWmfaG7ZhP1IeracmW9o.jpg",
-      "description": "The Martian Chronicles deals with the exploration of Mars and the inhabitants there.",
-      "releaseInfo": "1980",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama",
-        "Mystery"
       ]
     },
     {
@@ -619,6 +632,20 @@
       ]
     },
     {
+      "id": "tt0115288",
+      "type": "series",
+      "name": "Neverwhere",
+      "poster": "https://image.tmdb.org/t/p/w342/jQbTB9IhHQoqWrJs53iHI0f1c8F.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/u9a0DbqejhqOIRpMwtbK1PZEOzU.jpg",
+      "description": "Richard Mayhew leads an ordinary life in London when one day a girl named Door falls, injured, across his path. The next thing he knows, his life is gone and he's pulled into the fantastical world of London Below. Pursued by the murderous Messrs. Croup and Vandemar, Door and Richard with the help of Hunter and the Marquis de Carabas, attempt to find the Angel Islington, who knows the secret behind the murder of Door's family, and possibly a way for Richard to go home.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt1319690",
       "type": "series",
       "name": "Defying Gravity",
@@ -629,20 +656,6 @@
       "genres": [
         "Drama",
         "Mystery",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0115288",
-      "type": "series",
-      "name": "Neverwhere",
-      "poster": "https://image.tmdb.org/t/p/w342/jQbTB9IhHQoqWrJs53iHI0f1c8F.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/u9a0DbqejhqOIRpMwtbK1PZEOzU.jpg",
-      "description": "Richard Mayhew leads an ordinary life in London when one day a girl named Door falls, injured, across his path. The next thing he knows, his life is gone and he's pulled into the fantastical world of London Below. Pursued by the murderous Messrs. Croup and Vandemar, Door and Richard with the help of Hunter and the Marquis de Carabas, attempt to find the Angel Islington, who knows the secret behind the murder of Door's family, and possibly a way for Richard to go home.",
-      "releaseInfo": "1996",
-      "genres": [
-        "Drama",
         "Sci-Fi",
         "Fantasy"
       ]
@@ -749,20 +762,6 @@
       ]
     },
     {
-      "id": "tt5079788",
-      "type": "series",
-      "name": "Class",
-      "poster": "https://image.tmdb.org/t/p/w342/qC6c8Bx5LiWuZ5t9v3Iyn0818FL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4XcOdRYPTdNyu5C1iDnFHDqI9QN.jpg",
-      "description": "Coal Hill School has been a feature of Doctor Who since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt2705602",
       "type": "series",
       "name": "Atlantis",
@@ -773,6 +772,20 @@
       "genres": [
         "Action",
         "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt5079788",
+      "type": "series",
+      "name": "Class",
+      "poster": "https://image.tmdb.org/t/p/w342/qC6c8Bx5LiWuZ5t9v3Iyn0818FL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4XcOdRYPTdNyu5C1iDnFHDqI9QN.jpg",
+      "description": "Coal Hill School has been a feature of Doctor Who since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama",
         "Sci-Fi",
         "Fantasy"
       ]
