@@ -46,18 +46,19 @@
       ]
     },
     {
-      "id": "tt10405370",
+      "id": "tt1199099",
       "type": "series",
-      "name": "SAS Rogue Heroes",
-      "poster": "https://image.tmdb.org/t/p/w342/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hGdTq9BX3DB2gwGGFMLTdipCBPk.jpg",
-      "description": "The dramatised account of how the world’s greatest Special Forces unit, the SAS, was formed under extraordinary circumstances in the darkest days of World War Two.",
-      "releaseInfo": "2022",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+      "releaseInfo": "2008",
       "genres": [
-        "Drama",
-        "War",
         "Action",
-        "Adventure"
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -77,19 +78,18 @@
       ]
     },
     {
-      "id": "tt1199099",
+      "id": "tt10405370",
       "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
+      "name": "SAS Rogue Heroes",
+      "poster": "https://image.tmdb.org/t/p/w342/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hGdTq9BX3DB2gwGGFMLTdipCBPk.jpg",
+      "description": "The dramatised account of how the world’s greatest Special Forces unit, the SAS, was formed under extraordinary circumstances in the darkest days of World War Two.",
+      "releaseInfo": "2022",
       "genres": [
-        "Action",
-        "Adventure",
         "Drama",
-        "Sci-Fi",
-        "Fantasy"
+        "War",
+        "Action",
+        "Adventure"
       ]
     },
     {
@@ -125,6 +125,20 @@
       ]
     },
     {
+      "id": "tt27557666",
+      "type": "series",
+      "name": "Lord of the Flies",
+      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
       "id": "tt0436992",
       "type": "series",
       "name": "Doctor Who",
@@ -152,20 +166,6 @@
         "Drama",
         "Sci-Fi",
         "Fantasy",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt27557666",
-      "type": "series",
-      "name": "Lord of the Flies",
-      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
-      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama",
         "Action",
         "Adventure"
       ]
@@ -282,23 +282,6 @@
       ]
     },
     {
-      "id": "tt0197154",
-      "type": "series",
-      "name": "Gormenghast",
-      "poster": "https://image.tmdb.org/t/p/w342/zuz0jt4VZOilIV7Lh4MINZXKdjX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xCYZIsH4r5LlVjleSi717ZSdCJN.jpg",
-      "description": "At the Castle of Gormenghast, the Groan family has ruled with dusty ceremony for more than seventy generations. A clever and ambitious new kitchen boy, Steerpike, begins to insinuate himself into the affections of Lady Fuchsia Groan and to murder his way to power.",
-      "releaseInfo": "2000",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Mystery",
-        "Comedy",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
       "id": "tt9139220",
       "type": "series",
       "name": "Dracula",
@@ -325,6 +308,23 @@
         "Action",
         "Adventure",
         "Comedy"
+      ]
+    },
+    {
+      "id": "tt0197154",
+      "type": "series",
+      "name": "Gormenghast",
+      "poster": "https://image.tmdb.org/t/p/w342/6JCGZ9IT6oRhYpedhq85nxDuQFa.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xCYZIsH4r5LlVjleSi717ZSdCJN.jpg",
+      "description": "At the Castle of Gormenghast, the Groan family has ruled with dusty ceremony for more than seventy generations. A clever and ambitious new kitchen boy, Steerpike, begins to insinuate himself into the affections of Lady Fuchsia Groan and to murder his way to power.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Mystery",
+        "Comedy",
+        "Action",
+        "Adventure"
       ]
     },
     {

@@ -32,7 +32,7 @@
       "id": "tt5052474",
       "type": "movie",
       "name": "Sicario: Day of the Soldado",
-      "poster": "https://image.tmdb.org/t/p/w342/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/OdD7A0LgLXPjqzmfcEl9sTYVPo.jpg",
       "background": "https://image.tmdb.org/t/p/w780/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
       "description": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
       "releaseInfo": "2018",
@@ -98,6 +98,18 @@
       ]
     },
     {
+      "id": "tt5952594",
+      "type": "movie",
+      "name": "The Mustang",
+      "poster": "https://image.tmdb.org/t/p/w342/sXQzQcjNAYYosymYPVaXh1nYKaJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fsobXtw2DfNvv8XRFGJUu95H9bU.jpg",
+      "description": "While participating in a rehabilitation program training wild mustangs, a convict at first struggles to connect with the horses and his fellow inmates, but he learns to confront his violent past as he soothes an especially feisty horse.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt15685360",
       "type": "movie",
       "name": "You Gotta Believe",
@@ -111,27 +123,13 @@
       ]
     },
     {
-      "id": "tt5952594",
+      "id": "tt29768342",
       "type": "movie",
-      "name": "The Mustang",
-      "poster": "https://image.tmdb.org/t/p/w342/sXQzQcjNAYYosymYPVaXh1nYKaJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fsobXtw2DfNvv8XRFGJUu95H9bU.jpg",
-      "description": "While participating in a rehabilitation program training wild mustangs, a convict at first struggles to connect with the horses and his fellow inmates, but he learns to confront his violent past as he soothes an especially feisty horse.",
-      "releaseInfo": "2019",
+      "name": "Sicario 3 (upcoming)",
+      "description": "⏳ Not yet released — status: Planned. The third instalment in the franchise. Plot details TBA.",
       "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt9198366",
-      "type": "movie",
-      "name": "F.A.S.T. (upcoming)",
-      "description": "⏳ Expected release: 2027-05-12. A former special forces commando, down on his luck after returning Stateside, is recruited by the DEA to lead a covert black ops team to take down CIA-protected drug dealers.",
-      "releaseInfo": "2027",
-      "genres": [
-        "Thriller",
-        "Action",
-        "Crime"
+        "Crime",
+        "Thriller"
       ]
     },
     {
@@ -147,6 +145,18 @@
       ]
     },
     {
+      "id": "tt9198366",
+      "type": "movie",
+      "name": "F.A.S.T. (upcoming)",
+      "description": "⏳ Expected release: 2027-05-12. A former special forces commando, down on his luck after returning Stateside, is recruited by the DEA to lead a covert black ops team to take down CIA-protected drug dealers.",
+      "releaseInfo": "2027",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Crime"
+      ]
+    },
+    {
       "id": "tt19860606",
       "type": "movie",
       "name": "1883: The Road West",
@@ -156,6 +166,18 @@
         "Documentary",
         "History",
         "Western"
+      ]
+    },
+    {
+      "id": "tt8009732",
+      "type": "movie",
+      "name": "Call of Duty (upcoming)",
+      "poster": "https://image.tmdb.org/t/p/w342/egCSujwhXCKYjRo4IAhWFEKXDB.jpg",
+      "description": "⏳ Expected release: 2028-06-28. Based on the Modern Warfare universe of the video game series. Plot TBA.",
+      "releaseInfo": "2028",
+      "genres": [
+        "Action",
+        "War"
       ]
     },
     {
@@ -172,15 +194,13 @@
       ]
     },
     {
-      "id": "tt8009732",
+      "id": "tt43722524",
       "type": "movie",
-      "name": "Call of Duty (upcoming)",
-      "poster": "https://image.tmdb.org/t/p/w342/egCSujwhXCKYjRo4IAhWFEKXDB.jpg",
-      "description": "⏳ Expected release: 2028-06-28. Based on the Modern Warfare universe of the video game series. Plot TBA.",
-      "releaseInfo": "2028",
+      "name": "Visalia (upcoming)",
+      "description": "⏳ Not yet released — status: Planned. A determined young Cuban woman escapes the only life she’s ever known, braving treacherous waters and relentless danger in pursuit of freedom in America. But when a historic political shift pulls her back to Cuba, she must confront the uncertain promises of a homeland transformed — and the price she’s paid to survive it.",
       "genres": [
-        "Action",
-        "War"
+        "Drama",
+        "Thriller"
       ]
     },
     {
@@ -195,12 +215,13 @@
       ]
     },
     {
-      "id": "tt43722524",
+      "id": "tt23551578",
       "type": "movie",
-      "name": "Visalia (upcoming)",
-      "description": "⏳ Not yet released — status: Planned. A determined young Cuban woman escapes the only life she’s ever known, braving treacherous waters and relentless danger in pursuit of freedom in America. But when a historic political shift pulls her back to Cuba, she must confront the uncertain promises of a homeland transformed — and the price she’s paid to survive it.",
+      "name": "Wind River: Rising (upcoming)",
+      "description": "⏳ Not yet released — status: Post Production. As a wave of murders remains unsolved, the FBI enlists the help of Hanson, who finds himself embroiled in a desperate and dangerous fight between the authorities, a vigilante, and the Reserve he calls home.",
       "genres": [
-        "Drama",
+        "Crime",
+        "Mystery",
         "Thriller"
       ]
     },

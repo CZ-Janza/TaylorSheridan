@@ -1,15 +1,15 @@
 {
   "metas": [
     {
-      "id": "tt13930830",
+      "id": "tt19860606",
       "type": "movie",
-      "name": "Pure Grit",
-      "poster": "https://image.tmdb.org/t/p/w342/lKlrpWLAXspwyQ3dCRR5OccVAWc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/g1LDvRnotgnwB0qMOtKRxeNtUrB.jpg",
-      "description": "Chronicling three years in the life of a young Native American bareback horse racer, her dogged determination, and the relationships that sustain her.",
+      "name": "1883: The Road West",
+      "poster": "https://image.tmdb.org/t/p/w342/qM0Sg8jwHsfTQIGpy4q8ah8eHcd.jpg",
       "releaseInfo": "2022",
       "genres": [
-        "Documentary"
+        "Documentary",
+        "History",
+        "Western"
       ]
     },
     {
@@ -68,22 +68,10 @@
       ]
     },
     {
-      "id": "tt19860606",
-      "type": "movie",
-      "name": "1883: The Road West",
-      "poster": "https://image.tmdb.org/t/p/w342/qM0Sg8jwHsfTQIGpy4q8ah8eHcd.jpg",
-      "releaseInfo": "2022",
-      "genres": [
-        "Documentary",
-        "History",
-        "Western"
-      ]
-    },
-    {
       "id": "tt5052474",
       "type": "movie",
       "name": "Sicario: Day of the Soldado",
-      "poster": "https://image.tmdb.org/t/p/w342/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/OdD7A0LgLXPjqzmfcEl9sTYVPo.jpg",
       "background": "https://image.tmdb.org/t/p/w780/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
       "description": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
       "releaseInfo": "2018",
@@ -144,6 +132,18 @@
       "genres": [
         "Thriller",
         "Action"
+      ]
+    },
+    {
+      "id": "tt13930830",
+      "type": "movie",
+      "name": "Pure Grit",
+      "poster": "https://image.tmdb.org/t/p/w342/lKlrpWLAXspwyQ3dCRR5OccVAWc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/g1LDvRnotgnwB0qMOtKRxeNtUrB.jpg",
+      "description": "Chronicling three years in the life of a young Native American bareback horse racer, her dogged determination, and the relationships that sustain her.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documentary"
       ]
     },
     {
@@ -221,6 +221,27 @@
       "description": "⏳ Not yet released — status: Planned. A NASA engineer is thrown into a desperate race to build the first reusable spacecraft capable of traveling to the moon and back, testing his limits, loyalties, and morals when a tech tycoon offers him the chance to make history — if he’s willing to pay for it.",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt29768342",
+      "type": "movie",
+      "name": "Sicario 3 (upcoming)",
+      "description": "⏳ Not yet released — status: Planned. The third instalment in the franchise. Plot details TBA.",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt23551578",
+      "type": "movie",
+      "name": "Wind River: Rising (upcoming)",
+      "description": "⏳ Not yet released — status: Post Production. As a wave of murders remains unsolved, the FBI enlists the help of Hanson, who finds himself embroiled in a desperate and dangerous fight between the authorities, a vigilante, and the Reserve he calls home.",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
       ]
     }
   ]
