@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt16358384",
+      "type": "series",
+      "name": "Tulsa King",
+      "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt13111078",
       "type": "series",
       "name": "Lioness",
@@ -24,20 +38,6 @@
       "genres": [
         "Western",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt16358384",
-      "type": "series",
-      "name": "Tulsa King",
-      "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-      "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Comedy"
       ]
     },
     {
@@ -120,18 +120,6 @@
       ]
     },
     {
-      "id": "tt15399640",
-      "type": "series",
-      "name": "Lawmen: Bass Reeves",
-      "poster": "https://image.tmdb.org/t/p/w342/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/KwKRSJ1bSES8hORdQQn34QwH3V.jpg",
-      "description": "The story of Bass Reeves, the legendary lawman of the wild West, is brought to life. Reeves worked in the post-Reconstruction era as a federal peace officer in the Indian Territory, capturing over 3,000 of the most dangerous criminals without ever being wounded—and is believed to be the inspiration for The Lone Ranger.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt33204276",
       "type": "series",
       "name": "The Madison",
@@ -144,10 +132,25 @@
       ]
     },
     {
+      "id": "tt15399640",
+      "type": "series",
+      "name": "Lawmen: Bass Reeves",
+      "poster": "https://image.tmdb.org/t/p/w342/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/KwKRSJ1bSES8hORdQQn34QwH3V.jpg",
+      "description": "The story of Bass Reeves, the legendary lawman of the wild West, is brought to life. Reeves worked in the post-Reconstruction era as a federal peace officer in the Indian Territory, capturing over 3,000 of the most dangerous criminals without ever being wounded—and is believed to be the inspiration for The Lone Ranger.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt37196475",
       "type": "series",
       "name": "Frisco King (upcoming)",
-      "description": "⏳ Not yet released — status: In Production. After declining an assignment to kill Dwight Manfredi on behalf of New York mobsters, hitman Russell Lee Washington Jr. sets out to start a new life – and enterprise – in Frisco, Texas.",
+      "poster": "https://image.tmdb.org/t/p/w342/kBWZ7avaq9AIFOSTh0h23dTwX3r.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fSJJuNTQIk9K4M37jYOvmzZa2FH.jpg",
+      "description": "⏳ Expected release: 2026-12-18. New Orleans gangster Russell Lee Washington Jr. lands in Frisco, Texas, where he transforms small hustles into big business, with the help of an ambitious protégé, a loyal driver, and a growing network of eccentric partners.",
+      "releaseInfo": "2026",
       "genres": [
         "Crime",
         "Drama",

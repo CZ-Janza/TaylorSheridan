@@ -1,27 +1,18 @@
 {
   "metas": [
     {
-      "id": "tt0395404",
+      "id": "tt0160904",
       "type": "series",
-      "name": "Nighty Night",
-      "poster": "https://image.tmdb.org/t/p/w342/bER1xXd5099k77CJNuGFhvmCNRl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6wlcncqdcPK7LjqD1h9DU8AKXEw.jpg",
-      "description": "Jill Tyrell is a narcissistic sociopath who manages a beauty parlour alongside her moronic, asthmatic assistant Linda. When Jill learns that her husband has cancer, she uses this fact to manipulate new neighbour Cathy Cole, a wheelchair user with multiple sclerosis whose husband Don, a womanising doctor, Jill has become obsessed with.",
-      "releaseInfo": "2004",
-      "genres": [
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt0321897",
-      "type": "series",
-      "name": "Daniel Deronda",
-      "poster": "https://image.tmdb.org/t/p/w342/A2NA2ngXvHX42QqjttOwg0iq1Lu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4mzVKkgpN4Sq7pUvuwLMf5qAGjL.jpg",
-      "description": "In 1870s England, idealist Daniel Deronda seeks his mysterious origins and becomes entangled in the lives of the self-centered Gwendolen Harleth, who is trapped in a loveless marriage, and Jewish singer Mirah Lapidoth.",
+      "name": "Spooks",
+      "poster": "https://image.tmdb.org/t/p/w342/5kODxCYihuM49oQWke6GfHdsRT6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/w0PRJ5uOsfSGVrwxUhPmc6qIO8t.jpg",
+      "description": "Tense drama series about the different challenges faced by the British Security Service as they work against the clock to safeguard the nation. The title is a popular colloquialism for spies, and the series follows the work of a group of MI5 officers based at the service's Thames House headquarters, in a highly secure suite of offices known as The Grid.",
       "releaseInfo": "2002",
       "genres": [
-        "Drama"
+        "Drama",
+        "Action",
+        "Adventure",
+        "Crime"
       ]
     },
     {
@@ -46,6 +37,20 @@
       "releaseInfo": "1996",
       "genres": [
         "Drama",
+        "War"
+      ]
+    },
+    {
+      "id": "tt0111960",
+      "type": "series",
+      "name": "The Final Cut",
+      "poster": "https://image.tmdb.org/t/p/w342/7lQ6roAFARdKe9qGPF0KigYPASZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6Jg3QcWXxALsZG9qcZZFTf8Wo4Z.jpg",
+      "description": "Seasoned politician Francis Urquhart tries to establish his legacy before retirement by negotiating an end to the Cyprus, but the island hides secrets from his past that could destroy him.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Drama",
+        "Comedy",
         "War"
       ]
     },
@@ -86,19 +91,6 @@
       ]
     },
     {
-      "id": "tt0083480",
-      "type": "series",
-      "name": "Smiley's People",
-      "poster": "https://image.tmdb.org/t/p/w342/aGNRfWcIjIlVJfHsIgSfH7ZcMSq.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/zkOKjygpb41yZHJUoVRPUm6yj5B.jpg",
-      "description": "Called out of retirement to settle the affairs of a friend, Smiley finds his old organization, the Circus, so overwhelmed by political considerations that it doesn't want to know what happened. He begins to follow up the clues of his friends past days, discovering that the clues lead to a high person in the Russian Secret service, and a secret important enough to kill for.",
-      "releaseInfo": "1982",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt0075511",
       "type": "series",
       "name": "The Good Life",
@@ -135,15 +127,18 @@
       ]
     },
     {
-      "id": "tt0184135",
+      "id": "tt4047038",
       "type": "series",
-      "name": "The League of Gentlemen",
-      "poster": "https://image.tmdb.org/t/p/w342/wLAWxtYXvqUo4uVwiVsU7ACui6w.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/88wq0JNtS4ru1tpcWnp7QB2pWx0.jpg",
-      "description": "The League of Gentlemen is a British sitcom broadcast on BBC Two over three series from 1999 to 2002. In the fictional Northern England town of Royston Vasey—based on Bacup, Lancashire—the lives are explored of dozens of bizarre citizens, much of whom are played by three of the show's four writers—Mark Gatiss, Steve Pemberton, and Reece Shearsmith—who, along with Jeremy Dyson, formed the titular comedy troupe in 1995.\n\nThe programme was followed by a film in 2005, and a three-part revival miniseries in December 2017 to celebrate the group's 20th anniversary.",
-      "releaseInfo": "1999",
+      "name": "Dirk Gently's Holistic Detective Agency",
+      "poster": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
+      "description": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
+      "releaseInfo": "2016",
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
+        "Crime"
       ]
     },
     {
@@ -164,17 +159,29 @@
       ]
     },
     {
-      "id": "tt0111960",
+      "id": "tt2215842",
       "type": "series",
-      "name": "The Final Cut",
-      "poster": "https://image.tmdb.org/t/p/w342/7lQ6roAFARdKe9qGPF0KigYPASZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6Jg3QcWXxALsZG9qcZZFTf8Wo4Z.jpg",
-      "description": "Seasoned politician Francis Urquhart tries to establish his legacy before retirement by negotiating an end to the Cyprus, but the island hides secrets from his past that could destroy him.",
-      "releaseInfo": "1995",
+      "name": "Father Brown",
+      "poster": "https://image.tmdb.org/t/p/w342/u8LUC3O1hiEDKP2SFZK68iYqMzl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/96v57BttdxvquxnVozkQUsGvawQ.jpg",
+      "description": "Father Brown is based on G. K. Chesterton's detective stories about a Catholic priest who doubles as an amateur detective in order to try and solve mysteries.",
+      "releaseInfo": "2013",
       "genres": [
         "Drama",
-        "Comedy",
-        "War"
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0184135",
+      "type": "series",
+      "name": "The League of Gentlemen",
+      "poster": "https://image.tmdb.org/t/p/w342/wLAWxtYXvqUo4uVwiVsU7ACui6w.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/88wq0JNtS4ru1tpcWnp7QB2pWx0.jpg",
+      "description": "The League of Gentlemen is a British sitcom broadcast on BBC Two over three series from 1999 to 2002. In the fictional Northern England town of Royston Vasey—based on Bacup, Lancashire—the lives are explored of dozens of bizarre citizens, much of whom are played by three of the show's four writers—Mark Gatiss, Steve Pemberton, and Reece Shearsmith—who, along with Jeremy Dyson, formed the titular comedy troupe in 1995.\n\nThe programme was followed by a film in 2005, and a three-part revival miniseries in December 2017 to celebrate the group's 20th anniversary.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Comedy"
       ]
     },
     {
@@ -190,15 +197,16 @@
       ]
     },
     {
-      "id": "tt8681148",
+      "id": "tt9095260",
       "type": "series",
-      "name": "This Is Going to Hurt",
-      "poster": "https://image.tmdb.org/t/p/w342/pzr43c48eKRTfHCkspWia2J35Fw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/icgOrvpT7ANec2rBdzZQPwB7Ykj.jpg",
-      "description": "The unvarnished truth of life as a doctor working in obstetrics and gynaecology.",
-      "releaseInfo": "2022",
+      "name": "Criminal Justice",
+      "poster": "https://image.tmdb.org/t/p/w342/eac9ylXW2mazqOI5L50uY9Rvmxr.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hfkTZuQAYtrCkwEhV8c4K0xmU2c.jpg",
+      "description": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
+      "releaseInfo": "2019",
       "genres": [
-        "Comedy",
+        "Crime",
+        "Mystery",
         "Drama"
       ]
     },
@@ -228,20 +236,6 @@
       ]
     },
     {
-      "id": "tt8201186",
-      "type": "series",
-      "name": "The Capture",
-      "poster": "https://image.tmdb.org/t/p/w342/6keUrgntgKt299a39UJCDYldb8b.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5bQ4eGwQy0jTeMzk7XE1ES0xSb6.jpg",
-      "description": "When soldier Shaun Emery's conviction for a murder in Afghanistan is overturned due to flawed video evidence, he returns to life as a free man with his young daughter. But when damning CCTV footage from a night out in London comes to light, Shaun's life takes a shocking turn and he must soon fight for his freedom once again.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt1533435",
       "type": "series",
       "name": "Miranda",
@@ -251,20 +245,6 @@
       "releaseInfo": "2009",
       "genres": [
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt9095260",
-      "type": "series",
-      "name": "Criminal Justice",
-      "poster": "https://image.tmdb.org/t/p/w342/eac9ylXW2mazqOI5L50uY9Rvmxr.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hfkTZuQAYtrCkwEhV8c4K0xmU2c.jpg",
-      "description": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
-      "releaseInfo": "2019",
-      "genres": [
-        "Crime",
-        "Mystery",
-        "Drama"
       ]
     },
     {
@@ -280,6 +260,49 @@
       ]
     },
     {
+      "id": "tt8681148",
+      "type": "series",
+      "name": "This Is Going to Hurt",
+      "poster": "https://image.tmdb.org/t/p/w342/pzr43c48eKRTfHCkspWia2J35Fw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/icgOrvpT7ANec2rBdzZQPwB7Ykj.jpg",
+      "description": "The unvarnished truth of life as a doctor working in obstetrics and gynaecology.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0436992",
+      "type": "series",
+      "name": "Doctor Who",
+      "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+      "description": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0080297",
+      "type": "series",
+      "name": "Tinker Tailor Soldier Spy",
+      "poster": "https://image.tmdb.org/t/p/w342/3HlMztiMrTnhU1u807MGUizEXxH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6IPIqdc7J0hXxTgWjzfgk6DRTXX.jpg",
+      "description": "Tinker Tailor Soldier Spy is a seven-part BBC2 spy drama written by Arthur Hopcraft, adapted from John le Carré's eponymous 1974 novel. The serial, which stars Alec Guinness, Alexander Knox, Ian Richardson, Michael Jayston, Bernard Hepton, Anthony Bate, Ian Bannen, George Sewell and Michael Aldridge, was broadcast from 10 September to 22 October 1979.\n\nGeorge Smiley, the ageing master spy of the Cold War and once heir-apparent to Control, is brought back out of retirement to flush out a top level mole within the Circus. Smiley must travel back through his life and murky workings of the Circus to unravel the net spun by his nemesis Karla 'The Sandman' of the KGB and reveal the identity of the mole before he disappears.",
+      "releaseInfo": "1979",
+      "genres": [
+        "War",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt1270367",
       "type": "series",
       "name": "How Not to Live Your Life",
@@ -290,20 +313,6 @@
       "genres": [
         "Comedy",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt27557666",
-      "type": "series",
-      "name": "Lord of the Flies",
-      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
-      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
       ]
     },
     {
@@ -321,32 +330,6 @@
       ]
     },
     {
-      "id": "tt14466018",
-      "type": "series",
-      "name": "Blue Lights",
-      "poster": "https://image.tmdb.org/t/p/w342/3C3c40DH8M6qdECHLlxk8o5nrC0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kjFoqKiR155jQn77bBkwBD3zjvO.jpg",
-      "description": "Follows rookie police officers working in Belfast, a city in which being a frontline response cop comes with unique pressures and dangers.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt13138834",
-      "type": "series",
-      "name": "Time",
-      "poster": "https://image.tmdb.org/t/p/w342/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gJahHqSvFrBjjt3AX6oOL2B0yMP.jpg",
-      "description": "Guilt, violence and impossible choices – what does it take to survive? Tense, gritty and heartbreaking – Jimmy McGovern's award-winning prison drama, with an all-star cast.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
       "id": "tt10982034",
       "type": "series",
       "name": "Trying",
@@ -359,15 +342,17 @@
       ]
     },
     {
-      "id": "tt4635922",
+      "id": "tt8201186",
       "type": "series",
-      "name": "Peter Kay's Car Share",
-      "poster": "https://image.tmdb.org/t/p/w342/mvhjwhldWSfslz1CUhDmU3NvZJ5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nM7WjQmNeT8wCYzsTzlAfOatLaV.jpg",
-      "description": "John Redmond and Kayleigh Kitson have been thrown together in a company car share scheme, forcing their paths to cross. Each trip brings fresh insight into John and Kayleigh's lives, with twists and turns in their unlikely relationship.",
-      "releaseInfo": "2015",
+      "name": "The Capture",
+      "poster": "https://image.tmdb.org/t/p/w342/6keUrgntgKt299a39UJCDYldb8b.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5bQ4eGwQy0jTeMzk7XE1ES0xSb6.jpg",
+      "description": "When soldier Shaun Emery's conviction for a murder in Afghanistan is overturned due to flawed video evidence, he returns to life as a free man with his young daughter. But when damning CCTV footage from a night out in London comes to light, Shaun's life takes a shocking turn and he must soon fight for his freedom once again.",
+      "releaseInfo": "2019",
       "genres": [
-        "Comedy"
+        "Crime",
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -443,22 +428,6 @@
       "releaseInfo": "2006",
       "genres": [
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt0436992",
-      "type": "series",
-      "name": "Doctor Who",
-      "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-      "description": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
       ]
     },
     {
@@ -592,20 +561,6 @@
       ]
     },
     {
-      "id": "tt0080297",
-      "type": "series",
-      "name": "Tinker Tailor Soldier Spy",
-      "poster": "https://image.tmdb.org/t/p/w342/3HlMztiMrTnhU1u807MGUizEXxH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6IPIqdc7J0hXxTgWjzfgk6DRTXX.jpg",
-      "description": "Tinker Tailor Soldier Spy is a seven-part BBC2 spy drama written by Arthur Hopcraft, adapted from John le Carré's eponymous 1974 novel. The serial, which stars Alec Guinness, Alexander Knox, Ian Richardson, Michael Jayston, Bernard Hepton, Anthony Bate, Ian Bannen, George Sewell and Michael Aldridge, was broadcast from 10 September to 22 October 1979.\n\nGeorge Smiley, the ageing master spy of the Cold War and once heir-apparent to Control, is brought back out of retirement to flush out a top level mole within the Circus. Smiley must travel back through his life and murky workings of the Circus to unravel the net spun by his nemesis Karla 'The Sandman' of the KGB and reveal the identity of the mole before he disappears.",
-      "releaseInfo": "1979",
-      "genres": [
-        "War",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt0069634",
       "type": "series",
       "name": "Some Mothers Do 'Ave 'Em",
@@ -615,6 +570,32 @@
       "releaseInfo": "1973",
       "genres": [
         "Comedy"
+      ]
+    },
+    {
+      "id": "tt14466018",
+      "type": "series",
+      "name": "Blue Lights",
+      "poster": "https://image.tmdb.org/t/p/w342/3C3c40DH8M6qdECHLlxk8o5nrC0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kjFoqKiR155jQn77bBkwBD3zjvO.jpg",
+      "description": "Follows rookie police officers working in Belfast, a city in which being a frontline response cop comes with unique pressures and dangers.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt13138834",
+      "type": "series",
+      "name": "Time",
+      "poster": "https://image.tmdb.org/t/p/w342/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yPkRxn3HKBJig1IJes7PQMF2iUC.jpg",
+      "description": "Guilt, violence and impossible choices – what does it take to survive? Tense, gritty and heartbreaking – Jimmy McGovern's award-winning prison drama, with an all-star cast.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -628,6 +609,37 @@
       "genres": [
         "Crime",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt14432384",
+      "type": "series",
+      "name": "Theodosia",
+      "poster": "https://image.tmdb.org/t/p/w342/2tH2zDZIaKSRsSef55DGueNh4mI.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fdszYy6HO5Euk96sQuA2ouNCd0i.jpg",
+      "description": "In 1906 London, 14-year-old Theodosia “Theo” Throckmorton gathers an eclectic team that includes her younger brother Henry, along with friends Will and Egyptian Princess, Safiya, to fight a powerful secret society bent on destroying the world with ancient Egyptian dark magic.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy",
+        "Mystery",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt27557666",
+      "type": "series",
+      "name": "Lord of the Flies",
+      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
       ]
     },
     {
@@ -668,6 +680,18 @@
       ]
     },
     {
+      "id": "tt4635922",
+      "type": "series",
+      "name": "Peter Kay's Car Share",
+      "poster": "https://image.tmdb.org/t/p/w342/mvhjwhldWSfslz1CUhDmU3NvZJ5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nM7WjQmNeT8wCYzsTzlAfOatLaV.jpg",
+      "description": "John Redmond and Kayleigh Kitson have been thrown together in a company car share scheme, forcing their paths to cross. Each trip brings fresh insight into John and Kayleigh's lives, with twists and turns in their unlikely relationship.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt3581932",
       "type": "series",
       "name": "And Then There Were None",
@@ -702,6 +726,21 @@
       "releaseInfo": "2008",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt8694364",
+      "type": "series",
+      "name": "Years and Years",
+      "poster": "https://image.tmdb.org/t/p/w342/u1FBsyMH9Tx7K5yzMnJsYRvNEKQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/95DOsfIpXweztOlzGBU1bnePCIS.jpg",
+      "description": "As Britain is rocked by unstable political, economic and technological advances, members of the Lyons family converge on one crucial night in 2019. Over the next 15 years, the twists and turns of their everyday lives are explored as we find out if this ordinary family could change the world.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama",
+        "War",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -743,21 +782,6 @@
       ]
     },
     {
-      "id": "tt8694364",
-      "type": "series",
-      "name": "Years and Years",
-      "poster": "https://image.tmdb.org/t/p/w342/u1FBsyMH9Tx7K5yzMnJsYRvNEKQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/95DOsfIpXweztOlzGBU1bnePCIS.jpg",
-      "description": "As Britain is rocked by unstable political, economic and technological advances, members of the Lyons family converge on one crucial night in 2019. Over the next 15 years, the twists and turns of their everyday lives are explored as we find out if this ordinary family could change the world.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama",
-        "War",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt8594528",
       "type": "series",
       "name": "In My Skin",
@@ -769,31 +793,6 @@
         "Drama",
         "Comedy",
         "Family"
-      ]
-    },
-    {
-      "id": "tt7988304",
-      "type": "series",
-      "name": "The Young Offenders",
-      "poster": "https://image.tmdb.org/t/p/w342/qFHtEVLzy2zeg1flGfvQhGdq0W0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6TrrLZ9HOBfLU9p07cmZYv1RuGd.jpg",
-      "description": "Coming-of-age drama about lovable rogues Conor and Jock as they navigate their awkward teenage years, hatching plans and adventures to help distract from their tough home lives and their inability to stay out of trouble at school.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Crime",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tt6980438",
-      "type": "series",
-      "name": "Quacks",
-      "poster": "https://image.tmdb.org/t/p/w342/lwvaxIjapCE6f4TaUjums0tIr3P.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/voxY9tjsVXJd5GTtTScI1HpPdNL.jpg",
-      "description": "A raucous comedy set in Victorian London about four medical pioneers fighting to make a mark on the world.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Comedy"
       ]
     },
     {
@@ -936,19 +935,6 @@
       ]
     },
     {
-      "id": "tt0908454",
-      "type": "series",
-      "name": "Gavin & Stacey",
-      "poster": "https://image.tmdb.org/t/p/w342/jNpySE7Rwq1DlhHadMZnGquralv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/u0TtCgIEHdZAX0Ta5V3YbyvDK5D.jpg",
-      "description": "Essex and Wales collide when Gavin and Stacey fall in love - bringing their friends, family and baggage with them.",
-      "releaseInfo": "2007",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0862614",
       "type": "series",
       "name": "Not Going Out",
@@ -982,6 +968,20 @@
       "releaseInfo": "1998",
       "genres": [
         "Comedy"
+      ]
+    },
+    {
+      "id": "tt0118401",
+      "type": "series",
+      "name": "Midsomer Murders",
+      "poster": "https://image.tmdb.org/t/p/w342/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+      "description": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+      "releaseInfo": "1997",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -1065,17 +1065,41 @@
       ]
     },
     {
-      "id": "tt0118401",
+      "id": "tt7988304",
       "type": "series",
-      "name": "Midsomer Murders",
-      "poster": "https://image.tmdb.org/t/p/w342/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
-      "description": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
-      "releaseInfo": "1997",
+      "name": "The Young Offenders",
+      "poster": "https://image.tmdb.org/t/p/w342/qFHtEVLzy2zeg1flGfvQhGdq0W0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6TrrLZ9HOBfLU9p07cmZYv1RuGd.jpg",
+      "description": "Coming-of-age drama about lovable rogues Conor and Jock as they navigate their awkward teenage years, hatching plans and adventures to help distract from their tough home lives and their inability to stay out of trouble at school.",
+      "releaseInfo": "2018",
       "genres": [
         "Crime",
-        "Drama",
-        "Mystery"
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt6980438",
+      "type": "series",
+      "name": "Quacks",
+      "poster": "https://image.tmdb.org/t/p/w342/lwvaxIjapCE6f4TaUjums0tIr3P.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/voxY9tjsVXJd5GTtTScI1HpPdNL.jpg",
+      "description": "A raucous comedy set in Victorian London about four medical pioneers fighting to make a mark on the world.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0908454",
+      "type": "series",
+      "name": "Gavin & Stacey",
+      "poster": "https://image.tmdb.org/t/p/w342/jNpySE7Rwq1DlhHadMZnGquralv.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/u0TtCgIEHdZAX0Ta5V3YbyvDK5D.jpg",
+      "description": "Essex and Wales collide when Gavin and Stacey fall in love - bringing their friends, family and baggage with them.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comedy",
+        "Drama"
       ]
     },
     {
@@ -1159,19 +1183,6 @@
       ]
     },
     {
-      "id": "tt31438328",
-      "type": "series",
-      "name": "This City Is Ours",
-      "poster": "https://image.tmdb.org/t/p/w342/fQpJFVWX8MCdOkwoutDw7tjhvgp.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vfe1cSviBFnNcgk76jwgdb5Wyek.jpg",
-      "description": "Notorious gang boss Ronnie (Sean Bean) steps back from his criminal empire, triggering a violent power struggle between his volatile son Jamie (Jack McMullen) and trusted lieutenant Michael (James Nelson Joyce), who sees his chance to seize control. As rivalries ignite and loyalties fracture, the family behind the city’s cocaine trade descends into open war.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
       "id": "tt26314987",
       "type": "series",
       "name": "Moonflower Murders",
@@ -1185,15 +1196,16 @@
       ]
     },
     {
-      "id": "tt22889176",
+      "id": "tt7985576",
       "type": "series",
-      "name": "Boiling Point",
-      "poster": "https://image.tmdb.org/t/p/w342/5W6z0r3CsN4P5Ra7AWCLQtCU7D8.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/p4UvCb4HT43QHbuvBdZ69OiAFgX.jpg",
-      "description": "Eight months after her mentor Andy Jones suffered a heart attack, Head Chef Carly is battling to forge a name for new London restaurant Point North alongside her old kitchen crew. With the pressure to draw in new, hungry customers and the financial squeeze to keep the business profitable, the team must find a way to manage their complicated personal lives whilst creating quality food day in, day out.",
-      "releaseInfo": "2023",
+      "name": "The Serpent",
+      "poster": "https://image.tmdb.org/t/p/w342/mZve7vS8S7nyYMIJ5rJrjzOGwAZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gawTr5Nfn7DZpFAYqznbFYJ7aj9.jpg",
+      "description": "The remarkable story of how murderer Charles Sobhraj was captured. As the chief suspect in unsolved murders of young Western travellers across India, Thailand and Nepal’s ‘Hippie Trail’ in 1975 and 1976, Sobhraj had repeatedly slipped from the grasp of authorities worldwide to become Interpol's most wanted man, with arrest warrants on three different continents.",
+      "releaseInfo": "2021",
       "genres": [
-        "Drama"
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -1211,42 +1223,55 @@
       ]
     },
     {
-      "id": "tt7660970",
+      "id": "tt2183641",
       "type": "series",
-      "name": "The North Water",
-      "poster": "https://image.tmdb.org/t/p/w342/9CM0ca8pX1os3SJ24hsIc0nN8ph.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8IC1q0lHFwi5m8VtChLzIfmpaZH.jpg",
-      "description": "Henry Drax is a harpooner and brutish killer whose amorality has been shaped to fit the harshness of his world, who will set sail on a whaling expedition to the Arctic with Patrick Sumner, a disgraced ex-army surgeon who signs up as the ship’s doctor. Hoping to escape the horrors of his past, Sumner finds himself on an ill-fated journey with a murderous psychopath. In search of redemption, his story becomes a harsh struggle for survival in the Arctic wasteland.",
-      "releaseInfo": "2021",
+      "name": "Ripper Street",
+      "poster": "https://image.tmdb.org/t/p/w342/6w8yKYsA7RkuyauW224kBZQebFt.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/snSylVifJ29t7mxiIi5dxi6x2q2.jpg",
+      "description": "A drama set in the East End of London in 1889, during the aftermath of the \"Ripper\" murders. The action centres around the notorious H Division – the police precinct from hell – which is charged with keeping order in the chaotic streets of Whitechapel. Ripper Street explores the lives of characters trying to recover from the Ripper's legacy, from crimes that have not only irretrievably altered their lives, but the very fabric of their city. At the drama's heart our detectives try to bring a little light into the dark world they inhabit.",
+      "releaseInfo": "2012",
       "genres": [
         "Drama",
-        "Mystery"
+        "Mystery",
+        "Crime"
       ]
     },
     {
-      "id": "tt7985576",
+      "id": "tt31438328",
       "type": "series",
-      "name": "The Serpent",
-      "poster": "https://image.tmdb.org/t/p/w342/mZve7vS8S7nyYMIJ5rJrjzOGwAZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gawTr5Nfn7DZpFAYqznbFYJ7aj9.jpg",
-      "description": "The remarkable story of how murderer Charles Sobhraj was captured. As the chief suspect in unsolved murders of young Western travellers across India, Thailand and Nepal’s ‘Hippie Trail’ in 1975 and 1976, Sobhraj had repeatedly slipped from the grasp of authorities worldwide to become Interpol's most wanted man, with arrest warrants on three different continents.",
-      "releaseInfo": "2021",
+      "name": "This City Is Ours",
+      "poster": "https://image.tmdb.org/t/p/w342/fQpJFVWX8MCdOkwoutDw7tjhvgp.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vfe1cSviBFnNcgk76jwgdb5Wyek.jpg",
+      "description": "Notorious gang boss Ronnie (Sean Bean) steps back from his criminal empire, triggering a violent power struggle between his volatile son Jamie (Jack McMullen) and trusted lieutenant Michael (James Nelson Joyce), who sees his chance to seize control. As rivalries ignite and loyalties fracture, the family behind the city’s cocaine trade descends into open war.",
+      "releaseInfo": "2025",
       "genres": [
         "Drama",
         "Crime"
       ]
     },
     {
-      "id": "tt8001106",
+      "id": "tt22889176",
       "type": "series",
-      "name": "Giri/Haji",
-      "poster": "https://image.tmdb.org/t/p/w342/mOeqBvuGOcq0eN1ssGCcRtWA7XW.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/h8ngSjGpbtfc1LCyz9hkBMQPvN0.jpg",
-      "description": "Family duty sends a lawman to London to look for his mob-assassin brother as a yakuza war threatens to engulf Tokyo. Trust is even tougher to find.",
-      "releaseInfo": "2019",
+      "name": "Boiling Point",
+      "poster": "https://image.tmdb.org/t/p/w342/5W6z0r3CsN4P5Ra7AWCLQtCU7D8.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/p4UvCb4HT43QHbuvBdZ69OiAFgX.jpg",
+      "description": "Eight months after her mentor Andy Jones suffered a heart attack, Head Chef Carly is battling to forge a name for new London restaurant Point North alongside her old kitchen crew. With the pressure to draw in new, hungry customers and the financial squeeze to keep the business profitable, the team must find a way to manage their complicated personal lives whilst creating quality food day in, day out.",
+      "releaseInfo": "2023",
       "genres": [
-        "Crime",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt7660970",
+      "type": "series",
+      "name": "The North Water",
+      "poster": "https://image.tmdb.org/t/p/w342/9CM0ca8pX1os3SJ24hsIc0nN8ph.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8IC1q0lHFwi5m8VtChLzIfmpaZH.jpg",
+      "description": "Patrick Sumner, a disgraced ex-army surgeon, signs up as ship's doctor on a whaling expedition to the Arctic; on board he meets Henry Drax, the harpooner, a brutish killer whose amorality has been shaped to fit the harshness of his world. Hoping to escape the horrors of his past, Sumner finds himself on an ill-fated journey with a murderous psychopath. In search of redemption, his story becomes a harsh struggle for survival in the Arctic wasteland.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -1272,20 +1297,6 @@
       "releaseInfo": "2015",
       "genres": [
         "Drama"
-      ]
-    },
-    {
-      "id": "tt4258440",
-      "type": "series",
-      "name": "River",
-      "poster": "https://image.tmdb.org/t/p/w342/fhiVcu9RA3MEVQtMowwQUsHJfJR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sryK4G2U27mWAiuKk7v63uSbmto.jpg",
-      "description": "Respected police officer John River, a gifted cop with a troubled mind, struggles to come to terms with the recent loss of a colleague, and chases a suspect across London - with tragic consequences. Now at odds with the authorities, River ends up in a precarious position as he seeks to bring closure to the mother of murdered teenager, who blames him for failing to keep his promise.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
       ]
     }
   ]

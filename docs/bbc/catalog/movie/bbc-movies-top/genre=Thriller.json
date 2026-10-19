@@ -381,21 +381,6 @@
       ]
     },
     {
-      "id": "tt0120004",
-      "type": "movie",
-      "name": "The Relic",
-      "poster": "https://image.tmdb.org/t/p/w342/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg",
-      "description": "A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.",
-      "releaseInfo": "1997",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller",
-        "Sci-Fi"
-      ]
-    },
-    {
       "id": "tt0107146",
       "type": "movie",
       "name": "The Hour of the Pig",
@@ -410,6 +395,21 @@
         "Crime",
         "Romance",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt0120004",
+      "type": "movie",
+      "name": "The Relic",
+      "poster": "https://image.tmdb.org/t/p/w342/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg",
+      "description": "A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Sci-Fi"
       ]
     },
     {
@@ -441,20 +441,6 @@
       ]
     },
     {
-      "id": "tt1238291",
-      "type": "movie",
-      "name": "Five Minutes of Heaven",
-      "poster": "https://image.tmdb.org/t/p/w342/5TVniqOcXh3nKHVyVys1nUjgrgO.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/oW7xP4yoatCrAbBv5mCDGhrjhCt.jpg",
-      "description": "The story of former Ulster Volunteer Force member Alistair Little. Twenty-five years after Little killed Joe Griffin's brother, the media arrange an auspicious meeting between the two.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt14773478",
       "type": "movie",
       "name": "Medusa Deluxe",
@@ -470,14 +456,15 @@
       ]
     },
     {
-      "id": "tt0427157",
+      "id": "tt1238291",
       "type": "movie",
-      "name": "Dirty War",
-      "poster": "https://image.tmdb.org/t/p/w342/qGk7Q6E8Kx6hXhmN9A1yhNIpiP8.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vMNTypsHzKtV6i1iAHmPMZ0zvLy.jpg",
-      "description": "After years of meticulous planning, a terrorist operation is reaching its final stages. The authorities have received no intelligence; they are in a race against time but don't yet know it. As the operation unfolds, we see the working lives of men and women directly affected by terrorism. Among them: a firemen worried about the increasingly dangerous conditions he and his men are expected to work under; the head of the anti-terrorist branch whose responsibility it is to protect London and a female Muslim detective brought into Scotland Yard to investigate another suspected terrorist cell. But it is too late to stop the attack.",
-      "releaseInfo": "2004",
+      "name": "Five Minutes of Heaven",
+      "poster": "https://image.tmdb.org/t/p/w342/5TVniqOcXh3nKHVyVys1nUjgrgO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/oW7xP4yoatCrAbBv5mCDGhrjhCt.jpg",
+      "description": "The story of former Ulster Volunteer Force member Alistair Little. Twenty-five years after Little killed Joe Griffin's brother, the media arrange an auspicious meeting between the two.",
+      "releaseInfo": "2009",
       "genres": [
+        "Crime",
         "Drama",
         "Thriller"
       ]
@@ -493,6 +480,19 @@
       "genres": [
         "Horror",
         "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0427157",
+      "type": "movie",
+      "name": "Dirty War",
+      "poster": "https://image.tmdb.org/t/p/w342/qGk7Q6E8Kx6hXhmN9A1yhNIpiP8.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vMNTypsHzKtV6i1iAHmPMZ0zvLy.jpg",
+      "description": "After years of meticulous planning, a terrorist operation is reaching its final stages. The authorities have received no intelligence; they are in a race against time but don't yet know it. As the operation unfolds, we see the working lives of men and women directly affected by terrorism. Among them: a firemen worried about the increasingly dangerous conditions he and his men are expected to work under; the head of the anti-terrorist branch whose responsibility it is to protect London and a female Muslim detective brought into Scotland Yard to investigate another suspected terrorist cell. But it is too late to stop the attack.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Drama",
         "Thriller"
       ]
     },
@@ -590,6 +590,20 @@
       ]
     },
     {
+      "id": "tt2078552",
+      "type": "movie",
+      "name": "Blood",
+      "poster": "https://image.tmdb.org/t/p/w342/wtHDMP6VPNF2Vc8YNCHwz4sJtNo.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iMIvLPrMbSeUSmIEs1YvbKize4w.jpg",
+      "description": "When police discover a young girl brutally murdered, brothers Joe Fairburns and Chrissie Fairburns join their supervisor Robert to investigate main suspect Jason Buliegh, a local sex offender and social outcast. Forced to release Jason from police custody, the Fairburns take matters into their own hands in an attempt to coerce a confession.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ]
+    },
+    {
       "id": "tt18235146",
       "type": "movie",
       "name": "Club Zero",
@@ -605,17 +619,17 @@
       ]
     },
     {
-      "id": "tt2078552",
+      "id": "tt13874422",
       "type": "movie",
-      "name": "Blood",
-      "poster": "https://image.tmdb.org/t/p/w342/wtHDMP6VPNF2Vc8YNCHwz4sJtNo.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iMIvLPrMbSeUSmIEs1YvbKize4w.jpg",
-      "description": "When police discover a young girl brutally murdered, brothers Joe Fairburns and Chrissie Fairburns join their supervisor Robert to investigate main suspect Jason Buliegh, a local sex offender and social outcast. Forced to release Jason from police custody, the Fairburns take matters into their own hands in an attempt to coerce a confession.",
-      "releaseInfo": "2012",
+      "name": "The Eternal Daughter",
+      "poster": "https://image.tmdb.org/t/p/w342/kyv8tPXx3mKchYzVmA3VckKoJDi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/eEPR1HjWQEPzvrqGtSCxmzlsmin.jpg",
+      "description": "An artist and her elderly mother confront long-buried secrets when they return to a former family home, now a hotel haunted by its mysterious past.",
+      "releaseInfo": "2022",
       "genres": [
         "Drama",
-        "Thriller",
-        "Crime"
+        "Mystery",
+        "Thriller"
       ]
     },
     {

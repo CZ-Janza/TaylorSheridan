@@ -1,6 +1,23 @@
 {
   "metas": [
     {
+      "id": "tt2303367",
+      "type": "series",
+      "name": "Dirk Gently",
+      "poster": "https://image.tmdb.org/t/p/w342/nbliUzKVtuLpRIDapKOycoySqpX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qphUmcQ2GPBN7jQCantjj87hA1v.jpg",
+      "description": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt2239949",
       "type": "series",
       "name": "Pramface",
@@ -747,7 +764,7 @@
       "id": "tt1178522",
       "type": "series",
       "name": "Little Dorrit",
-      "poster": "https://image.tmdb.org/t/p/w342/5CTWoruhvpCGiR9PavoARnnV8Y1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/pox8YkiW2T3YHnBcH9UGqlvY5XV.jpg",
       "background": "https://image.tmdb.org/t/p/w780/m45Nb3j5Ln2gckv43zaflggi1Ta.jpg",
       "description": "Amy Dorrit spends her days earning money for the family and looking after her proud father who is a long term inmate of Marshalsea debtors' prison in London. Amy and her family's world is transformed when her employer's son, Arthur Clennam, returns from overseas to solve his family's mysterious legacy and discovers that their lives are interlinked.",
       "releaseInfo": "2008",
@@ -1293,18 +1310,6 @@
         "Action",
         "Adventure",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt0445114",
-      "type": "series",
-      "name": "Extras",
-      "poster": "https://image.tmdb.org/t/p/w342/oxiA2O4wRBCOzvfxYjNKZQuitQc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bWShstEC6UN1EuHpqGUGOnLmjqH.jpg",
-      "description": "Andy Millman gave up his day job five years ago in the hope of achieving the big time, but he’s yet to land a speaking part, let alone saunter down the red carpet to pick up an Oscar. He remains optimistic however, as rubbing shoulders with the A-list on-set only serves to reinforce his belief that the big time is just a job or two away.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Comedy"
       ]
     }
   ]

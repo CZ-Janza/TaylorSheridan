@@ -1,19 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt4761112",
-      "type": "movie",
-      "name": "The Mauritanian",
-      "poster": "https://image.tmdb.org/t/p/w342/lIADEa6oH74uUapjsPbNRzxus8M.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dXQLVJxvScwtUtORAiaAxgikmtC.jpg",
-      "description": "The true story of the Mauritanian Mohamedou Ould Slahi, who was held at the U.S military's Guantanamo Bay detention center without charges for over a decade and sought help from a defense attorney for his release.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt0765443",
       "type": "movie",
       "name": "Eastern Promises",
@@ -43,16 +30,15 @@
       ]
     },
     {
-      "id": "tt0416320",
+      "id": "tt4761112",
       "type": "movie",
-      "name": "Match Point",
-      "poster": "https://image.tmdb.org/t/p/w342/vHjEVTD8ucuwKSFOZJeyAnTZYli.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yUJf20GQ5vifhk9QDxUGotAEaLz.jpg",
-      "description": "Chris, a former tennis pro, takes a job as an instructor and befriends his wealthy young student, Tom. After being introduced to his family, Chris is soon engaged to Tom's sister, Chloe. Despite the professional and financial advantages that this relationship affords him, Chris becomes obsessed with Tom's fiancee, American actress Nola.",
-      "releaseInfo": "2005",
+      "name": "The Mauritanian",
+      "poster": "https://image.tmdb.org/t/p/w342/lIADEa6oH74uUapjsPbNRzxus8M.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dXQLVJxvScwtUtORAiaAxgikmtC.jpg",
+      "description": "The true story of the Mauritanian Mohamedou Ould Slahi, who was held at the U.S military's Guantanamo Bay detention center without charges for over a decade and sought help from a defense attorney for his release.",
+      "releaseInfo": "2021",
       "genres": [
         "Drama",
-        "Romance",
         "Thriller"
       ]
     },
@@ -67,76 +53,6 @@
       "genres": [
         "Crime",
         "Mystery",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt1242460",
-      "type": "movie",
-      "name": "We Need to Talk About Kevin",
-      "poster": "https://image.tmdb.org/t/p/w342/AtdYbs1SqYwFOLyi2v6ldVTawbn.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/k7lwdrpZ92BDahx6TLdkPE65cpJ.jpg",
-      "description": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt0120696",
-      "type": "movie",
-      "name": "Hard Rain",
-      "poster": "https://image.tmdb.org/t/p/w342/ggMcOVSax4lBXjYqqQUJLCtrar3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tdo5GwYAsdRkYTTMpXM9aZu8DlH.jpg",
-      "description": "An armored car driver tries to elude a gang of thieves while a flood ravages the countryside.",
-      "releaseInfo": "1998",
-      "genres": [
-        "Thriller",
-        "Crime",
-        "Action"
-      ]
-    },
-    {
-      "id": "tt1687901",
-      "type": "movie",
-      "name": "The Awakening",
-      "poster": "https://image.tmdb.org/t/p/w342/txmiJkl8su0jkEABLIHZBqVHrTj.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1Rw3KOjmKY4QrJ9MKugIo3F5FjO.jpg",
-      "description": "In post–War England, a writer and sometime-ghost hunter investigates a reported haunting at a boys boarding school.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0120004",
-      "type": "movie",
-      "name": "The Relic",
-      "poster": "https://image.tmdb.org/t/p/w342/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg",
-      "description": "A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.",
-      "releaseInfo": "1997",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller",
-        "Sci-Fi"
-      ]
-    },
-    {
-      "id": "tt0120324",
-      "type": "movie",
-      "name": "A Simple Plan",
-      "poster": "https://image.tmdb.org/t/p/w342/wO2gH7DMqpMeHlj5QmDhW4IkgAr.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gtdCmYpubVkkvTQ8rdR9tkixDSj.jpg",
-      "description": "Captivated by the lure of sudden wealth, the quiet rural lives of two brothers erupt into conflicts of greed, paranoia and distrust when over $4 million in cash is discovered at the remote site of a downed small airplane. Their simple plan to retain the money while avoiding detection opens a Pandora's box when the fear of getting caught triggers panicked behavior and leads to virulent consequences.",
-      "releaseInfo": "1998",
-      "genres": [
-        "Crime",
-        "Drama",
         "Thriller"
       ]
     },
@@ -156,6 +72,61 @@
       ]
     },
     {
+      "id": "tt0120696",
+      "type": "movie",
+      "name": "Hard Rain",
+      "poster": "https://image.tmdb.org/t/p/w342/ggMcOVSax4lBXjYqqQUJLCtrar3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tdo5GwYAsdRkYTTMpXM9aZu8DlH.jpg",
+      "description": "An armored car driver tries to elude a gang of thieves while a flood ravages the countryside.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Action"
+      ]
+    },
+    {
+      "id": "tt1242460",
+      "type": "movie",
+      "name": "We Need to Talk About Kevin",
+      "poster": "https://image.tmdb.org/t/p/w342/AtdYbs1SqYwFOLyi2v6ldVTawbn.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/k7lwdrpZ92BDahx6TLdkPE65cpJ.jpg",
+      "description": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt1687901",
+      "type": "movie",
+      "name": "The Awakening",
+      "poster": "https://image.tmdb.org/t/p/w342/txmiJkl8su0jkEABLIHZBqVHrTj.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1Rw3KOjmKY4QrJ9MKugIo3F5FjO.jpg",
+      "description": "In post–War England, a writer and sometime-ghost hunter investigates a reported haunting at a boys boarding school.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0416320",
+      "type": "movie",
+      "name": "Match Point",
+      "poster": "https://image.tmdb.org/t/p/w342/vHjEVTD8ucuwKSFOZJeyAnTZYli.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yUJf20GQ5vifhk9QDxUGotAEaLz.jpg",
+      "description": "Chris, a former tennis pro, takes a job as an instructor and befriends his wealthy young student, Tom. After being introduced to his family, Chris is soon engaged to Tom's sister, Chloe. Despite the professional and financial advantages that this relationship affords him, Chris becomes obsessed with Tom's fiancee, American actress Nola.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt0301199",
       "type": "movie",
       "name": "Dirty Pretty Things",
@@ -166,6 +137,35 @@
       "genres": [
         "Crime",
         "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0120004",
+      "type": "movie",
+      "name": "The Relic",
+      "poster": "https://image.tmdb.org/t/p/w342/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg",
+      "description": "A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt13874422",
+      "type": "movie",
+      "name": "The Eternal Daughter",
+      "poster": "https://image.tmdb.org/t/p/w342/kyv8tPXx3mKchYzVmA3VckKoJDi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/eEPR1HjWQEPzvrqGtSCxmzlsmin.jpg",
+      "description": "An artist and her elderly mother confront long-buried secrets when they return to a former family home, now a hotel haunted by its mysterious past.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama",
+        "Mystery",
         "Thriller"
       ]
     },
@@ -184,6 +184,20 @@
       ]
     },
     {
+      "id": "tt0120324",
+      "type": "movie",
+      "name": "A Simple Plan",
+      "poster": "https://image.tmdb.org/t/p/w342/wO2gH7DMqpMeHlj5QmDhW4IkgAr.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gtdCmYpubVkkvTQ8rdR9tkixDSj.jpg",
+      "description": "Captivated by the lure of sudden wealth, the quiet rural lives of two brothers erupt into conflicts of greed, paranoia and distrust when over $4 million in cash is discovered at the remote site of a downed small airplane. Their simple plan to retain the money while avoiding detection opens a Pandora's box when the fear of getting caught triggers panicked behavior and leads to virulent consequences.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt3321300",
       "type": "movie",
       "name": "Spooks: The Greater Good",
@@ -197,99 +211,16 @@
       ]
     },
     {
-      "id": "tt0120610",
+      "id": "tt1372686",
       "type": "movie",
-      "name": "Black Dog",
-      "poster": "https://image.tmdb.org/t/p/w342/8hvt4L3EXWq3ANutok32ODQIGwV.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/g3OIqGPv36wGfe86NPjzWpAmQ7Y.jpg",
-      "description": "An ex-con takes a job driving a truck cross country. What he doesn't know is that the truck is filled with illegal weapons and now he must fight to survive and save his family.",
-      "releaseInfo": "1998",
-      "genres": [
-        "Action",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt1797469",
-      "type": "movie",
-      "name": "Page Eight",
-      "poster": "https://image.tmdb.org/t/p/w342/69q0ZufQqPCjFbyuTxXRtqQtDd6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vH6TWGAgQaLSibGU7tz26JLb0Cp.jpg",
-      "description": "Johnny is a long-serving MI5 officer. His boss dies suddenly, leaving behind an inexplicable file which threatens the stability of the organisation.",
+      "name": "Coriolanus",
+      "poster": "https://image.tmdb.org/t/p/w342/6W6In8IUJMkxB8aBipulho6QLDd.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jl4AOwQ6nxt8yXfVJvjHsKSaV7a.jpg",
+      "description": "Caius Martius, aka Coriolanus, is an arrogant and fearsome general who has built a career on protecting Rome from its enemies. Pushed by his ambitious mother to seek the position of consul, Coriolanus is at odds with the masses and unpopular with certain colleagues. When a riot results in his expulsion from Rome, Coriolanus seeks out his sworn enemy, Tullus Aufidius. Together, the pair vow to destroy the great city.",
       "releaseInfo": "2011",
       "genres": [
-        "Mystery",
-        "Thriller",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt1770734",
-      "type": "movie",
-      "name": "Shadow Dancer",
-      "poster": "https://image.tmdb.org/t/p/w342/ihkceEMJK4XtHXgw97ggsrE3ExP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pi6H83hc192nBTEDJbpNkm8TCZE.jpg",
-      "description": "In 1990s Belfast, a woman is forced to betray all she believes in for the sake of her son.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt30444418",
-      "type": "movie",
-      "name": "Santosh",
-      "poster": "https://image.tmdb.org/t/p/w342/qkqRCBU4JmOlGdPTxFxlSPCPrfp.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/obvzNRrwgRVn83tboIIuge6W1l3.jpg",
-      "description": "A government scheme sees newly widowed Santosh inherit her husband’s job as a police constable in the rural badlands of Northern India. When a low-caste girl is found raped and murdered, she is pulled into the investigation under the wing of charismatic feminist inspector Sharma.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Thriller",
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt4271918",
-      "type": "movie",
-      "name": "An Inspector Calls",
-      "poster": "https://image.tmdb.org/t/p/w342/qZLDqf9poquJwY5uY6ZWK1yqsSb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/x7i70dfvEXuV6o7nN9J8P4KCM6K.jpg",
-      "description": "Northern England, 1912. The dinner of a wealthy family is interrupted by Inspector Goole, who only announces that a young woman has committed suicide. Then, he simply asks everyone present, one by one, if they knew her.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt1238291",
-      "type": "movie",
-      "name": "Five Minutes of Heaven",
-      "poster": "https://image.tmdb.org/t/p/w342/5TVniqOcXh3nKHVyVys1nUjgrgO.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/oW7xP4yoatCrAbBv5mCDGhrjhCt.jpg",
-      "description": "The story of former Ulster Volunteer Force member Alistair Little. Twenty-five years after Little killed Joe Griffin's brother, the media arrange an auspicious meeting between the two.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Crime",
         "Drama",
         "Thriller"
-      ]
-    },
-    {
-      "id": "tt0100469",
-      "type": "movie",
-      "name": "The Reflecting Skin",
-      "poster": "https://image.tmdb.org/t/p/w342/ehUosbTVyCQtf6nAfpmQ8Q3XSd7.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/y5xRzPzLk1gEnatnAfI6YKcHkCr.jpg",
-      "description": "In 1950s rural Idaho, a young boy watches helplessly as his friends and brother fall under the spell of a mysterious widow living up the road and becomes convinced that she is a vampire.",
-      "releaseInfo": "1990",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Horror"
       ]
     },
     {
@@ -322,57 +253,101 @@
       ]
     },
     {
-      "id": "tt0340376",
+      "id": "tt0100469",
       "type": "movie",
-      "name": "The Statement",
-      "poster": "https://image.tmdb.org/t/p/w342/a7IvoBJ70dp6U1fjRlvB04ZtxvF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/uHFZdbtLAaAaVFKBowN1RTDD0oC.jpg",
-      "description": "An ambitious Judge and an exacting Colonel re-open the sixty-year-old case of Pierre Brossard, an escaped Nazi collaborator accused of murdering seven Jews. Now an old man living a sheltered life within the Catholic Church, Brossard is also being trailed by mysterious hit men, determined to kill him before he's arrested.",
-      "releaseInfo": "2003",
+      "name": "The Reflecting Skin",
+      "poster": "https://image.tmdb.org/t/p/w342/ehUosbTVyCQtf6nAfpmQ8Q3XSd7.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/y5xRzPzLk1gEnatnAfI6YKcHkCr.jpg",
+      "description": "In 1950s rural Idaho, a young boy watches helplessly as his friends and brother fall under the spell of a mysterious widow living up the road and becomes convinced that she is a vampire.",
+      "releaseInfo": "1990",
       "genres": [
         "Drama",
-        "Thriller"
+        "Thriller",
+        "Horror"
       ]
     },
     {
-      "id": "tt1172571",
+      "id": "tt0286594",
       "type": "movie",
-      "name": "The Children",
-      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
-      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
-      "releaseInfo": "2008",
+      "name": "Doctor Sleep",
+      "poster": "https://image.tmdb.org/t/p/w342/eBRcmhQakzeYPU6AWLP1DtAoLtC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ahrY6isV4vfPUzpIF0CO96pjuMw.jpg",
+      "description": "While treating a policewoman for smoking, hypnotherapist Michael Strother has a telepathic vision of a young girl floating beneath the surface of a stream. The escaped victim of a ritualistic serial killer, the girl has become mute, and Michael is called upon by Scotland Yard to unlock the secrets she holds in order to catch a man who believes he has discovered the key to immortality.",
+      "releaseInfo": "2002",
       "genres": [
+        "Crime",
         "Horror",
-        "Mystery",
-        "Thriller"
+        "Thriller",
+        "Mystery"
       ]
     },
     {
-      "id": "tt2967008",
+      "id": "tt1966385",
       "type": "movie",
-      "name": "The Face of an Angel",
-      "poster": "https://image.tmdb.org/t/p/w342/100pHE252kgwxwVNbiflYV9j1yi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qBPrU3oA1s3eFvPVmq4vNnkRymU.jpg",
-      "description": "Both a journalist and a documentary filmmaker chase the story of a murder and its prime suspect.",
-      "releaseInfo": "2014",
+      "name": "City of Tiny Lights",
+      "poster": "https://image.tmdb.org/t/p/w342/eX9iEZdU2w1elGQhNY50DmKqiaE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/dNfmHw3gz9vXayMrLVtOaarZkN7.jpg",
+      "description": "In the teeming, multicultural metropolis of modern-day London, a seemingly straightforward missing-person case launches a down-at-heel private eye into a dangerous world of religious fanaticism and political intrigue.",
+      "releaseInfo": "2016",
       "genres": [
+        "Crime",
         "Drama",
         "Thriller"
       ]
     },
     {
-      "id": "tt1034302",
+      "id": "tt4271918",
       "type": "movie",
-      "name": "The Cry of the Owl",
-      "poster": "https://image.tmdb.org/t/p/w342/h9VizOOadBJixcbpswSqM0bb30c.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vWWshAydkFv2f2twAA8emnVMVMa.jpg",
-      "description": "Fleeing New York City, a failed marriage and a fragile mental history, artist Robert Forrester moves to small-town Pennsylvania. There he becomes fascinated with the simple domesticity of a beautiful neighbor, watching her through the windows of her home --- until she invites him in for coffee. He is drawn into a relationship with the young woman whose boyfriend goes missing; Robert becomes a murder suspect, gradually sensing he is the target of a larger plot.",
-      "releaseInfo": "2009",
+      "name": "An Inspector Calls",
+      "poster": "https://image.tmdb.org/t/p/w342/qZLDqf9poquJwY5uY6ZWK1yqsSb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x7i70dfvEXuV6o7nN9J8P4KCM6K.jpg",
+      "description": "Northern England, 1912. The dinner of a wealthy family is interrupted by Inspector Goole, who only announces that a young woman has committed suicide. Then, he simply asks everyone present, one by one, if they knew her.",
+      "releaseInfo": "2015",
       "genres": [
         "Drama",
-        "Mystery",
+        "Crime",
+        "Thriller",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1770734",
+      "type": "movie",
+      "name": "Shadow Dancer",
+      "poster": "https://image.tmdb.org/t/p/w342/ihkceEMJK4XtHXgw97ggsrE3ExP.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pi6H83hc192nBTEDJbpNkm8TCZE.jpg",
+      "description": "In 1990s Belfast, a woman is forced to betray all she believes in for the sake of her son.",
+      "releaseInfo": "2012",
+      "genres": [
         "Thriller"
+      ]
+    },
+    {
+      "id": "tt0120610",
+      "type": "movie",
+      "name": "Black Dog",
+      "poster": "https://image.tmdb.org/t/p/w342/8hvt4L3EXWq3ANutok32ODQIGwV.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/g3OIqGPv36wGfe86NPjzWpAmQ7Y.jpg",
+      "description": "An ex-con takes a job driving a truck cross country. What he doesn't know is that the truck is filled with illegal weapons and now he must fight to survive and save his family.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt14773478",
+      "type": "movie",
+      "name": "Medusa Deluxe",
+      "poster": "https://image.tmdb.org/t/p/w342/hcuNu3dXNHjWOtcy0WtKU1rSW3Y.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2Yy6GdTEJAmVeXf1GApD70nrZq.jpg",
+      "description": "Talented and cutthroat hairstylists at a competition find one of their own murdered before judging can begin. Winding through neon-lit halls, competitors unspool long-simmering resentments and lies as they search for the killer among them.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Thriller",
+        "Drama"
       ]
     },
     {
@@ -393,43 +368,43 @@
       ]
     },
     {
-      "id": "tt0119320",
+      "id": "tt30444418",
       "type": "movie",
-      "name": "Hostile Waters",
-      "poster": "https://image.tmdb.org/t/p/w342/6froDO7JfGq3VnuYLt4l8Jq5KD4.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/lE8V3A0tORu6kaSNbJxg0XOZz9V.jpg",
-      "description": "Based on true events, an American submarine collides into a Soviet sub of the coast of America and an ensuing standoff occurs that could lead to total annihilation.",
-      "releaseInfo": "1997",
+      "name": "Santosh",
+      "poster": "https://image.tmdb.org/t/p/w342/qkqRCBU4JmOlGdPTxFxlSPCPrfp.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/obvzNRrwgRVn83tboIIuge6W1l3.jpg",
+      "description": "A government scheme sees newly widowed Santosh inherit her husband’s job as a police constable in the rural badlands of Northern India. When a low-caste girl is found raped and murdered, she is pulled into the investigation under the wing of charismatic feminist inspector Sharma.",
+      "releaseInfo": "2024",
       "genres": [
-        "Drama",
         "Thriller",
-        "War"
+        "Crime",
+        "Drama"
       ]
     },
     {
-      "id": "tt1372686",
+      "id": "tt1238291",
       "type": "movie",
-      "name": "Coriolanus",
-      "poster": "https://image.tmdb.org/t/p/w342/6W6In8IUJMkxB8aBipulho6QLDd.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jl4AOwQ6nxt8yXfVJvjHsKSaV7a.jpg",
-      "description": "Caius Martius, aka Coriolanus, is an arrogant and fearsome general who has built a career on protecting Rome from its enemies. Pushed by his ambitious mother to seek the position of consul, Coriolanus is at odds with the masses and unpopular with certain colleagues. When a riot results in his expulsion from Rome, Coriolanus seeks out his sworn enemy, Tullus Aufidius. Together, the pair vow to destroy the great city.",
-      "releaseInfo": "2011",
+      "name": "Five Minutes of Heaven",
+      "poster": "https://image.tmdb.org/t/p/w342/5TVniqOcXh3nKHVyVys1nUjgrgO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/oW7xP4yoatCrAbBv5mCDGhrjhCt.jpg",
+      "description": "The story of former Ulster Volunteer Force member Alistair Little. Twenty-five years after Little killed Joe Griffin's brother, the media arrange an auspicious meeting between the two.",
+      "releaseInfo": "2009",
       "genres": [
+        "Crime",
         "Drama",
         "Thriller"
       ]
     },
     {
-      "id": "tt3294200",
+      "id": "tt2967008",
       "type": "movie",
-      "name": "The Falling",
-      "poster": "https://image.tmdb.org/t/p/w342/hjlU6vSDD5fdJenWhUKE5l672rb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pvn9CqsQFIzK4j1rrgQcpV3T6UJ.jpg",
-      "description": "England, 1969. The fascinating Abbie and the troubled Lydia are great friends. After an unexpected tragedy occurs in the strict girls' school they attend, a mysterious epidemic of fainting breaks out that threatens the mental sanity and beliefs of the tormented people involved, both teachers and students.",
-      "releaseInfo": "2015",
+      "name": "The Face of an Angel",
+      "poster": "https://image.tmdb.org/t/p/w342/100pHE252kgwxwVNbiflYV9j1yi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qBPrU3oA1s3eFvPVmq4vNnkRymU.jpg",
+      "description": "Both a journalist and a documentary filmmaker chase the story of a murder and its prime suspect.",
+      "releaseInfo": "2014",
       "genres": [
         "Drama",
-        "Mystery",
         "Thriller"
       ]
     },
@@ -449,75 +424,18 @@
       ]
     },
     {
-      "id": "tt1061123",
+      "id": "tt0363143",
       "type": "movie",
-      "name": "Doctor Who: Voyage of the Damned",
-      "poster": "https://image.tmdb.org/t/p/w342/kYezMPWGBrlNGEok6mEizkl4HUU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iQI6H6X2cmltgtzPrrXgnV7CwsF.jpg",
-      "description": "When disaster hits the Titanic, the Doctor uncovers a threat to the whole human race. Battling alongside aliens, saboteurs, robot Angels and a new friend called Astrid, can he stop the Christmas inferno?",
-      "releaseInfo": "2007",
+      "name": "Trauma",
+      "poster": "https://image.tmdb.org/t/p/w342/k9uFGgQYmyhGFhwRM9jZuIlYAiu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/puVSkJbKz0iiaI3l1yOFkO7kwEH.jpg",
+      "description": "Awaking from a coma to discover his wife has been killed in a car accident, Ben's world may as well have come to an end. A few weeks later, Ben's out of hospital and, attempting to start a new life, he moves home and is befriended by a beautiful young neighbour Charlotte. His life may be turning around but all is not what it seems and, haunted by visions of his dead wife, Ben starts to lose his grip on reality.",
+      "releaseInfo": "2004",
       "genres": [
-        "Sci-Fi",
+        "Drama",
         "Mystery",
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt2421662",
-      "type": "movie",
-      "name": "The Challenger Disaster",
-      "poster": "https://image.tmdb.org/t/p/w342/ltSiY7rORMGlSHGI7Lr0sgI8D6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tvzGlFkOHApPOckWN7PSNScGDbx.jpg",
-      "description": "When the space shuttle Challenger blew up in 1986, it was the most shocking event in the history of American spaceflight. The deaths of seven astronauts, including the first teacher in space Christa McAuliffe, were watched live on television by millions of viewers. But what was more shocking was that the cause of the disaster might never be uncovered. The Challenger is the story of how Richard Feynman, one of America's most famous scientists, helped to discover the cause of a tragedy that stunned America.",
-      "releaseInfo": "2013",
-      "genres": [
         "Thriller",
-        "Drama",
-        "History"
-      ]
-    },
-    {
-      "id": "tt1966385",
-      "type": "movie",
-      "name": "City of Tiny Lights",
-      "poster": "https://image.tmdb.org/t/p/w342/eX9iEZdU2w1elGQhNY50DmKqiaE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dNfmHw3gz9vXayMrLVtOaarZkN7.jpg",
-      "description": "In the teeming, multicultural metropolis of modern-day London, a seemingly straightforward missing-person case launches a down-at-heel private eye into a dangerous world of religious fanaticism and political intrigue.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt0322622",
-      "type": "movie",
-      "name": "The Hound of the Baskervilles",
-      "poster": "https://image.tmdb.org/t/p/w342/fVC7KS1LSKJ18yGqk8a6CfGOCuY.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nb7SjAaXbUKIPiZpgDGMETvwR4S.jpg",
-      "description": "Sherlock Holmes and Dr. Watson are called in to unravel a mysterious curse that has plagued the Baskerville family for generations. When Sir Charles Baskerville is found dead, his heir, Sir Henry, begs Holmes to save him from the terrifying supernatural hound that has brought fear and death to his household.",
-      "releaseInfo": "2002",
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0286594",
-      "type": "movie",
-      "name": "Doctor Sleep",
-      "poster": "https://image.tmdb.org/t/p/w342/eBRcmhQakzeYPU6AWLP1DtAoLtC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ahrY6isV4vfPUzpIF0CO96pjuMw.jpg",
-      "description": "While treating a policewoman for smoking, hypnotherapist Michael Strother has a telepathic vision of a young girl floating beneath the surface of a stream. The escaped victim of a ritualistic serial killer, the girl has become mute, and Michael is called upon by Scotland Yard to unlock the secrets she holds in order to catch a man who believes he has discovered the key to immortality.",
-      "releaseInfo": "2002",
-      "genres": [
-        "Crime",
-        "Horror",
-        "Thriller",
-        "Mystery"
+        "Horror"
       ]
     },
     {
@@ -535,16 +453,143 @@
       ]
     },
     {
-      "id": "tt0313410",
+      "id": "tt1797469",
       "type": "movie",
-      "name": "No Night Is Too Long",
-      "poster": "https://image.tmdb.org/t/p/w342/81uNqDEDFrM9NmdOigwQIjXNF2w.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/b6NwOhvIVpbMyzFqdMnaSojv6CJ.jpg",
-      "description": "A chance meeting, a stolen kiss and a sudden flare of passion sets a handsome young university student on a journey of betrayal, heartbreak and murder.",
+      "name": "Page Eight",
+      "poster": "https://image.tmdb.org/t/p/w342/69q0ZufQqPCjFbyuTxXRtqQtDd6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vH6TWGAgQaLSibGU7tz26JLb0Cp.jpg",
+      "description": "Johnny is a long-serving MI5 officer. His boss dies suddenly, leaving behind an inexplicable file which threatens the stability of the organisation.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0322622",
+      "type": "movie",
+      "name": "The Hound of the Baskervilles",
+      "poster": "https://image.tmdb.org/t/p/w342/fVC7KS1LSKJ18yGqk8a6CfGOCuY.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nb7SjAaXbUKIPiZpgDGMETvwR4S.jpg",
+      "description": "Sherlock Holmes and Dr. Watson are called in to unravel a mysterious curse that has plagued the Baskerville family for generations. When Sir Charles Baskerville is found dead, his heir, Sir Henry, begs Holmes to save him from the terrifying supernatural hound that has brought fear and death to his household.",
       "releaseInfo": "2002",
       "genres": [
-        "Crime",
+        "Thriller",
         "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt3294200",
+      "type": "movie",
+      "name": "The Falling",
+      "poster": "https://image.tmdb.org/t/p/w342/hjlU6vSDD5fdJenWhUKE5l672rb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/pvn9CqsQFIzK4j1rrgQcpV3T6UJ.jpg",
+      "description": "England, 1969. The fascinating Abbie and the troubled Lydia are great friends. After an unexpected tragedy occurs in the strict girls' school they attend, a mysterious epidemic of fainting breaks out that threatens the mental sanity and beliefs of the tormented people involved, both teachers and students.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt2078552",
+      "type": "movie",
+      "name": "Blood",
+      "poster": "https://image.tmdb.org/t/p/w342/wtHDMP6VPNF2Vc8YNCHwz4sJtNo.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iMIvLPrMbSeUSmIEs1YvbKize4w.jpg",
+      "description": "When police discover a young girl brutally murdered, brothers Joe Fairburns and Chrissie Fairburns join their supervisor Robert to investigate main suspect Jason Buliegh, a local sex offender and social outcast. Forced to release Jason from police custody, the Fairburns take matters into their own hands in an attempt to coerce a confession.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt1248971",
+      "type": "movie",
+      "name": "Cherrybomb",
+      "poster": "https://image.tmdb.org/t/p/w342/q3NdckfHKjXyrsRNoZyAidMf9em.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/llyzjqc0xYRzZjK7quUybU8H32i.jpg",
+      "description": "Teenagers Luke, Malachy, and Michelle embark on a wild weekend of drink, drugs, shop-lifting and stealing cars. But what starts out as a game turns deadly serious when the three discover that they can't get off the wild ride they've set in motion.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt1172571",
+      "type": "movie",
+      "name": "The Children",
+      "poster": "https://image.tmdb.org/t/p/w342/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
+      "description": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0471030",
+      "type": "movie",
+      "name": "Red Road",
+      "poster": "https://image.tmdb.org/t/p/w342/o2SWtcm9bR7lqoCp3wsVp35fvmV.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x4x42AbArvItQusMifH3R97j7oN.jpg",
+      "description": "Jackie is a CCTV operator. One day, a man shows his face on her monitor, a man she hoped never to see again. Now she has no choice and is compelled to confront him.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt1061123",
+      "type": "movie",
+      "name": "Doctor Who: Voyage of the Damned",
+      "poster": "https://image.tmdb.org/t/p/w342/kYezMPWGBrlNGEok6mEizkl4HUU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iQI6H6X2cmltgtzPrrXgnV7CwsF.jpg",
+      "description": "When disaster hits the Titanic, the Doctor uncovers a threat to the whole human race. Battling alongside aliens, saboteurs, robot Angels and a new friend called Astrid, can he stop the Christmas inferno?",
+      "releaseInfo": "2007",
+      "genres": [
+        "Sci-Fi",
+        "Mystery",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt1034302",
+      "type": "movie",
+      "name": "The Cry of the Owl",
+      "poster": "https://image.tmdb.org/t/p/w342/h9VizOOadBJixcbpswSqM0bb30c.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vWWshAydkFv2f2twAA8emnVMVMa.jpg",
+      "description": "Fleeing New York City, a failed marriage and a fragile mental history, artist Robert Forrester moves to small-town Pennsylvania. There he becomes fascinated with the simple domesticity of a beautiful neighbor, watching her through the windows of her home --- until she invites him in for coffee. He is drawn into a relationship with the young woman whose boyfriend goes missing; Robert becomes a murder suspect, gradually sensing he is the target of a larger plot.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt1319694",
+      "type": "movie",
+      "name": "Glorious 39",
+      "poster": "https://image.tmdb.org/t/p/w342/kYXMRksWR7R2G7LEuEeVWhWgEY4.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gL6OWNNUIBJvknyonhnyHmQdAq0.jpg",
+      "description": "A mysterious tale set around a traditional British family on the eve of World War Two. Oblivious to the looming shadow of World War II, the wealthy Keyes maintain a confident façade in the British countryside until daughter Anne becomes an unexpected pawn. Her accidental discovery of secret recordings creates a rift in the family.",
+      "releaseInfo": "2009",
+      "genres": [
+        "War",
+        "Drama",
+        "History",
         "Thriller"
       ]
     },
@@ -561,16 +606,31 @@
       ]
     },
     {
-      "id": "tt0108388",
+      "id": "tt0340376",
       "type": "movie",
-      "name": "The Trial",
-      "poster": "https://image.tmdb.org/t/p/w342/t3nlCW5pGQJSdLXlq5rwZFNaggb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/h30NyZ2e2MobAoJXUt8ywn5BFTz.jpg",
-      "description": "Joseph K. awakes one morning, to find two strange men in his room, telling him he has been arrested. Joseph is not told what he is charged with, and despite being \"arrested,\" is allowed to remain free and go to work. But despite the strange nature of his arrest, Joseph soon learns that his trial, however odd, is very real, and tries desperately to spare himself from the court's judgement.",
-      "releaseInfo": "1993",
+      "name": "The Statement",
+      "poster": "https://image.tmdb.org/t/p/w342/a7IvoBJ70dp6U1fjRlvB04ZtxvF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/uHFZdbtLAaAaVFKBowN1RTDD0oC.jpg",
+      "description": "An ambitious Judge and an exacting Colonel re-open the sixty-year-old case of Pierre Brossard, an escaped Nazi collaborator accused of murdering seven Jews. Now an old man living a sheltered life within the Catholic Church, Brossard is also being trailed by mysterious hit men, determined to kill him before he's arrested.",
+      "releaseInfo": "2003",
       "genres": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0109374",
+      "type": "movie",
+      "name": "Captives",
+      "poster": "https://image.tmdb.org/t/p/w342/7rOOxUNrTLZMT6KAdBd8WMnElsd.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/lKQRcvbhRFMew82Vj0CtLBS9UWw.jpg",
+      "description": "A beautiful young dentist working in a tough British prison starts to become attracted to a violent inmate after the break-up of her marriage, and embarks upon an illicit affair with him, with terrible consequences for all.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Drama",
         "Thriller",
-        "Drama"
+        "Mystery",
+        "Romance"
       ]
     },
     {
@@ -603,17 +663,31 @@
       ]
     },
     {
-      "id": "tt2078552",
+      "id": "tt0313410",
       "type": "movie",
-      "name": "Blood",
-      "poster": "https://image.tmdb.org/t/p/w342/wtHDMP6VPNF2Vc8YNCHwz4sJtNo.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iMIvLPrMbSeUSmIEs1YvbKize4w.jpg",
-      "description": "When police discover a young girl brutally murdered, brothers Joe Fairburns and Chrissie Fairburns join their supervisor Robert to investigate main suspect Jason Buliegh, a local sex offender and social outcast. Forced to release Jason from police custody, the Fairburns take matters into their own hands in an attempt to coerce a confession.",
-      "releaseInfo": "2012",
+      "name": "No Night Is Too Long",
+      "poster": "https://image.tmdb.org/t/p/w342/81uNqDEDFrM9NmdOigwQIjXNF2w.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/b6NwOhvIVpbMyzFqdMnaSojv6CJ.jpg",
+      "description": "A chance meeting, a stolen kiss and a sudden flare of passion sets a handsome young university student on a journey of betrayal, heartbreak and murder.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0119320",
+      "type": "movie",
+      "name": "Hostile Waters",
+      "poster": "https://image.tmdb.org/t/p/w342/6froDO7JfGq3VnuYLt4l8Jq5KD4.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/lE8V3A0tORu6kaSNbJxg0XOZz9V.jpg",
+      "description": "Based on true events, an American submarine collides into a Soviet sub of the coast of America and an ensuing standoff occurs that could lead to total annihilation.",
+      "releaseInfo": "1997",
       "genres": [
         "Drama",
         "Thriller",
-        "Crime"
+        "War"
       ]
     },
     {
@@ -628,119 +702,6 @@
         "Drama",
         "Horror",
         "Thriller"
-      ]
-    },
-    {
-      "id": "tt0120584",
-      "type": "movie",
-      "name": "All the Little Animals",
-      "poster": "https://image.tmdb.org/t/p/w342/8FTYas78VeQbnP94Sl4ePAGmZwk.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qJctmzmNllpc8erVHhFIWGmLbY3.jpg",
-      "description": "An emotionally challenged young man named Bobby runs away from home in order to escape his abusive stepfather who has killed his pets. He meets an old man, Mr. Summers, who spends his time traveling and giving burials to animals that have been killed by cars. Bobby, also having an affinity for animals, becomes friends with the old man and aids him in his task.",
-      "releaseInfo": "1999",
-      "genres": [
-        "Drama",
-        "Adventure",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt0471030",
-      "type": "movie",
-      "name": "Red Road",
-      "poster": "https://image.tmdb.org/t/p/w342/o2SWtcm9bR7lqoCp3wsVp35fvmV.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/x4x42AbArvItQusMifH3R97j7oN.jpg",
-      "description": "Jackie is a CCTV operator. One day, a man shows his face on her monitor, a man she hoped never to see again. Now she has no choice and is compelled to confront him.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt1248971",
-      "type": "movie",
-      "name": "Cherrybomb",
-      "poster": "https://image.tmdb.org/t/p/w342/q3NdckfHKjXyrsRNoZyAidMf9em.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/llyzjqc0xYRzZjK7quUybU8H32i.jpg",
-      "description": "Teenagers Luke, Malachy, and Michelle embark on a wild weekend of drink, drugs, shop-lifting and stealing cars. But what starts out as a game turns deadly serious when the three discover that they can't get off the wild ride they've set in motion.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt1319694",
-      "type": "movie",
-      "name": "Glorious 39",
-      "poster": "https://image.tmdb.org/t/p/w342/kYXMRksWR7R2G7LEuEeVWhWgEY4.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gL6OWNNUIBJvknyonhnyHmQdAq0.jpg",
-      "description": "A mysterious tale set around a traditional British family on the eve of World War Two. Oblivious to the looming shadow of World War II, the wealthy Keyes maintain a confident façade in the British countryside until daughter Anne becomes an unexpected pawn. Her accidental discovery of secret recordings creates a rift in the family.",
-      "releaseInfo": "2009",
-      "genres": [
-        "War",
-        "Drama",
-        "History",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt9305634",
-      "type": "movie",
-      "name": "Surge",
-      "poster": "https://image.tmdb.org/t/p/w342/tR68Qbd0ETPXGDtC6HZtTmliX1G.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vAGRUbouiHUQh1JTI09dKvzc6nu.jpg",
-      "description": "A man goes on a bold and reckless journey of self-liberation through London. After he robs a bank he releases a wilder version of himself, ultimately experiencing what it feels like to be alive.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt0109374",
-      "type": "movie",
-      "name": "Captives",
-      "poster": "https://image.tmdb.org/t/p/w342/7rOOxUNrTLZMT6KAdBd8WMnElsd.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/lKQRcvbhRFMew82Vj0CtLBS9UWw.jpg",
-      "description": "A beautiful young dentist working in a tough British prison starts to become attracted to a violent inmate after the break-up of her marriage, and embarks upon an illicit affair with him, with terrible consequences for all.",
-      "releaseInfo": "1994",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Mystery",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tt1577883",
-      "type": "movie",
-      "name": "The Turn of the Screw",
-      "poster": "https://image.tmdb.org/t/p/w342/gU6VIBiClt3YwElPd0YEV5fqPmW.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hGDhlnat9Ti4eTmQeLvDuw8Wu4l.jpg",
-      "description": "In a mid-19th century Essex country house, a young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Horror",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0363143",
-      "type": "movie",
-      "name": "Trauma",
-      "poster": "https://image.tmdb.org/t/p/w342/k9uFGgQYmyhGFhwRM9jZuIlYAiu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/puVSkJbKz0iiaI3l1yOFkO7kwEH.jpg",
-      "description": "Awaking from a coma to discover his wife has been killed in a car accident, Ben's world may as well have come to an end. A few weeks later, Ben's out of hospital and, attempting to start a new life, he moves home and is befriended by a beautiful young neighbour Charlotte. His life may be turning around but all is not what it seems and, haunted by visions of his dead wife, Ben starts to lose his grip on reality.",
-      "releaseInfo": "2004",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller",
-        "Horror"
       ]
     },
     {
@@ -773,30 +734,54 @@
       ]
     },
     {
-      "id": "tt2183152",
+      "id": "tt0120584",
       "type": "movie",
-      "name": "The Lady Vanishes",
-      "poster": "https://image.tmdb.org/t/p/w342/AuLuO1pEy8yAYTIROv0uH6cuXa9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/43oduu4qhXLkpRk0SVRP0FcWvFA.jpg",
-      "description": "Young socialite Iris Carr befriends an older woman while traveling solo by train. When Iris wakes from a nap, the woman is gone and other passengers claim she never existed.",
-      "releaseInfo": "2013",
+      "name": "All the Little Animals",
+      "poster": "https://image.tmdb.org/t/p/w342/8FTYas78VeQbnP94Sl4ePAGmZwk.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qJctmzmNllpc8erVHhFIWGmLbY3.jpg",
+      "description": "An emotionally challenged young man named Bobby runs away from home in order to escape his abusive stepfather who has killed his pets. He meets an old man, Mr. Summers, who spends his time traveling and giving burials to animals that have been killed by cars. Bobby, also having an affinity for animals, becomes friends with the old man and aids him in his task.",
+      "releaseInfo": "1999",
       "genres": [
-        "Thriller",
-        "Mystery",
-        "Horror"
+        "Drama",
+        "Adventure",
+        "Thriller"
       ]
     },
     {
-      "id": "tt14773478",
+      "id": "tt2421662",
       "type": "movie",
-      "name": "Medusa Deluxe",
-      "poster": "https://image.tmdb.org/t/p/w342/hcuNu3dXNHjWOtcy0WtKU1rSW3Y.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2Yy6GdTEJAmVeXf1GApD70nrZq.jpg",
-      "description": "Talented and cutthroat hairstylists at a competition find one of their own murdered before judging can begin. Winding through neon-lit halls, competitors unspool long-simmering resentments and lies as they search for the killer among them.",
-      "releaseInfo": "2023",
+      "name": "The Challenger Disaster",
+      "poster": "https://image.tmdb.org/t/p/w342/ltSiY7rORMGlSHGI7Lr0sgI8D6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tvzGlFkOHApPOckWN7PSNScGDbx.jpg",
+      "description": "When the space shuttle Challenger blew up in 1986, it was the most shocking event in the history of American spaceflight. The deaths of seven astronauts, including the first teacher in space Christa McAuliffe, were watched live on television by millions of viewers. But what was more shocking was that the cause of the disaster might never be uncovered. The Challenger is the story of how Richard Feynman, one of America's most famous scientists, helped to discover the cause of a tragedy that stunned America.",
+      "releaseInfo": "2013",
       "genres": [
-        "Comedy",
-        "Mystery",
+        "Thriller",
+        "Drama",
+        "History"
+      ]
+    },
+    {
+      "id": "tt9305634",
+      "type": "movie",
+      "name": "Surge",
+      "poster": "https://image.tmdb.org/t/p/w342/tR68Qbd0ETPXGDtC6HZtTmliX1G.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vAGRUbouiHUQh1JTI09dKvzc6nu.jpg",
+      "description": "A man goes on a bold and reckless journey of self-liberation through London. After he robs a bank he releases a wilder version of himself, ultimately experiencing what it feels like to be alive.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0108388",
+      "type": "movie",
+      "name": "The Trial",
+      "poster": "https://image.tmdb.org/t/p/w342/t3nlCW5pGQJSdLXlq5rwZFNaggb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/h30NyZ2e2MobAoJXUt8ywn5BFTz.jpg",
+      "description": "Joseph K. awakes one morning, to find two strange men in his room, telling him he has been arrested. Joseph is not told what he is charged with, and despite being \"arrested,\" is allowed to remain free and go to work. But despite the strange nature of his arrest, Joseph soon learns that his trial, however odd, is very real, and tries desperately to spare himself from the court's judgement.",
+      "releaseInfo": "1993",
+      "genres": [
         "Thriller",
         "Drama"
       ]
@@ -816,30 +801,18 @@
       ]
     },
     {
-      "id": "tt3573598",
+      "id": "tt1577883",
       "type": "movie",
-      "name": "London Road",
-      "poster": "https://image.tmdb.org/t/p/w342/8t4KNPc7SOecTWHf6IkKhQWYxgt.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ohp0ZrioXFTe3v9HyqSiN510DAP.jpg",
-      "description": "London Road is a musical drama that documents the events of 2006, when the quiet rural town of Ipswich was shattered by the discovery of the bodies of five women. The residents of London Road had struggled for years with frequent soliciting and kerb-crawling on their street. When a local resident was charged and then convicted of the murders, the community grappled with what it meant to be at the epicentre of this tragedy.",
-      "releaseInfo": "2015",
+      "name": "The Turn of the Screw",
+      "poster": "https://image.tmdb.org/t/p/w342/gU6VIBiClt3YwElPd0YEV5fqPmW.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hGDhlnat9Ti4eTmQeLvDuw8Wu4l.jpg",
+      "description": "In a mid-19th century Essex country house, a young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
+      "releaseInfo": "2009",
       "genres": [
-        "Drama",
         "Thriller",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt0427157",
-      "type": "movie",
-      "name": "Dirty War",
-      "poster": "https://image.tmdb.org/t/p/w342/qGk7Q6E8Kx6hXhmN9A1yhNIpiP8.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vMNTypsHzKtV6i1iAHmPMZ0zvLy.jpg",
-      "description": "After years of meticulous planning, a terrorist operation is reaching its final stages. The authorities have received no intelligence; they are in a race against time but don't yet know it. As the operation unfolds, we see the working lives of men and women directly affected by terrorism. Among them: a firemen worried about the increasingly dangerous conditions he and his men are expected to work under; the head of the anti-terrorist branch whose responsibility it is to protect London and a female Muslim detective brought into Scotland Yard to investigate another suspected terrorist cell. But it is too late to stop the attack.",
-      "releaseInfo": "2004",
-      "genres": [
         "Drama",
-        "Thriller"
+        "Horror",
+        "Mystery"
       ]
     },
     {
@@ -857,6 +830,20 @@
       ]
     },
     {
+      "id": "tt8649190",
+      "type": "movie",
+      "name": "Here Before",
+      "poster": "https://image.tmdb.org/t/p/w342/q7zlzoBX51NtWiNAO1MdhNkW7Aw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bG8DuJcd9BqEaHB2lhAyu2NF9k9.jpg",
+      "description": "Haunted by the death of her young daughter, a distraught woman develops an all-consuming obsession with a girl she believes is her reincarnated child.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt0119092",
       "type": "movie",
       "name": "Face",
@@ -868,6 +855,47 @@
         "Crime",
         "Drama",
         "Thriller"
+      ]
+    },
+    {
+      "id": "tt2183152",
+      "type": "movie",
+      "name": "The Lady Vanishes",
+      "poster": "https://image.tmdb.org/t/p/w342/AuLuO1pEy8yAYTIROv0uH6cuXa9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/43oduu4qhXLkpRk0SVRP0FcWvFA.jpg",
+      "description": "Young socialite Iris Carr befriends an older woman while traveling solo by train. When Iris wakes from a nap, the woman is gone and other passengers claim she never existed.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0427157",
+      "type": "movie",
+      "name": "Dirty War",
+      "poster": "https://image.tmdb.org/t/p/w342/qGk7Q6E8Kx6hXhmN9A1yhNIpiP8.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vMNTypsHzKtV6i1iAHmPMZ0zvLy.jpg",
+      "description": "After years of meticulous planning, a terrorist operation is reaching its final stages. The authorities have received no intelligence; they are in a race against time but don't yet know it. As the operation unfolds, we see the working lives of men and women directly affected by terrorism. Among them: a firemen worried about the increasingly dangerous conditions he and his men are expected to work under; the head of the anti-terrorist branch whose responsibility it is to protect London and a female Muslim detective brought into Scotland Yard to investigate another suspected terrorist cell. But it is too late to stop the attack.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt3573598",
+      "type": "movie",
+      "name": "London Road",
+      "poster": "https://image.tmdb.org/t/p/w342/8t4KNPc7SOecTWHf6IkKhQWYxgt.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ohp0ZrioXFTe3v9HyqSiN510DAP.jpg",
+      "description": "London Road is a musical drama that documents the events of 2006, when the quiet rural town of Ipswich was shattered by the discovery of the bodies of five women. The residents of London Road had struggled for years with frequent soliciting and kerb-crawling on their street. When a local resident was charged and then convicted of the murders, the community grappled with what it meant to be at the epicentre of this tragedy.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
       ]
     },
     {
@@ -893,20 +921,6 @@
       "description": "Shifty, a young crack cocaine dealer in London, sees his life quickly spiral out of control when his best friend returns home. Stalked by a customer desperate to score at all costs, and with his family about to turn their back on him for good, Shifty must out-run and out-smart a rival drug dealer, intent on setting him up for a big fall.",
       "releaseInfo": "2008",
       "genres": [
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt8649190",
-      "type": "movie",
-      "name": "Here Before",
-      "poster": "https://image.tmdb.org/t/p/w342/q7zlzoBX51NtWiNAO1MdhNkW7Aw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bG8DuJcd9BqEaHB2lhAyu2NF9k9.jpg",
-      "description": "Haunted by the death of her young daughter, a distraught woman develops an all-consuming obsession with a girl she believes is her reincarnated child.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Drama",
-        "Mystery",
         "Thriller"
       ]
     }
