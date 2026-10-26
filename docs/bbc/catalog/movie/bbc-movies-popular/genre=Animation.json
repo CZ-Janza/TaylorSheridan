@@ -16,20 +16,6 @@
       ]
     },
     {
-      "id": "tt7546096",
-      "type": "movie",
-      "name": "The Highway Rat",
-      "poster": "https://image.tmdb.org/t/p/w342/dxNKtY0e5pm6BFCdDMP3riRVBTb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/muXYdzOL7DSlzoWYuu6QOCdy7vZ.jpg",
-      "description": "The tale of a ravenous rat who craves buns, biscuits and all sweet things. Tearing along the highway, he searches for sugary treats to steal, until his sweet tooth leads him to a sticky end.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Family",
-        "Animation",
-        "Comedy"
-      ]
-    },
-    {
       "id": "tt1762399",
       "type": "movie",
       "name": "Walking with Dinosaurs",
@@ -41,20 +27,6 @@
         "Animation",
         "Family",
         "Adventure"
-      ]
-    },
-    {
-      "id": "tt0112691",
-      "type": "movie",
-      "name": "A Close Shave",
-      "poster": "https://image.tmdb.org/t/p/w342/qdIR27trLyrlJ5nmkbcG3Bomah6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/aD8ZhhrlJ6PXDiyyIvaMltxfbSz.jpg",
-      "description": "Wallace's whirlwind romance with the proprietor of the local wool shop puts his head in a spin, and Gromit is framed for sheep-rustling in a fiendish criminal plot.",
-      "releaseInfo": "1996",
-      "genres": [
-        "Family",
-        "Animation",
-        "Comedy"
       ]
     },
     {
@@ -87,17 +59,17 @@
       ]
     },
     {
-      "id": "tt0208298",
+      "id": "tt0112691",
       "type": "movie",
-      "name": "The Miracle Maker",
-      "poster": "https://image.tmdb.org/t/p/w342/kdloDloT8L5UehG5kMpoSTjfmZl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/guTKlQh7Na7bec8SoAzSfYQWaUK.jpg",
-      "description": "A mother and father in search of help for their sick daughter cross paths with an extraordinary carpenter named Jesus, who has devoted his life to spreading God's word. An amazing miracle brings to light the true meaning of Christ, and the sacrifices he endured for the deliverance of mankind. A compelling story of faith, trust, and devotion.",
-      "releaseInfo": "2000",
+      "name": "A Close Shave",
+      "poster": "https://image.tmdb.org/t/p/w342/qdIR27trLyrlJ5nmkbcG3Bomah6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aD8ZhhrlJ6PXDiyyIvaMltxfbSz.jpg",
+      "description": "Wallace's whirlwind romance with the proprietor of the local wool shop puts his head in a spin, and Gromit is framed for sheep-rustling in a fiendish criminal plot.",
+      "releaseInfo": "1996",
       "genres": [
-        "Animation",
         "Family",
-        "Drama"
+        "Animation",
+        "Comedy"
       ]
     },
     {
@@ -112,6 +84,34 @@
         "Animation",
         "Sci-Fi",
         "Adventure"
+      ]
+    },
+    {
+      "id": "tt7546096",
+      "type": "movie",
+      "name": "The Highway Rat",
+      "poster": "https://image.tmdb.org/t/p/w342/dxNKtY0e5pm6BFCdDMP3riRVBTb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/muXYdzOL7DSlzoWYuu6QOCdy7vZ.jpg",
+      "description": "The tale of a ravenous rat who craves buns, biscuits and all sweet things. Tearing along the highway, he searches for sugary treats to steal, until his sweet tooth leads him to a sticky end.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0208298",
+      "type": "movie",
+      "name": "The Miracle Maker",
+      "poster": "https://image.tmdb.org/t/p/w342/kdloDloT8L5UehG5kMpoSTjfmZl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/guTKlQh7Na7bec8SoAzSfYQWaUK.jpg",
+      "description": "A mother and father in search of help for their sick daughter cross paths with an extraordinary carpenter named Jesus, who has devoted his life to spreading God's word. An amazing miracle brings to light the true meaning of Christ, and the sacrifices he endured for the deliverance of mankind. A compelling story of faith, trust, and devotion.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Animation",
+        "Family",
+        "Drama"
       ]
     },
     {
@@ -141,19 +141,6 @@
         "Animation",
         "Comedy",
         "Family"
-      ]
-    },
-    {
-      "id": "tt1064739",
-      "type": "movie",
-      "name": "Doctor Who: The Infinite Quest",
-      "poster": "https://image.tmdb.org/t/p/w342/2IZtghuqyJhwTCyWZT8ESsol0CB.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qEObPscbWyhIsdfpRhgGjPWJqI.jpg",
-      "description": "In this animated adventure, The Doctor and Martha Jones trek through space and time in a race against the galaxy's greatest despot, Balthazar, to follow a complex trail of clues to discover the location of the legendary lost spaceship, the Infinite, which, according to myth, can grant anybody their heart's desire.",
-      "releaseInfo": "2007",
-      "genres": [
-        "Sci-Fi",
-        "Animation"
       ]
     },
     {
@@ -195,6 +182,19 @@
       "genres": [
         "Animation",
         "Comedy"
+      ]
+    },
+    {
+      "id": "tt1064739",
+      "type": "movie",
+      "name": "Doctor Who: The Infinite Quest",
+      "poster": "https://image.tmdb.org/t/p/w342/2IZtghuqyJhwTCyWZT8ESsol0CB.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qEObPscbWyhIsdfpRhgGjPWJqI.jpg",
+      "description": "In this animated adventure, The Doctor and Martha Jones trek through space and time in a race against the galaxy's greatest despot, Balthazar, to follow a complex trail of clues to discover the location of the legendary lost spaceship, the Infinite, which, according to myth, can grant anybody their heart's desire.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Sci-Fi",
+        "Animation"
       ]
     },
     {

@@ -29,20 +29,6 @@
       ]
     },
     {
-      "id": "tt38504111",
-      "type": "series",
-      "name": "Small Prophets",
-      "poster": "https://image.tmdb.org/t/p/w342/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
-      "description": "The magical and mundane unfold in a suburban shed as a lonely man stumbles on the supernatural.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt2674806",
       "type": "series",
       "name": "Inside No. 9",
@@ -60,16 +46,15 @@
       ]
     },
     {
-      "id": "tt2321596",
+      "id": "tt38504111",
       "type": "series",
-      "name": "Wolfblood",
-      "poster": "https://image.tmdb.org/t/p/w342/rYFKm38ClVGVe6Bj3RUYf67Vc9E.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sC9OILuFOlZon1XQFrSDBUlGLkI.jpg",
-      "description": "Being a teenager is hard enough. Being a Wolfblood teenager is ten times more complicated. 14 year old Maddy loves her abilities - heightened senses, being faster, stronger and more graceful - but hates the secrets that come with them.",
-      "releaseInfo": "2012",
+      "name": "Small Prophets",
+      "poster": "https://image.tmdb.org/t/p/w342/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
+      "description": "The magical and mundane unfold in a suburban shed as a lonely man stumbles on the supernatural.",
+      "releaseInfo": "2026",
       "genres": [
-        "Sci-Fi",
-        "Fantasy",
+        "Comedy",
         "Drama",
         "Mystery"
       ]
@@ -89,6 +74,21 @@
       ]
     },
     {
+      "id": "tt2321596",
+      "type": "series",
+      "name": "Wolfblood",
+      "poster": "https://image.tmdb.org/t/p/w342/rYFKm38ClVGVe6Bj3RUYf67Vc9E.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sC9OILuFOlZon1XQFrSDBUlGLkI.jpg",
+      "description": "Being a teenager is hard enough. Being a Wolfblood teenager is ten times more complicated. 14 year old Maddy loves her abilities - heightened senses, being faster, stronger and more graceful - but hates the secrets that come with them.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt3428912",
       "type": "series",
       "name": "Happy Valley",
@@ -98,6 +98,32 @@
       "releaseInfo": "2014",
       "genres": [
         "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1430509",
+      "type": "series",
+      "name": "Inspector George Gently",
+      "poster": "https://image.tmdb.org/t/p/w342/3xfuZKWVxNnXhL8C6wVSnfM9Uj9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1P6x7gNgnFvlZTcRIak0HQadZbx.jpg",
+      "description": "Crime drama set in the 1960s about an old-school detective trying to come to terms with a time when the lines between the police and criminals have become blurred.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Mystery",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt3647998",
+      "type": "series",
+      "name": "Taboo",
+      "poster": "https://image.tmdb.org/t/p/w342/om1wVOuEtwH3krHutIWO9sJzkS5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gder6NtVlBIpenWWMOwpbQK05Uc.jpg",
+      "description": "Adventurer James Keziah Delaney returns to London from Africa in 1814 along with fourteen stolen diamonds to seek vengeance after the death of his father.",
+      "releaseInfo": "2017",
+      "genres": [
         "Drama",
         "Mystery"
       ]
@@ -115,32 +141,6 @@
         "Crime",
         "Drama",
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt3647998",
-      "type": "series",
-      "name": "Taboo",
-      "poster": "https://image.tmdb.org/t/p/w342/om1wVOuEtwH3krHutIWO9sJzkS5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gder6NtVlBIpenWWMOwpbQK05Uc.jpg",
-      "description": "Adventurer James Keziah Delaney returns to London from Africa in 1814 along with fourteen stolen diamonds to seek vengeance after the death of his father.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt1430509",
-      "type": "series",
-      "name": "Inspector George Gently",
-      "poster": "https://image.tmdb.org/t/p/w342/3xfuZKWVxNnXhL8C6wVSnfM9Uj9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1P6x7gNgnFvlZTcRIak0HQadZbx.jpg",
-      "description": "Crime drama set in the 1960s about an old-school detective trying to come to terms with a time when the lines between the police and criminals have become blurred.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Mystery",
-        "Crime"
       ]
     },
     {
@@ -273,20 +273,6 @@
       ]
     },
     {
-      "id": "tt0080297",
-      "type": "series",
-      "name": "Tinker Tailor Soldier Spy",
-      "poster": "https://image.tmdb.org/t/p/w342/3HlMztiMrTnhU1u807MGUizEXxH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6IPIqdc7J0hXxTgWjzfgk6DRTXX.jpg",
-      "description": "Tinker Tailor Soldier Spy is a seven-part BBC2 spy drama written by Arthur Hopcraft, adapted from John le Carré's eponymous 1974 novel. The serial, which stars Alec Guinness, Alexander Knox, Ian Richardson, Michael Jayston, Bernard Hepton, Anthony Bate, Ian Bannen, George Sewell and Michael Aldridge, was broadcast from 10 September to 22 October 1979.\n\nGeorge Smiley, the ageing master spy of the Cold War and once heir-apparent to Control, is brought back out of retirement to flush out a top level mole within the Circus. Smiley must travel back through his life and murky workings of the Circus to unravel the net spun by his nemesis Karla 'The Sandman' of the KGB and reveal the identity of the mole before he disappears.",
-      "releaseInfo": "1979",
-      "genres": [
-        "War",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt8201186",
       "type": "series",
       "name": "The Capture",
@@ -296,6 +282,20 @@
       "releaseInfo": "2019",
       "genres": [
         "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0080297",
+      "type": "series",
+      "name": "Tinker Tailor Soldier Spy",
+      "poster": "https://image.tmdb.org/t/p/w342/3HlMztiMrTnhU1u807MGUizEXxH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6IPIqdc7J0hXxTgWjzfgk6DRTXX.jpg",
+      "description": "Tinker Tailor Soldier Spy is a seven-part BBC2 spy drama written by Arthur Hopcraft, adapted from John le Carré's eponymous 1974 novel. The serial, which stars Alec Guinness, Alexander Knox, Ian Richardson, Michael Jayston, Bernard Hepton, Anthony Bate, Ian Bannen, George Sewell and Michael Aldridge, was broadcast from 10 September to 22 October 1979.\n\nGeorge Smiley, the ageing master spy of the Cold War and once heir-apparent to Control, is brought back out of retirement to flush out a top level mole within the Circus. Smiley must travel back through his life and murky workings of the Circus to unravel the net spun by his nemesis Karla 'The Sandman' of the KGB and reveal the identity of the mole before he disappears.",
+      "releaseInfo": "1979",
+      "genres": [
+        "War",
         "Drama",
         "Mystery"
       ]
@@ -372,20 +372,6 @@
       ]
     },
     {
-      "id": "tt13690576",
-      "type": "series",
-      "name": "Criminal Justice: Behind Closed Doors",
-      "poster": "https://image.tmdb.org/t/p/w342/WthbiDf5t5q49AX0VrXCocNydZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gbJ138L0ETPbjqsbEOQI1U6wo7a.jpg",
-      "description": "What made Anu Chandra stab her perfect husband? The evidence and confession are clear, but what's the truth?",
-      "releaseInfo": "2020",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt2396135",
       "type": "series",
       "name": "Shetland",
@@ -400,13 +386,13 @@
       ]
     },
     {
-      "id": "tt0118401",
+      "id": "tt13690576",
       "type": "series",
-      "name": "Midsomer Murders",
-      "poster": "https://image.tmdb.org/t/p/w342/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
-      "description": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
-      "releaseInfo": "1997",
+      "name": "Criminal Justice: Behind Closed Doors",
+      "poster": "https://image.tmdb.org/t/p/w342/WthbiDf5t5q49AX0VrXCocNydZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gbJ138L0ETPbjqsbEOQI1U6wo7a.jpg",
+      "description": "What made Anu Chandra stab her perfect husband? The evidence and confession are clear, but what's the truth?",
+      "releaseInfo": "2020",
       "genres": [
         "Crime",
         "Drama",
@@ -421,6 +407,20 @@
       "background": "https://image.tmdb.org/t/p/w780/yOSInIsiFzuie6p3Jyn2Nsdq5hs.jpg",
       "description": "An advertisement announcing the time and place of a forthcoming murder appears among the ads of the paper in the small village of Chipping Cleghorn.",
       "releaseInfo": "1985",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0118401",
+      "type": "series",
+      "name": "Midsomer Murders",
+      "poster": "https://image.tmdb.org/t/p/w342/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+      "description": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+      "releaseInfo": "1997",
       "genres": [
         "Crime",
         "Drama",
@@ -496,28 +496,16 @@
       ]
     },
     {
-      "id": "tt2183641",
+      "id": "tt1888075",
       "type": "series",
-      "name": "Ripper Street",
-      "poster": "https://image.tmdb.org/t/p/w342/6w8yKYsA7RkuyauW224kBZQebFt.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/snSylVifJ29t7mxiIi5dxi6x2q2.jpg",
-      "description": "A drama set in the East End of London in 1889, during the aftermath of the \"Ripper\" murders. The action centres around the notorious H Division – the police precinct from hell – which is charged with keeping order in the chaotic streets of Whitechapel. Ripper Street explores the lives of characters trying to recover from the Ripper's legacy, from crimes that have not only irretrievably altered their lives, but the very fabric of their city. At the drama's heart our detectives try to bring a little light into the dark world they inhabit.",
-      "releaseInfo": "2012",
+      "name": "Death in Paradise",
+      "poster": "https://image.tmdb.org/t/p/w342/u7t6vCyqAdD5hE4eEfTrZmVljDi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",
+      "description": "A brilliant but idiosyncratic British detective and his resourceful local team solve baffling murder mysteries on the fictional Caribbean island of Saint Marie.",
+      "releaseInfo": "2011",
       "genres": [
-        "Drama",
-        "Mystery",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt7660970",
-      "type": "series",
-      "name": "The North Water",
-      "poster": "https://image.tmdb.org/t/p/w342/9CM0ca8pX1os3SJ24hsIc0nN8ph.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8IC1q0lHFwi5m8VtChLzIfmpaZH.jpg",
-      "description": "Patrick Sumner, a disgraced ex-army surgeon, signs up as ship's doctor on a whaling expedition to the Arctic; on board he meets Henry Drax, the harpooner, a brutish killer whose amorality has been shaped to fit the harshness of his world. Hoping to escape the horrors of his past, Sumner finds himself on an ill-fated journey with a murderous psychopath. In search of redemption, his story becomes a harsh struggle for survival in the Arctic wasteland.",
-      "releaseInfo": "2021",
-      "genres": [
+        "Comedy",
+        "Crime",
         "Drama",
         "Mystery"
       ]
@@ -531,21 +519,6 @@
       "description": "Respected police officer John River, a gifted cop with a troubled mind, struggles to come to terms with the recent loss of a colleague, and chases a suspect across London - with tragic consequences. Now at odds with the authorities, River ends up in a precarious position as he seeks to bring closure to the mother of murdered teenager, who blames him for failing to keep his promise.",
       "releaseInfo": "2015",
       "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt1888075",
-      "type": "series",
-      "name": "Death in Paradise",
-      "poster": "https://image.tmdb.org/t/p/w342/u7t6vCyqAdD5hE4eEfTrZmVljDi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nCwAmyCcA6w1ZFjKrmwCRPiy4gt.jpg",
-      "description": "A brilliant but idiosyncratic British detective and his resourceful local team solve baffling murder mysteries on the fictional Caribbean island of Saint Marie.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Comedy",
         "Crime",
         "Drama",
         "Mystery"
@@ -620,6 +593,20 @@
       ]
     },
     {
+      "id": "tt2183641",
+      "type": "series",
+      "name": "Ripper Street",
+      "poster": "https://image.tmdb.org/t/p/w342/6w8yKYsA7RkuyauW224kBZQebFt.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/snSylVifJ29t7mxiIi5dxi6x2q2.jpg",
+      "description": "A drama set in the East End of London in 1889, during the aftermath of the \"Ripper\" murders. The action centres around the notorious H Division – the police precinct from hell – which is charged with keeping order in the chaotic streets of Whitechapel. Ripper Street explores the lives of characters trying to recover from the Ripper's legacy, from crimes that have not only irretrievably altered their lives, but the very fabric of their city. At the drama's heart our detectives try to bring a little light into the dark world they inhabit.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ]
+    },
+    {
       "id": "tt1178618",
       "type": "series",
       "name": "Wallander",
@@ -630,6 +617,19 @@
       "genres": [
         "Drama",
         "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt7660970",
+      "type": "series",
+      "name": "The North Water",
+      "poster": "https://image.tmdb.org/t/p/w342/9CM0ca8pX1os3SJ24hsIc0nN8ph.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8IC1q0lHFwi5m8VtChLzIfmpaZH.jpg",
+      "description": "Patrick Sumner, a disgraced ex-army surgeon, signs up as ship's doctor on a whaling expedition to the Arctic; on board he meets Henry Drax, the harpooner, a brutish killer whose amorality has been shaped to fit the harshness of his world. Hoping to escape the horrors of his past, Sumner finds himself on an ill-fated journey with a murderous psychopath. In search of redemption, his story becomes a harsh struggle for survival in the Arctic wasteland.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama",
         "Mystery"
       ]
     },
@@ -668,6 +668,34 @@
       "background": "https://image.tmdb.org/t/p/w780/nGiNHReDNOcuJdxYGCPQ8TZ1qk4.jpg",
       "description": "When a handful of grain is found in the pocket of a murdered businessman, Miss Marple seeks a murderer with a penchant for nursery rhymes.",
       "releaseInfo": "1985",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt3877200",
+      "type": "series",
+      "name": "The Missing",
+      "poster": "https://image.tmdb.org/t/p/w342/yZnR6EccMv4Evcady5M8MSzAmuq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6LNiGx7KfdTPrIkkl6MjAXaDHmJ.jpg",
+      "description": "A gripping anthological relationship thriller series exploring the emotional fallout of a child's abduction not only on the family but on the wider community, told over two time frames.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt2575968",
+      "type": "series",
+      "name": "Hinterland",
+      "poster": "https://image.tmdb.org/t/p/w342/5embjatUwLawjCYNKKhwnJwmO3p.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aPtygCQY7FOBO0Ns3bKhafR9HrI.jpg",
+      "description": "Tom Mathias comes to Aberystwyth having abandoned his life in London. He's a brilliant but troubled man. Despite his faults he is an excellent detective, who knows that the key to solving the crime lies not in where you look for truth, but how you look.",
+      "releaseInfo": "2013",
       "genres": [
         "Crime",
         "Drama",
@@ -725,34 +753,6 @@
       "background": "https://image.tmdb.org/t/p/w780/x9yqsGeZjqmlCh5qVfhmFPp2kcH.jpg",
       "description": "A war veteran turned private detective operates out of a tiny office in London’s Denmark Street. Although wounded both physically and psychologically, his unique insight and background as a military police investigator prove crucial in solving complex crimes that have baffled the police. Based on the bestselling novels written by J.K. Rowling under the pseudonym Robert Galbraith.",
       "releaseInfo": "2017",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt3877200",
-      "type": "series",
-      "name": "The Missing",
-      "poster": "https://image.tmdb.org/t/p/w342/yZnR6EccMv4Evcady5M8MSzAmuq.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6LNiGx7KfdTPrIkkl6MjAXaDHmJ.jpg",
-      "description": "A gripping anthological relationship thriller series exploring the emotional fallout of a child's abduction not only on the family but on the wider community, told over two time frames.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt2575968",
-      "type": "series",
-      "name": "Hinterland",
-      "poster": "https://image.tmdb.org/t/p/w342/5embjatUwLawjCYNKKhwnJwmO3p.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/aPtygCQY7FOBO0Ns3bKhafR9HrI.jpg",
-      "description": "Tom Mathias comes to Aberystwyth having abandoned his life in London. He's a brilliant but troubled man. Despite his faults he is an excellent detective, who knows that the key to solving the crime lies not in where you look for truth, but how you look.",
-      "releaseInfo": "2013",
       "genres": [
         "Crime",
         "Drama",
@@ -948,16 +948,15 @@
       ]
     },
     {
-      "id": "tt10948716",
+      "id": "tt2951788",
       "type": "series",
-      "name": "Inside Man",
-      "poster": "https://image.tmdb.org/t/p/w342/7tZONSnzKylgzHJvtoOGjRmYlgU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bqopwxfw2Sd30gPDfUUFflCpjtK.jpg",
-      "description": "A prisoner on death row in the US, a vicar in a quiet English town, and a maths teacher trapped in a cellar cross paths in the most unexpected way.",
-      "releaseInfo": "2022",
+      "name": "Death Comes to Pemberley",
+      "poster": "https://image.tmdb.org/t/p/w342/eND8tLDC51Ny85TP7UAcOtWWNor.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6aglsIUxVyjbprcAIPnhL4JWD8k.jpg",
+      "description": "A British television drama based on P. D. James' novel of the same name, a murder mystery sequel to Jane Austen's Pride and Prejudice. Six years after the union of Elizabeth Bennet and Mr. Darcy, Lydia Wickham barges into Pemberley screaming that her husband has been murdered.",
+      "releaseInfo": "2013",
       "genres": [
         "Drama",
-        "Crime",
         "Mystery"
       ]
     },
@@ -971,6 +970,20 @@
       "releaseInfo": "2009",
       "genres": [
         "Comedy",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt10948716",
+      "type": "series",
+      "name": "Inside Man",
+      "poster": "https://image.tmdb.org/t/p/w342/7tZONSnzKylgzHJvtoOGjRmYlgU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/bqopwxfw2Sd30gPDfUUFflCpjtK.jpg",
+      "description": "A prisoner on death row in the US, a vicar in a quiet English town, and a maths teacher trapped in a cellar cross paths in the most unexpected way.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama",
+        "Crime",
         "Mystery"
       ]
     },
@@ -1058,19 +1071,6 @@
       ]
     },
     {
-      "id": "tt2951788",
-      "type": "series",
-      "name": "Death Comes to Pemberley",
-      "poster": "https://image.tmdb.org/t/p/w342/eND8tLDC51Ny85TP7UAcOtWWNor.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6aglsIUxVyjbprcAIPnhL4JWD8k.jpg",
-      "description": "A British television drama based on P. D. James' novel of the same name, a murder mystery sequel to Jane Austen's Pride and Prejudice. Six years after the union of Elizabeth Bennet and Mr. Darcy, Lydia Wickham barges into Pemberley screaming that her husband has been murdered.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt0197154",
       "type": "series",
       "name": "Gormenghast",
@@ -1143,19 +1143,6 @@
       ]
     },
     {
-      "id": "tt11847842",
-      "type": "series",
-      "name": "The Tourist",
-      "poster": "https://image.tmdb.org/t/p/w342/3jLF76FYBh5YHb4n1mQz1ayjDD4.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/i2u22f5fSujYLF2xbUrE8imEtuz.jpg",
-      "description": "When a man wakes up in the Australian outback with no memory, he must use the few clues he has to discover his identity before his past catches up with him.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt9059820",
       "type": "series",
       "name": "The Nest",
@@ -1178,6 +1165,19 @@
       "releaseInfo": "2008",
       "genres": [
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt11847842",
+      "type": "series",
+      "name": "The Tourist",
+      "poster": "https://image.tmdb.org/t/p/w342/3jLF76FYBh5YHb4n1mQz1ayjDD4.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/i2u22f5fSujYLF2xbUrE8imEtuz.jpg",
+      "description": "When a man wakes up in the Australian outback with no memory, he must use the few clues he has to discover his identity before his past catches up with him.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Mystery",
+        "Drama"
       ]
     },
     {
@@ -1293,20 +1293,6 @@
       ]
     },
     {
-      "id": "tt7660730",
-      "type": "series",
-      "name": "Black Earth Rising",
-      "poster": "https://image.tmdb.org/t/p/w342/77MPYFMYiMi0PFXk1Kr5Nv9yaO7.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wikVrWQckbFT1ukTAQLPjU3PfAH.jpg",
-      "description": "As a child, Kate Ashby was rescued from the horrific aftermath of the Rwandan genocide and brought to the UK. But the tragic shadow of her past proves impossible to escape.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt3552166",
       "type": "series",
       "name": "Intruders",
@@ -1364,13 +1350,13 @@
       ]
     },
     {
-      "id": "tt6563112",
+      "id": "tt7660730",
       "type": "series",
-      "name": "Clique",
-      "poster": "https://image.tmdb.org/t/p/w342/4xvuHbroZNZlp2QHvGpmc6gI8dv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/74IWV5N2nVOBd67i1HLQRhYuDpK.jpg",
-      "description": "In the first year of uni, childhood best friends Holly and Georgia find themselves drawn to an elite clique. When Holly begins to suspect darkness lurks beneath the glamour, she will do anything to save her soulmate.",
-      "releaseInfo": "2017",
+      "name": "Black Earth Rising",
+      "poster": "https://image.tmdb.org/t/p/w342/77MPYFMYiMi0PFXk1Kr5Nv9yaO7.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wikVrWQckbFT1ukTAQLPjU3PfAH.jpg",
+      "description": "As a child, Kate Ashby was rescued from the horrific aftermath of the Rwandan genocide and brought to the UK. But the tragic shadow of her past proves impossible to escape.",
+      "releaseInfo": "2018",
       "genres": [
         "Drama",
         "Crime",
@@ -1388,6 +1374,32 @@
       "genres": [
         "Drama",
         "Mystery"
+      ]
+    },
+    {
+      "id": "tt14321914",
+      "type": "series",
+      "name": "The Chelsea Detective",
+      "poster": "https://image.tmdb.org/t/p/w342/qIIgEH9KfDchh44YH7hJH8nXIoj.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/izA8dORQJsva6AwFsOBxoOmawnp.jpg",
+      "description": "Detective Inspector Max Arnold lives on a battered houseboat at the end of Cheyne Walk after separating from his art dealer wife Astrid. The son of a local bookshop owner, Max is a far cry from the affluent elite whose crimes he'll help solve along with D.C. Priya Shamsie.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt19788500",
+      "type": "series",
+      "name": "Red Rose",
+      "poster": "https://image.tmdb.org/t/p/w342/pLJhY7K0FQwO3oa6UyPCSw4D9bl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8u6btHEx6knRmtaHQtcytiM6XHd.jpg",
+      "description": "When one of a group of friends downloads the mysterious Red Rose app, plans change. What starts innocently as a game of admiration rapidly descends into something much darker.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Mystery",
+        "Drama"
       ]
     }
   ]

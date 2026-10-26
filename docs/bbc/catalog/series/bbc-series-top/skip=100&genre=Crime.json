@@ -1,32 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt7161312",
-      "type": "series",
-      "name": "Informer",
-      "poster": "https://image.tmdb.org/t/p/w342/aTRB6WPUOCKQ3Lv5jAeHx5TgmcU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tbxdFYVh3VtxxOuDR5VMO0upRjQ.jpg",
-      "description": "Raza, a young second-generation British-Pakistani man from London is coerced by Gabe, a counterterrorism officer, into informing.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt5159916",
-      "type": "series",
-      "name": "Thirteen",
-      "poster": "https://image.tmdb.org/t/p/w342/kwTHwy53aXITTWYNZvarczlo02S.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hTqGb7oSI3OCgWw55XtDOy1iWtF.jpg",
-      "description": "A 26-year-old woman learns to live again after 13 years in captivity.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
       "id": "tt24133138",
       "type": "series",
       "name": "Nightsleeper",
@@ -81,6 +55,19 @@
       ]
     },
     {
+      "id": "tt5159916",
+      "type": "series",
+      "name": "Thirteen",
+      "poster": "https://image.tmdb.org/t/p/w342/kwTHwy53aXITTWYNZvarczlo02S.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hTqGb7oSI3OCgWw55XtDOy1iWtF.jpg",
+      "description": "A 26-year-old woman learns to live again after 13 years in captivity.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
       "id": "tt4568288",
       "type": "series",
       "name": "Cuffs",
@@ -119,6 +106,19 @@
         "Crime",
         "Comedy",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt7161312",
+      "type": "series",
+      "name": "Informer",
+      "poster": "https://image.tmdb.org/t/p/w342/aTRB6WPUOCKQ3Lv5jAeHx5TgmcU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tbxdFYVh3VtxxOuDR5VMO0upRjQ.jpg",
+      "description": "Raza, a young second-generation British-Pakistani man from London is coerced by Gabe, a counterterrorism officer, into informing.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -186,6 +186,19 @@
       ]
     },
     {
+      "id": "tt11116780",
+      "type": "series",
+      "name": "Rebus",
+      "poster": "https://image.tmdb.org/t/p/w342/5zOMfiVSgJieF5hA2Tqh2i0Kzil.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kxXlSEdo8lYrjpMYEf5O1jANs7w.jpg",
+      "description": "Iconic character John Rebus is reimagined as a younger Detective Sergeant, drawn into a violent criminal conflict that turns personal when his brother Michael, a former soldier, crosses the line into criminality.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt15407098",
       "type": "series",
       "name": "Sister Boniface Mysteries",
@@ -200,19 +213,6 @@
       ]
     },
     {
-      "id": "tt11116780",
-      "type": "series",
-      "name": "Rebus",
-      "poster": "https://image.tmdb.org/t/p/w342/5zOMfiVSgJieF5hA2Tqh2i0Kzil.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kxXlSEdo8lYrjpMYEf5O1jANs7w.jpg",
-      "description": "Iconic character John Rebus is reimagined as a younger Detective Sergeant, drawn into a violent criminal conflict that turns personal when his brother Michael, a former soldier, crosses the line into criminality.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt8571906",
       "type": "series",
       "name": "London Kills",
@@ -223,20 +223,6 @@
       "genres": [
         "Drama",
         "Crime"
-      ]
-    },
-    {
-      "id": "tt7660730",
-      "type": "series",
-      "name": "Black Earth Rising",
-      "poster": "https://image.tmdb.org/t/p/w342/77MPYFMYiMi0PFXk1Kr5Nv9yaO7.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wikVrWQckbFT1ukTAQLPjU3PfAH.jpg",
-      "description": "As a child, Kate Ashby was rescued from the horrific aftermath of the Rwandan genocide and brought to the UK. But the tragic shadow of her past proves impossible to escape.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
       ]
     },
     {
@@ -310,6 +296,20 @@
       ]
     },
     {
+      "id": "tt7660730",
+      "type": "series",
+      "name": "Black Earth Rising",
+      "poster": "https://image.tmdb.org/t/p/w342/77MPYFMYiMi0PFXk1Kr5Nv9yaO7.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wikVrWQckbFT1ukTAQLPjU3PfAH.jpg",
+      "description": "As a child, Kate Ashby was rescued from the horrific aftermath of the Rwandan genocide and brought to the UK. But the tragic shadow of her past proves impossible to escape.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt6402362",
       "type": "series",
       "name": "Hard Sun",
@@ -349,20 +349,6 @@
       ]
     },
     {
-      "id": "tt6563112",
-      "type": "series",
-      "name": "Clique",
-      "poster": "https://image.tmdb.org/t/p/w342/4xvuHbroZNZlp2QHvGpmc6gI8dv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/74IWV5N2nVOBd67i1HLQRhYuDpK.jpg",
-      "description": "In the first year of uni, childhood best friends Holly and Georgia find themselves drawn to an elite clique. When Holly begins to suspect darkness lurks beneath the glamour, she will do anything to save her soulmate.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt5194866",
       "type": "series",
       "name": "The Coroner",
@@ -386,6 +372,32 @@
       "genres": [
         "Crime",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt14321914",
+      "type": "series",
+      "name": "The Chelsea Detective",
+      "poster": "https://image.tmdb.org/t/p/w342/qIIgEH9KfDchh44YH7hJH8nXIoj.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/izA8dORQJsva6AwFsOBxoOmawnp.jpg",
+      "description": "Detective Inspector Max Arnold lives on a battered houseboat at the end of Cheyne Walk after separating from his art dealer wife Astrid. The son of a local bookshop owner, Max is a far cry from the affluent elite whose crimes he'll help solve along with D.C. Priya Shamsie.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt9810248",
+      "type": "series",
+      "name": "61st Street",
+      "poster": "https://image.tmdb.org/t/p/w342/bTEfmPiaDpsDu5oZKNSrhnF2ci5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7ebnWh0t5WKK1owCcr0UZIROHjd.jpg",
+      "description": "Moses Johnson is a promising high-school athlete with a bright future who’s accused of murdering a police officer during a drug bust gone wrong. Swept up into the infamously corrupt Chicago criminal justice system, Moses’ case is taken up by ageing public defender Franklin Roberts, who sees this as his chance to finally challenge the institutional racism at the heart of the judicial system.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama",
+        "Crime"
       ]
     }
   ]

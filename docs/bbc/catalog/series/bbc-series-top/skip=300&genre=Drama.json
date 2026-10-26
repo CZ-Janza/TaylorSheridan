@@ -1,53 +1,17 @@
 {
   "metas": [
     {
-      "id": "tt21096438",
+      "id": "tt15407098",
       "type": "series",
-      "name": "Miss Austen",
-      "poster": "https://image.tmdb.org/t/p/w342/vRzs71MV8RgL1nyswSSklQpkLkH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iKWGJvafghmJM6Z3rpI9Jtmq4kg.jpg",
-      "description": "Miss Austen takes a literary mystery – Cassandra Austen notoriously burning her famous sister Jane’s letters – and reimagines it as a fascinating, witty and heart-breaking story of sisterly love, while creating in Cassandra a character as captivating as any Austen heroine.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt11116780",
-      "type": "series",
-      "name": "Rebus",
-      "poster": "https://image.tmdb.org/t/p/w342/5zOMfiVSgJieF5hA2Tqh2i0Kzil.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kxXlSEdo8lYrjpMYEf5O1jANs7w.jpg",
-      "description": "Iconic character John Rebus is reimagined as a younger Detective Sergeant, drawn into a violent criminal conflict that turns personal when his brother Michael, a former soldier, crosses the line into criminality.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt17001504",
-      "type": "series",
-      "name": "The Diplomat",
-      "poster": "https://image.tmdb.org/t/p/w342/ePknauaRbj3fSzyVRt9CIs6So7y.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iN9kJ2hIjw2wSrcm2Avxjgzsj3P.jpg",
-      "description": "The six-part series follows Laura Simmonds and her Barcelona Consul colleague and friend Alba Ortiz as they fight to protect British nationals who find themselves in trouble in the Catalan city.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt13684264",
-      "type": "series",
-      "name": "Here We Go",
-      "poster": "https://image.tmdb.org/t/p/w342/lYBjHVGXisTZ2fRgAI7OMdBkMpr.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7F7sOSpaG8vOaQvtbKHoxoNq1Zs.jpg",
-      "description": "Family life with no filter. The Jessops navigate life's everyday challenges - from changing jobs to kidnapping dogs.",
+      "name": "Sister Boniface Mysteries",
+      "poster": "https://image.tmdb.org/t/p/w342/kSIPIFoIUCUOMwoAs9kiuwCz1Ju.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gjhDILpTQHkm3KaT93WoUtXFyYR.jpg",
+      "description": "First there was Father Brown. Now, say hello to Sister Boniface. This clever, moped-riding nun is the police's secret weapon for solving murders in this divine Father Brown spin-off.",
       "releaseInfo": "2022",
       "genres": [
-        "Comedy",
-        "Drama"
+        "Crime",
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -73,20 +37,6 @@
       "genres": [
         "Drama",
         "Crime"
-      ]
-    },
-    {
-      "id": "tt7660730",
-      "type": "series",
-      "name": "Black Earth Rising",
-      "poster": "https://image.tmdb.org/t/p/w342/77MPYFMYiMi0PFXk1Kr5Nv9yaO7.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wikVrWQckbFT1ukTAQLPjU3PfAH.jpg",
-      "description": "As a child, Kate Ashby was rescued from the horrific aftermath of the Rwandan genocide and brought to the UK. But the tragic shadow of her past proves impossible to escape.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
       ]
     },
     {
@@ -281,6 +231,20 @@
       ]
     },
     {
+      "id": "tt5079788",
+      "type": "series",
+      "name": "Class",
+      "poster": "https://image.tmdb.org/t/p/w342/qC6c8Bx5LiWuZ5t9v3Iyn0818FL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4XcOdRYPTdNyu5C1iDnFHDqI9QN.jpg",
+      "description": "Coal Hill School has been a feature of Doctor Who since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt1504261",
       "type": "series",
       "name": "The Sinking of the Laconia",
@@ -345,6 +309,20 @@
       ]
     },
     {
+      "id": "tt7660730",
+      "type": "series",
+      "name": "Black Earth Rising",
+      "poster": "https://image.tmdb.org/t/p/w342/77MPYFMYiMi0PFXk1Kr5Nv9yaO7.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wikVrWQckbFT1ukTAQLPjU3PfAH.jpg",
+      "description": "As a child, Kate Ashby was rescued from the horrific aftermath of the Rwandan genocide and brought to the UK. But the tragic shadow of her past proves impossible to escape.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt31433814",
       "type": "series",
       "name": "Doctor Who",
@@ -355,20 +333,6 @@
       "genres": [
         "Action",
         "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt5079788",
-      "type": "series",
-      "name": "Class",
-      "poster": "https://image.tmdb.org/t/p/w342/qC6c8Bx5LiWuZ5t9v3Iyn0818FL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4XcOdRYPTdNyu5C1iDnFHDqI9QN.jpg",
-      "description": "Coal Hill School has been a feature of Doctor Who since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.",
-      "releaseInfo": "2016",
-      "genres": [
         "Drama",
         "Sci-Fi",
         "Fantasy"
@@ -423,20 +387,6 @@
       "genres": [
         "Crime",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt6563112",
-      "type": "series",
-      "name": "Clique",
-      "poster": "https://image.tmdb.org/t/p/w342/4xvuHbroZNZlp2QHvGpmc6gI8dv.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/74IWV5N2nVOBd67i1HLQRhYuDpK.jpg",
-      "description": "In the first year of uni, childhood best friends Holly and Georgia find themselves drawn to an elite clique. When Holly begins to suspect darkness lurks beneath the glamour, she will do anything to save her soulmate.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
       ]
     },
     {
@@ -528,6 +478,45 @@
       "releaseInfo": "1993",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt19788500",
+      "type": "series",
+      "name": "Red Rose",
+      "poster": "https://image.tmdb.org/t/p/w342/pLJhY7K0FQwO3oa6UyPCSw4D9bl.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8u6btHEx6knRmtaHQtcytiM6XHd.jpg",
+      "description": "When one of a group of friends downloads the mysterious Red Rose app, plans change. What starts innocently as a game of admiration rapidly descends into something much darker.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt6712390",
+      "type": "series",
+      "name": "Requiem",
+      "poster": "https://image.tmdb.org/t/p/w342/ahEpW6eJIc5CT3GECpXDG477aC4.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hXaXiqm9AFiSLtjZIJ4pJ0xL6ol.jpg",
+      "description": "In 1994, a toddler disappeared from a small Welsh village, never to be seen again. 23 years later, in London, the mother of rising cello star Matilda Gray commits suicide, without apparent reason. Among her possessions, Matilda discovers tantalising evidence, linking her mother to the Welsh girl's disappearance all those years ago.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt9810248",
+      "type": "series",
+      "name": "61st Street",
+      "poster": "https://image.tmdb.org/t/p/w342/bTEfmPiaDpsDu5oZKNSrhnF2ci5.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7ebnWh0t5WKK1owCcr0UZIROHjd.jpg",
+      "description": "Moses Johnson is a promising high-school athlete with a bright future who’s accused of murdering a police officer during a drug bust gone wrong. Swept up into the infamously corrupt Chicago criminal justice system, Moses’ case is taken up by ageing public defender Franklin Roberts, who sees this as his chance to finally challenge the institutional racism at the heart of the judicial system.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama",
+        "Crime"
       ]
     }
   ]

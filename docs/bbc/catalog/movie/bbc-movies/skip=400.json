@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tt0106961",
+      "type": "movie",
+      "name": "Franz Kafka's It's a Wonderful Life",
+      "poster": "https://image.tmdb.org/t/p/w342/r7yZIRgIHYXvsmUaYiIrAJOpG1g.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/p3qHZbOavitb5XFa95DH34qmU9t.jpg",
+      "description": "Franz Kafka is working on his Metamorphosis, but he's suffering from writer's block; he can't get off on the right track. While trying to decide what Gregor Samsa is going to wake up as, he is constantly interrupted by door-to-door salesmen, young women, and his own inexplicable hallucinations.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt0112368",
       "type": "movie",
       "name": "Angus",
@@ -648,20 +661,6 @@
       ]
     },
     {
-      "id": "tt0076147",
-      "type": "movie",
-      "name": "Hitler: A Film from Germany",
-      "poster": "https://image.tmdb.org/t/p/w342/hj0dsmyL8tKAGKOmfhFb49H3krV.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8TEIuI8Tp4AGhCw48bCCT7x2dye.jpg",
-      "description": "A structure-free, four-part examination of the rise and fall of the Third Reich. Each part explores a different topic, from Hitler's cult of personality in propaganda to how said propaganda was associated with pre-Nazi German cultural, spiritual, and national heritage to the Holocaust and the ideology behind it, particularly from Himmler's point of view.",
-      "releaseInfo": "1978",
-      "genres": [
-        "Drama",
-        "History",
-        "War"
-      ]
-    },
-    {
       "id": "tt0217821",
       "type": "movie",
       "name": "Stigma",
@@ -713,6 +712,20 @@
       "genres": [
         "Drama",
         "Crime"
+      ]
+    },
+    {
+      "id": "tt0076147",
+      "type": "movie",
+      "name": "Hitler: A Film from Germany",
+      "poster": "https://image.tmdb.org/t/p/w342/hj0dsmyL8tKAGKOmfhFb49H3krV.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8TEIuI8Tp4AGhCw48bCCT7x2dye.jpg",
+      "description": "A structure-free, four-part examination of the rise and fall of the Third Reich. Each part explores a different topic, from Hitler's cult of personality in propaganda to how said propaganda was associated with pre-Nazi German cultural, spiritual, and national heritage to the Holocaust and the ideology behind it, particularly from Himmler's point of view.",
+      "releaseInfo": "1977",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
       ]
     },
     {

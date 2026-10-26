@@ -1,19 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0090669",
-      "type": "series",
-      "name": "Miss Marple: At Bertram's Hotel",
-      "poster": "https://image.tmdb.org/t/p/w342/tJfM3M0D5BO7cRoTEe5uWpHU08q.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/pmssGs7ab5ccmi4zQ5i0rWuXZFL.jpg",
-      "description": "There's a murder at the elegant hotel where Miss Marple is staying and international adventurer Bess Sedgwick is the prime suspect.",
-      "releaseInfo": "1987",
-      "genres": [
-        "Crime",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt0091970",
       "type": "series",
       "name": "Miss Marple: Sleeping Murder",
@@ -36,6 +23,20 @@
       "description": "Tormented and bedridden by a debilitating disease, a mystery writer relives his detective stories through his imagination and hallucinations.",
       "releaseInfo": "1986",
       "genres": [
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0090477",
+      "type": "series",
+      "name": "Lovejoy",
+      "poster": "https://image.tmdb.org/t/p/w342/d433J9jLaOI3T99mPIudkW6b9RO.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qLarafHjS9IPRgqVGU97prD9x3d.jpg",
+      "description": "The adventures of the eponymous Lovejoy, a likeable but roguish antiques dealer based in East Anglia. Within the trade, he has a reputation as a “divvie”, a person with an almost supernatural powers for recognising exceptional items as well as distinguishing genuine antique from clever fakes or forgeries.",
+      "releaseInfo": "1986",
+      "genres": [
+        "Comedy",
         "Drama",
         "Mystery"
       ]

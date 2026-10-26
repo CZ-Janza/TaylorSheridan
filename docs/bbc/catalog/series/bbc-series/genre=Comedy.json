@@ -67,6 +67,18 @@
       ]
     },
     {
+      "id": "tt32536158",
+      "type": "series",
+      "name": "Ghosts",
+      "poster": "https://image.tmdb.org/t/p/w342/okiqzoGfBiBSsz1nqGDlwUGGWUT.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yL1vGzRTkpbWCwnC30ujUFxH8eo.jpg",
+      "description": "Young couple Emma and Felix inherit an old mansion and decide to turn it into a hotel, but after a near-death accident, Emma begins seeing ghosts.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt33305711",
       "type": "series",
       "name": "Amandaland",
@@ -447,19 +459,6 @@
       ]
     },
     {
-      "id": "tt8594510",
-      "type": "series",
-      "name": "Back to Life",
-      "poster": "https://image.tmdb.org/t/p/w342/opMb4UHDVKCVSknT5DIPUaSRaSP.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kt7vFlGFZ5e07bx4U66LzWJkzV7.jpg",
-      "description": "When Miri Matteson returns home after eighteen years, can she integrate back into her old life? With a terrible event from her past hanging over her, it won’t be easy.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt8594324",
       "type": "series",
       "name": "Ghosts",
@@ -474,20 +473,6 @@
       ]
     },
     {
-      "id": "tt8594528",
-      "type": "series",
-      "name": "In My Skin",
-      "poster": "https://image.tmdb.org/t/p/w342/zOLx19TxskkCPObaNv890Zuy2yl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/zyoAaQxQiUqpOOg5E7mWxobRWQW.jpg",
-      "description": "Coming-of-age story of 16-year-old Bethan, who we follow as she deals with the comical but painfully real anxieties and insecurities of teenage life, along with the stark reality of a home life that is far removed from what she projects to her friends.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Family"
-      ]
-    },
-    {
       "id": "tt7608238",
       "type": "series",
       "name": "Wanderlust",
@@ -498,20 +483,6 @@
       "genres": [
         "Drama",
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt6109562",
-      "type": "series",
-      "name": "Wellington Paranormal",
-      "poster": "https://image.tmdb.org/t/p/w342/eaGpAP4bKMjVlMIoGqKzMRJ2OIG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/bsL4ODNxisyQ4Bl2dTOoVvzcgoN.jpg",
-      "description": "New Zealand's capital is a hotbed of supernatural activity... so Officers Minogue and O'Leary, who featured in the vampire documentary What We Do In The Shadows, take to the streets to investigate all manner of paranormal phenomena.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy"
       ]
     },
     {
@@ -1280,6 +1251,33 @@
         "Crime",
         "Comedy",
         "Family"
+      ]
+    },
+    {
+      "id": "tt0867005",
+      "type": "series",
+      "name": "Pulling",
+      "poster": "https://image.tmdb.org/t/p/w342/3ifJGXGlKv6amOjiE8Tq32jz4Ym.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x2R7qVOV6ktmJ3tYjesAdqNMqLD.jpg",
+      "description": "Donna narrowly escapes making a huge mistake by marrying Karl and instead opts for moving in with her friends Karen and Louise in South London. The three girls learn about life and love in this funny and modern comedy.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0787985",
+      "type": "series",
+      "name": "Robin Hood",
+      "poster": "https://image.tmdb.org/t/p/w342/wz0CSuIiUpvHtpbPxVhMQWKtLTG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/GElmmVU8N0hl05WBcd0y3E8b6f.jpg",
+      "description": "Robin of Loxley returns to England after 5 years of fighting in the crusades alongside King Richard. After losing his estates and being branded an outlaw, he takes on the title of Robin Hood and assembles a ragtag band of outlaw companions. Together they steal from the rich and give to the poor - all the while avoiding and outwitting their enemies Sir Guy of Gisborne and the evil Sheriff of Nottingham.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure",
+        "Comedy"
       ]
     }
   ]

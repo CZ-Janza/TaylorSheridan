@@ -17,6 +17,22 @@
       ]
     },
     {
+      "id": "tt0485301",
+      "type": "series",
+      "name": "Torchwood",
+      "poster": "https://image.tmdb.org/t/p/w342/bv7C5r7QyXGsaMxvU40FVY7SvrD.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/uecq8SMvFsfchO9m23ANs8XFUix.jpg",
+      "description": "The exploits of a team of people whose job is to investigate the unusual, the strange and the extraterrestrial.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0056751",
       "type": "series",
       "name": "Doctor Who",
@@ -30,6 +46,21 @@
         "Adventure",
         "Sci-Fi",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0160904",
+      "type": "series",
+      "name": "Spooks",
+      "poster": "https://image.tmdb.org/t/p/w342/5kODxCYihuM49oQWke6GfHdsRT6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/w0PRJ5uOsfSGVrwxUhPmc6qIO8t.jpg",
+      "description": "Tense drama series about the different challenges faced by the British Security Service as they work against the clock to safeguard the nation. The title is a popular colloquialism for spies, and the series follows the work of a group of MI5 officers based at the service's Thames House headquarters, in a highly secure suite of offices known as The Grid.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure",
+        "Crime"
       ]
     },
     {
@@ -48,18 +79,19 @@
       ]
     },
     {
-      "id": "tt0160904",
+      "id": "tt1199099",
       "type": "series",
-      "name": "Spooks",
-      "poster": "https://image.tmdb.org/t/p/w342/5kODxCYihuM49oQWke6GfHdsRT6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/w0PRJ5uOsfSGVrwxUhPmc6qIO8t.jpg",
-      "description": "Tense drama series about the different challenges faced by the British Security Service as they work against the clock to safeguard the nation. The title is a popular colloquialism for spies, and the series follows the work of a group of MI5 officers based at the service's Thames House headquarters, in a highly secure suite of offices known as The Grid.",
-      "releaseInfo": "2002",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+      "releaseInfo": "2008",
       "genres": [
-        "Drama",
         "Action",
         "Adventure",
-        "Crime"
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -109,38 +141,6 @@
       ]
     },
     {
-      "id": "tt1199099",
-      "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0485301",
-      "type": "series",
-      "name": "Torchwood",
-      "poster": "https://image.tmdb.org/t/p/w342/bv7C5r7QyXGsaMxvU40FVY7SvrD.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gpRM2AB4tjfUXxjaCZWnHLjiGmC.jpg",
-      "description": "The exploits of a team of people whose job is to investigate the unusual, the strange and the extraterrestrial.",
-      "releaseInfo": "2006",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Action",
-        "Adventure",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt2733252",
       "type": "series",
       "name": "The Musketeers",
@@ -152,35 +152,6 @@
         "Drama",
         "Action",
         "Adventure"
-      ]
-    },
-    {
-      "id": "tt9139220",
-      "type": "series",
-      "name": "Dracula",
-      "poster": "https://image.tmdb.org/t/p/w342/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/v3cpyhytwXXbAr7Wycn5LEwonuL.jpg",
-      "description": "Transylvania, 1897. The blood-drinking Count Dracula is drawing his plans against Victorian London. And be warned: the dead travel fast.",
-      "releaseInfo": "2020",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt5103758",
-      "type": "series",
-      "name": "Troy: Fall of a City",
-      "poster": "https://image.tmdb.org/t/p/w342/wPLiUBrVav1ssvRwcr0M3Xq92Vi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3zzAYFF57wqNbwDqtByMHi85HkH.jpg",
-      "description": "Told from the perspective of the Trojan Family, the rich history of the Trojan War is explored, as well as the love, intrigue and betrayal of those who lived through it. On a trip to Sparta as a guest of Menelaus, Paris, son of Troy, falls in love with Menelaus' wife, Helen. After they depart Sparta together for Troy, Helen and Paris risk not only their lives, but those of their families and people as they trigger a chain of events that ultimately lead them all into an unending war.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Action",
-        "Adventure",
-        "War",
-        "Drama"
       ]
     },
     {
@@ -200,35 +171,6 @@
       ]
     },
     {
-      "id": "tt10405370",
-      "type": "series",
-      "name": "SAS Rogue Heroes",
-      "poster": "https://image.tmdb.org/t/p/w342/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hGdTq9BX3DB2gwGGFMLTdipCBPk.jpg",
-      "description": "The dramatised account of how the world’s greatest Special Forces unit, the SAS, was formed under extraordinary circumstances in the darkest days of World War Two.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Drama",
-        "War",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt27557666",
-      "type": "series",
-      "name": "Lord of the Flies",
-      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
-      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
       "id": "tt0787985",
       "type": "series",
       "name": "Robin Hood",
@@ -241,39 +183,6 @@
         "Action",
         "Adventure",
         "Comedy"
-      ]
-    },
-    {
-      "id": "tt0094500",
-      "type": "series",
-      "name": "The Chronicles of Narnia",
-      "poster": "https://image.tmdb.org/t/p/w342/pfAFIkQd9MD4KDxlElCVSNKwnaR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kXTZR11xLYaShf3ZMeTmBP9Lsq7.jpg",
-      "description": "The Chronicles of Narnia is a British television miniseries adapting four of C.S. Lewis's books, blending live-action with animation for fantasy elements like Aslan and the creatures. The first series—The Lion, the Witch and the Wardrobe—aired from 13 November to 18 December 1988; the second—Prince Caspian and The Voyage of the Dawn Treader—aired from 19 November to 24 December 1989; and the third—The Silver Chair—from 18 November to 23 December 1990. Each series consists of six episodes each.",
-      "releaseInfo": "1988",
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Fantasy",
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt1349938",
-      "type": "series",
-      "name": "Being Human",
-      "poster": "https://image.tmdb.org/t/p/w342/rlDefnxVHcXwwm2bxPHknNRl4l.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yEooPSWqMM72xHh7HGwSAM8GpUc.jpg",
-      "description": "Deciding to turn over a new leaf, a group of friends who also happen to be vampires and werewolves move into a house together, only to find that it is haunted by ghosts of people who have been killed under mysterious circumstances. As they deal with the challenges of being supernatural creatures, their desire to be human bonds them.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama",
-        "Mystery",
-        "Action",
-        "Adventure"
       ]
     },
     {
@@ -290,6 +199,21 @@
         "Crime",
         "Comedy",
         "Family"
+      ]
+    },
+    {
+      "id": "tt10405370",
+      "type": "series",
+      "name": "SAS Rogue Heroes",
+      "poster": "https://image.tmdb.org/t/p/w342/Tc1mRuP5QrGaetGKcitZkhTU9g.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hGdTq9BX3DB2gwGGFMLTdipCBPk.jpg",
+      "description": "The dramatised account of how the world’s greatest Special Forces unit, the SAS, was formed under extraordinary circumstances in the darkest days of World War Two.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama",
+        "War",
+        "Action",
+        "Adventure"
       ]
     },
     {
@@ -310,6 +234,23 @@
       ]
     },
     {
+      "id": "tt1349938",
+      "type": "series",
+      "name": "Being Human",
+      "poster": "https://image.tmdb.org/t/p/w342/rlDefnxVHcXwwm2bxPHknNRl4l.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yEooPSWqMM72xHh7HGwSAM8GpUc.jpg",
+      "description": "Deciding to turn over a new leaf, a group of friends who also happen to be vampires and werewolves move into a house together, only to find that it is haunted by ghosts of people who have been killed under mysterious circumstances. As they deal with the challenges of being supernatural creatures, their desire to be human bonds them.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama",
+        "Mystery",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
       "id": "tt2705602",
       "type": "series",
       "name": "Atlantis",
@@ -322,6 +263,82 @@
         "Adventure",
         "Sci-Fi",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tt9139220",
+      "type": "series",
+      "name": "Dracula",
+      "poster": "https://image.tmdb.org/t/p/w342/5SqUNnExnN7Cr8rzyTXJTWmEMHn.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/v3cpyhytwXXbAr7Wycn5LEwonuL.jpg",
+      "description": "Transylvania, 1897. The blood-drinking Count Dracula is drawing his plans against Victorian London. And be warned: the dead travel fast.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt0094500",
+      "type": "series",
+      "name": "The Chronicles of Narnia",
+      "poster": "https://image.tmdb.org/t/p/w342/pfAFIkQd9MD4KDxlElCVSNKwnaR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kXTZR11xLYaShf3ZMeTmBP9Lsq7.jpg",
+      "description": "The Chronicles of Narnia is a British television miniseries adapting four of C.S. Lewis's books, blending live-action with animation for fantasy elements like Aslan and the creatures. The first series—The Lion, the Witch and the Wardrobe—aired from 13 November to 18 December 1988; the second—Prince Caspian and The Voyage of the Dawn Treader—aired from 19 November to 24 December 1989; and the third—The Silver Chair—from 18 November to 23 December 1990. Each series consists of six episodes each.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt5103758",
+      "type": "series",
+      "name": "Troy: Fall of a City",
+      "poster": "https://image.tmdb.org/t/p/w342/wPLiUBrVav1ssvRwcr0M3Xq92Vi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3zzAYFF57wqNbwDqtByMHi85HkH.jpg",
+      "description": "Told from the perspective of the Trojan Family, the rich history of the Trojan War is explored, as well as the love, intrigue and betrayal of those who lived through it. On a trip to Sparta as a guest of Menelaus, Paris, son of Troy, falls in love with Menelaus' wife, Helen. After they depart Sparta together for Troy, Helen and Paris risk not only their lives, but those of their families and people as they trigger a chain of events that ultimately lead them all into an unending war.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Action",
+        "Adventure",
+        "War",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt27557666",
+      "type": "series",
+      "name": "Lord of the Flies",
+      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt2303367",
+      "type": "series",
+      "name": "Dirk Gently",
+      "poster": "https://image.tmdb.org/t/p/w342/nbliUzKVtuLpRIDapKOycoySqpX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qphUmcQ2GPBN7jQCantjj87hA1v.jpg",
+      "description": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
       ]
     },
     {
@@ -354,35 +371,6 @@
       ]
     },
     {
-      "id": "tt2069449",
-      "type": "series",
-      "name": "Hunted",
-      "poster": "https://image.tmdb.org/t/p/w342/f7xmk6fNp0hXcGI9k0vXeX69Afq.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1dlu0v3C1Qln9SIEel3KyIzCKi4.jpg",
-      "description": "Samantha Hunter suspects someone within the private intelligence agency she works at tried to kill her and she seeks to uncover the person behind it.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tt4939950",
-      "type": "series",
-      "name": "SS-GB",
-      "poster": "https://image.tmdb.org/t/p/w342/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/jf7K081EEjuypr2uQLB0X0Z1kvw.jpg",
-      "description": "Adapted from Len Deighton’s 1978 alternate history novel. A British detective investigates a murder in German-occupied Britain during World War II.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt3574152",
       "type": "series",
       "name": "Partners in Crime",
@@ -396,22 +384,6 @@
         "Adventure",
         "Drama",
         "Crime"
-      ]
-    },
-    {
-      "id": "tt0181199",
-      "type": "series",
-      "name": "Arabian Nights",
-      "poster": "https://image.tmdb.org/t/p/w342/oMLISBzw6QDo60h2C1NGUL00puS.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3asUkvbzieSJI7EcRESfrCISexZ.jpg",
-      "description": "Targeted for assassination by his first wife and his evil brother, a young sultan must marry by the next full moon or he will lose his kingdom. His uncertainty over his newfound bride causes her to stall the sultan with a series of fantastic stories to ease the tension and stall her impending execution.",
-      "releaseInfo": "2000",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Action",
-        "Adventure",
-        "Family"
       ]
     },
     {
@@ -432,6 +404,35 @@
       ]
     },
     {
+      "id": "tt2069449",
+      "type": "series",
+      "name": "Hunted",
+      "poster": "https://image.tmdb.org/t/p/w342/f7xmk6fNp0hXcGI9k0vXeX69Afq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1dlu0v3C1Qln9SIEel3KyIzCKi4.jpg",
+      "description": "Samantha Hunter suspects someone within the private intelligence agency she works at tried to kill her and she seeks to uncover the person behind it.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt0181199",
+      "type": "series",
+      "name": "Arabian Nights",
+      "poster": "https://image.tmdb.org/t/p/w342/oMLISBzw6QDo60h2C1NGUL00puS.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3asUkvbzieSJI7EcRESfrCISexZ.jpg",
+      "description": "Targeted for assassination by his first wife and his evil brother, a young sultan must marry by the next full moon or he will lose his kingdom. His uncertainty over his newfound bride causes her to stall the sultan with a series of fantastic stories to ease the tension and stall her impending execution.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Action",
+        "Adventure",
+        "Family"
+      ]
+    },
+    {
       "id": "tt8080292",
       "type": "series",
       "name": "The Watch",
@@ -447,20 +448,19 @@
       ]
     },
     {
-      "id": "tt2303367",
+      "id": "tt4939950",
       "type": "series",
-      "name": "Dirk Gently",
-      "poster": "https://image.tmdb.org/t/p/w342/nbliUzKVtuLpRIDapKOycoySqpX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qphUmcQ2GPBN7jQCantjj87hA1v.jpg",
-      "description": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
-      "releaseInfo": "2012",
+      "name": "SS-GB",
+      "poster": "https://image.tmdb.org/t/p/w342/sqybrp68wbUD6tyUz5IJhii00DL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jf7K081EEjuypr2uQLB0X0Z1kvw.jpg",
+      "description": "Adapted from Len Deighton’s 1978 alternate history novel. A British detective investigates a murder in German-occupied Britain during World War II.",
+      "releaseInfo": "2017",
       "genres": [
         "Action",
         "Adventure",
-        "Comedy",
+        "Drama",
         "Sci-Fi",
-        "Fantasy",
-        "Drama"
+        "Fantasy"
       ]
     },
     {
