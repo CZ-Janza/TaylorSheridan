@@ -60,7 +60,7 @@
       "type": "movie",
       "name": "Urchin",
       "poster": "https://image.tmdb.org/t/p/w342/zc8n3hm3S2VxFxlNH1MNN28LVMa.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1M8MgXc9UifZFA8qeC2gG4UCQe.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/jRSUoJr26JKdtvJsoflf0YlhlFs.jpg",
       "description": "Mike, a rough sleeper in London, is trapped in a cycle of self-destruction as he attempts to turn his life around. Along the way, he encounters unexpected chances for a fresh start.",
       "releaseInfo": "2025",
       "genres": [
@@ -559,6 +559,20 @@
         "Drama",
         "History",
         "War"
+      ]
+    },
+    {
+      "id": "tt11918288",
+      "type": "movie",
+      "name": "Pirates",
+      "poster": "https://image.tmdb.org/t/p/w342/uK99A6IUVaCjq6YVMcgvK30YYj.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8yFy4E899YjEzj6d1192vIU42vI.jpg",
+      "description": "On New Year's Eve 1999, three friends, who are attempting to break into the music scene through pirate radio, drive through London in a desperate search for tickets for the best millennium party ever.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
       ]
     },
     {
@@ -1287,20 +1301,6 @@
       "genres": [
         "Comedy",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt2381111",
-      "type": "movie",
-      "name": "Brooklyn",
-      "poster": "https://image.tmdb.org/t/p/w342/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2T4bqHgYfzXNQoALJsvhW40kDTg.jpg",
-      "description": "In 1950s Ireland and New York, young Eilis Lacey has to choose between two men and two countries.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Drama",
-        "History",
-        "Romance"
       ]
     }
   ]

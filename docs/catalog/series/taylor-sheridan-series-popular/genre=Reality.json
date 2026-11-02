@@ -1,18 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt34564159",
-      "type": "series",
-      "name": "The Road",
-      "poster": "https://image.tmdb.org/t/p/w342/xJt2bg9KcA6JlzdRaZX1hdLlXeA.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6JKA6kJnImBRGmjYl2Ak31bm2Y5.jpg",
-      "description": "Blake Shelton and Taylor Sheridan are the executive producers of this show where aspiring artists will compete to become the next big music star while touring with a headlining superstar.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Reality"
-      ]
-    },
-    {
       "id": "tt10521222",
       "type": "series",
       "name": "The Last Cowboy",
@@ -24,6 +12,18 @@
         "Reality",
         "Drama",
         "Western"
+      ]
+    },
+    {
+      "id": "tt34564159",
+      "type": "series",
+      "name": "The Road",
+      "poster": "https://image.tmdb.org/t/p/w342/xJt2bg9KcA6JlzdRaZX1hdLlXeA.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6JKA6kJnImBRGmjYl2Ak31bm2Y5.jpg",
+      "description": "Blake Shelton and Taylor Sheridan are the executive producers of this show where aspiring artists will compete to become the next big music star while touring with a headlining superstar.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Reality"
       ]
     }
   ]

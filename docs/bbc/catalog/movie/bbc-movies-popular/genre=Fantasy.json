@@ -1,19 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt14682800",
-      "type": "movie",
-      "name": "Tuesday",
-      "poster": "https://image.tmdb.org/t/p/w342/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ebmY8j6bfTsxUdhVtTaoNITch6u.jpg",
-      "description": "A mother and her teenage daughter must confront Death when it arrives in the form of an astonishing talking bird.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Fantasy",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0325703",
       "type": "movie",
       "name": "Lara Croft: Tomb Raider - The Cradle of Life",
@@ -28,17 +15,16 @@
       ]
     },
     {
-      "id": "tt17521612",
+      "id": "tt14682800",
       "type": "movie",
-      "name": "Starve Acre",
-      "poster": "https://image.tmdb.org/t/p/w342/5j37QHXuNygzEa2X54RMlOb6hj3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/f74BDYMlNCYf797Wj0guOzDXFyz.jpg",
-      "description": "When their son starts acting strangely, a couple unwittingly allow dark and sinister forces into their home, awakening a long-dormant ancient evil rooted deep in the countryside.",
+      "name": "Tuesday",
+      "poster": "https://image.tmdb.org/t/p/w342/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ebmY8j6bfTsxUdhVtTaoNITch6u.jpg",
+      "description": "A mother and her teenage daughter must confront Death when it arrives in the form of an astonishing talking bird.",
       "releaseInfo": "2024",
       "genres": [
-        "Horror",
-        "Drama",
-        "Fantasy"
+        "Fantasy",
+        "Drama"
       ]
     },
     {
@@ -70,18 +56,17 @@
       ]
     },
     {
-      "id": "tt1337072",
+      "id": "tt17521612",
       "type": "movie",
-      "name": "Doctor Who: Planet of the Dead",
-      "poster": "https://image.tmdb.org/t/p/w342/9qKoF7XjkcbWYwekBCKt7W7rDHc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/umWItKKGIVcI9iq2IlIrQp0s9F4.jpg",
-      "description": "A meeting in a London bus with jewel thief Lady Christina takes a turn for the worse for the Doctor when the bus takes a detour to a desert-like planet, where the deadly Swarm awaits.",
-      "releaseInfo": "2009",
+      "name": "Starve Acre",
+      "poster": "https://image.tmdb.org/t/p/w342/5j37QHXuNygzEa2X54RMlOb6hj3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/f74BDYMlNCYf797Wj0guOzDXFyz.jpg",
+      "description": "When their son starts acting strangely, a couple unwittingly allow dark and sinister forces into their home, awakening a long-dormant ancient evil rooted deep in the countryside.",
+      "releaseInfo": "2024",
       "genres": [
-        "Sci-Fi",
-        "Thriller",
-        "Fantasy",
-        "Mystery"
+        "Horror",
+        "Drama",
+        "Fantasy"
       ]
     },
     {
@@ -95,18 +80,6 @@
       "genres": [
         "Drama",
         "Romance",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0109781",
-      "type": "movie",
-      "name": "Faust",
-      "poster": "https://image.tmdb.org/t/p/w342/mdCj8IANhA3zOnsaW4yLeYYsmDG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qiGF1b2vH38WRWQooLp3q9LS7m2.jpg",
-      "description": "A very free adaptation of Marlowe's \"Doctor Faustus\", Goethe's \"Faust\" and various other treatments of the old legend of the man who sold his soul to the devil. A nondescript man is lured by a strange map into a sinister puppet theatre, where he finds himself immersed in an indescribably weird version of the play, blending live actors, clay animation and giant puppets.",
-      "releaseInfo": "1994",
-      "genres": [
         "Fantasy"
       ]
     },
@@ -126,6 +99,35 @@
       ]
     },
     {
+      "id": "tt0094500",
+      "type": "movie",
+      "name": "The Chronicles of Narnia: The Lion, the Witch & the Wardrobe",
+      "poster": "https://image.tmdb.org/t/p/w342/6LUwgYymfy3OrzUV9OD6e4S7RUz.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/aiydu8mVs3uZUgooYYmsuKTLHFM.jpg",
+      "description": "Four kids travel to the magical land of Narnia where they must battle an evil queen with the direction of the lion, Aslan.",
+      "releaseInfo": "1988",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0103129",
+      "type": "movie",
+      "name": "Truly Madly Deeply",
+      "poster": "https://image.tmdb.org/t/p/w342/jjLEXLTXfJPYtl31knRS8bjclf0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/GFi1vzXUncFnxfUITfxVBDv8N4.jpg",
+      "description": "Nina is totally heartbroken at the death of her boyfriend Jamie, but is even more unprepared for his return as a ghost. At first it's almost as good as it used to be – hey, even the rats that infested her house have disappeared. But Jamie starts bringing ghostly friends home and behaving more and more oddly.",
+      "releaseInfo": "1991",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
       "id": "tt0302739",
       "type": "movie",
       "name": "The Lost World",
@@ -137,6 +139,33 @@
         "Adventure",
         "Fantasy",
         "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0109781",
+      "type": "movie",
+      "name": "Faust",
+      "poster": "https://image.tmdb.org/t/p/w342/mdCj8IANhA3zOnsaW4yLeYYsmDG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qiGF1b2vH38WRWQooLp3q9LS7m2.jpg",
+      "description": "A very free adaptation of Marlowe's \"Doctor Faustus\", Goethe's \"Faust\" and various other treatments of the old legend of the man who sold his soul to the devil. A nondescript man is lured by a strange map into a sinister puppet theatre, where he finds himself immersed in an indescribably weird version of the play, blending live actors, clay animation and giant puppets.",
+      "releaseInfo": "1994",
+      "genres": [
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt1337072",
+      "type": "movie",
+      "name": "Doctor Who: Planet of the Dead",
+      "poster": "https://image.tmdb.org/t/p/w342/9qKoF7XjkcbWYwekBCKt7W7rDHc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/umWItKKGIVcI9iq2IlIrQp0s9F4.jpg",
+      "description": "A meeting in a London bus with jewel thief Lady Christina takes a turn for the worse for the Doctor when the bus takes a detour to a desert-like planet, where the deadly Swarm awaits.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Sci-Fi",
+        "Thriller",
+        "Fantasy",
+        "Mystery"
       ]
     },
     {
@@ -169,59 +198,17 @@
       ]
     },
     {
-      "id": "tt1321969",
+      "id": "tt0119893",
       "type": "movie",
-      "name": "Doctor Who: The Next Doctor",
-      "poster": "https://image.tmdb.org/t/p/w342/3jc2spp0w3a50drKFCHgdyj4u0d.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/lbjFL4zFzloqZPySgoIDuWgLzto.jpg",
-      "description": "The Doctor arrives in Victorian London. It's Christmas, but snow isn't the only thing descending on the tranquil and jubilant civilization, as familiar silver giants from an alternate reality are amassing in numbers. The Cybermen are on the move again, and the only beings who can stop them are the Doctor and... another Doctor?",
-      "releaseInfo": "2008",
+      "name": "Photographing Fairies",
+      "poster": "https://image.tmdb.org/t/p/w342/95rYK0G003rj8WDavXslmTO4pRE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/343tndCLTH1BaBLyRsH9ipTHmOR.jpg",
+      "description": "Photographer Charles Castle is numbed with grief following the death of his beautiful bride. He goes off to war, working in the trenches as a photographer. Following the war and still in grief Charles is given some photographs purporting to be of fairies. His search for the truth leads him to Burkinwell, a seemingly peaceful village seething with secrets",
+      "releaseInfo": "1997",
       "genres": [
-        "Sci-Fi",
         "Mystery",
-        "Adventure",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tt0103129",
-      "type": "movie",
-      "name": "Truly Madly Deeply",
-      "poster": "https://image.tmdb.org/t/p/w342/jjLEXLTXfJPYtl31knRS8bjclf0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/GFi1vzXUncFnxfUITfxVBDv8N4.jpg",
-      "description": "Nina is totally heartbroken at the death of her boyfriend Jamie, but is even more unprepared for his return as a ghost. At first it's almost as good as it used to be – hey, even the rats that infested her house have disappeared. But Jamie starts bringing ghostly friends home and behaving more and more oddly.",
-      "releaseInfo": "1991",
-      "genres": [
         "Fantasy",
-        "Drama",
-        "Comedy",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tt0094500",
-      "type": "movie",
-      "name": "The Chronicles of Narnia: The Lion, the Witch & the Wardrobe",
-      "poster": "https://image.tmdb.org/t/p/w342/6LUwgYymfy3OrzUV9OD6e4S7RUz.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/aiydu8mVs3uZUgooYYmsuKTLHFM.jpg",
-      "description": "Four kids travel to the magical land of Narnia where they must battle an evil queen with the direction of the lion, Aslan.",
-      "releaseInfo": "1988",
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Family"
-      ]
-    },
-    {
-      "id": "tt0114028",
-      "type": "movie",
-      "name": "Odilon Redon or The Eye Like a Strange Balloon Mounts Toward Infinity",
-      "poster": "https://image.tmdb.org/t/p/w342/3HItTv1aM8CXmcDuxUBTuO52z0D.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yyHXfb6eLVZsmy6XvjFcmPVj9iJ.jpg",
-      "description": "A father and son rescue the sole survivor of a train crash.",
-      "releaseInfo": "1995",
-      "genres": [
-        "Fantasy"
+        "Drama"
       ]
     },
     {
@@ -238,17 +225,30 @@
       ]
     },
     {
-      "id": "tt0119893",
+      "id": "tt0114028",
       "type": "movie",
-      "name": "Photographing Fairies",
-      "poster": "https://image.tmdb.org/t/p/w342/95rYK0G003rj8WDavXslmTO4pRE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/343tndCLTH1BaBLyRsH9ipTHmOR.jpg",
-      "description": "Photographer Charles Castle is numbed with grief following the death of his beautiful bride. He goes off to war, working in the trenches as a photographer. Following the war and still in grief Charles is given some photographs purporting to be of fairies. His search for the truth leads him to Burkinwell, a seemingly peaceful village seething with secrets",
-      "releaseInfo": "1997",
+      "name": "Odilon Redon or The Eye Like a Strange Balloon Mounts Toward Infinity",
+      "poster": "https://image.tmdb.org/t/p/w342/3HItTv1aM8CXmcDuxUBTuO52z0D.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yyHXfb6eLVZsmy6XvjFcmPVj9iJ.jpg",
+      "description": "A father and son rescue the sole survivor of a train crash.",
+      "releaseInfo": "1995",
       "genres": [
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt1321969",
+      "type": "movie",
+      "name": "Doctor Who: The Next Doctor",
+      "poster": "https://image.tmdb.org/t/p/w342/3jc2spp0w3a50drKFCHgdyj4u0d.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/lbjFL4zFzloqZPySgoIDuWgLzto.jpg",
+      "description": "The Doctor arrives in Victorian London. It's Christmas, but snow isn't the only thing descending on the tranquil and jubilant civilization, as familiar silver giants from an alternate reality are amassing in numbers. The Cybermen are on the move again, and the only beings who can stop them are the Doctor and... another Doctor?",
+      "releaseInfo": "2008",
+      "genres": [
+        "Sci-Fi",
         "Mystery",
-        "Fantasy",
-        "Drama"
+        "Adventure",
+        "Fantasy"
       ]
     },
     {

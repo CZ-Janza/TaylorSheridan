@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt2381111",
+      "type": "movie",
+      "name": "Brooklyn",
+      "poster": "https://image.tmdb.org/t/p/w342/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2T4bqHgYfzXNQoALJsvhW40kDTg.jpg",
+      "description": "In 1950s Ireland and New York, young Eilis Lacey has to choose between two men and two countries.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ]
+    },
+    {
       "id": "tt4073696",
       "type": "movie",
       "name": "The Go-Between",
@@ -469,7 +483,7 @@
       "type": "movie",
       "name": "Burton and Taylor",
       "poster": "https://image.tmdb.org/t/p/w342/cnzLsrmaM8GxSKCaNaJ9gfC0Vaf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/omClMgWIsLMnMd3NN4hbXSVDSzy.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8N24QvU8uSjxuRKXHq1kigZhjwH.jpg",
       "description": "Legendary acting duo and married couple Richard Burton and Elizabeth Taylor prepare for a 1983 theatrical production of the play \"Private Lives.\"",
       "releaseInfo": "2013",
       "genres": [
@@ -785,7 +799,7 @@
       "type": "movie",
       "name": "The Trip",
       "poster": "https://image.tmdb.org/t/p/w342/tjGrjHNjsR0klih0bkGBHbukMdX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3ZKyx25IN4D91SjPkvoHoGZxEWG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mFhtMAX6nqoLSqA8Y5NvLejAcc5.jpg",
       "description": "When Steve Coogan is asked by The Observer to tour the country's finest restaurants, he envisions it as the perfect getaway with his beautiful girlfriend. But, when she backs out on him, he has no one to accompany him but his best friend and source of eternal aggravation, Rob Brydon.",
       "releaseInfo": "2011",
       "genres": [
@@ -1315,20 +1329,6 @@
       "releaseInfo": "2008",
       "genres": [
         "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tt0819714",
-      "type": "movie",
-      "name": "The Edge of Love",
-      "poster": "https://image.tmdb.org/t/p/w342/uo7ZDvipL2OZu6G44hDP0sjDZ9n.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fiRxDoAHRLko3ycPtw1EeWaKxTQ.jpg",
-      "description": "When the Welsh poet Dylan Thomas and his flirtatious wife Caitlin sweep into war-torn London, the last thing they expect is to bump into Dylan's childhood sweetheart Vera. Despite her joy at seeing Dylan after so many years, Vera is swept off her feet by a dashing officer, William Killick, and finds herself torn between the open adoration of her new found beau and the wily charms of the exotic Welshman.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Drama",
-        "History",
         "Romance"
       ]
     }

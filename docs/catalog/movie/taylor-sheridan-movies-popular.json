@@ -15,34 +15,6 @@
       ]
     },
     {
-      "id": "tt5362988",
-      "type": "movie",
-      "name": "Wind River",
-      "poster": "https://image.tmdb.org/t/p/w342/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kQGxGXzYiCumY8kmXXpgbZyZQK8.jpg",
-      "description": "An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Crime",
-        "Mystery",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt2582782",
-      "type": "movie",
-      "name": "Hell or High Water",
-      "poster": "https://image.tmdb.org/t/p/w342/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kQVdpIPCqfpa24I8SQRiwOAbkLG.jpg",
-      "description": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Western",
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt5052474",
       "type": "movie",
       "name": "Sicario: Day of the Soldado",
@@ -70,6 +42,20 @@
       ]
     },
     {
+      "id": "tt5362988",
+      "type": "movie",
+      "name": "Wind River",
+      "poster": "https://image.tmdb.org/t/p/w342/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kQGxGXzYiCumY8kmXXpgbZyZQK8.jpg",
+      "description": "An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt0499097",
       "type": "movie",
       "name": "Tom Clancy's Without Remorse",
@@ -84,6 +70,20 @@
       ]
     },
     {
+      "id": "tt2582782",
+      "type": "movie",
+      "name": "Hell or High Water",
+      "poster": "https://image.tmdb.org/t/p/w342/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kQVdpIPCqfpa24I8SQRiwOAbkLG.jpg",
+      "description": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Western",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt7991508",
       "type": "movie",
       "name": "Finestkind",
@@ -94,29 +94,6 @@
       "genres": [
         "Crime",
         "Drama",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt15685360",
-      "type": "movie",
-      "name": "You Gotta Believe",
-      "poster": "https://image.tmdb.org/t/p/w342/l4X9SeMFCv414BCt97IBgzYX7JC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2zjLxtdr1xInAxH06ZIrE9HVe4s.jpg",
-      "description": "After dedicating the season to a teammate’s ailing father, a group of underestimated Ft. Worth youth baseball players takes its Cinderella run all the way to the 2002 Little League World Series—culminating in a record-breaking showdown that became an instant ESPN classic.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Family",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt29768342",
-      "type": "movie",
-      "name": "Sicario 3 (upcoming)",
-      "description": "⏳ Not yet released — status: Planned. The third instalment in the franchise. Plot details TBA.",
-      "genres": [
-        "Crime",
         "Thriller"
       ]
     },
@@ -146,15 +123,16 @@
       ]
     },
     {
-      "id": "tt9198366",
+      "id": "tt15685360",
       "type": "movie",
-      "name": "F.A.S.T. (upcoming)",
-      "description": "⏳ Expected release: 2027-05-12. A former special forces commando, down on his luck after returning Stateside, is recruited by the DEA to lead a covert black ops team to take down CIA-protected drug dealers.",
-      "releaseInfo": "2027",
+      "name": "You Gotta Believe",
+      "poster": "https://image.tmdb.org/t/p/w342/l4X9SeMFCv414BCt97IBgzYX7JC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2zjLxtdr1xInAxH06ZIrE9HVe4s.jpg",
+      "description": "After dedicating the season to a teammate’s ailing father, a group of underestimated Ft. Worth youth baseball players takes its Cinderella run all the way to the 2002 Little League World Series—culminating in a record-breaking showdown that became an instant ESPN classic.",
+      "releaseInfo": "2024",
       "genres": [
-        "Thriller",
-        "Action",
-        "Crime"
+        "Family",
+        "Drama"
       ]
     },
     {
@@ -170,15 +148,25 @@
       ]
     },
     {
-      "id": "tt13930830",
+      "id": "tt9198366",
       "type": "movie",
-      "name": "Pure Grit",
-      "poster": "https://image.tmdb.org/t/p/w342/lKlrpWLAXspwyQ3dCRR5OccVAWc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/g1LDvRnotgnwB0qMOtKRxeNtUrB.jpg",
-      "description": "Chronicling three years in the life of a young Native American bareback horse racer, her dogged determination, and the relationships that sustain her.",
-      "releaseInfo": "2022",
+      "name": "F.A.S.T. (upcoming)",
+      "description": "⏳ Expected release: 2027-05-12. A former special forces commando, down on his luck after returning Stateside, is recruited by the DEA to lead a covert black ops team to take down CIA-protected drug dealers.",
+      "releaseInfo": "2027",
       "genres": [
-        "Documentary"
+        "Thriller",
+        "Action",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt29768342",
+      "type": "movie",
+      "name": "Sicario 3 (upcoming)",
+      "description": "⏳ Not yet released — status: Planned. The third instalment in the franchise. Plot details TBA.",
+      "genres": [
+        "Crime",
+        "Thriller"
       ]
     },
     {
@@ -205,14 +193,24 @@
       ]
     },
     {
-      "id": "tt1800290",
+      "id": "tt13930830",
       "type": "movie",
-      "name": "Empire of the Summer Moon (upcoming)",
-      "poster": "https://image.tmdb.org/t/p/w342/iLmQ2YSqmvbe8vZSGOqq3YEdl0d.jpg",
-      "description": "⏳ Not yet released — status: Planned. The narrative spans four decades of conflict between the Comanches natives and white colonists, highlighting the Comanches' mastery of horse warfare, their resistance to Spanish, French, and settler-expansion, and their pivotal role in shaping the American West.",
+      "name": "Pure Grit",
+      "poster": "https://image.tmdb.org/t/p/w342/lKlrpWLAXspwyQ3dCRR5OccVAWc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/g1LDvRnotgnwB0qMOtKRxeNtUrB.jpg",
+      "description": "Chronicling three years in the life of a young Native American bareback horse racer, her dogged determination, and the relationships that sustain her.",
+      "releaseInfo": "2022",
       "genres": [
-        "Western",
-        "History"
+        "Documentary"
+      ]
+    },
+    {
+      "id": "tt43722525",
+      "type": "movie",
+      "name": "Capture the Flag (upcoming)",
+      "description": "⏳ Not yet released — status: Planned. A NASA engineer is thrown into a desperate race to build the first reusable spacecraft capable of traveling to the moon and back, testing his limits, loyalties, and morals when a tech tycoon offers him the chance to make history — if he’s willing to pay for it.",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -227,12 +225,14 @@
       ]
     },
     {
-      "id": "tt43722525",
+      "id": "tt1800290",
       "type": "movie",
-      "name": "Capture the Flag (upcoming)",
-      "description": "⏳ Not yet released — status: Planned. A NASA engineer is thrown into a desperate race to build the first reusable spacecraft capable of traveling to the moon and back, testing his limits, loyalties, and morals when a tech tycoon offers him the chance to make history — if he’s willing to pay for it.",
+      "name": "Empire of the Summer Moon (upcoming)",
+      "poster": "https://image.tmdb.org/t/p/w342/iLmQ2YSqmvbe8vZSGOqq3YEdl0d.jpg",
+      "description": "⏳ Not yet released — status: Planned. The narrative spans four decades of conflict between the Comanches natives and white colonists, highlighting the Comanches' mastery of horse warfare, their resistance to Spanish, French, and settler-expansion, and their pivotal role in shaping the American West.",
       "genres": [
-        "Drama"
+        "Western",
+        "History"
       ]
     },
     {
