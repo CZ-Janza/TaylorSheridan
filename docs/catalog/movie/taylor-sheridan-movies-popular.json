@@ -74,7 +74,7 @@
       "type": "movie",
       "name": "Hell or High Water",
       "poster": "https://image.tmdb.org/t/p/w342/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kQVdpIPCqfpa24I8SQRiwOAbkLG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rmPx82V79OetmdWDkyw1gyED6OE.jpg",
       "description": "A divorced dad and his ex-con brother resort to a desperate scheme in order to save their family's farm in West Texas.",
       "releaseInfo": "2016",
       "genres": [
@@ -110,32 +110,6 @@
       ]
     },
     {
-      "id": "tt19860606",
-      "type": "movie",
-      "name": "1883: The Road West",
-      "poster": "https://image.tmdb.org/t/p/w342/qM0Sg8jwHsfTQIGpy4q8ah8eHcd.jpg",
-      "description": "A behind-the-scenes look at the making of Taylor Sheridan's highly anticipated Yellowstone prequel, '1883'.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Documentary",
-        "History",
-        "Western"
-      ]
-    },
-    {
-      "id": "tt15685360",
-      "type": "movie",
-      "name": "You Gotta Believe",
-      "poster": "https://image.tmdb.org/t/p/w342/l4X9SeMFCv414BCt97IBgzYX7JC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2zjLxtdr1xInAxH06ZIrE9HVe4s.jpg",
-      "description": "After dedicating the season to a teammate’s ailing father, a group of underestimated Ft. Worth youth baseball players takes its Cinderella run all the way to the 2002 Little League World Series—culminating in a record-breaking showdown that became an instant ESPN classic.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Family",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt8009732",
       "type": "movie",
       "name": "Call of Duty (upcoming)",
@@ -160,23 +134,16 @@
       ]
     },
     {
-      "id": "tt29768342",
+      "id": "tt15685360",
       "type": "movie",
-      "name": "Sicario 3 (upcoming)",
-      "description": "⏳ Not yet released — status: Planned. The third instalment in the franchise. Plot details TBA.",
+      "name": "You Gotta Believe",
+      "poster": "https://image.tmdb.org/t/p/w342/l4X9SeMFCv414BCt97IBgzYX7JC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2zjLxtdr1xInAxH06ZIrE9HVe4s.jpg",
+      "description": "After dedicating the season to a teammate’s ailing father, a group of underestimated Ft. Worth youth baseball players takes its Cinderella run all the way to the 2002 Little League World Series—culminating in a record-breaking showdown that became an instant ESPN classic.",
+      "releaseInfo": "2024",
       "genres": [
-        "Crime",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt43722524",
-      "type": "movie",
-      "name": "Visalia (upcoming)",
-      "description": "⏳ Not yet released — status: Planned. A determined young Cuban woman escapes the only life she’s ever known, braving treacherous waters and relentless danger in pursuit of freedom in America. But when a historic political shift pulls her back to Cuba, she must confront the uncertain promises of a homeland transformed — and the price she’s paid to survive it.",
-      "genres": [
-        "Drama",
-        "Thriller"
+        "Family",
+        "Drama"
       ]
     },
     {
@@ -193,24 +160,26 @@
       ]
     },
     {
-      "id": "tt13930830",
+      "id": "tt19860606",
       "type": "movie",
-      "name": "Pure Grit",
-      "poster": "https://image.tmdb.org/t/p/w342/lKlrpWLAXspwyQ3dCRR5OccVAWc.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/g1LDvRnotgnwB0qMOtKRxeNtUrB.jpg",
-      "description": "Chronicling three years in the life of a young Native American bareback horse racer, her dogged determination, and the relationships that sustain her.",
+      "name": "1883: The Road West",
+      "poster": "https://image.tmdb.org/t/p/w342/qM0Sg8jwHsfTQIGpy4q8ah8eHcd.jpg",
+      "description": "A behind-the-scenes look at the making of Taylor Sheridan's highly anticipated Yellowstone prequel, '1883'.",
       "releaseInfo": "2022",
       "genres": [
-        "Documentary"
+        "Documentary",
+        "History",
+        "Western"
       ]
     },
     {
-      "id": "tt43722525",
+      "id": "tt29768342",
       "type": "movie",
-      "name": "Capture the Flag (upcoming)",
-      "description": "⏳ Not yet released — status: Planned. A NASA engineer is thrown into a desperate race to build the first reusable spacecraft capable of traveling to the moon and back, testing his limits, loyalties, and morals when a tech tycoon offers him the chance to make history — if he’s willing to pay for it.",
+      "name": "Sicario 3 (upcoming)",
+      "description": "⏳ Not yet released — status: Planned. The third instalment in the franchise. Plot details TBA.",
       "genres": [
-        "Drama"
+        "Crime",
+        "Thriller"
       ]
     },
     {
@@ -236,6 +205,18 @@
       ]
     },
     {
+      "id": "tt13930830",
+      "type": "movie",
+      "name": "Pure Grit",
+      "poster": "https://image.tmdb.org/t/p/w342/lKlrpWLAXspwyQ3dCRR5OccVAWc.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/g1LDvRnotgnwB0qMOtKRxeNtUrB.jpg",
+      "description": "Chronicling three years in the life of a young Native American bareback horse racer, her dogged determination, and the relationships that sustain her.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Documentary"
+      ]
+    },
+    {
       "id": "tt6065956",
       "type": "movie",
       "name": "Disorder (upcoming)",
@@ -243,6 +224,25 @@
       "genres": [
         "Drama",
         "Thriller"
+      ]
+    },
+    {
+      "id": "tt43722524",
+      "type": "movie",
+      "name": "Visalia (upcoming)",
+      "description": "⏳ Not yet released — status: Planned. A determined young Cuban woman escapes the only life she’s ever known, braving treacherous waters and relentless danger in pursuit of freedom in America. But when a historic political shift pulls her back to Cuba, she must confront the uncertain promises of a homeland transformed — and the price she’s paid to survive it.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt43722525",
+      "type": "movie",
+      "name": "Capture the Flag (upcoming)",
+      "description": "⏳ Not yet released — status: Planned. A NASA engineer is thrown into a desperate race to build the first reusable spacecraft capable of traveling to the moon and back, testing his limits, loyalties, and morals when a tech tycoon offers him the chance to make history — if he’s willing to pay for it.",
+      "genres": [
+        "Drama"
       ]
     }
   ]

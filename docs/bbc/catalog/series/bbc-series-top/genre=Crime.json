@@ -168,6 +168,19 @@
       ]
     },
     {
+      "id": "tt1748888",
+      "type": "series",
+      "name": "Case Histories",
+      "poster": "https://image.tmdb.org/t/p/w342/xghENqyHjSZgsO8ZVKFfeG6ioYu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/29avaBXpQWFASrkibUteOxL4J0L.jpg",
+      "description": "Case Histories is a British drama television series based on the Jackson Brodie detective novels by Kate Atkinson. It stars Jason Isaacs as Jackson Brodie.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
       "id": "tt7493974",
       "type": "series",
       "name": "Bodyguard",
@@ -183,15 +196,46 @@
       ]
     },
     {
-      "id": "tt1748888",
+      "id": "tt0379632",
       "type": "series",
-      "name": "Case Histories",
-      "poster": "https://image.tmdb.org/t/p/w342/xghENqyHjSZgsO8ZVKFfeG6ioYu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/29avaBXpQWFASrkibUteOxL4J0L.jpg",
-      "description": "Case Histories is a British drama television series based on the Jackson Brodie detective novels by Kate Atkinson. It stars Jason Isaacs as Jackson Brodie.",
-      "releaseInfo": "2011",
+      "name": "Hustle",
+      "poster": "https://image.tmdb.org/t/p/w342/xty7kinvhVH3RzMdjNQSpJj2pEm.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/q7iwBG89RLMdkXoYGdVxC9rRg8Y.jpg",
+      "description": "A motley group of London con artists pull of a series of daring and intricate stings.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1399664",
+      "type": "series",
+      "name": "The Night Manager",
+      "poster": "https://image.tmdb.org/t/p/w342/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
+      "description": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
+      "releaseInfo": "2016",
       "genres": [
         "Drama",
+        "Mystery",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt0160904",
+      "type": "series",
+      "name": "Spooks",
+      "poster": "https://image.tmdb.org/t/p/w342/5kODxCYihuM49oQWke6GfHdsRT6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/w0PRJ5uOsfSGVrwxUhPmc6qIO8t.jpg",
+      "description": "Tense drama series about the different challenges faced by the British Security Service as they work against the clock to safeguard the nation. The title is a popular colloquialism for spies, and the series follows the work of a group of MI5 officers based at the service's Thames House headquarters, in a highly secure suite of offices known as The Grid.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Drama",
+        "Action",
+        "Adventure",
         "Crime"
       ]
     },
@@ -224,16 +268,17 @@
       ]
     },
     {
-      "id": "tt1399664",
+      "id": "tt4047038",
       "type": "series",
-      "name": "The Night Manager",
-      "poster": "https://image.tmdb.org/t/p/w342/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2vAOdruqvx9GojXxKi3xVsZZvKU.jpg",
-      "description": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
+      "name": "Dirk Gently's Holistic Detective Agency",
+      "poster": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
+      "description": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
       "releaseInfo": "2016",
       "genres": [
-        "Drama",
-        "Mystery",
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
         "Crime"
       ]
     },
@@ -285,47 +330,28 @@
       ]
     },
     {
-      "id": "tt0379632",
+      "id": "tt14466018",
       "type": "series",
-      "name": "Hustle",
-      "poster": "https://image.tmdb.org/t/p/w342/xty7kinvhVH3RzMdjNQSpJj2pEm.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/q7iwBG89RLMdkXoYGdVxC9rRg8Y.jpg",
-      "description": "A motley group of London con artists pull of a series of daring and intricate stings.",
-      "releaseInfo": "2004",
+      "name": "Blue Lights",
+      "poster": "https://image.tmdb.org/t/p/w342/3C3c40DH8M6qdECHLlxk8o5nrC0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kjFoqKiR155jQn77bBkwBD3zjvO.jpg",
+      "description": "Follows rookie police officers working in Belfast, a city in which being a frontline response cop comes with unique pressures and dangers.",
+      "releaseInfo": "2023",
       "genres": [
-        "Comedy",
         "Crime",
-        "Drama",
-        "Mystery"
+        "Drama"
       ]
     },
     {
-      "id": "tt0160904",
+      "id": "tt13138834",
       "type": "series",
-      "name": "Spooks",
-      "poster": "https://image.tmdb.org/t/p/w342/5kODxCYihuM49oQWke6GfHdsRT6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/w0PRJ5uOsfSGVrwxUhPmc6qIO8t.jpg",
-      "description": "Tense drama series about the different challenges faced by the British Security Service as they work against the clock to safeguard the nation. The title is a popular colloquialism for spies, and the series follows the work of a group of MI5 officers based at the service's Thames House headquarters, in a highly secure suite of offices known as The Grid.",
-      "releaseInfo": "2002",
+      "name": "Time",
+      "poster": "https://image.tmdb.org/t/p/w342/ozngyBGF4uuxIrs1ZpE8rbPus8S.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yPkRxn3HKBJig1IJes7PQMF2iUC.jpg",
+      "description": "Guilt, violence and impossible choices – what does it take to survive?",
+      "releaseInfo": "2021",
       "genres": [
         "Drama",
-        "Action",
-        "Adventure",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt4047038",
-      "type": "series",
-      "name": "Dirk Gently's Holistic Detective Agency",
-      "poster": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
-      "description": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy",
         "Crime"
       ]
     },
@@ -341,19 +367,6 @@
         "Crime",
         "Drama",
         "Mystery"
-      ]
-    },
-    {
-      "id": "tt13138834",
-      "type": "series",
-      "name": "Time",
-      "poster": "https://image.tmdb.org/t/p/w342/ozngyBGF4uuxIrs1ZpE8rbPus8S.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yPkRxn3HKBJig1IJes7PQMF2iUC.jpg",
-      "description": "Guilt, violence and impossible choices – what does it take to survive?",
-      "releaseInfo": "2021",
-      "genres": [
-        "Drama",
-        "Crime"
       ]
     },
     {
@@ -397,6 +410,19 @@
       ]
     },
     {
+      "id": "tt0115355",
+      "type": "series",
+      "name": "Silent Witness",
+      "poster": "https://image.tmdb.org/t/p/w342/yRwf0yAZvYMfFLMonPusv6F256s.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tT78TvxoSFEMQEqoqHJIw472yrF.jpg",
+      "description": "A team of exceptional forensic pathologists and scientists investigate heinous crimes and use their skills to catch the people responsible.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0108756",
       "type": "series",
       "name": "Due South",
@@ -411,56 +437,16 @@
       ]
     },
     {
-      "id": "tt0087749",
+      "id": "tt31438328",
       "type": "series",
-      "name": "Miss Marple: The Moving Finger",
-      "poster": "https://image.tmdb.org/t/p/w342/2MCHLBAuswB8uB8w6qBmnGgqQfE.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qAiNK2htNWeWXQPY5OlV2vCpuMb.jpg",
-      "description": "The residents of a quiet English village begin to receive nasty, threatening letters. The wife of the local vicar calls in her friend Miss Marple to investigate.",
-      "releaseInfo": "1985",
+      "name": "This City Is Ours",
+      "poster": "https://image.tmdb.org/t/p/w342/75BwofwAZbf6GlhP2m6NPpP3bW2.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
+      "description": "After trying to leave a world of crime, Michael is dragged back into the fold to answer questions. Back in Liverpool tensions continue to bubble amongst the remaining members of the gang, and a gangster who's just been let out of prison wants answers.",
+      "releaseInfo": "2025",
       "genres": [
-        "Crime",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt14466018",
-      "type": "series",
-      "name": "Blue Lights",
-      "poster": "https://image.tmdb.org/t/p/w342/3C3c40DH8M6qdECHLlxk8o5nrC0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kjFoqKiR155jQn77bBkwBD3zjvO.jpg",
-      "description": "Follows rookie police officers working in Belfast, a city in which being a frontline response cop comes with unique pressures and dangers.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0115355",
-      "type": "series",
-      "name": "Silent Witness",
-      "poster": "https://image.tmdb.org/t/p/w342/yRwf0yAZvYMfFLMonPusv6F256s.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tT78TvxoSFEMQEqoqHJIw472yrF.jpg",
-      "description": "A team of exceptional forensic pathologists and scientists investigate heinous crimes and use their skills to catch the people responsible.",
-      "releaseInfo": "1996",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2396135",
-      "type": "series",
-      "name": "Shetland",
-      "poster": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
-      "description": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Crime",
         "Drama",
-        "Mystery"
+        "Crime"
       ]
     },
     {
@@ -477,16 +463,16 @@
       ]
     },
     {
-      "id": "tt31438328",
+      "id": "tt0087749",
       "type": "series",
-      "name": "This City Is Ours",
-      "poster": "https://image.tmdb.org/t/p/w342/75BwofwAZbf6GlhP2m6NPpP3bW2.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yBSVBcQfJDBWpRJtcKob9XsvMIe.jpg",
-      "description": "After trying to leave a world of crime, Michael is dragged back into the fold to answer questions. Back in Liverpool tensions continue to bubble amongst the remaining members of the gang, and a gangster who's just been let out of prison wants answers.",
-      "releaseInfo": "2025",
+      "name": "Miss Marple: The Moving Finger",
+      "poster": "https://image.tmdb.org/t/p/w342/2MCHLBAuswB8uB8w6qBmnGgqQfE.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qAiNK2htNWeWXQPY5OlV2vCpuMb.jpg",
+      "description": "The residents of a quiet English village begin to receive nasty, threatening letters. The wife of the local vicar calls in her friend Miss Marple to investigate.",
+      "releaseInfo": "1985",
       "genres": [
-        "Drama",
-        "Crime"
+        "Crime",
+        "Mystery"
       ]
     },
     {
@@ -510,6 +496,20 @@
       "background": "https://image.tmdb.org/t/p/w780/gbJ138L0ETPbjqsbEOQI1U6wo7a.jpg",
       "description": "What made Anu Chandra stab her perfect husband? The evidence and confession are clear, but what's the truth?",
       "releaseInfo": "2020",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt2396135",
+      "type": "series",
+      "name": "Shetland",
+      "poster": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/AdlDrgoNCDu3naYjZMwmiklBHnV.jpg",
+      "description": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
+      "releaseInfo": "2013",
       "genres": [
         "Crime",
         "Drama",
@@ -558,6 +558,20 @@
       ]
     },
     {
+      "id": "tt0118401",
+      "type": "series",
+      "name": "Midsomer Murders",
+      "poster": "https://image.tmdb.org/t/p/w342/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+      "description": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+      "releaseInfo": "1997",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt0088833",
       "type": "series",
       "name": "Miss Marple: The Body in the Library",
@@ -579,20 +593,6 @@
       "background": "https://image.tmdb.org/t/p/w780/yOSInIsiFzuie6p3Jyn2Nsdq5hs.jpg",
       "description": "An advertisement announcing the time and place of a forthcoming murder appears among the ads of the paper in the small village of Chipping Cleghorn.",
       "releaseInfo": "1985",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt0118401",
-      "type": "series",
-      "name": "Midsomer Murders",
-      "poster": "https://image.tmdb.org/t/p/w342/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
-      "description": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
-      "releaseInfo": "1997",
       "genres": [
         "Crime",
         "Drama",
@@ -653,6 +653,19 @@
       "genres": [
         "Drama",
         "Crime"
+      ]
+    },
+    {
+      "id": "tt8001106",
+      "type": "series",
+      "name": "Giri/Haji",
+      "poster": "https://image.tmdb.org/t/p/w342/mOeqBvuGOcq0eN1ssGCcRtWA7XW.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/h8ngSjGpbtfc1LCyz9hkBMQPvN0.jpg",
+      "description": "Family duty sends a lawman to London to look for his mob-assassin brother as a yakuza war threatens to engulf Tokyo. Trust is even tougher to find.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Crime",
+        "Drama"
       ]
     },
     {
@@ -765,19 +778,6 @@
       ]
     },
     {
-      "id": "tt8001106",
-      "type": "series",
-      "name": "Giri/Haji",
-      "poster": "https://image.tmdb.org/t/p/w342/mOeqBvuGOcq0eN1ssGCcRtWA7XW.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/h8ngSjGpbtfc1LCyz9hkBMQPvN0.jpg",
-      "description": "Family duty sends a lawman to London to look for his mob-assassin brother as a yakuza war threatens to engulf Tokyo. Trust is even tougher to find.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt9179616",
       "type": "series",
       "name": "Vienna Blood",
@@ -802,19 +802,6 @@
       "genres": [
         "Drama",
         "War",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt13592494",
-      "type": "series",
-      "name": "The Bombing of Pan Am 103",
-      "poster": "https://image.tmdb.org/t/p/w342/jWMG8htFNfc4eeu9UcPszql3Xa6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5ZgPQjEsJqCwRtx6vsBBISxn389.jpg",
-      "description": "On December 21, 1988, Pan Am Flight 103 exploded over the small Scottish town of Lockerbie, killing 270 people. What followed was the largest murder investigation in the history of Scottish policing, into the deadliest act of terrorism on British soil.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Drama",
         "Crime"
       ]
     },
@@ -926,6 +913,19 @@
       ]
     },
     {
+      "id": "tt13592494",
+      "type": "series",
+      "name": "The Bombing of Pan Am 103",
+      "poster": "https://image.tmdb.org/t/p/w342/jWMG8htFNfc4eeu9UcPszql3Xa6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5ZgPQjEsJqCwRtx6vsBBISxn389.jpg",
+      "description": "On December 21, 1988, Pan Am Flight 103 exploded over the small Scottish town of Lockerbie, killing 270 people. What followed was the largest murder investigation in the history of Scottish policing, into the deadliest act of terrorism on British soil.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
       "id": "tt6271042",
       "type": "series",
       "name": "McMafia",
@@ -936,6 +936,20 @@
       "genres": [
         "Crime",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt3877200",
+      "type": "series",
+      "name": "The Missing",
+      "poster": "https://image.tmdb.org/t/p/w342/yZnR6EccMv4Evcady5M8MSzAmuq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6LNiGx7KfdTPrIkkl6MjAXaDHmJ.jpg",
+      "description": "A gripping anthological relationship thriller series exploring the emotional fallout of a child's abduction not only on the family but on the wider community, told over two time frames.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -973,20 +987,6 @@
       "background": "https://image.tmdb.org/t/p/w780/x9yqsGeZjqmlCh5qVfhmFPp2kcH.jpg",
       "description": "A war veteran turned private detective operates out of a tiny office in London’s Denmark Street. Although wounded both physically and psychologically, his unique insight and background as a military police investigator prove crucial in solving complex crimes that have baffled the police. Based on the bestselling novels written by J.K. Rowling under the pseudonym Robert Galbraith.",
       "releaseInfo": "2017",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt3877200",
-      "type": "series",
-      "name": "The Missing",
-      "poster": "https://image.tmdb.org/t/p/w342/yZnR6EccMv4Evcady5M8MSzAmuq.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6LNiGx7KfdTPrIkkl6MjAXaDHmJ.jpg",
-      "description": "A gripping anthological relationship thriller series exploring the emotional fallout of a child's abduction not only on the family but on the wider community, told over two time frames.",
-      "releaseInfo": "2014",
       "genres": [
         "Crime",
         "Drama",
@@ -1036,15 +1036,15 @@
       ]
     },
     {
-      "id": "tt21161156",
+      "id": "tt0112194",
       "type": "series",
-      "name": "Beyond Paradise",
-      "poster": "https://image.tmdb.org/t/p/w342/1zyKeMDCLpn2UK6hxU2IrVLgot2.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/zlFXtd5UxmtgWfP5mxDYaaYAO3v.jpg",
-      "description": "After leaving paradise and seeking a quieter life, Humphrey has taken a job as Detective Inspector in his fiancée Martha's hometown. But with the high crime rate, maybe things will be louder than expected.",
-      "releaseInfo": "2023",
+      "name": "The Thin Blue Line",
+      "poster": "https://image.tmdb.org/t/p/w342/vsxilQmtIRP7bWTKQrmxLhNp4Rz.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/o5aZkYCvZ4DQQmTHGCkDf43Xv7G.jpg",
+      "description": "The Thin Blue Line is a British sitcom starring Rowan Atkinson set in a police station that ran for two series on the BBC from 1995 to 1996. It was written by Ben Elton.",
+      "releaseInfo": "1995",
       "genres": [
-        "Drama",
+        "Comedy",
         "Crime"
       ]
     },
@@ -1092,26 +1092,39 @@
       ]
     },
     {
-      "id": "tt0112194",
+      "id": "tt7768192",
       "type": "series",
-      "name": "The Thin Blue Line",
-      "poster": "https://image.tmdb.org/t/p/w342/vsxilQmtIRP7bWTKQrmxLhNp4Rz.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/o5aZkYCvZ4DQQmTHGCkDf43Xv7G.jpg",
-      "description": "The Thin Blue Line is a British sitcom starring Rowan Atkinson set in a police station that ran for two series on the BBC from 1995 to 1996. It was written by Ben Elton.",
-      "releaseInfo": "1995",
+      "name": "Dublin Murders",
+      "poster": "https://image.tmdb.org/t/p/w342/3olPAGfJXQ9epf8kFCGzg9B34hR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fgkxlmFgku6X6G2a6Qmve28q7Ta.jpg",
+      "description": "Two detectives are dispatched to investigate the murder of a young girl on the outskirts of Dublin, but as the case of the missing children intensifies, both are forced to confront the darkness that lies in their past.",
+      "releaseInfo": "2019",
       "genres": [
-        "Comedy",
+        "Drama",
         "Crime"
       ]
     },
     {
-      "id": "tt11899030",
+      "id": "tt8259142",
       "type": "series",
-      "name": "The Responder",
-      "poster": "https://image.tmdb.org/t/p/w342/mU51EB4OSEL7oxMIub1Rl7N0xFB.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9TEWo6dVn9cHGuegR2gXkf3J7jI.jpg",
-      "description": "Under pressure, fraying at the edges. In relentless night-time Liverpool, copper Chris is paired with a rookie. Will they save or destroy each other?",
-      "releaseInfo": "2022",
+      "name": "Baptiste",
+      "poster": "https://image.tmdb.org/t/p/w342/xgu7gih8wYtd4As95uDhVajjkM4.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sc8DoHgjqzDFuR04yVbNKJhjHrr.jpg",
+      "description": "Battered by life, detective Julien Baptiste will investigate to the brink of obsession. Whatever the cost. Whatever it takes.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt21161156",
+      "type": "series",
+      "name": "Beyond Paradise",
+      "poster": "https://image.tmdb.org/t/p/w342/1zyKeMDCLpn2UK6hxU2IrVLgot2.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/zlFXtd5UxmtgWfP5mxDYaaYAO3v.jpg",
+      "description": "After leaving paradise and seeking a quieter life, Humphrey has taken a job as Detective Inspector in his fiancée Martha's hometown. But with the high crime rate, maybe things will be louder than expected.",
+      "releaseInfo": "2023",
       "genres": [
         "Drama",
         "Crime"
@@ -1139,32 +1152,6 @@
       "background": "https://image.tmdb.org/t/p/w780/ob2Tn0ZuJx60qy9PVI2mbc6Jj1Q.jpg",
       "description": "Explore the intoxication of sexual attraction, the dangerous power of emotional manipulation, and how finding a volatile form of solace in another can have dire consequences as two conflicted coppers track down a pair of deadly killers.",
       "releaseInfo": "2020",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt7768192",
-      "type": "series",
-      "name": "Dublin Murders",
-      "poster": "https://image.tmdb.org/t/p/w342/3olPAGfJXQ9epf8kFCGzg9B34hR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fgkxlmFgku6X6G2a6Qmve28q7Ta.jpg",
-      "description": "Two detectives are dispatched to investigate the murder of a young girl on the outskirts of Dublin, but as the case of the missing children intensifies, both are forced to confront the darkness that lies in their past.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt8259142",
-      "type": "series",
-      "name": "Baptiste",
-      "poster": "https://image.tmdb.org/t/p/w342/xgu7gih8wYtd4As95uDhVajjkM4.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sc8DoHgjqzDFuR04yVbNKJhjHrr.jpg",
-      "description": "Battered by life, detective Julien Baptiste will investigate to the brink of obsession. Whatever the cost. Whatever it takes.",
-      "releaseInfo": "2019",
       "genres": [
         "Crime",
         "Drama"
@@ -1207,6 +1194,19 @@
       "releaseInfo": "2010",
       "genres": [
         "Comedy",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt11899030",
+      "type": "series",
+      "name": "The Responder",
+      "poster": "https://image.tmdb.org/t/p/w342/mU51EB4OSEL7oxMIub1Rl7N0xFB.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9TEWo6dVn9cHGuegR2gXkf3J7jI.jpg",
+      "description": "Under pressure, fraying at the edges. In relentless night-time Liverpool, copper Chris is paired with a rookie. Will they save or destroy each other?",
+      "releaseInfo": "2022",
+      "genres": [
         "Drama",
         "Crime"
       ]
@@ -1281,20 +1281,6 @@
       ]
     },
     {
-      "id": "tt4274822",
-      "type": "series",
-      "name": "Stonemouth",
-      "poster": "https://image.tmdb.org/t/p/w342/lDRRjDkkL8HVga4XHC27OfkKzH7.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/cJJScJARVY9uCyxP8XVu8lxP7tj.jpg",
-      "description": "Based on Iain Banks's best-selling novel, this romantic mystery follows Stewart as he returns to his childhood home and tries to discover the truth behind his best friend's death.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt3484180",
       "type": "series",
       "name": "Remember Me",
@@ -1323,6 +1309,33 @@
       ]
     },
     {
+      "id": "tt4274822",
+      "type": "series",
+      "name": "Stonemouth",
+      "poster": "https://image.tmdb.org/t/p/w342/lDRRjDkkL8HVga4XHC27OfkKzH7.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cJJScJARVY9uCyxP8XVu8lxP7tj.jpg",
+      "description": "Based on Iain Banks's best-selling novel, this romantic mystery follows Stewart as he returns to his childhood home and tries to discover the truth behind his best friend's death.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt23152082",
+      "type": "series",
+      "name": "Steeltown Murders",
+      "poster": "https://image.tmdb.org/t/p/w342/nvB8vGiEiyGMVdHshOlkQIw2B5t.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ombVCM0qMVF8QlZAzN4JlzMLq3G.jpg",
+      "description": "The hunt to catch the killer of three young women in the Port Talbot area in 1973 and the remarkable story of how - in the first case of its kind - the mystery was solved almost 30 years later using pioneering DNA evidence. Contrasting the policing methods of the 1970s with the forensic breakthroughs of the early 2000s, the series portrays a town dealing with the repercussions of an unsolved case three decades on, and asks if justice can ever truly be found.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt35562988",
       "type": "series",
       "name": "The Guest",
@@ -1346,19 +1359,6 @@
       "genres": [
         "Crime",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt23152082",
-      "type": "series",
-      "name": "Steeltown Murders",
-      "poster": "https://image.tmdb.org/t/p/w342/nvB8vGiEiyGMVdHshOlkQIw2B5t.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ombVCM0qMVF8QlZAzN4JlzMLq3G.jpg",
-      "description": "The hunt to catch the killer of three young women in the Port Talbot area in 1973 and the remarkable story of how - in the first case of its kind - the mystery was solved almost 30 years later using pioneering DNA evidence. Contrasting the policing methods of the 1970s with the forensic breakthroughs of the early 2000s, the series portrays a town dealing with the repercussions of an unsolved case three decades on, and asks if justice can ever truly be found.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Crime",
-        "Mystery"
       ]
     },
     {

@@ -46,22 +46,6 @@
       ]
     },
     {
-      "id": "tt1199099",
-      "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt10405370",
       "type": "series",
       "name": "SAS Rogue Heroes",
@@ -93,20 +77,19 @@
       ]
     },
     {
-      "id": "tt1008108",
+      "id": "tt1199099",
       "type": "series",
-      "name": "Ashes to Ashes",
-      "poster": "https://image.tmdb.org/t/p/w342/ky35fNxJQkO9bCwB010pB4brTL3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/hwc6yz1XyYviF1T91GrtGsIaUyD.jpg",
-      "description": "Crime drama series featuring Life On Mars' DCI Gene Hunt. After being shot in 2008, DI Alex Drake lands in 1981, where she finds herself in familiar company.",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
       "releaseInfo": "2008",
       "genres": [
-        "Crime",
-        "Sci-Fi",
-        "Fantasy",
         "Action",
         "Adventure",
-        "Drama"
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -125,17 +108,36 @@
       ]
     },
     {
-      "id": "tt27557666",
+      "id": "tt1008108",
       "type": "series",
-      "name": "Lord of the Flies",
-      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
-      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
-      "releaseInfo": "2026",
+      "name": "Ashes to Ashes",
+      "poster": "https://image.tmdb.org/t/p/w342/ky35fNxJQkO9bCwB010pB4brTL3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hwc6yz1XyYviF1T91GrtGsIaUyD.jpg",
+      "description": "Crime drama series featuring Life On Mars' DCI Gene Hunt. After being shot in 2008, DI Alex Drake lands in 1981, where she finds herself in familiar company.",
+      "releaseInfo": "2008",
       "genres": [
-        "Drama",
+        "Crime",
+        "Sci-Fi",
+        "Fantasy",
         "Action",
-        "Adventure"
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0436992",
+      "type": "series",
+      "name": "Doctor Who",
+      "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+      "description": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
       ]
     },
     {
@@ -156,22 +158,6 @@
       ]
     },
     {
-      "id": "tt0436992",
-      "type": "series",
-      "name": "Doctor Who",
-      "poster": "https://image.tmdb.org/t/p/w342/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-      "description": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt0094500",
       "type": "series",
       "name": "The Chronicles of Narnia",
@@ -183,6 +169,20 @@
         "Drama",
         "Sci-Fi",
         "Fantasy",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt27557666",
+      "type": "series",
+      "name": "Lord of the Flies",
+      "poster": "https://image.tmdb.org/t/p/w342/zD50ejpus5rNidj6CBr4Ml59KOL.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+      "description": "After a plane crash, a group of schoolboys find themselves stranded on a tropical island without adults. Ralph is elected leader and, with the help of the intelligent Piggy, strives to maintain order and civilization. Jack, responsible for the signal fire, becomes increasingly focused on hunting and power struggles. This leads to tensions within the group, gradually pushing the boys from hope and structure into chaos and tragedy.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
         "Action",
         "Adventure"
       ]

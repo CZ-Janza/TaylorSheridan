@@ -1,18 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt2649522",
-      "type": "series",
-      "name": "The Escape Artist",
-      "poster": "https://image.tmdb.org/t/p/w342/pGhkbrdb0cIOXWyU7mr6louc8FM.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/kPG1qBhvS3sY0v6zXDAfypTJEKf.jpg",
-      "description": "A chilling and bloody legal thriller that explores the line between law and justice. Will Burton, a talented junior barrister of peerless intellect and winning charm, specialises in spiriting people out of tight legal corners. He is in high demand as he has never lost a case. But when his talents acquit the notorious prime suspect in an horrific murder trial, that brilliance comes back to bite him with unexpected and chilling results, not to mention a shocking twist.",
-      "releaseInfo": "2013",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt2303367",
       "type": "series",
       "name": "Dirk Gently",
@@ -42,13 +30,39 @@
       ]
     },
     {
-      "id": "tt11899030",
+      "id": "tt7768192",
       "type": "series",
-      "name": "The Responder",
-      "poster": "https://image.tmdb.org/t/p/w342/mU51EB4OSEL7oxMIub1Rl7N0xFB.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9TEWo6dVn9cHGuegR2gXkf3J7jI.jpg",
-      "description": "Under pressure, fraying at the edges. In relentless night-time Liverpool, copper Chris is paired with a rookie. Will they save or destroy each other?",
-      "releaseInfo": "2022",
+      "name": "Dublin Murders",
+      "poster": "https://image.tmdb.org/t/p/w342/3olPAGfJXQ9epf8kFCGzg9B34hR.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fgkxlmFgku6X6G2a6Qmve28q7Ta.jpg",
+      "description": "Two detectives are dispatched to investigate the murder of a young girl on the outskirts of Dublin, but as the case of the missing children intensifies, both are forced to confront the darkness that lies in their past.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt8259142",
+      "type": "series",
+      "name": "Baptiste",
+      "poster": "https://image.tmdb.org/t/p/w342/xgu7gih8wYtd4As95uDhVajjkM4.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sc8DoHgjqzDFuR04yVbNKJhjHrr.jpg",
+      "description": "Battered by life, detective Julien Baptiste will investigate to the brink of obsession. Whatever the cost. Whatever it takes.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt21161156",
+      "type": "series",
+      "name": "Beyond Paradise",
+      "poster": "https://image.tmdb.org/t/p/w342/1zyKeMDCLpn2UK6hxU2IrVLgot2.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/zlFXtd5UxmtgWfP5mxDYaaYAO3v.jpg",
+      "description": "After leaving paradise and seeking a quieter life, Humphrey has taken a job as Detective Inspector in his fiancée Martha's hometown. But with the high crime rate, maybe things will be louder than expected.",
+      "releaseInfo": "2023",
       "genres": [
         "Drama",
         "Crime"
@@ -95,32 +109,6 @@
       ]
     },
     {
-      "id": "tt7768192",
-      "type": "series",
-      "name": "Dublin Murders",
-      "poster": "https://image.tmdb.org/t/p/w342/3olPAGfJXQ9epf8kFCGzg9B34hR.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fgkxlmFgku6X6G2a6Qmve28q7Ta.jpg",
-      "description": "Two detectives are dispatched to investigate the murder of a young girl on the outskirts of Dublin, but as the case of the missing children intensifies, both are forced to confront the darkness that lies in their past.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt8259142",
-      "type": "series",
-      "name": "Baptiste",
-      "poster": "https://image.tmdb.org/t/p/w342/xgu7gih8wYtd4As95uDhVajjkM4.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sc8DoHgjqzDFuR04yVbNKJhjHrr.jpg",
-      "description": "Battered by life, detective Julien Baptiste will investigate to the brink of obsession. Whatever the cost. Whatever it takes.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt6859806",
       "type": "series",
       "name": "Mrs Wilson",
@@ -140,18 +128,6 @@
       "background": "https://image.tmdb.org/t/p/w780/yAM8Dvr8sBZFvil0ExsNKB0f9Bt.jpg",
       "description": "Follows the contrasting worlds of left-wing The Herald (broadsheet) and right-wing The Post (tabloid), highlighting the challenges of modern journalism, including hacking scandals and the rise of online media.",
       "releaseInfo": "2018",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt6078644",
-      "type": "series",
-      "name": "Broken",
-      "poster": "https://image.tmdb.org/t/p/w342/xvwcRQiE7aanggwKgwj9T3x4pdt.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/h4Z2gdoQj0yLVvFsxAJsbIREGEA.jpg",
-      "description": "Father Michael, a Catholic priest presiding over a Northern urban parish, who is modern, maverick, and reassuringly flawed, must be confidante, counselor and confessor to a congregation struggling to reconcile its beliefs with the challenges of daily life.",
-      "releaseInfo": "2017",
       "genres": [
         "Drama"
       ]
@@ -260,6 +236,18 @@
       ]
     },
     {
+      "id": "tt6078644",
+      "type": "series",
+      "name": "Broken",
+      "poster": "https://image.tmdb.org/t/p/w342/xvwcRQiE7aanggwKgwj9T3x4pdt.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/h4Z2gdoQj0yLVvFsxAJsbIREGEA.jpg",
+      "description": "Father Michael, a Catholic priest presiding over a Northern urban parish, who is modern, maverick, and reassuringly flawed, must be confidante, counselor and confessor to a congregation struggling to reconcile its beliefs with the challenges of daily life.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt9139220",
       "type": "series",
       "name": "Dracula",
@@ -271,6 +259,19 @@
         "Drama",
         "Action",
         "Adventure"
+      ]
+    },
+    {
+      "id": "tt11899030",
+      "type": "series",
+      "name": "The Responder",
+      "poster": "https://image.tmdb.org/t/p/w342/mU51EB4OSEL7oxMIub1Rl7N0xFB.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9TEWo6dVn9cHGuegR2gXkf3J7jI.jpg",
+      "description": "Under pressure, fraying at the edges. In relentless night-time Liverpool, copper Chris is paired with a rookie. Will they save or destroy each other?",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -386,20 +387,6 @@
       "genres": [
         "Crime",
         "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt4274822",
-      "type": "series",
-      "name": "Stonemouth",
-      "poster": "https://image.tmdb.org/t/p/w342/lDRRjDkkL8HVga4XHC27OfkKzH7.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/cJJScJARVY9uCyxP8XVu8lxP7tj.jpg",
-      "description": "Based on Iain Banks's best-selling novel, this romantic mystery follows Stewart as he returns to his childhood home and tries to discover the truth behind his best friend's death.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Drama",
-        "Crime",
         "Mystery"
       ]
     },
@@ -523,6 +510,20 @@
       ]
     },
     {
+      "id": "tt4274822",
+      "type": "series",
+      "name": "Stonemouth",
+      "poster": "https://image.tmdb.org/t/p/w342/lDRRjDkkL8HVga4XHC27OfkKzH7.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cJJScJARVY9uCyxP8XVu8lxP7tj.jpg",
+      "description": "Based on Iain Banks's best-selling novel, this romantic mystery follows Stewart as he returns to his childhood home and tries to discover the truth behind his best friend's death.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tt10016724",
       "type": "series",
       "name": "Orphan Black: Echoes",
@@ -534,6 +535,19 @@
         "Sci-Fi",
         "Fantasy",
         "Drama"
+      ]
+    },
+    {
+      "id": "tt9059820",
+      "type": "series",
+      "name": "The Nest",
+      "poster": "https://image.tmdb.org/t/p/w342/qr1ZznOW49uVUsI3pw7LY4JFUF.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/uXo7iDtDgphcHUNrYhmRKqWkdZK.jpg",
+      "description": "Happy couple Dan and Emily live in a huge house just outside Glasgow and want for nothing, save a baby of their own. Through a chance encounter they meet Kaya, an 18-year-old from the other side of the city, whose life is as precarious as theirs is comfortable. When Kaya agrees to carry their baby, it feels like they were meant to meet, but was it really by chance?",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -587,19 +601,6 @@
       "genres": [
         "Drama",
         "Crime",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt9059820",
-      "type": "series",
-      "name": "The Nest",
-      "poster": "https://image.tmdb.org/t/p/w342/qr1ZznOW49uVUsI3pw7LY4JFUF.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/uXo7iDtDgphcHUNrYhmRKqWkdZK.jpg",
-      "description": "Happy couple Dan and Emily live in a huge house just outside Glasgow and want for nothing, save a baby of their own. Through a chance encounter they meet Kaya, an 18-year-old from the other side of the city, whose life is as precarious as theirs is comfortable. When Kaya agrees to carry their baby, it feels like they were meant to meet, but was it really by chance?",
-      "releaseInfo": "2020",
-      "genres": [
-        "Drama",
         "Mystery"
       ]
     },
@@ -686,11 +687,11 @@
       "name": "Beautiful People",
       "poster": "https://image.tmdb.org/t/p/w342/ozpWM6aLMkHyCtChl7Esnxpyzu5.jpg",
       "background": "https://image.tmdb.org/t/p/w780/fG4AhxyUOMjhZljb3CpAWmTweEX.jpg",
-      "description": "Beautiful People is a British comedy drama television series based on the memoirs of Barneys creative director Simon Doonan. The series takes place in Reading, Berkshire, in 1997, where thirteen-year-old Simon Doonan and his best friend Kylie dream of escaping their dreary suburban surroundings and moving to cosmopolitan London \"to live amongst the beautiful people.\" The first episode aired on BBC Two on 2 October 2008 and recorded overnight ratings of 1.5 million viewers and positive critical reaction. Episodes are self-contained, but do follow a loose story arc throughout the course of each series. The second and final series finished airing on 18 December 2009.",
+      "description": "In 1997 Reading, 13-year-old Simon Doonan and his best friend Kylie dream of escaping their dreary suburban surroundings and moving to cosmopolitan London 'to live amongst the beautiful people'.",
       "releaseInfo": "2008",
       "genres": [
-        "Drama",
-        "Comedy"
+        "Comedy",
+        "Drama"
       ]
     },
     {
@@ -727,6 +728,32 @@
       "releaseInfo": "2022",
       "genres": [
         "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt2222352",
+      "type": "series",
+      "name": "Cuckoo",
+      "poster": "https://image.tmdb.org/t/p/w342/eFBfQIouobewXiw5g1fWwwNt7t0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fx3ee9lS4LbHOBu8Vk0I7BKH3Bx.jpg",
+      "description": "Cuckoo is every parent's worst nightmare - a slacker full of outlandish, New Age ideas. Ken is the over-protective father of a girl who's impulsively married an American hippie on her gap year.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt11285548",
+      "type": "series",
+      "name": "Bloodlands",
+      "poster": "https://image.tmdb.org/t/p/w342/6zswKnKs9AMXNaSZHU66UM9tuUQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/nTxAL1zAsf1G7SmlQ0GRbOXObQn.jpg",
+      "description": "Northern Irish police officer DCI Tom Brannick connects a suicide note with an infamous cold case with enormous personal significance.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Crime",
         "Drama"
       ]
     },
@@ -784,19 +811,6 @@
       ]
     },
     {
-      "id": "tt11285548",
-      "type": "series",
-      "name": "Bloodlands",
-      "poster": "https://image.tmdb.org/t/p/w342/6zswKnKs9AMXNaSZHU66UM9tuUQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nTxAL1zAsf1G7SmlQ0GRbOXObQn.jpg",
-      "description": "Northern Irish police officer DCI Tom Brannick connects a suicide note with an infamous cold case with enormous personal significance.",
-      "releaseInfo": "2021",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt8001036",
       "type": "series",
       "name": "The Trial of Christine Keeler",
@@ -817,31 +831,6 @@
       "background": "https://image.tmdb.org/t/p/w780/63HKYVTrAcawwaL5qMEjwuzmaGC.jpg",
       "description": "Set during the final days of slavery in 19th century Jamaica, we follow the trials, tribulations and survival of plantation slave July and her odious mistress Caroline.",
       "releaseInfo": "2018",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt7161312",
-      "type": "series",
-      "name": "Informer",
-      "poster": "https://image.tmdb.org/t/p/w342/aTRB6WPUOCKQ3Lv5jAeHx5TgmcU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tbxdFYVh3VtxxOuDR5VMO0upRjQ.jpg",
-      "description": "Raza, a young second-generation British-Pakistani man from London is coerced by Gabe, a counterterrorism officer, into informing.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt6708260",
-      "type": "series",
-      "name": "Trust Me",
-      "poster": "https://image.tmdb.org/t/p/w342/3qBsumuVl2lAxYm95Svt0Y9AhYG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/l1NpWOEVp9zssy6DtugZjbufA8E.jpg",
-      "description": "A series of gripping thrillers that expose the dark side of the people we trust to care for us - doctors.",
-      "releaseInfo": "2017",
       "genres": [
         "Drama"
       ]
@@ -905,19 +894,6 @@
       "description": "An explosive 1930s drama following a jazz band in London at a time of huge change.",
       "releaseInfo": "2013",
       "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt2222352",
-      "type": "series",
-      "name": "Cuckoo",
-      "poster": "https://image.tmdb.org/t/p/w342/eFBfQIouobewXiw5g1fWwwNt7t0.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fx3ee9lS4LbHOBu8Vk0I7BKH3Bx.jpg",
-      "description": "Cuckoo is every parent's worst nightmare - a slacker full of outlandish, New Age ideas. Ken is the over-protective father of a girl who's impulsively married an American hippie on her gap year.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Comedy",
         "Drama"
       ]
     },
@@ -1004,6 +980,43 @@
       ]
     },
     {
+      "id": "tt6708260",
+      "type": "series",
+      "name": "Trust Me",
+      "poster": "https://image.tmdb.org/t/p/w342/3qBsumuVl2lAxYm95Svt0Y9AhYG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/l1NpWOEVp9zssy6DtugZjbufA8E.jpg",
+      "description": "A series of gripping thrillers that expose the dark side of the people we trust to care for us - doctors.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt7161312",
+      "type": "series",
+      "name": "Informer",
+      "poster": "https://image.tmdb.org/t/p/w342/aTRB6WPUOCKQ3Lv5jAeHx5TgmcU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tbxdFYVh3VtxxOuDR5VMO0upRjQ.jpg",
+      "description": "Raza, a young second-generation British-Pakistani man from London is coerced by Gabe, a counterterrorism officer, into informing.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt10714820",
+      "type": "series",
+      "name": "Best Interests",
+      "poster": "https://image.tmdb.org/t/p/w342/rfnqo6uEMAS5Keimidq1VZ5i5be.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/zrdoqiQjl0EaYXIXWWvN6rOZFl0.jpg",
+      "description": "Marnie has a life-threatening condition. The doctors believe it is in her best interests to be allowed to die, but her loving family disagree. And so begins a fight that will take them through every stage of a legal process, as they struggle to contemplate this huge decision. Who decides? And in whose best interests will it be?",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt8001226",
       "type": "series",
       "name": "The War of the Worlds",
@@ -1045,32 +1058,6 @@
       ]
     },
     {
-      "id": "tt28775005",
-      "type": "series",
-      "name": "The Jetty",
-      "poster": "https://image.tmdb.org/t/p/w342/8NFkGx0L6tobGOeoHohO6ycXt6G.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/e6B2PN4iAtqXwSbguBEFY9lRwNO.jpg",
-      "description": "Beneath the tranquillity of her home town, a detective uncovers dark secrets that threaten everything she thought she knew about consent – and her own life.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tt29402557",
-      "type": "series",
-      "name": "Blackshore",
-      "poster": "https://image.tmdb.org/t/p/w342/wK8yhGy6aAbBeqCgv4GHzf5REiy.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/5gTNAG5DiRSO3XtV6tS96ukqxcm.jpg",
-      "description": "A police detective returns to her hometown and becomes involved in a missing person case, which is linked to her traumatic past and the town's dark history.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt14466446",
       "type": "series",
       "name": "Domino Day",
@@ -1082,18 +1069,6 @@
         "Drama",
         "Sci-Fi",
         "Fantasy"
-      ]
-    },
-    {
-      "id": "tt10714820",
-      "type": "series",
-      "name": "Best Interests",
-      "poster": "https://image.tmdb.org/t/p/w342/rfnqo6uEMAS5Keimidq1VZ5i5be.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/zrdoqiQjl0EaYXIXWWvN6rOZFl0.jpg",
-      "description": "Marnie has a life-threatening condition. The doctors believe it is in her best interests to be allowed to die, but her loving family disagree. And so begins a fight that will take them through every stage of a legal process, as they struggle to contemplate this huge decision. Who decides? And in whose best interests will it be?",
-      "releaseInfo": "2023",
-      "genres": [
-        "Drama"
       ]
     },
     {
@@ -1119,19 +1094,6 @@
       "releaseInfo": "2022",
       "genres": [
         "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt7428760",
-      "type": "series",
-      "name": "Four Lives",
-      "poster": "https://image.tmdb.org/t/p/w342/yZK3uB5btwimbgJVFzVo4BOLibX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8czYJyiEF3VORaZkctFuju1had2.jpg",
-      "description": "The true story of the courageous families of four young gay men who lost their lives to killer Stephen Port. Facing police failings, they fought for justice for their loved ones.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Crime",
         "Drama"
       ]
     },
@@ -1247,6 +1209,31 @@
       ]
     },
     {
+      "id": "tt28775005",
+      "type": "series",
+      "name": "The Jetty",
+      "poster": "https://image.tmdb.org/t/p/w342/8NFkGx0L6tobGOeoHohO6ycXt6G.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/e6B2PN4iAtqXwSbguBEFY9lRwNO.jpg",
+      "description": "Beneath the tranquillity of her home town, a detective uncovers dark secrets that threaten everything she thought she knew about consent – and her own life.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tt21096438",
+      "type": "series",
+      "name": "Miss Austen",
+      "poster": "https://image.tmdb.org/t/p/w342/vRzs71MV8RgL1nyswSSklQpkLkH.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iKWGJvafghmJM6Z3rpI9Jtmq4kg.jpg",
+      "description": "Miss Austen takes a literary mystery – Cassandra Austen notoriously burning her famous sister Jane’s letters – and reimagines it as a fascinating, witty and heart-breaking story of sisterly love, while creating in Cassandra a character as captivating as any Austen heroine.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0481459",
       "type": "series",
       "name": "The Virgin Queen",
@@ -1258,6 +1245,32 @@
       ]
     },
     {
+      "id": "tt7428760",
+      "type": "series",
+      "name": "Four Lives",
+      "poster": "https://image.tmdb.org/t/p/w342/yZK3uB5btwimbgJVFzVo4BOLibX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8czYJyiEF3VORaZkctFuju1had2.jpg",
+      "description": "The true story of the courageous families of four young gay men who lost their lives to killer Stephen Port. Facing police failings, they fought for justice for their loved ones.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt29402557",
+      "type": "series",
+      "name": "Blackshore",
+      "poster": "https://image.tmdb.org/t/p/w342/wK8yhGy6aAbBeqCgv4GHzf5REiy.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5gTNAG5DiRSO3XtV6tS96ukqxcm.jpg",
+      "description": "A police detective returns to her hometown and becomes involved in a missing person case, which is linked to her traumatic past and the town's dark history.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt23805744",
       "type": "series",
       "name": "This Town",
@@ -1265,18 +1278,6 @@
       "background": "https://image.tmdb.org/t/p/w780/pKIh0q0lzdesrsUTmB2vxVbWKwF.jpg",
       "description": "An extended family and four young people are drawn into the world of ska and two-tone music, which exploded from the grass roots of Coventry and Birmingham in the late ‘70s and early ‘80s, uniting black, white and Asian youths.",
       "releaseInfo": "2024",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt21096438",
-      "type": "series",
-      "name": "Miss Austen",
-      "poster": "https://image.tmdb.org/t/p/w342/vRzs71MV8RgL1nyswSSklQpkLkH.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iKWGJvafghmJM6Z3rpI9Jtmq4kg.jpg",
-      "description": "Miss Austen takes a literary mystery – Cassandra Austen notoriously burning her famous sister Jane’s letters – and reimagines it as a fascinating, witty and heart-breaking story of sisterly love, while creating in Cassandra a character as captivating as any Austen heroine.",
-      "releaseInfo": "2025",
       "genres": [
         "Drama"
       ]

@@ -20,9 +20,9 @@
       "id": "tt0200659",
       "type": "movie",
       "name": "Ghostwatch",
-      "poster": "https://image.tmdb.org/t/p/w342/h5nOIZbO3J7STIOZumW00BxU6DC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/amBBh5so2NUrUdWMFf6kWlQIAav.jpg",
       "background": "https://image.tmdb.org/t/p/w780/afh5uOZ3xrGRoaC2wxFOa88OIkd.jpg",
-      "description": "For Halloween 1992, the BBC broadcasts an investigation into the supernatural, hosted by TV chat-show legend Michael Parkinson. Parky (assisted by Mike Smith, Sarah Greene and Craig Charles) and a camera crew attempt to discover the truth behind the most haunted house in Britain. This groundbreaking live television experiment does not go as planned, however.",
+      "description": "On Halloween 1992, the BBC broadcasts an investigation into the supernatural, hosted by TV chat-show legend Michael Parkinson. Parky (assisted by Mike Smith, Sarah Greene and Craig Charles) and a camera crew attempt to discover the truth behind the most haunted house in Britain. This groundbreaking live television experiment does not go as planned, however.",
       "releaseInfo": "1992",
       "genres": [
         "Horror",
@@ -81,6 +81,19 @@
       ]
     },
     {
+      "id": "tt0189998",
+      "type": "movie",
+      "name": "Shadow of the Vampire",
+      "poster": "https://image.tmdb.org/t/p/w342/nWm7DWi8X4D87XkM5qr9BhTJHq6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cKKhk85c1TZSYy6ZF94QpUH8bRw.jpg",
+      "description": "Director F.W. Murnau makes a Faustian pact with a vampire to get him to star in his 1922 film \"Nosferatu.\"",
+      "releaseInfo": "2000",
+      "genres": [
+        "Drama",
+        "Horror"
+      ]
+    },
+    {
       "id": "tt0100469",
       "type": "movie",
       "name": "The Reflecting Skin",
@@ -91,19 +104,6 @@
       "genres": [
         "Drama",
         "Thriller",
-        "Horror"
-      ]
-    },
-    {
-      "id": "tt0189998",
-      "type": "movie",
-      "name": "Shadow of the Vampire",
-      "poster": "https://image.tmdb.org/t/p/w342/nWm7DWi8X4D87XkM5qr9BhTJHq6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/cKKhk85c1TZSYy6ZF94QpUH8bRw.jpg",
-      "description": "Director F.W. Murnau makes a Faustian pact with a vampire to get him to star in his 1922 film \"Nosferatu.\"",
-      "releaseInfo": "2000",
-      "genres": [
-        "Drama",
         "Horror"
       ]
     },
@@ -148,20 +148,6 @@
       ]
     },
     {
-      "id": "tt1687901",
-      "type": "movie",
-      "name": "The Awakening",
-      "poster": "https://image.tmdb.org/t/p/w342/txmiJkl8su0jkEABLIHZBqVHrTj.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/1Rw3KOjmKY4QrJ9MKugIo3F5FjO.jpg",
-      "description": "In post–War England, a writer and sometime-ghost hunter investigates a reported haunting at a boys boarding school.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt0479760",
       "type": "movie",
       "name": "Sweeney Todd",
@@ -176,17 +162,17 @@
       ]
     },
     {
-      "id": "tt2183152",
+      "id": "tt1687901",
       "type": "movie",
-      "name": "The Lady Vanishes",
-      "poster": "https://image.tmdb.org/t/p/w342/AuLuO1pEy8yAYTIROv0uH6cuXa9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/43oduu4qhXLkpRk0SVRP0FcWvFA.jpg",
-      "description": "Young socialite Iris Carr befriends an older woman while traveling solo by train. When Iris wakes from a nap, the woman is gone and other passengers claim she never existed.",
-      "releaseInfo": "2013",
+      "name": "The Awakening",
+      "poster": "https://image.tmdb.org/t/p/w342/txmiJkl8su0jkEABLIHZBqVHrTj.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/1Rw3KOjmKY4QrJ9MKugIo3F5FjO.jpg",
+      "description": "In post–War England, a writer and sometime-ghost hunter investigates a reported haunting at a boys boarding school.",
+      "releaseInfo": "2011",
       "genres": [
+        "Horror",
         "Thriller",
-        "Mystery",
-        "Horror"
+        "Mystery"
       ]
     },
     {
