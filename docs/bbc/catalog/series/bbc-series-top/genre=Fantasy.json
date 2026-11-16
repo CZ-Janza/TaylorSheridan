@@ -75,21 +75,6 @@
       ]
     },
     {
-      "id": "tt2321596",
-      "type": "series",
-      "name": "Wolfblood",
-      "poster": "https://image.tmdb.org/t/p/w342/rYFKm38ClVGVe6Bj3RUYf67Vc9E.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sC9OILuFOlZon1XQFrSDBUlGLkI.jpg",
-      "description": "Being a teenager is hard enough. Being a Wolfblood teenager is ten times more complicated. 14 year old Maddy loves her abilities - heightened senses, being faster, stronger and more graceful - but hates the secrets that come with them.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
       "id": "tt0876219",
       "type": "series",
       "name": "Young Dracula",
@@ -103,6 +88,21 @@
         "Comedy",
         "Sci-Fi",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tt2321596",
+      "type": "series",
+      "name": "Wolfblood",
+      "poster": "https://image.tmdb.org/t/p/w342/rYFKm38ClVGVe6Bj3RUYf67Vc9E.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sC9OILuFOlZon1XQFrSDBUlGLkI.jpg",
+      "description": "Being a teenager is hard enough. Being a Wolfblood teenager is ten times more complicated. 14 year old Maddy loves her abilities - heightened senses, being faster, stronger and more graceful - but hates the secrets that come with them.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -150,6 +150,22 @@
       ]
     },
     {
+      "id": "tt1199099",
+      "type": "series",
+      "name": "Merlin",
+      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
+      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
       "id": "tt2234222",
       "type": "series",
       "name": "Orphan Black",
@@ -180,34 +196,19 @@
       ]
     },
     {
-      "id": "tt1199099",
+      "id": "tt0478942",
       "type": "series",
-      "name": "Merlin",
-      "poster": "https://image.tmdb.org/t/p/w342/8eR5Jg7CxsuCOEBU5wW0opObxpi.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tt1fr3oW9MDDCHNJWyBpf2VbsO2.jpg",
-      "description": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
-      "releaseInfo": "2008",
+      "name": "Life on Mars",
+      "poster": "https://image.tmdb.org/t/p/w342/eoZzXx2DW8XeaIS8iYs0ePxH3DG.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/tlN8MGKlGZmJqYpwoqCB5YwLqBx.jpg",
+      "description": "A detective chief inspector from 2006 is investigating a serial killer when he is knocked over by a speeding car. Waking up, he finds himself mysteriously transported back in time to 1973. Initially struggling to come to terms with his situation, he has to come to terms with the old-fashioned technology and attitude of the day, while figuring out how he came to be trapped in the past.",
+      "releaseInfo": "2006",
       "genres": [
-        "Action",
-        "Adventure",
+        "Crime",
         "Drama",
+        "Mystery",
         "Sci-Fi",
         "Fantasy"
-      ]
-    },
-    {
-      "id": "tt4047038",
-      "type": "series",
-      "name": "Dirk Gently's Holistic Detective Agency",
-      "poster": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
-      "description": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Comedy",
-        "Sci-Fi",
-        "Fantasy",
-        "Crime"
       ]
     },
     {
@@ -228,19 +229,18 @@
       ]
     },
     {
-      "id": "tt0478942",
+      "id": "tt4047038",
       "type": "series",
-      "name": "Life on Mars",
-      "poster": "https://image.tmdb.org/t/p/w342/eoZzXx2DW8XeaIS8iYs0ePxH3DG.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/tlN8MGKlGZmJqYpwoqCB5YwLqBx.jpg",
-      "description": "A detective chief inspector from 2006 is investigating a serial killer when he is knocked over by a speeding car. Waking up, he finds himself mysteriously transported back in time to 1973. Initially struggling to come to terms with his situation, he has to come to terms with the old-fashioned technology and attitude of the day, while figuring out how he came to be trapped in the past.",
-      "releaseInfo": "2006",
+      "name": "Dirk Gently's Holistic Detective Agency",
+      "poster": "https://image.tmdb.org/t/p/w342/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ey9RcQXlp8hm0o7fFQfFza3JB5F.jpg",
+      "description": "A comedic thriller that follows the bizarre adventures of eccentric “holistic” detective Dirk Gently and his reluctant assistant Todd. An adaptation of Douglas Adams’ wildly successful comic novels.",
+      "releaseInfo": "2016",
       "genres": [
-        "Crime",
-        "Drama",
-        "Mystery",
+        "Comedy",
         "Sci-Fi",
-        "Fantasy"
+        "Fantasy",
+        "Crime"
       ]
     },
     {
@@ -260,20 +260,6 @@
       ]
     },
     {
-      "id": "tt30645193",
-      "type": "series",
-      "name": "The War Between the Land and the Sea",
-      "poster": "https://image.tmdb.org/t/p/w342/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
-      "description": "When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0416394",
       "type": "series",
       "name": "The Mighty Boosh",
@@ -285,6 +271,20 @@
         "Comedy",
         "Sci-Fi",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tt30645193",
+      "type": "series",
+      "name": "The War Between the Land and the Sea",
+      "poster": "https://image.tmdb.org/t/p/w342/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
+      "description": "When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
       ]
     },
     {
@@ -366,6 +366,20 @@
       ]
     },
     {
+      "id": "tt5194792",
+      "type": "series",
+      "name": "NOS4A2",
+      "poster": "https://image.tmdb.org/t/p/w342/gnosVTTRTCqooJuipwU6C0bgOGf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/enRS7bE43q7VmurYqlyroOeZLGa.jpg",
+      "description": "A young Victoria \"Vic\" McQueen discovers she has the power to unlock portals that help her find lost objects. As she delves further into this hidden universe, she encounters many other \"inscape travelers\" - some benevolent, and some who have been corrupted by their power. When Vic encounters Charlie Manx, an immortal who stays that way by feeding off of the souls of children, she makes a sworn enemy of Manx.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0485301",
       "type": "series",
       "name": "Torchwood",
@@ -411,20 +425,6 @@
       ]
     },
     {
-      "id": "tt5194792",
-      "type": "series",
-      "name": "NOS4A2",
-      "poster": "https://image.tmdb.org/t/p/w342/gnosVTTRTCqooJuipwU6C0bgOGf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/enRS7bE43q7VmurYqlyroOeZLGa.jpg",
-      "description": "A young Victoria \"Vic\" McQueen discovers she has the power to unlock portals that help her find lost objects. As she delves further into this hidden universe, she encounters many other \"inscape travelers\" - some benevolent, and some who have been corrupted by their power. When Vic encounters Charlie Manx, an immortal who stays that way by feeding off of the souls of children, she makes a sworn enemy of Manx.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt7573024",
       "type": "series",
       "name": "Creeped Out",
@@ -433,21 +433,6 @@
       "description": "A masked figure known as \"The Curious\" collects tales of dark magic, otherworldly encounters and twisted technology in this kids anthology series.",
       "releaseInfo": "2017",
       "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt14644726",
-      "type": "series",
-      "name": "Silverpoint",
-      "poster": "https://image.tmdb.org/t/p/w342/i5iY5D0qtZDIaHy6JSdbUHU8jzf.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/x559sLIPU9NiLWkAzW4PftCagAJ.jpg",
-      "description": "The series follows a group of kids at an adventure camp who discover a strange artefact, while also drawn to the fate of four children who mysteriously disappeared twenty years ago.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Family",
         "Sci-Fi",
         "Fantasy",
         "Mystery"
@@ -465,6 +450,21 @@
         "Drama",
         "Sci-Fi",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tt14644726",
+      "type": "series",
+      "name": "Silverpoint",
+      "poster": "https://image.tmdb.org/t/p/w342/i5iY5D0qtZDIaHy6JSdbUHU8jzf.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x559sLIPU9NiLWkAzW4PftCagAJ.jpg",
+      "description": "The series follows a group of kids at an adventure camp who discover a strange artefact, while also drawn to the fate of four children who mysteriously disappeared twenty years ago.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Family",
+        "Sci-Fi",
+        "Fantasy",
+        "Mystery"
       ]
     },
     {

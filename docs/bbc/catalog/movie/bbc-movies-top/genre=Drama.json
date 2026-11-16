@@ -99,6 +99,20 @@
       ]
     },
     {
+      "id": "tt0914798",
+      "type": "movie",
+      "name": "The Boy in the Striped Pyjamas",
+      "poster": "https://image.tmdb.org/t/p/w342/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/6aRuABAdhuuDypLGscM7HoEWHx4.jpg",
+      "description": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama",
+        "War",
+        "History"
+      ]
+    },
+    {
       "id": "tt5284492",
       "type": "movie",
       "name": "Sherlock: The Abominable Bride",
@@ -111,20 +125,6 @@
         "Drama",
         "Mystery",
         "Thriller"
-      ]
-    },
-    {
-      "id": "tt0914798",
-      "type": "movie",
-      "name": "The Boy in the Striped Pyjamas",
-      "poster": "https://image.tmdb.org/t/p/w342/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/6aRuABAdhuuDypLGscM7HoEWHx4.jpg",
-      "description": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Drama",
-        "War",
-        "History"
       ]
     },
     {
@@ -170,18 +170,6 @@
       ]
     },
     {
-      "id": "tt5168192",
-      "type": "movie",
-      "name": "I, Daniel Blake",
-      "poster": "https://image.tmdb.org/t/p/w342/nu3WVABXz2W85N6JXTZOT1aWS3b.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/mNLonkdD4MtaZnHTifp8be8nJrm.jpg",
-      "description": "A 59-year-old carpenter recovering from a heart attack befriends a single mother and her two kids as they navigate the impersonal, Kafkaesque benefits system. With equal amounts of humour, warmth and despair, the journey is heartfelt and emotional until the end.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt2663812",
       "type": "movie",
       "name": "An Adventure in Space and Time",
@@ -189,6 +177,18 @@
       "background": "https://image.tmdb.org/t/p/w780/7MOM46t74L9oR9CiUp501R9u1c0.jpg",
       "description": "Actor William Hartnell felt trapped by a succession of hard-man roles while wannabe producer Verity Lambert was frustrated by the TV industry's glass ceiling. Both of them were to find unlikely hope and unexpected challenges in the form of a Saturday tea-time drama. Allied with a team of unusual but brilliant people, they went on to create the longest running science fiction series ever made.",
       "releaseInfo": "2013",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt5168192",
+      "type": "movie",
+      "name": "I, Daniel Blake",
+      "poster": "https://image.tmdb.org/t/p/w342/nu3WVABXz2W85N6JXTZOT1aWS3b.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/mNLonkdD4MtaZnHTifp8be8nJrm.jpg",
+      "description": "A 59-year-old carpenter recovering from a heart attack befriends a single mother and her two kids as they navigate the impersonal, Kafkaesque benefits system. With equal amounts of humour, warmth and despair, the journey is heartfelt and emotional until the end.",
+      "releaseInfo": "2016",
       "genres": [
         "Drama"
       ]
@@ -219,20 +219,6 @@
       ]
     },
     {
-      "id": "tt29271622",
-      "type": "movie",
-      "name": "Palestine 36",
-      "poster": "https://image.tmdb.org/t/p/w342/hHWSjo6DYDAEUDfA7JXCS4nhjmT.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xLcPsJ7lZ4pVHJiAgMvDwmm4v0r.jpg",
-      "description": "Year 1936. As villages across Palestine rise against British colonial rule, Yusuf drifts between his rural home and the restless energy of Jerusalem, longing for a future beyond the growing unrest. But history is relentless. With rising numbers of Jewish immigrants escaping antisemitism in Europe and some arriving with nefarious Zionist-colonial ambitions, and the Palestinian population uniting in the largest and longest uprising against Britain’s 30-year dominion, all sides spiral towards inevitable collision in a decisive moment for the British Empire and the future of the entire region.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Drama",
-        "History",
-        "War"
-      ]
-    },
-    {
       "id": "tt0249462",
       "type": "movie",
       "name": "Billy Elliot",
@@ -247,6 +233,34 @@
       ]
     },
     {
+      "id": "tt29271622",
+      "type": "movie",
+      "name": "Palestine 36",
+      "poster": "https://image.tmdb.org/t/p/w342/hHWSjo6DYDAEUDfA7JXCS4nhjmT.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xLcPsJ7lZ4pVHJiAgMvDwmm4v0r.jpg",
+      "description": "Year 1936. As villages across Palestine rise against British colonial rule, Yusuf drifts between his rural home and the restless energy of Jerusalem, longing for a future beyond the growing unrest. But history is relentless. With rising numbers of Jewish immigrants escaping antisemitism in Europe and some arriving with nefarious Zionist-colonial ambitions, and the Palestinian population uniting in the largest and longest uprising against Britain’s 30-year dominion, all sides spiral towards inevitable collision in a decisive moment for the British Empire and the future of the entire region.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ]
+    },
+    {
+      "id": "tt0090163",
+      "type": "movie",
+      "name": "Threads",
+      "poster": "https://image.tmdb.org/t/p/w342/qOwJDktKNt6SPZBbp3x42dgikvC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/hA5A3srsuVmKe5tR4UePS2ZPaDw.jpg",
+      "description": "Documentary style account of a nuclear holocaust and its effect on the working class city of Sheffield, England; and the eventual long run effects of nuclear war on civilization.",
+      "releaseInfo": "1984",
+      "genres": [
+        "War",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
       "id": "tt0421994",
       "type": "movie",
       "name": "Imagine Me & You",
@@ -258,20 +272,6 @@
         "Drama",
         "Comedy",
         "Romance"
-      ]
-    },
-    {
-      "id": "tt0090163",
-      "type": "movie",
-      "name": "Threads",
-      "poster": "https://image.tmdb.org/t/p/w342/qOwJDktKNt6SPZBbp3x42dgikvC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/eqvjReLO7Jg6cstBVEQA4xv8cro.jpg",
-      "description": "Documentary style account of a nuclear holocaust and its effect on the working class city of Sheffield, England; and the eventual long run effects of nuclear war on civilization.",
-      "releaseInfo": "1984",
-      "genres": [
-        "War",
-        "Drama",
-        "Sci-Fi"
       ]
     },
     {
@@ -304,6 +304,19 @@
       ]
     },
     {
+      "id": "tt1242460",
+      "type": "movie",
+      "name": "We Need to Talk About Kevin",
+      "poster": "https://image.tmdb.org/t/p/w342/AtdYbs1SqYwFOLyi2v6ldVTawbn.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/k7lwdrpZ92BDahx6TLdkPE65cpJ.jpg",
+      "description": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt21064584",
       "type": "movie",
       "name": "The Iron Claw",
@@ -314,19 +327,6 @@
       "genres": [
         "Drama",
         "History"
-      ]
-    },
-    {
-      "id": "tt32083311",
-      "type": "movie",
-      "name": "On Becoming a Guinea Fowl",
-      "poster": "https://image.tmdb.org/t/p/w342/6lMOpD8XVLKaB5uCsJXt1Fo7XNh.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/f2sHokGVEOcJI1Fkgdf21XYhok.jpg",
-      "description": "On an empty road in the middle of the night, Shula stumbles across the body of her uncle. As funeral proceedings begin around them, she and her cousins bring to light the buried secrets of their middle-class Zambian family.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Comedy",
-        "Drama"
       ]
     },
     {
@@ -345,19 +345,6 @@
       ]
     },
     {
-      "id": "tt1242460",
-      "type": "movie",
-      "name": "We Need to Talk About Kevin",
-      "poster": "https://image.tmdb.org/t/p/w342/AtdYbs1SqYwFOLyi2v6ldVTawbn.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/k7lwdrpZ92BDahx6TLdkPE65cpJ.jpg",
-      "description": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt0420901",
       "type": "movie",
       "name": "Shooting Dogs",
@@ -368,6 +355,19 @@
       "genres": [
         "Drama",
         "History"
+      ]
+    },
+    {
+      "id": "tt32083311",
+      "type": "movie",
+      "name": "On Becoming a Guinea Fowl",
+      "poster": "https://image.tmdb.org/t/p/w342/6lMOpD8XVLKaB5uCsJXt1Fo7XNh.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/f2sHokGVEOcJI1Fkgdf21XYhok.jpg",
+      "description": "On an empty road in the middle of the night, Shula stumbles across the body of her uncle. As funeral proceedings begin around them, she and her cousins bring to light the buried secrets of their middle-class Zambian family.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comedy",
+        "Drama"
       ]
     },
     {
@@ -392,19 +392,6 @@
       "releaseInfo": "1977",
       "genres": [
         "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0104882",
-      "type": "movie",
-      "name": "Miss Marple: The Mirror Crack'd from Side to Side",
-      "poster": "https://image.tmdb.org/t/p/w342/jmxqf5dDkTEq0YtRsY5Ti55352h.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8GWdj2JTmUmHuuUXp30WyEmo5hJ.jpg",
-      "description": "A town busybody is poisoned at a busy reception in the home of famous film star Marina Gregg. The poisoned drink seemed intended for Marina, but Miss Marple is not so sure. She sets out to discover the true identity of the killer before he or she can strike again.",
-      "releaseInfo": "1992",
-      "genres": [
-        "Crime",
         "Drama"
       ]
     },
@@ -436,18 +423,28 @@
       ]
     },
     {
-      "id": "tt4271918",
+      "id": "tt0853153",
       "type": "movie",
-      "name": "An Inspector Calls",
-      "poster": "https://image.tmdb.org/t/p/w342/qZLDqf9poquJwY5uY6ZWK1yqsSb.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/x7i70dfvEXuV6o7nN9J8P4KCM6K.jpg",
-      "description": "Northern England, 1912. The dinner of a wealthy family is interrupted by Inspector Goole, who only announces that a young woman has committed suicide. Then, he simply asks everyone present, one by one, if they knew her.",
-      "releaseInfo": "2015",
+      "name": "Stuart: A Life Backwards",
+      "poster": "https://image.tmdb.org/t/p/w342/vpzjn5QQ9AFNoY6Lr7M8evFXK3l.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/rwTNWPrWC1OCane7eoOEEYPcAZM.jpg",
+      "description": "Story about the remarkable friendship between a reclusive writer and illustrator and a chaotic homeless man, whom he gets to know during a campaign to release two charity workers from prison.",
+      "releaseInfo": "2007",
       "genres": [
-        "Drama",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0104882",
+      "type": "movie",
+      "name": "Miss Marple: The Mirror Crack'd from Side to Side",
+      "poster": "https://image.tmdb.org/t/p/w342/jmxqf5dDkTEq0YtRsY5Ti55352h.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8GWdj2JTmUmHuuUXp30WyEmo5hJ.jpg",
+      "description": "A town busybody is poisoned at a busy reception in the home of famous film star Marina Gregg. The poisoned drink seemed intended for Marina, but Miss Marple is not so sure. She sets out to discover the true identity of the killer before he or she can strike again.",
+      "releaseInfo": "1992",
+      "genres": [
         "Crime",
-        "Thriller",
-        "Mystery"
+        "Drama"
       ]
     },
     {
@@ -480,18 +477,6 @@
       ]
     },
     {
-      "id": "tt0853153",
-      "type": "movie",
-      "name": "Stuart: A Life Backwards",
-      "poster": "https://image.tmdb.org/t/p/w342/vpzjn5QQ9AFNoY6Lr7M8evFXK3l.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/rwTNWPrWC1OCane7eoOEEYPcAZM.jpg",
-      "description": "Story about the remarkable friendship between a reclusive writer and illustrator and a chaotic homeless man, whom he gets to know during a campaign to release two charity workers from prison.",
-      "releaseInfo": "2007",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt4761112",
       "type": "movie",
       "name": "The Mauritanian",
@@ -502,6 +487,21 @@
       "genres": [
         "Drama",
         "Thriller"
+      ]
+    },
+    {
+      "id": "tt4271918",
+      "type": "movie",
+      "name": "An Inspector Calls",
+      "poster": "https://image.tmdb.org/t/p/w342/qZLDqf9poquJwY5uY6ZWK1yqsSb.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/x7i70dfvEXuV6o7nN9J8P4KCM6K.jpg",
+      "description": "Northern England, 1912. The dinner of a wealthy family is interrupted by Inspector Goole, who only announces that a young woman has committed suicide. Then, he simply asks everyone present, one by one, if they knew her.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Mystery"
       ]
     },
     {
@@ -582,46 +582,6 @@
       ]
     },
     {
-      "id": "tt1449175",
-      "type": "movie",
-      "name": "Hamlet",
-      "poster": "https://image.tmdb.org/t/p/w342/ykluFIkzQocbsZO1F4au8HV8naQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2IPOmxB7tBxXe1tkP3oR4Qbr40n.jpg",
-      "description": "David Tennant stars in a film of the Royal Shakespeare Company's award-winning production of Shakespeare's great play. Director Gregory Doran's modern-dress production was hailed by the critics as thrilling, fast-moving and, in parts, very funny.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0266425",
-      "type": "movie",
-      "name": "Conspiracy",
-      "poster": "https://image.tmdb.org/t/p/w342/77uU3sPxufJEgK5SmqeJIdHeNSU.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/iESnRGuIiXKeNo3pKMRaZStXyH6.jpg",
-      "description": "At the Wannsee Conference on January 20, 1942, senior Nazi officials meet to determine the manner in which the so-called \"Final Solution to the Jewish Question\" can be best implemented.",
-      "releaseInfo": "2001",
-      "genres": [
-        "History",
-        "Drama",
-        "War"
-      ]
-    },
-    {
-      "id": "tt0076147",
-      "type": "movie",
-      "name": "Hitler: A Film from Germany",
-      "poster": "https://image.tmdb.org/t/p/w342/hj0dsmyL8tKAGKOmfhFb49H3krV.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/8TEIuI8Tp4AGhCw48bCCT7x2dye.jpg",
-      "description": "A structure-free, four-part examination of the rise and fall of the Third Reich. Each part explores a different topic, from Hitler's cult of personality in propaganda to how said propaganda was associated with pre-Nazi German cultural, spiritual, and national heritage to the Holocaust and the ideology behind it, particularly from Himmler's point of view.",
-      "releaseInfo": "1977",
-      "genres": [
-        "Drama",
-        "History",
-        "War"
-      ]
-    },
-    {
       "id": "tt14473100",
       "type": "movie",
       "name": "Nineteen Eighty-Four",
@@ -632,6 +592,44 @@
       "genres": [
         "Drama",
         "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt2404425",
+      "type": "movie",
+      "name": "Woman in Gold",
+      "poster": "https://image.tmdb.org/t/p/w342/6eoj6bozvgwNuDV3vOrqlvrCrX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cKrWGcWHKcergHyDKxKGbgcUsMm.jpg",
+      "description": "Maria Altmann, an octogenarian Jewish refugee, takes on the government to recover artwork she believes rightfully belongs to her family.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0076147",
+      "type": "movie",
+      "name": "Hitler: A Film from Germany",
+      "poster": "https://image.tmdb.org/t/p/w342/hj0dsmyL8tKAGKOmfhFb49H3krV.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xVjri0vApvB9qOc2nhwCbzUjOqP.jpg",
+      "description": "A structure-free, four-part examination of the rise and fall of the Third Reich. Each part explores a different topic, from Hitler's cult of personality in propaganda to how said propaganda was associated with pre-Nazi German cultural, spiritual, and national heritage to the Holocaust and the ideology behind it, particularly from Himmler's point of view.",
+      "releaseInfo": "1977",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ]
+    },
+    {
+      "id": "tt1449175",
+      "type": "movie",
+      "name": "Hamlet",
+      "poster": "https://image.tmdb.org/t/p/w342/ykluFIkzQocbsZO1F4au8HV8naQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2IPOmxB7tBxXe1tkP3oR4Qbr40n.jpg",
+      "description": "David Tennant stars in a film of the Royal Shakespeare Company's award-winning production of Shakespeare's great play. Director Gregory Doran's modern-dress production was hailed by the critics as thrilling, fast-moving and, in parts, very funny.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -649,6 +647,20 @@
       ]
     },
     {
+      "id": "tt0266425",
+      "type": "movie",
+      "name": "Conspiracy",
+      "poster": "https://image.tmdb.org/t/p/w342/77uU3sPxufJEgK5SmqeJIdHeNSU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/iESnRGuIiXKeNo3pKMRaZStXyH6.jpg",
+      "description": "At the Wannsee Conference on January 20, 1942, senior Nazi officials meet to determine the manner in which the so-called \"Final Solution to the Jewish Question\" can be best implemented.",
+      "releaseInfo": "2001",
+      "genres": [
+        "History",
+        "Drama",
+        "War"
+      ]
+    },
+    {
       "id": "tt9285882",
       "type": "movie",
       "name": "Blue Story",
@@ -663,18 +675,6 @@
       ]
     },
     {
-      "id": "tt2404425",
-      "type": "movie",
-      "name": "Woman in Gold",
-      "poster": "https://image.tmdb.org/t/p/w342/6eoj6bozvgwNuDV3vOrqlvrCrX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/cKrWGcWHKcergHyDKxKGbgcUsMm.jpg",
-      "description": "Maria Altmann, an octogenarian Jewish refugee, takes on the government to recover artwork she believes rightfully belongs to her family.",
-      "releaseInfo": "2015",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt2421662",
       "type": "movie",
       "name": "The Challenger Disaster",
@@ -686,6 +686,19 @@
         "Thriller",
         "Drama",
         "History"
+      ]
+    },
+    {
+      "id": "tt7686464",
+      "type": "movie",
+      "name": "FX's A Christmas Carol",
+      "poster": "https://image.tmdb.org/t/p/w342/Aml2ZwT2Om8o0uLEx8w7jQF5Jzu.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/ubLsCmv36zUUt2zxhFSowYFe5uF.jpg",
+      "description": "London, 1843. Ebenezer Scrooge, a bitter old man, despises the Christmas holiday. Over the course of Christmas Eve night he is visited by three ghosts to show him his past, present and future.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drama",
+        "Fantasy"
       ]
     },
     {
@@ -716,19 +729,6 @@
       ]
     },
     {
-      "id": "tt7686464",
-      "type": "movie",
-      "name": "FX's A Christmas Carol",
-      "poster": "https://image.tmdb.org/t/p/w342/Aml2ZwT2Om8o0uLEx8w7jQF5Jzu.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/ubLsCmv36zUUt2zxhFSowYFe5uF.jpg",
-      "description": "London, 1843. Ebenezer Scrooge, a bitter old man, despises the Christmas holiday. Over the course of Christmas Eve night he is visited by three ghosts to show him his past, present and future.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tt35695538",
       "type": "movie",
       "name": "My Father's Shadow",
@@ -736,30 +736,6 @@
       "background": "https://image.tmdb.org/t/p/w780/AbxSu97NHWg3zXAPwoFnFzIo2VA.jpg",
       "description": "Two young brothers explore Lagos with their estranged father during the 1993 Nigerian election crisis, witnessing both the city's magnitude and their father's daily struggles as political unrest threatens their journey home.",
       "releaseInfo": "2025",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt28277817",
-      "type": "movie",
-      "name": "Bird",
-      "poster": "https://image.tmdb.org/t/p/w342/wKshd6n8EKrwbE2fLOUqC4TSG6O.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/wwtZN9fy6BaFguj6wGPV0ZtCLHD.jpg",
-      "description": "12-year-old Bailey lives with her single dad Bug and brother Hunter in a squat in North Kent. Bug doesn’t have much time for his kids, and Bailey, who is approaching puberty, seeks attention and adventure elsewhere.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt19883634",
-      "type": "movie",
-      "name": "The Old Oak",
-      "poster": "https://image.tmdb.org/t/p/w342/xN293BKB0MDqpILmLCtGGYxQXKW.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/H8YE8DDrnvr869RgCqLvhfcUFM.jpg",
-      "description": "A pub landlord in a previously thriving mining community struggles to hold onto his pub. Meanwhile, tensions rise in the town when Syrian refugees are placed in the empty houses in the community.",
-      "releaseInfo": "2023",
       "genres": [
         "Drama"
       ]
@@ -805,24 +781,11 @@
       ]
     },
     {
-      "id": "tt0114117",
-      "type": "movie",
-      "name": "Persuasion",
-      "poster": "https://image.tmdb.org/t/p/w342/10hycdhFLq3M3y0ONxIMSiY8Mrs.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/evCHYeumw4Y4hikG4AG9o5yZXUW.jpg",
-      "description": "In early 19th-century England, dire financial straits reacquaint the aristocratic Anne Elliot with her wealthy ex-fiance Frederick Wentworth. The two must choose between either putting the past behind them or listening to their hearts.",
-      "releaseInfo": "1995",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
       "id": "tt0106438",
       "type": "movie",
       "name": "Blue",
-      "poster": "https://image.tmdb.org/t/p/w342/6dcmkKOAcHGJJVKY04dNscAKpOM.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/nAUBENJ7KO7OBCY1LaPYpzJANJx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w342/wQffxzw30Ng8kZ0wJVTPUYRHqrm.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/zgLttzbyB1siyoFJ0TrtohjU539.jpg",
       "description": "Against a plain, unchanging blue screen, a densely interwoven soundtrack of voices, sound effects and music attempt to convey a portrait of Derek Jarman's experiences with AIDS, both literally and allegorically, together with an exploration of the meanings associated with the colour blue.",
       "releaseInfo": "1993",
       "genres": [
@@ -843,6 +806,18 @@
       ]
     },
     {
+      "id": "tt19883634",
+      "type": "movie",
+      "name": "The Old Oak",
+      "poster": "https://image.tmdb.org/t/p/w342/xN293BKB0MDqpILmLCtGGYxQXKW.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/H8YE8DDrnvr869RgCqLvhfcUFM.jpg",
+      "description": "A pub landlord in a previously thriving mining community struggles to hold onto his pub. Meanwhile, tensions rise in the town when Syrian refugees are placed in the empty houses in the community.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt15574124",
       "type": "movie",
       "name": "Peaky Blinders: The Immortal Man",
@@ -856,6 +831,31 @@
       ]
     },
     {
+      "id": "tt0114117",
+      "type": "movie",
+      "name": "Persuasion",
+      "poster": "https://image.tmdb.org/t/p/w342/10hycdhFLq3M3y0ONxIMSiY8Mrs.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/evCHYeumw4Y4hikG4AG9o5yZXUW.jpg",
+      "description": "In early 19th-century England, dire financial straits reacquaint the aristocratic Anne Elliot with her wealthy ex-fiance Frederick Wentworth. The two must choose between either putting the past behind them or listening to their hearts.",
+      "releaseInfo": "1995",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt28277817",
+      "type": "movie",
+      "name": "Bird",
+      "poster": "https://image.tmdb.org/t/p/w342/wKshd6n8EKrwbE2fLOUqC4TSG6O.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/wwtZN9fy6BaFguj6wGPV0ZtCLHD.jpg",
+      "description": "12-year-old Bailey lives with her single dad Bug and brother Hunter in a squat in North Kent. Bug doesn’t have much time for his kids, and Bailey, who is approaching puberty, seeks attention and adventure elsewhere.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0171685",
       "type": "movie",
       "name": "Ratcatcher",
@@ -863,18 +863,6 @@
       "background": "https://image.tmdb.org/t/p/w780/A5j7Q6ltJRYPZ3Wz2azcGZtwPem.jpg",
       "description": "James Gillespie is 12 years old. The world he knew is changing. Haunted by a secret, he has become a stranger in his own family. He is drawn to the canal where he creates a world of his own. He finds an awkward tenderness with Margaret Anne, a vulnerable 14 year old expressing a need for love in all the wrong ways, and befriends Kenny, who possesses an unusual innocence in spite of the harsh surroundings.",
       "releaseInfo": "1999",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt10692788",
-      "type": "movie",
-      "name": "After Love",
-      "poster": "https://image.tmdb.org/t/p/w342/mXaNg69iWEs0Qsj4AJxcvCXuWKw.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/xgxdY4puoffYlCrfSumQt9xULFR.jpg",
-      "description": "Set in the port town of Dover in the South-East of England, Mary Hussain suddenly finds herself a widow following the unexpected death of her husband. A day after the burial, she discovers he has a secret just twenty-one miles across the English Channel in Calais.",
-      "releaseInfo": "2021",
       "genres": [
         "Drama"
       ]
@@ -925,18 +913,6 @@
       "background": "https://image.tmdb.org/t/p/w780/czAZxsaAkx6yFXoKyWc02EcT0xK.jpg",
       "description": "In 1979 Clive Sinclair, British inventor of the pocket calculator, frustrated by the lack of home investment in his project,the electric car, also opposes former assistant Chris Curry's belief that he can successfully market a micro-chip for a home computer. A parting of the ways sees Curry, in partnership with the Austrian Hermann Hauser and using whizz kid Cambridge students, set up his own, rival firm to Sinclair Radionics, Acorn. Acorn beat Sinclair to a lucrative contract supplying the BBC with machines for a computer series. From here on it is a battle for supremacy to gain the upper hand in the domestic market.",
       "releaseInfo": "2009",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt0395571",
-      "type": "movie",
-      "name": "Hawking",
-      "poster": "https://image.tmdb.org/t/p/w342/zqQZ050fNDnKzRWTo6Q0iLdDLMs.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/gYekT5QeTM47iWT555JQrEbRNmv.jpg",
-      "description": "The story of Professor Stephen Hawking's early years. It is 1963, and our young cosmologist celebrates his 21st birthday. At the party is a new friend, Jane Wilde - there is a strong attraction between the two. Jane is intrigued by Stephen's talk of stars and the Universe. But she realises that there is something very wrong when Stephen suddenly finds that he is unable to stand up.",
-      "releaseInfo": "2004",
       "genres": [
         "Drama"
       ]
@@ -1011,6 +987,30 @@
       ]
     },
     {
+      "id": "tt10692788",
+      "type": "movie",
+      "name": "After Love",
+      "poster": "https://image.tmdb.org/t/p/w342/mXaNg69iWEs0Qsj4AJxcvCXuWKw.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/xgxdY4puoffYlCrfSumQt9xULFR.jpg",
+      "description": "Set in the port town of Dover in the South-East of England, Mary Hussain suddenly finds herself a widow following the unexpected death of her husband. A day after the burial, she discovers he has a secret just twenty-one miles across the English Channel in Calais.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0395571",
+      "type": "movie",
+      "name": "Hawking",
+      "poster": "https://image.tmdb.org/t/p/w342/zqQZ050fNDnKzRWTo6Q0iLdDLMs.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/gYekT5QeTM47iWT555JQrEbRNmv.jpg",
+      "description": "The story of Professor Stephen Hawking's early years. It is 1963, and our young cosmologist celebrates his 21st birthday. At the party is a new friend, Jane Wilde - there is a strong attraction between the two. Jane is intrigued by Stephen's talk of stars and the Universe. But she realises that there is something very wrong when Stephen suddenly finds that he is unable to stand up.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tt2935476",
       "type": "movie",
       "name": "Far from the Madding Crowd",
@@ -1037,18 +1037,6 @@
       ]
     },
     {
-      "id": "tt30766504",
-      "type": "movie",
-      "name": "On Falling",
-      "poster": "https://image.tmdb.org/t/p/w342/kBnNDABP0rIkXdxJV3OcyOlTLT3.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/3vvA1WuP4wVTmuyOKUhdJLzIUWc.jpg",
-      "description": "Aurora, a Portuguese migrant, works as an order picker in a warehouse in Edinburgh, Scotland. Caught between the walls of a huge distribution centre and the solitude of her own room, Aurora tries to seize every opportunity to resist the alienation and isolation that threaten her identity.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tt7322224",
       "type": "movie",
       "name": "Triangle of Sadness",
@@ -1071,19 +1059,6 @@
       "releaseInfo": "2019",
       "genres": [
         "Comedy",
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tt0959337",
-      "type": "movie",
-      "name": "Revolutionary Road",
-      "poster": "https://image.tmdb.org/t/p/w342/cvkD3yiVXLg3as8EAG3LaTycONQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/zmXMm9DI5qdPPPM92uShv8c2IBP.jpg",
-      "description": "A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children. Based on a novel by Richard Yates.",
-      "releaseInfo": "2008",
-      "genres": [
         "Drama",
         "Romance"
       ]
@@ -1144,19 +1119,6 @@
       ]
     },
     {
-      "id": "tt0217142",
-      "type": "movie",
-      "name": "A Warning to the Curious",
-      "poster": "https://image.tmdb.org/t/p/w342/k3le6NswckzmGYAa7vl3XiCLNSC.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7dLvII34af471uCYsI39se4WLjd.jpg",
-      "description": "Paxton, an amateur archeologist, travels to the town of Seaburgh and inadvertently stumbles across one of the lost crowns of Anglia, which, according to legend, protect the county from invasion. On digging the crown up, Paxton is stalked by its supernatural guardian.",
-      "releaseInfo": "1972",
-      "genres": [
-        "Horror",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt0059020",
       "type": "movie",
       "name": "Cathy Come Home",
@@ -1166,6 +1128,19 @@
       "releaseInfo": "1966",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "id": "tt0959337",
+      "type": "movie",
+      "name": "Revolutionary Road",
+      "poster": "https://image.tmdb.org/t/p/w342/cvkD3yiVXLg3as8EAG3LaTycONQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/zmXMm9DI5qdPPPM92uShv8c2IBP.jpg",
+      "description": "A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children. Based on a novel by Richard Yates.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drama",
+        "Romance"
       ]
     },
     {
@@ -1179,20 +1154,6 @@
       "genres": [
         "Drama",
         "History",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tt0107616",
-      "type": "movie",
-      "name": "Much Ado About Nothing",
-      "poster": "https://image.tmdb.org/t/p/w342/tvltGP6vYOkHdURag0jPSjhPUAV.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/dktr46Mbdr2DpHmqe5ruUmiu6qN.jpg",
-      "description": "In this Shakespearean farce, Hero and her groom-to-be, Claudio, team up with Claudio's commanding officer, Don Pedro, the week before their wedding to hatch a matchmaking scheme. Their targets are sharp-witted duo Benedick and Beatrice -- a tough task indeed, considering their corresponding distaste for love and each other. Meanwhile, meddling Don John plots to ruin the wedding.",
-      "releaseInfo": "1993",
-      "genres": [
-        "Drama",
-        "Comedy",
         "Romance"
       ]
     },
@@ -1222,6 +1183,19 @@
       ]
     },
     {
+      "id": "tt0217142",
+      "type": "movie",
+      "name": "A Warning to the Curious",
+      "poster": "https://image.tmdb.org/t/p/w342/k3le6NswckzmGYAa7vl3XiCLNSC.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/7dLvII34af471uCYsI39se4WLjd.jpg",
+      "description": "Paxton, an amateur archeologist, travels to the town of Seaburgh and inadvertently stumbles across one of the lost crowns of Anglia, which, according to legend, protect the county from invasion. On digging the crown up, Paxton is stalked by its supernatural guardian.",
+      "releaseInfo": "1972",
+      "genres": [
+        "Horror",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt0120684",
       "type": "movie",
       "name": "Gods and Monsters",
@@ -1234,17 +1208,15 @@
       ]
     },
     {
-      "id": "tt0301199",
+      "id": "tt30766504",
       "type": "movie",
-      "name": "Dirty Pretty Things",
-      "poster": "https://image.tmdb.org/t/p/w342/nWpXOqB1STDq8ji3rQawcg1fGS9.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/4Q28PE1ZlRBMZqRluoVkP3NN7eO.jpg",
-      "description": "An undocumented immigrant finds a human heart in one of the toilets of the west London hotel where he works with other undocumented immigrants.",
-      "releaseInfo": "2002",
+      "name": "On Falling",
+      "poster": "https://image.tmdb.org/t/p/w342/kBnNDABP0rIkXdxJV3OcyOlTLT3.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/3vvA1WuP4wVTmuyOKUhdJLzIUWc.jpg",
+      "description": "Aurora, a Portuguese migrant, works as an order picker in a warehouse in Edinburgh, Scotland. Caught between the walls of a huge distribution centre and the solitude of her own room, Aurora tries to seize every opportunity to resist the alienation and isolation that threaten her identity.",
+      "releaseInfo": "2025",
       "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
+        "Drama"
       ]
     },
     {
@@ -1271,20 +1243,6 @@
         "Thriller",
         "Crime",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt20729172",
-      "type": "movie",
-      "name": "Hoard",
-      "poster": "https://image.tmdb.org/t/p/w342/81VQOyGSnyMxE2SWf0bgnHAAKeT.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/c0tZsK1WouPqKIgREuTcjDuy5K0.jpg",
-      "description": "The story follows Maria – a teenager whose mother used to be a hoarder. Now (set in the 90s) she lives in a foster home where a previous resident, Michael, inspires her to revisit the childhood memories and passions that she has repressed.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Fantasy"
       ]
     },
     {
@@ -1323,6 +1281,45 @@
       "genres": [
         "Drama",
         "History"
+      ]
+    },
+    {
+      "id": "tt1174732",
+      "type": "movie",
+      "name": "An Education",
+      "poster": "https://image.tmdb.org/t/p/w342/gLIvvUdlocGjm8XVLxhWHAKWrRq.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/9Cw5fOWLfHwFHjg88dC5oBZEmL4.jpg",
+      "description": "Despite her sheltered upbringing, Jenny is a teen with a bright future; she's smart, pretty, and has aspirations of attending Oxford University. When David, a charming but much older suitor, motors into her life in a shiny automobile, Jenny gets a taste of adult life that she won't soon forget.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0301199",
+      "type": "movie",
+      "name": "Dirty Pretty Things",
+      "poster": "https://image.tmdb.org/t/p/w342/nWpXOqB1STDq8ji3rQawcg1fGS9.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/4Q28PE1ZlRBMZqRluoVkP3NN7eO.jpg",
+      "description": "An undocumented immigrant finds a human heart in one of the toilets of the west London hotel where he works with other undocumented immigrants.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0220726",
+      "type": "movie",
+      "name": "Human Resources",
+      "poster": "https://image.tmdb.org/t/p/w342/i2BdbtsCeRCHhczCDEV3mFt4uF0.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/5ESdv9mEz3phLgU1RBrCMdwuF1c.jpg",
+      "description": "\"Good son\" Franck returns to his hometown to do a trainee managerial internship in the Human Resources department of the factory where his anxious, taciturn father has worked for 23 years.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Drama"
       ]
     }
   ]

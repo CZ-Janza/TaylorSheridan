@@ -81,19 +81,6 @@
       ]
     },
     {
-      "id": "tt0189998",
-      "type": "movie",
-      "name": "Shadow of the Vampire",
-      "poster": "https://image.tmdb.org/t/p/w342/nWm7DWi8X4D87XkM5qr9BhTJHq6.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/cKKhk85c1TZSYy6ZF94QpUH8bRw.jpg",
-      "description": "Director F.W. Murnau makes a Faustian pact with a vampire to get him to star in his 1922 film \"Nosferatu.\"",
-      "releaseInfo": "2000",
-      "genres": [
-        "Drama",
-        "Horror"
-      ]
-    },
-    {
       "id": "tt0100469",
       "type": "movie",
       "name": "The Reflecting Skin",
@@ -104,6 +91,19 @@
       "genres": [
         "Drama",
         "Thriller",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0189998",
+      "type": "movie",
+      "name": "Shadow of the Vampire",
+      "poster": "https://image.tmdb.org/t/p/w342/nWm7DWi8X4D87XkM5qr9BhTJHq6.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/cKKhk85c1TZSYy6ZF94QpUH8bRw.jpg",
+      "description": "Director F.W. Murnau makes a Faustian pact with a vampire to get him to star in his 1922 film \"Nosferatu.\"",
+      "releaseInfo": "2000",
+      "genres": [
+        "Drama",
         "Horror"
       ]
     },
@@ -205,7 +205,7 @@
       "type": "movie",
       "name": "The Relic",
       "poster": "https://image.tmdb.org/t/p/w342/fAG4nKPUWEIwGBpP38H64GGV8kl.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/8orfA3Q9cR7y6FPbF57nVRgYy5m.jpg",
       "description": "A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.",
       "releaseInfo": "1997",
       "genres": [
@@ -229,20 +229,6 @@
       ]
     },
     {
-      "id": "tt0069316",
-      "type": "movie",
-      "name": "The Stone Tape",
-      "poster": "https://image.tmdb.org/t/p/w342/oNa0LrdaOCZUFmSJZviBHBoXepZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/2b7lkEJ38ZHzYUaF6RIvN4L76XT.jpg",
-      "description": "A research team from an electronics company move into an old Victorian house to start work on finding a new recording medium. When team member Jill Greeley witnesses a ghost, team director Peter Brock decides not only to analyse the apparition, which he believes is a psychic impression trapped in a stone wall (dubbed a \"stone tape\"), but to exorcise it too - with terrifying results...",
-      "releaseInfo": "1972",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Drama"
-      ]
-    },
-    {
       "id": "tt1172571",
       "type": "movie",
       "name": "The Children",
@@ -254,6 +240,20 @@
         "Horror",
         "Mystery",
         "Thriller"
+      ]
+    },
+    {
+      "id": "tt0069316",
+      "type": "movie",
+      "name": "The Stone Tape",
+      "poster": "https://image.tmdb.org/t/p/w342/oNa0LrdaOCZUFmSJZviBHBoXepZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/2b7lkEJ38ZHzYUaF6RIvN4L76XT.jpg",
+      "description": "A research team from an electronics company move into an old Victorian house to start work on finding a new recording medium. When team member Jill Greeley witnesses a ghost, team director Peter Brock decides not only to analyse the apparition, which he believes is a psychic impression trapped in a stone wall (dubbed a \"stone tape\"), but to exorcise it too - with terrifying results...",
+      "releaseInfo": "1972",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Drama"
       ]
     },
     {

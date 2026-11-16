@@ -140,6 +140,19 @@
       ]
     },
     {
+      "id": "tt11116780",
+      "type": "series",
+      "name": "Rebus",
+      "poster": "https://image.tmdb.org/t/p/w342/5zOMfiVSgJieF5hA2Tqh2i0Kzil.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/kxXlSEdo8lYrjpMYEf5O1jANs7w.jpg",
+      "description": "Iconic character John Rebus is reimagined as a younger Detective Sergeant, drawn into a violent criminal conflict that turns personal when his brother Michael, a former soldier, crosses the line into criminality.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
       "id": "tt12005828",
       "type": "series",
       "name": "You Don't Know Me",
@@ -165,16 +178,17 @@
       ]
     },
     {
-      "id": "tt33335242",
+      "id": "tt6729080",
       "type": "series",
-      "name": "Film Club",
-      "poster": "https://image.tmdb.org/t/p/w342/5koeXuj7klU2vfVEbLqYUfd0gqK.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/fFJigkZ4QoI0MFO1ZN3tKSn2Xnl.jpg",
-      "description": "Friday night. 7pm. Film Club Week 198. Evie hasn't left the house in six months after a 'wobble', and Film Club is her escape. A weekly chance to create a world of wonder, deck the garage out in whatever the movie calls for and spend a few uninterrupted hours with Noa - her best friend and one of the few mates who still shows up. But tonight, things are different. Noa's got big news. A dream job is taking him across the other side of the country, which means that all of this is ending.",
-      "releaseInfo": "2025",
+      "name": "Collateral",
+      "poster": "https://image.tmdb.org/t/p/w342/3ekqFDb0IbY7pJbL772TEs2GifX.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/sUxYUt32gaizp9kCI5hzy3x1ehJ.jpg",
+      "description": "When a pizza delivery driver is shot dead in south London, a tenacious detective goes after the people traffickers behind his murder and unravels a conspiracy that goes to the top.",
+      "releaseInfo": "2018",
       "genres": [
         "Drama",
-        "Comedy"
+        "Crime",
+        "Mystery"
       ]
     },
     {
@@ -222,20 +236,6 @@
       "poster": "https://image.tmdb.org/t/p/w342/77MPYFMYiMi0PFXk1Kr5Nv9yaO7.jpg",
       "background": "https://image.tmdb.org/t/p/w780/wikVrWQckbFT1ukTAQLPjU3PfAH.jpg",
       "description": "As a child, Kate Ashby was rescued from the horrific aftermath of the Rwandan genocide and brought to the UK. But the tragic shadow of her past proves impossible to escape.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tt6729080",
-      "type": "series",
-      "name": "Collateral",
-      "poster": "https://image.tmdb.org/t/p/w342/3ekqFDb0IbY7pJbL772TEs2GifX.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/sUxYUt32gaizp9kCI5hzy3x1ehJ.jpg",
-      "description": "When a pizza delivery driver is shot dead in south London, a tenacious detective goes after the people traffickers behind his murder and unravels a conspiracy that goes to the top.",
       "releaseInfo": "2018",
       "genres": [
         "Drama",
@@ -402,6 +402,19 @@
       ]
     },
     {
+      "id": "tt33335242",
+      "type": "series",
+      "name": "Film Club",
+      "poster": "https://image.tmdb.org/t/p/w342/5koeXuj7klU2vfVEbLqYUfd0gqK.jpg",
+      "background": "https://image.tmdb.org/t/p/w780/fFJigkZ4QoI0MFO1ZN3tKSn2Xnl.jpg",
+      "description": "Friday night. 7pm. Film Club Week 198. Evie hasn't left the house in six months after a 'wobble', and Film Club is her escape. A weekly chance to create a world of wonder, deck the garage out in whatever the movie calls for and spend a few uninterrupted hours with Noa - her best friend and one of the few mates who still shows up. But tonight, things are different. Noa's got big news. A dream job is taking him across the other side of the country, which means that all of this is ending.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ]
+    },
+    {
       "id": "tt19788500",
       "type": "series",
       "name": "Red Rose",
@@ -516,19 +529,6 @@
       "genres": [
         "Drama",
         "Soap"
-      ]
-    },
-    {
-      "id": "tt9810248",
-      "type": "series",
-      "name": "61st Street",
-      "poster": "https://image.tmdb.org/t/p/w342/bTEfmPiaDpsDu5oZKNSrhnF2ci5.jpg",
-      "background": "https://image.tmdb.org/t/p/w780/7ebnWh0t5WKK1owCcr0UZIROHjd.jpg",
-      "description": "Moses Johnson is a promising high-school athlete with a bright future who’s accused of murdering a police officer during a drug bust gone wrong. Swept up into the infamously corrupt Chicago criminal justice system, Moses’ case is taken up by ageing public defender Franklin Roberts, who sees this as his chance to finally challenge the institutional racism at the heart of the judicial system.",
-      "releaseInfo": "2022",
-      "genres": [
-        "Drama",
-        "Crime"
       ]
     }
   ]
